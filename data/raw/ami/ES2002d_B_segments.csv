@@ -1,0 +1,217 @@
+meeting_id,speaker,start_time,end_time,text
+ES2002d,B,2.41,30.51,"Okay we all all set? Right. Well this is the uh final detailed design meeting. Um we're gonna discuss the look and feel design, the user interface design, and we're gonna evaluate the product. And the end result of this meeting has to be a decision on the details of this remote control, like absolute final decision, um and then I'm gonna have to specify the final design in the final report."
+ES2002d,B,31.0,68.34,"So um just from from last time to recap, we said we were gonna have a snowman shaped remote control with no L_C_D_ display, no need for talk-back, it was hopefully gonna be kinetic power and battery uh with rubber buttons, maybe backlighting the buttons with some internal L_E_D_s to shine through the casing, um hopefully a jog-dial, and incorporating the slogan somewhere as well. Anything I've missed? Okay um so uh if you want to present your prototype go ahead."
+ES2002d,B,76.93,77.46,Okay.
+ES2002d,B,79.57,80.19,Mm.
+ES2002d,B,84.93,85.28,Mm-hmm.
+ES2002d,B,136.58,138.22,Mm-hmm. Okay cool.
+ES2002d,B,146.11,147.82,Oh right okay. Cool.
+ES2002d,B,151.6,153.45,Where are we gonna have the slogan?
+ES2002d,B,157.49,158.43,Okay cool.
+ES2002d,B,164.1,164.75,Okay.
+ES2002d,B,170.93,171.71,Okay.
+ES2002d,B,176.44,178.51,"So if this isn't to scale, what kind of"
+ES2002d,B,179.6,181.76,dimensions are you thinking about here?
+ES2002d,B,185.42,186.12,Mm-hmm.
+ES2002d,B,203.12,204.89,"Six, seven, eight, nine, ten."
+ES2002d,B,205.42,215.01,So we're talking about ten centimetres. That would be good. So ten centimetres in height. Okay um.
+ES2002d,B,220.61,221.12,Yeah.
+ES2002d,B,222.23,226.35,That's great and it's very bright as well. So um okay.
+ES2002d,B,240.91,246.4,Okay so just could you just list all the things that it does s so I can write them in the report.
+ES2002d,B,256.26,256.62,Mm-hmm.
+ES2002d,B,262.0,262.32,Okay.
+ES2002d,B,264.3,267.02,"Okay so that's like an okay button, right."
+ES2002d,B,272.68,273.96,Okay.
+ES2002d,B,277.35,279.61,Oh oh like depth of the actual thing.
+ES2002d,B,284.28,291.49,"Oh is this k to get an idea of scale from your from your thing there okay. So you can power on and off, what else can you do?"
+ES2002d,B,294.34,295.19,Okay.
+ES2002d,B,308.08,309.76,Okay jog-dial for volume.
+ES2002d,B,312.01,313.57,And what else do you do with the jog-dial?
+ES2002d,B,318.84,324.19,"Contrast, brightness, yeah, and anything else?"
+ES2002d,B,330.57,332.89,Well of the designers what are they?
+ES2002d,B,338.31,338.66,Uh-huh.
+ES2002d,B,342.18,344.4,Okay channel tuning. That's a good one.
+ES2002d,B,349.43,351.43,Okay auxiliary inputs.
+ES2002d,B,354.57,355.66,Sharpness.
+ES2002d,B,360.15,364.65,Okay what about uh sound settings? Uh d can you change any of those at all?
+ES2002d,B,378.48,379.08,Okay.
+ES2002d,B,388.79,391.75,"Okay, is there anything else at all it can do?"
+ES2002d,B,405.74,408.04,We can now have a little look at the
+ES2002d,B,409.24,412.35,"the Excel sheet and price listing, and see if we need to"
+ES2002d,B,413.89,427.91,"um if we need to rethink anything at all. So um for this first part here power-wise, have we got battery? Do we have kinetic as well? No. Okay, just battery."
+ES2002d,B,431.02,436.74,And that's because of cost restraints is it? Okay um what about the electronics here? Advanced chip.
+ES2002d,B,449.08,452.31,"Okay um the case, what does it mean by single and double, do you know?"
+ES2002d,B,456.85,459.05,So we want double-curved? Okay.
+ES2002d,B,460.87,463.41,Um.
+ES2002d,B,464.6,467.65,Is there any rubber at all in the buttons or any
+ES2002d,B,467.78,475.2,"Okay, um and we wanted special colours didn't we? So I'll have to put that Oh no wait we ho how many colours have we got there?"
+ES2002d,B,479.25,480.32,"Just one colour, okay."
+ES2002d,B,482.4,486.96,"Okay so interface-wise, is it this third option we have, the two of them there?"
+ES2002d,B,490.15,496.28,"Okay and then buttons, we have what, two colours?"
+ES2002d,B,503.04,506.51,Like uh oh wait so push button and integrated scroll wheel push okay.
+ES2002d,B,509.59,509.93,Uh-huh.
+ES2002d,B,512.87,513.26,Okay.
+ES2002d,B,516.74,517.32,Okay.
+ES2002d,B,523.59,528.69,Four. So w why are we arriving at the number four? Where does the number four come from?
+ES2002d,B,532.53,535.21,"Okay right, so we're writing down four."
+ES2002d,B,560.01,573.77,"Well we h something has to go to the tune of two point t three Euro, so let me see, what are we I mean oh yes sorry, four point three. My maths is all out."
+ES2002d,B,578.66,579.24,Yeah.
+ES2002d,B,580.6,583.02,How much would that save us? One.
+ES2002d,B,605.56,610.56,So w what's our reviewed suggestion? Um take away the L_C_ display?
+ES2002d,B,614.74,617.93,To be replaced with a regular chip.
+ES2002d,B,621.85,622.38,Okay.
+ES2002d,B,633.87,634.73,Twelve buttons.
+ES2002d,B,637.6,638.28,Yeah.
+ES2002d,B,641.84,642.35,Do you think?
+ES2002d,B,647.71,654.39,"Like is is that one big button or is it twelve buttons, how can it be something in between?"
+ES2002d,B,659.54,660.12,Mm.
+ES2002d,B,663.86,666.81,Okay well we have point three to get rid of somewhere.
+ES2002d,B,668.19,668.78,Mm.
+ES2002d,B,672.26,673.13,No can do.
+ES2002d,B,679.46,681.76,Well do you want colour differentiation here?
+ES2002d,B,690.06,690.74,Ah.
+ES2002d,B,692.44,692.85,That's it.
+ES2002d,B,724.66,725.83,Yeah that's a good idea.
+ES2002d,B,727.43,728.12,Just one?
+ES2002d,B,735.52,750.51,"Yeah okay. Well well there we go. So I'm just gonna have to redraw this now. So we're not gonna have the L_C_D_ anymore, and we'll just gonna have an on t on the T_V_ it'll show you what you're doing, which I think is fair enough, and so this is gonna be one big thing here."
+ES2002d,B,753.01,754.67,Um.
+ES2002d,B,784.01,791.85,"Right okay. So just to well to be thorough then, width-wise we're looking at about what three centimetres or something?"
+ES2002d,B,801.25,806.87,"How how tall do you envisage it being? About that big? About two centimetres, okay."
+ES2002d,B,815.37,824.11,"Okay. Ach, that is Yeah. Okay we'll s we'll say two point five. Okay um so we have it within cost anyway."
+ES2002d,B,825.65,828.83,Um so yeah project evaluation is this point.
+ES2002d,B,830.21,830.73,Um.
+ES2002d,B,832.83,834.78,Right uh.
+ES2002d,B,836.72,845.16,Okay so can we close that? This is what it's the final spec that it's gonna be. Someone is gonna have to yeah that's fine that's fine.
+ES2002d,B,896.33,897.8,Right um.
+ES2002d,B,899.3,907.36,"So at this point we uh, let me see, discuss uh how satisfied we all are with um"
+ES2002d,B,935.5,942.65,"Yeah, yeah go for that first. I wasn't entirely sure what uh who was supposed to be doing that, but y you go for it."
+ES2002d,B,946.32,946.76,Okay.
+ES2002d,B,948.49,949.04,Okay.
+ES2002d,B,953.61,953.81,Yeah.
+ES2002d,B,1007.53,1008.5,Oh there it is.
+ES2002d,B,1034.12,1034.98,Mm 'kay.
+ES2002d,B,1046.7,1047.16,Okay.
+ES2002d,B,1053.81,1061.17,"Well yeah, I mean compared to most remote controls you see that's pretty good. I dunno like a six or something. What does anybody else think?"
+ES2002d,B,1065.47,1066.0,Mm.
+ES2002d,B,1068.53,1069.45,Mm.
+ES2002d,B,1070.71,1071.29,Okay.
+ES2002d,B,1074.03,1077.08,I would say five or six. David?
+ES2002d,B,1079.86,1080.41,Okay.
+ES2002d,B,1083.4,1086.13,"Oh yes sorry then, then I would say two or three."
+ES2002d,B,1090.05,1090.31,Yeah.
+ES2002d,B,1108.07,1108.62,Mm.
+ES2002d,B,1111.03,1113.87,"I'd go with three or four, maybe three."
+ES2002d,B,1116.9,1118.11,"Yeah about three, okay."
+ES2002d,B,1135.13,1138.25,"But the yellow, I mean it could be a lemon yellow colour, couldn't it?"
+ES2002d,B,1140.24,1140.57,Yeah.
+ES2002d,B,1144.93,1145.39,Mm-hmm.
+ES2002d,B,1151.95,1155.61,"Well yeah, I mean it's really basic looking isn't it? I mean I'd give that nearly a one."
+ES2002d,B,1177.65,1179.52,Yeah I suppose mm 'kay.
+ES2002d,B,1192.83,1196.16,"Yep. Gonna have that on the side, aren't we, like there or something?"
+ES2002d,B,1210.67,1212.12,"Out of forty nine, I guess."
+ES2002d,B,1226.68,1227.47,'S pretty good.
+ES2002d,B,1242.24,1243.31,Uh yeah.
+ES2002d,B,1248.96,1251.49,"Twice that, about thirty one."
+ES2002d,B,1254.04,1256.69,"So yeah ab well yeah about sixty nine, seventy percent yeah."
+ES2002d,B,1259.28,1260.1,It's pretty good.
+ES2002d,B,1264.89,1265.36,Okay.
+ES2002d,B,1291.52,1292.15,Uh-huh.
+ES2002d,B,1303.67,1304.05,Mm-hmm.
+ES2002d,B,1317.83,1318.31,Okay.
+ES2002d,B,1325.12,1325.45,Right.
+ES2002d,B,1327.59,1331.53,"Okay, great um are you submitting the"
+ES2002d,B,1332.9,1337.22,the um evaluation criteria or am I? I don't know what your instructions have been.
+ES2002d,B,1343.41,1349.84,"Okay, uh just wondering if I need to include it in the minutes, because if you're submitting it anyway then Okay great."
+ES2002d,B,1351.2,1359.09,"Cool. Um right, uh well next up then, because we've done finance, is the project evaluation."
+ES2002d,B,1363.83,1364.64,"Oh right, okay."
+ES2002d,B,1400.52,1414.3,"Right, okay. Um well do you wanna um just individually say what you think about about these four points and or not those four points, my four points, sorry, forgotten that."
+ES2002d,B,1437.48,1445.78,"Oh yeah, they're good aren't they, yeah. Right okay, um yeah here we are. Uh as a note we'll do this"
+ES2002d,B,1447.28,1450.99,alphabetically. Um do you wanna start Andrew?
+ES2002d,B,1453.37,1460.32,"I don't know, just um your opinion on those four those four points really and how we used them. Yeah."
+ES2002d,B,1489.3,1489.66,Uh-huh.
+ES2002d,B,1497.14,1502.86,Well d do you feel though that that you were able to have quite a lot of creative input into the thing?
+ES2002d,B,1521.04,1521.27,Room.
+ES2002d,B,1544.91,1545.45,Mm-hmm.
+ES2002d,B,1551.94,1552.26,Mm.
+ES2002d,B,1560.79,1561.21,Okay.
+ES2002d,B,1568.68,1569.14,Okay.
+ES2002d,B,1574.94,1583.92,"Okay uh do you know what, actually let's take each point and everybody discuss it, I think. Yeah. So still on the topic of room for creativity uh next up is Craig."
+ES2002d,B,1593.16,1593.73,Yeah.
+ES2002d,B,1605.33,1605.68,Yeah.
+ES2002d,B,1611.8,1612.24,Mm.
+ES2002d,B,1626.17,1626.54,Yeah.
+ES2002d,B,1644.92,1646.44,"Yeah, but actual environment?"
+ES2002d,B,1649.99,1650.31,Okay.
+ES2002d,B,1652.34,1652.83,Okay.
+ES2002d,B,1654.52,1657.55,Very good. Um what about leadership?
+ES2002d,B,1659.14,1663.32,"I don't know if that means like, if I did a good job or something. I don't really know."
+ES2002d,B,1669.6,1673.33,"From like your personal coach person and stuff like that, do you think maybe?"
+ES2002d,B,1677.16,1677.69,Okay.
+ES2002d,B,1692.12,1692.62,Mm-hmm.
+ES2002d,B,1717.76,1719.64,"Uh-huh, okay."
+ES2002d,B,1744.24,1744.83,Okay.
+ES2002d,B,1752.43,1753.12,Uh-huh.
+ES2002d,B,1757.33,1757.81,Okay.
+ES2002d,B,1764.07,1766.98,"Okay, uh what about teamwork?"
+ES2002d,B,1774.82,1775.64,Yeah.
+ES2002d,B,1781.16,1781.91,Okay.
+ES2002d,B,1791.02,1791.76,Mm.
+ES2002d,B,1796.07,1814.58,"Did uh did you guys get the email I sent you? Oh that's alright. I was wondering if that got there okay. Okay, um so um to s to to summarize the teamwork issue, saying that if we could communicate outside the meeting, you know just like quick questions, quick thoughts, whatever, it probably would be bit easier."
+ES2002d,B,1821.15,1822.04,"Oh right, okay."
+ES2002d,B,1846.67,1847.29,Mm.
+ES2002d,B,1867.24,1867.78,Yeah.
+ES2002d,B,1871.9,1872.41,Yeah.
+ES2002d,B,1877.46,1878.17,Okay.
+ES2002d,B,1880.46,1880.99,Okay.
+ES2002d,B,1882.74,1900.61,"Right, uh anything else to say on teamwork at all? Okay, um what about the you know how we used the whiteboard, the digital pens, the projector, stuff like that? Um did anybody think anything was like really useful, anything was pretty un f"
+ES2002d,B,1901.89,1902.48,unsupportive?
+ES2002d,B,1920.91,1921.58,Mm.
+ES2002d,B,1938.55,1938.9,Mm-hmm.
+ES2002d,B,1941.11,1941.55,Yeah.
+ES2002d,B,1942.63,1944.26,And point at? Yeah.
+ES2002d,B,1955.02,1955.45,Yeah.
+ES2002d,B,1960.7,1961.83,Ah.
+ES2002d,B,1966.71,1970.59,So do you think producing a prototype earlier in the process woulda been a good idea?
+ES2002d,B,1975.81,1976.27,Yeah.
+ES2002d,B,1990.73,1991.13,Okay.
+ES2002d,B,2001.24,2001.5,Alright.
+ES2002d,B,2014.59,2015.17,Yeah.
+ES2002d,B,2017.15,2017.62,Yeah.
+ES2002d,B,2025.83,2026.27,Okay.
+ES2002d,B,2028.23,2031.96,"What about the digital pens, did you find them easy enough to use?"
+ES2002d,B,2037.65,2037.8,Yeah.
+ES2002d,B,2046.8,2047.3,Yeah.
+ES2002d,B,2049.73,2067.29,"I know, I think at the very start of today I like wrote a whole load of stuff, didn't click note on one, then went back and wrote one tiny wee thing on the another page, but then did click note, and so I'm quite worried that I've just written over the top of it or something, but they'll have my paper anyway um and haven't done that since."
+ES2002d,B,2070.26,2071.53,"Yeah, yeah."
+ES2002d,B,2082.21,2082.76,Yeah.
+ES2002d,B,2086.16,2088.23,"Yeah, that's true."
+ES2002d,B,2099.97,2100.41,Yeah.
+ES2002d,B,2101.88,2104.5,Do you think the computers just provide distraction in a meeting?
+ES2002d,B,2107.28,2107.85,Okay.
+ES2002d,B,2109.88,2123.02,"I know I I like to have things written down in front of me actually, like a lot of the stuff that was emailed to me I ended up you know like writing down there or something so I could look at it really quickly and not have the distraction of all of that, um I don't know about anybody else."
+ES2002d,B,2123.57,2140.36,Um what else uh any wh I do I'm not really sure what they're looking for when they say new ideas found. Um I don't know is could you think of like anything else that would have been helpful today at all?
+ES2002d,B,2170.22,2171.11,Mm-hmm.
+ES2002d,B,2218.41,2234.28,"There you go. Um so in closing, I haven't got my five minutes to go. Thin Oh there it i Five minutes to go. Wonderful. Okay um are the costs within the budget, yes they are. And is the project evaluated, yes it is. So now celebrate."
+ES2002d,B,2238.85,2241.73,Well apparently now I write the final report. What are you guys doing now?
+ES2002d,B,2243.01,2243.56,You dunno?
+ES2002d,B,2271.19,2272.22,I think it's quite nice.
+ES2002d,B,2279.57,2285.19,"Oh no, that's cool, it's got I'm kind of I'm slightly gutted that we couldn't get plastic and rubber, I think that would have been nice."
+ES2002d,B,2286.35,2290.24,"Ah well, maybe from now on real reaction should give us more money."
+ES2002d,B,2293.64,2294.15,Play-Doh s
+ES2002d,B,2300.1,2300.7,Really?
+ES2002d,B,2303.46,2303.89,Yeah.
+ES2002d,B,2307.59,2308.07,Did they?
+ES2002d,B,2310.69,2311.1,Okay.
+ES2002d,B,2312.58,2314.43,Play-Doh.
+ES2002d,B,2320.97,2323.68,"Yeah like the stuff for I think it has to be, yeah."
+ES2002d,B,2326.58,2330.07,Yeah um so to wha what are your summarising words about Play-Doh?
+ES2002d,B,2333.49,2334.11,Okay.
+ES2002d,B,2343.25,2343.66,Yeah.
+ES2002d,B,2347.76,2348.3,Yeah.
+ES2002d,B,2354.05,2354.8,Mm-hmm.
+ES2002d,B,2358.76,2360.01,Tangible.
+ES2002d,B,2370.26,2375.7,Mm. I don't know if there's anything else we needed to discuss.
+ES2002d,B,2377.06,2378.41,That that's about it really.
+ES2002d,B,2381.59,2383.44,Just sit still I guess for a little while.
+ES2002d,B,2389.81,2395.28,Well I dunno. Um I'm sure the little uh the little thing'll pop up any minute now.
+ES2002d,B,2398.3,2400.86,"Yeah, yeah if the meeting's over then yeah I guess so."

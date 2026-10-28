@@ -1,11 +1,26 @@
-﻿__pycache__/
+﻿
+# ==============================
+# Python cache and test files
+# ==============================
+__pycache__/
 *.py[cod]
 .pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
 
+# ==============================
+# Virtual environments
+# ==============================
 .venv/
 .venv-*/
 venv/
+env/
 
+# ==============================
+# Secrets and local configuration
+# ==============================
 .env
 .env.*
 !.env.example
@@ -13,15 +28,41 @@ venv/
 *secret*
 secrets/
 
+# ==============================
+# Editors and operating systems
+# ==============================
 .vscode/
 .idea/
 .DS_Store
 Thumbs.db
+desktop.ini
+
+# ==============================
+# Logs and temporary files
+# ==============================
 *.log
 tmp/
 temp/
-.cache/
 
-data/raw/
+# ==============================
+# Downloaded models and caches
+# ==============================
+.cache/
 models/faster-whisper/
+
+# ==============================
+# Raw audio
+# Do not upload without checking dataset terms
+# ==============================
+data/raw/ami/audio/
 data/processed/audio/
+
+# ==============================
+# Keep project data, annotations,
+# transcripts, CSVs, and reports
+# tracked by Git.
+# ==============================
+
+# Exclude raw AMI annotation folders and metadata
+data/raw/ami/*/
+data/raw/ami/AMI-metadata.xml
