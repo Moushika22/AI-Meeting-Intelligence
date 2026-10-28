@@ -1,0 +1,646 @@
+meeting_id,speaker,start_time,end_time,duration,text,dialogue_act
+ES2002d,B,2.41,30.51,28.1,"Okay we all all set? Right. Well this is the uh final detailed design meeting. Um we're gonna discuss the look and feel design, the user interface design, and we're gonna evaluate the product. And the end result of this meeting has to be a decision on the details of this remote control, like absolute final decision, um and then I'm gonna have to specify the final design in the final report.",Elicit-Inform; Stall; Inform
+ES2002d,B,31,68.34,37.34,"So um just from from last time to recap, we said we were gonna have a snowman shaped remote control with no LCD display, no need for talk-back, it was hopefully gonna be kinetic power and battery uh with rubber buttons, maybe backlighting the buttons with some internal LEDs to shine through the casing, um hopefully a jog-dial, and incorporating the slogan somewhere as well. Anything I've missed? Okay um so uh if you want to present your prototype go ahead.",Stall; Offer; Inform; Elicit-Inform; Assess; Suggest
+ES2002d,A,59.26,59.39,0.13,No.,Inform
+ES2002d,D,70.11,95.42,25.31,"Uh-oh. This is it? Um, there are a few changes we've made. Um, well look at the expense sheet, and uh it turned to be quite a lot expensive to have open up and have lots of buttons and stuff inside, so instead we've um this is gonna be an LCD screen, um just a a very very basic one, very small um with access to the menu through the the scroll wheel and uh confirm",Other; Inform; Stall
+ES2002d,B,76.93,77.46,0.53,Okay.,Assess
+ES2002d,B,79.57,80.19,0.62,Mm.,Backchannel
+ES2002d,B,84.93,85.28,0.35,Mm-hmm.,Backchannel
+ES2002d,D,96.64,101.71,5.07,"um button. Uh, apart from that, it's just pretty much the same as we discussed last time.",Inform
+ES2002d,C,98.46,98.75,0.29,Mm 'kay.,Backchannel
+ES2002d,A,101.92,111.34,9.42,"And there isn't uh d it doesn't open up to the advanced functions? So the advanced functions are still hidden from you, but they're hidden in the sense that um they're not in use.",Inform
+ES2002d,C,111.8,112.25,0.45,Where are they?,Elicit-Inform
+ES2002d,C,114.85,116.18,1.33,"Ah, right. Great.",Comment-About-Understanding; Assess
+ES2002d,A,118.1,136.6,18.5,"The LCD panel just displays um functionally what you're doing. If you're using an advanced function right, like um c brightness, contrast, whatever, it will just say You know it's like it only has four columns, it's a very simple LCD like, whereas many the minimum amount we need that the user will automatically know like this is brightness or this is contrast.",Inform; Stall
+ES2002d,C,121.54,121.77,0.23,Right.,Backchannel
+ES2002d,C,125.94,126.23,0.29,Okay.,Backchannel
+ES2002d,C,131.4,131.67,0.27,Right.,Backchannel
+ES2002d,B,136.58,138.22,1.64,Mm-hmm. Okay cool.,Backchannel; Assess
+ES2002d,C,136.76,138.6,1.84,"Right, 'kay.",Backchannel
+ES2002d,A,137.92,146.65,8.73,"It might even be one, a bit more complex LCD panel with pictures like maybe the sun or the, you know, the the symbols of the various functions.",Inform
+ES2002d,C,140.72,141.11,0.39,Okay.,Backchannel
+ES2002d,C,145.77,148.12,2.35,"Mm-hmm, and what is this here?",Backchannel; Elicit-Inform
+ES2002d,B,146.11,147.82,1.71,Oh right okay. Cool.,Assess
+ES2002d,A,148.82,149.72,0.9,That's a number pad.,Inform
+ES2002d,C,149.7,152.42,2.72,"Okay so the number pad is 'Kay, great.",Fragment; Assess
+ES2002d,B,151.6,153.45,1.85,Where are we gonna have the slogan?,Elicit-Inform
+ES2002d,A,154.18,156.79,2.61,Um they're al along this Yeah.,Inform; Assess
+ES2002d,D,154.79,156.65,1.86,"You know, just like right inside there.",Stall; Inform
+ES2002d,B,157.49,158.43,0.94,Okay cool.,Assess
+ES2002d,A,158.4,162.78,4.38,"You have this space here, and then you have this thing on the side as well, or at the bottom.",Inform
+ES2002d,B,164.1,164.75,0.65,Okay.,Assess
+ES2002d,A,164.2,169.25,5.05,"'Cause slogans are usually quite small, right, they're not like huge so they're s",Inform; Fragment
+ES2002d,C,166.39,166.53,0.14,Mm.,Backchannel
+ES2002d,C,168.79,168.97,0.18,Yep.,Backchannel
+ES2002d,A,170.71,176.85,6.14,"Say a button's about say a button's about this size, right, so you would still have plenty of space for a slogan, say even for that.",Stall; Inform
+ES2002d,B,170.93,171.71,0.78,Okay.,Backchannel
+ES2002d,C,171.02,171.74,0.72,Looks good.,Assess
+ES2002d,C,173.65,173.87,0.22,Yep.,Backchannel
+ES2002d,B,176.44,178.51,2.07,"So if this isn't to scale, what kind of",Elicit-Inform
+ES2002d,B,179.6,181.76,2.16,dimensions are you thinking about here?,Elicit-Inform
+ES2002d,B,185.42,186.12,0.7,Mm-hmm.,Backchannel
+ES2002d,C,189.4,189.77,0.37,Okay.,Backchannel
+ES2002d,A,190.39,195.09,4.7,"Yep so that would be about a centimetre for a button, so one two three",Assess; Inform
+ES2002d,A,197.42,201.96,4.54,four centimetres. Plus maybe half o five,Inform
+ES2002d,C,200.85,201.24,0.39,Mm-hmm.,Backchannel
+ES2002d,C,202.44,203.52,1.08,About nine in total.,Elicit-Inform
+ES2002d,A,202.92,206.43,3.51,"six seven eight, about yeah nine total.",Inform
+ES2002d,B,203.12,204.89,1.77,"Six, seven, eight, nine, ten.",Other
+ES2002d,B,205.42,215.01,9.59,So we're talking about ten centimetres. That would be good. So ten centimetres in height. Okay um.,Inform; Assess; Stall
+ES2002d,C,205.99,207.3,1.31,That sounds good. Yeah.,Assess
+ES2002d,C,208.76,208.89,0.13,Yep.,Backchannel
+ES2002d,A,209.73,210.43,0.7,"Nine, ten.",Assess
+ES2002d,A,211.12,211.71,0.59,Yep.,Backchannel
+ES2002d,C,215.19,222.09,6.9,"That'd be good, in fact a pen is about ten centimetres usually, so that would be that sounds like a really good size, if you see it there.",Assess; Inform; Stall
+ES2002d,B,220.61,221.12,0.51,Yeah.,Backchannel
+ES2002d,B,222.23,226.35,4.12,That's great and it's very bright as well. So um okay.,Assess; Inform; Stall
+ES2002d,C,224.24,224.45,0.21,Mm.,Backchannel
+ES2002d,C,225.98,234.3,8.32,"Is it possible uh I'm just gonna bring up the idea of colours. Is these are these the colours that of production, or is this just what we had available?",Stall; Offer; Elicit-Inform
+ES2002d,D,234.44,240.07,5.63,We're gonna have again the the sort of the foggy um yellow from last time that lit up when you pushed the button.,Inform
+ES2002d,C,240.24,240.47,0.23,Right.,Assess
+ES2002d,B,240.91,246.4,5.49,Okay so just could you just list all the things that it does s so I can write them in the report.,Stall; Suggest
+ES2002d,D,245.88,264.13,18.25,"But um this button um, because it's red it's sort of very prominent, we're gonna use it as uh it can be the power button if you hold it for maybe two seconds it'll send a stand-by signal. Um apart from that it's gonna be used as a confirm button for the LCD screen and you use this as a jog-dial.",Stall; Inform
+ES2002d,B,256.26,256.62,0.36,Mm-hmm.,Backchannel
+ES2002d,A,259.89,260.12,0.23,Sure.,Backchannel
+ES2002d,B,262,262.32,0.32,Okay.,Backchannel
+ES2002d,B,264.3,267.02,2.72,"Okay so that's like an okay button, right.",Assess; Comment-About-Understanding
+ES2002d,C,267.49,267.75,0.26,Mm-hmm.,Backchannel
+ES2002d,D,268.67,269.26,0.59,I don't know.,Backchannel
+ES2002d,B,272.68,273.96,1.28,Okay.,Stall
+ES2002d,C,273.12,273.83,0.71,How high is it?,Comment-About-Understanding
+ES2002d,A,274.02,276.91,2.89,"No as in the height, but what about the width?",Inform
+ES2002d,C,275.28,275.54,0.26,Yeah.,Backchannel
+ES2002d,D,277.25,278.72,1.47,Didn't put five centimetres.,Elicit-Inform
+ES2002d,B,277.35,279.61,2.26,Oh oh like depth of the actual thing.,Other; Comment-About-Understanding
+ES2002d,A,279.14,282.33,3.19,Do we need five? I don't think five is be about th three and a half.,Elicit-Assessment; Fragment; Inform
+ES2002d,D,280.24,280.87,0.63,Um.,Stall
+ES2002d,C,283.11,283.45,0.34,Okay.,Assess
+ES2002d,D,284.26,284.83,0.57,Something by there.,Inform
+ES2002d,B,284.28,291.49,7.21,"Oh is this k to get an idea of scale from your from your thing there okay. So you can power on and off, what else can you do?",Inform; Elicit-Inform
+ES2002d,A,285.93,287.92,1.99,"Yeah, yeah.",Backchannel
+ES2002d,C,286.77,287.17,0.4,Sure.,Backchannel
+ES2002d,C,290.57,291.09,0.52,Three and a half.,Other
+ES2002d,D,291.94,294.51,2.57,Um you can skip straight to a channel using these buttons.,Inform
+ES2002d,B,294.34,295.19,0.85,Okay.,Assess
+ES2002d,D,300.99,307.61,6.62,"Um, were gonna have the volume control here, but um because we've got the the LCD and the jog-dial we just thought we'd um use that as the volume.",Inform
+ES2002d,B,308.08,309.76,1.68,Okay jog-dial for volume.,Comment-About-Understanding
+ES2002d,B,312.01,313.57,1.56,And what else do you do with the jog-dial?,Elicit-Inform
+ES2002d,C,312.12,312.69,0.57,Mm-hmm.,Backchannel
+ES2002d,B,318.84,324.19,5.35,"Contrast, brightness, yeah, and anything else?",Comment-About-Understanding; Elicit-Inform; Assess
+ES2002d,D,320.89,321.85,0.96,Um yeah.,Inform
+ES2002d,B,330.57,332.89,2.32,Well of the designers what are they?,Elicit-Inform
+ES2002d,D,332.96,334.97,2.01,Uh what can a TV do?,Elicit-Inform
+ES2002d,A,335.83,341.61,5.78,"Okay things like um brightness, contrast, um maybe tuning the channels.",Inform
+ES2002d,B,338.31,338.66,0.35,Uh-huh.,Backchannel
+ES2002d,B,342.18,344.4,2.22,Okay channel tuning. That's a good one.,Comment-About-Understanding; Assess
+ES2002d,A,342.9,343.98,1.08,Um.,Stall
+ES2002d,A,345.08,349.36,4.28,"What else? Um the various inputs. Are you having a VCR, are you having you know which input do you have?",Other; Inform
+ES2002d,C,347.41,348.29,0.88,"Mm-hmm, mm-hmm.",Backchannel
+ES2002d,B,349.43,351.43,2,Okay auxiliary inputs.,Assess; Other
+ES2002d,C,350.26,352.13,1.87,"Mm-hmm, probably colour or sharpness.",Backchannel; Inform
+ES2002d,A,350.88,351.33,0.45,Um.,Stall
+ES2002d,A,353.06,359.87,6.81,"Yep, colour, sharpness. Um a lot of these things will have to be um free and open for users to define them.",Assess; Inform
+ES2002d,B,354.57,355.66,1.09,Sharpness.,Other
+ES2002d,C,360.06,360.3,0.24,Mm-hmm.,Backchannel
+ES2002d,B,360.15,364.65,4.5,Okay what about uh sound settings? Uh d can you change any of those at all?,Elicit-Inform
+ES2002d,C,364.63,365.02,0.39,Audio.,Inform
+ES2002d,A,365.19,370.05,4.86,"Audio, we have like your basic y your base, your mid-range, your high range.",Inform
+ES2002d,D,366.83,367.56,0.73,Um.,Stall
+ES2002d,A,371.3,371.9,0.6,Um.,Stall
+ES2002d,A,373.4,388.33,14.93,"Yep, left-right balance, um maybe even pre-programmed sound modes, like um the user could determine like a series of sound modes, and then what could happen would be um when you click on that then it would go to that setting.",Assess; Inform
+ES2002d,B,378.48,379.08,0.6,Okay.,Backchannel
+ES2002d,C,383.86,384.11,0.25,Mm-hmm.,Backchannel
+ES2002d,B,388.79,391.75,2.96,"Okay, is there anything else at all it can do?",Assess; Elicit-Inform
+ES2002d,C,388.95,389.27,0.32,Mm 'kay.,Backchannel
+ES2002d,A,389.74,389.96,0.22,Yeah.,Backchannel
+ES2002d,B,405.74,408.04,2.3,We can now have a little look at the,Suggest
+ES2002d,B,409.24,412.35,3.11,"the Excel sheet and price listing, and see if we need to",Suggest
+ES2002d,D,413.42,413.82,0.4,Mm-hmm.,Backchannel
+ES2002d,B,413.89,427.91,14.02,"um if we need to rethink anything at all. So um for this first part here power-wise, have we got battery? Do we have kinetic as well? No. Okay, just battery.",Suggest; Stall; Elicit-Inform; Comment-About-Understanding; Assess; Other
+ES2002d,A,421.58,422.14,0.56,The battery.,Inform
+ES2002d,A,424.42,424.78,0.36,No.,Inform
+ES2002d,A,426.39,426.87,0.48,Um.,Stall
+ES2002d,B,431.02,436.74,5.72,And that's because of cost restraints is it? Okay um what about the electronics here? Advanced chip.,Elicit-Inform; Assess; Comment-About-Understanding
+ES2002d,A,432.42,432.75,0.33,Yep.,Inform
+ES2002d,D,432.69,433.07,0.38,Yeah.,Inform
+ES2002d,A,433.96,440.48,6.52,"Yeah advanced chip. We need an advanced chip I think, yep. Let me just confirm that. Yes I think so.",Inform; Offer
+ES2002d,A,446.55,446.86,0.31,Yep.,Inform
+ES2002d,B,449.08,452.31,3.23,"Okay um the case, what does it mean by single and double, do you know?",Stall; Elicit-Inform
+ES2002d,D,452.96,456.68,3.72,Um I think single would just be sort of one sort of oval whereas double is this sort of thing.,Inform
+ES2002d,A,456.85,457.2,0.35,Yeah.,Backchannel
+ES2002d,B,456.85,459.05,2.2,So we want double-curved? Okay.,Elicit-Inform; Assess
+ES2002d,A,458.07,458.32,0.25,Yep.,Inform
+ES2002d,B,460.87,463.41,2.54,Um.,Stall
+ES2002d,A,461.72,462.32,0.6,Plastic.,Inform
+ES2002d,B,464.6,467.65,3.05,Is there any rubber at all in the buttons or any,Elicit-Inform
+ES2002d,A,466.19,467.65,1.46,I think we're gonna have to skip the rubber.,Inform
+ES2002d,B,467.78,475.2,7.42,"Okay, um and we wanted special colours didn't we? So I'll have to put that Oh no wait we ho how many colours have we got there?",Assess; Elicit-Inform; Offer; Other
+ES2002d,A,468.84,469.78,0.94,Um.,Stall
+ES2002d,A,471.53,471.75,0.22,Yep.,Inform
+ES2002d,A,475.97,479.28,3.31,"For the case itself, one colour. It's one special colour.",Inform
+ES2002d,B,479.25,480.32,1.07,"Just one colour, okay.",Assess
+ES2002d,A,480.56,483.12,2.56,"'Cause the case unit itself, the rest of our components go on top of it.",Inform
+ES2002d,B,482.4,486.96,4.56,"Okay so interface-wise, is it this third option we have, the two of them there?",Assess; Elicit-Inform
+ES2002d,C,482.76,483.03,0.27,Mm.,Backchannel
+ES2002d,A,485.65,486.08,0.43,Yes.,Inform
+ES2002d,A,487.22,489.59,2.37,One and the LC display.,Inform
+ES2002d,B,490.15,496.28,6.13,"Okay and then buttons, we have what, two colours?",Assess; Elicit-Inform
+ES2002d,D,494.84,498.38,3.54,Um we have um got some push buttons as well.,Inform
+ES2002d,C,497.15,497.87,0.72,Or even clear.,Suggest
+ES2002d,A,498.69,499.9,1.21,We've got push buttons as well.,Inform
+ES2002d,B,503.04,506.51,3.47,Like uh oh wait so push button and integrated scroll wheel push okay.,Stall; Comment-About-Understanding; Assess
+ES2002d,D,503.47,503.67,0.2,'Kay.,Backchannel
+ES2002d,D,506.6,509.18,2.58,So I reckon we've got one button for this thing 'cause it's just one big sheet of rubber.,Inform
+ES2002d,B,509.59,509.93,0.34,Uh-huh.,Backchannel
+ES2002d,B,512.87,513.26,0.39,Okay.,Assess
+ES2002d,A,513.03,516.02,2.99,Okay let's just be safe and put like say four buttons for that one.,Suggest
+ES2002d,B,516.74,517.32,0.58,Okay.,Assess
+ES2002d,A,517.76,522.75,4.99,"Okay um and maybe a special colour for the buttons, so maybe four again.",Stall; Suggest
+ES2002d,B,523.59,528.69,5.1,Four. So w why are we arriving at the number four? Where does the number four come from?,Comment-About-Understanding; Elicit-Inform
+ES2002d,A,528.82,532.14,3.32,'Cause that's one button by its the complexity of twelve buttons.,Inform
+ES2002d,B,532.53,535.21,2.68,"Okay right, so we're writing down four.",Assess; Inform
+ES2002d,A,534.09,536.65,2.56,So we're just estimating that yeah it would be less.,Inform
+ES2002d,A,541.33,541.77,0.44,No.,Inform
+ES2002d,A,543.48,544.59,1.11,Yep. Yep.,Inform
+ES2002d,B,560.01,573.77,13.76,"Well we h something has to go to the tune of two point t three Euro, so let me see, what are we I mean oh yes sorry, four point three. My maths is all out.",Inform; Stall; Offer; Fragment; Assess; Be-Positive
+ES2002d,C,568.96,570.64,1.68,Two point three? Four point three no?,Elicit-Assessment; Inform
+ES2002d,D,573.89,577.36,3.47,"Well we could take out ones by making it single curved, just fill in those bits.",Suggest
+ES2002d,B,578.66,579.24,0.58,Yeah.,Assess
+ES2002d,A,579.67,589.43,9.76,"How much would that save us? That will only save you one. The other thing could be that um you could take away the LCD panel and the advanced chip together, um because when you",Elicit-Inform; Inform; Suggest
+ES2002d,B,580.6,583.02,2.42,How much would that save us? One.,Elicit-Inform; Inform
+ES2002d,D,581.75,582.63,0.88,That is one.,Inform
+ES2002d,C,591.97,592.29,0.32,Mm-hmm.,Backchannel
+ES2002d,D,597.14,598.11,0.97,"That's fair enough, yeah.",Backchannel
+ES2002d,C,599.15,599.43,0.28,Mm-hmm.,Backchannel
+ES2002d,C,601.34,601.67,0.33,Mm-hmm.,Backchannel
+ES2002d,C,603.13,603.4,0.27,Mm-hmm.,Backchannel
+ES2002d,C,605.22,605.5,0.28,Mm-hmm.,Backchannel
+ES2002d,B,605.56,610.56,5,So w what's our reviewed suggestion? Um take away the LC display?,Elicit-Inform
+ES2002d,A,610.5,610.69,0.19,Yep.,Inform
+ES2002d,A,612.69,614.31,1.62,And the advanced chip goes away as well.,Inform
+ES2002d,C,612.81,613.06,0.25,Mm-hmm.,Backchannel
+ES2002d,B,614.74,617.93,3.19,To be replaced with a regular chip.,Elicit-Inform; Comment-About-Understanding
+ES2002d,A,616.6,617.1,0.5,Regular chip.,Inform
+ES2002d,A,618.46,618.75,0.29,Yep.,Inform
+ES2002d,C,621.84,622.14,0.3,Mm-hmm.,Backchannel
+ES2002d,B,621.85,622.38,0.53,Okay.,Stall
+ES2002d,A,631.76,634.74,2.98,The twelve buttons that you see there.,Inform
+ES2002d,B,633.87,634.73,0.86,Twelve buttons.,Comment-About-Understanding
+ES2002d,B,637.6,638.28,0.68,Yeah.,Backchannel
+ES2002d,B,641.84,642.35,0.51,Do you think?,Elicit-Assessment
+ES2002d,A,642.98,648.93,5.95,"Yeah, so you can't actually cut It's like three times the number of buttons, four, eight, twelve.",Assess; Inform
+ES2002d,B,647.71,654.39,6.68,"Like is is that one big button or is it twelve buttons, how can it be something in between?",Elicit-Inform
+ES2002d,A,653.07,663.49,10.42,"It It needs to be more than one big button because if you open up your phone, underneath there's actually one button underneath, it's just that the panel itself is a single panel.",Inform
+ES2002d,C,658.82,659.13,0.31,Mm-hmm.,Backchannel
+ES2002d,B,659.54,660.12,0.58,Mm.,Backchannel
+ES2002d,C,663.67,664.03,0.36,Mm-hmm.,Backchannel
+ES2002d,B,663.86,666.81,2.95,Okay well we have point three to get rid of somewhere.,Assess; Inform
+ES2002d,A,668.08,674.57,6.49,"We just report that it has to be over budget, or the colours, you could take away s colours for th for the buttons.",Suggest
+ES2002d,B,668.19,668.78,0.59,Mm.,Backchannel
+ES2002d,B,672.26,673.13,0.87,No can do.,Assess
+ES2002d,D,675.73,676.3,0.57,Yeah w,Assess
+ES2002d,A,676.45,677.76,1.31,Normal coloured buttons.,Suggest
+ES2002d,B,679.46,681.76,2.3,Well do you want colour differentiation here?,Elicit-Inform
+ES2002d,A,688.13,689.79,1.66,Should we take that off uh?,Offer
+ES2002d,B,690.06,690.74,0.68,Ah.,Other
+ES2002d,A,692.39,700.16,7.77,"Hey it's back to the original. Um so then these just become normal coloured buttons, so that might be some some way of cutting the cost.",Inform
+ES2002d,B,692.44,692.85,0.41,That's it.,Other
+ES2002d,C,693.61,693.78,0.17,Hmm.,Backchannel
+ES2002d,C,697.36,697.6,0.24,Mm-hmm.,Backchannel
+ES2002d,C,700.48,700.75,0.27,Mm.,Backchannel
+ES2002d,C,716.26,719.38,3.12,"How about with embossing the logo, isn't that going to cost us some money?",Elicit-Inform
+ES2002d,C,721.06,721.38,0.32,Yeah.,Elicit-Inform
+ES2002d,C,721.66,722.38,0.72,That's a freebie.,Inform
+ES2002d,D,721.67,724.14,2.47,Reckon that probably counts as a special form for the buttons.,Inform
+ES2002d,A,724.36,724.62,0.26,Yeah.,Assess
+ES2002d,B,724.66,725.83,1.17,Yeah that's a good idea.,Assess
+ES2002d,B,727.43,728.12,0.69,Just one?,Elicit-Inform
+ES2002d,D,734,737.8,3.8,I think there's just one button so handy.,Inform; Assess
+ES2002d,B,735.52,750.51,14.99,"Yeah okay. Well well there we go. So I'm just gonna have to redraw this now. So we're not gonna have the LCD anymore, and we'll just gonna have an on t on the TV it'll show you what you're doing, which I think is fair enough, and so this is gonna be one big thing here.",Assess; Other; Offer; Inform
+ES2002d,B,753.01,754.67,1.66,Um.,Stall
+ES2002d,C,755.56,761.43,5.87,Was the goal in your in your prototype design that it be as low profile as possible?,Elicit-Inform
+ES2002d,A,762.26,763.45,1.19,What do you mean by profile?,Elicit-Inform
+ES2002d,D,762.65,763.2,0.55,Yeah.,Backchannel
+ES2002d,A,765.62,765.87,0.25,No.,Inform
+ES2002d,D,766.17,772.07,5.9,You see I envision it as being um quite deep sort of deep enough to be comfy to hold in your hands rather than being wide and flat.,Inform
+ES2002d,C,768.84,769.1,0.26,Yeah.,Backchannel
+ES2002d,C,770.55,773.49,2.94,"Yeah that's what I was thinking, to Sure, okay.",Assess; Inform
+ES2002d,C,774.2,777.05,2.85,"Yeah alright yeah fair enough. Okay, just thought I'd ask.",Assess; Inform
+ES2002d,A,777.91,783.5,5.59,"So there's one more dimension to the thing which we need to to add, and you might want to add in the report, length, width, and height.",Inform; Suggest
+ES2002d,C,779.7,779.95,0.25,Mm-hmm.,Backchannel
+ES2002d,B,784.01,791.85,7.84,"Right okay. So just to well to be thorough then, width-wise we're looking at about what three centimetres or something?",Assess; Inform; Elicit-Inform
+ES2002d,A,785.24,785.44,0.2,Yeah.,Backchannel
+ES2002d,A,792.36,792.62,0.26,Yeah.,Inform
+ES2002d,C,794.83,795.36,0.53,Hmm.,Backchannel
+ES2002d,B,801.25,806.87,5.62,"How how tall do you envisage it being? About that big? About two centimetres, okay.",Elicit-Offer-Or-Suggestion; Elicit-Inform; Assess
+ES2002d,D,804.05,805,0.95,"Yeah it works, yeah.",Assess
+ES2002d,A,804.4,804.57,0.17,Two.,Suggest
+ES2002d,C,807.14,810.03,2.89,Two's not very high at all though. Maybe a bit higher?,Assess; Suggest
+ES2002d,A,809.38,810.86,1.48,This is about this is about two.,Inform
+ES2002d,D,813.63,815.4,1.77,"See, about that thick.",Inform
+ES2002d,B,815.37,824.11,8.74,"Okay. Ach, that is Yeah. Okay we'll s we'll say two point five. Okay um so we have it within cost anyway.",Assess; Fragment; Inform; Stall
+ES2002d,C,815.59,817.92,2.33,Maybe closer to three even or two and a half.,Suggest
+ES2002d,A,816.92,817.4,0.48,Okay.,Backchannel
+ES2002d,B,825.65,828.83,3.18,Um so yeah project evaluation is this point.,Stall; Inform
+ES2002d,B,830.21,830.73,0.52,Um.,Stall
+ES2002d,C,831.55,831.81,0.26,Mm-hmm.,Backchannel
+ES2002d,B,832.83,834.78,1.95,Right uh.,Stall
+ES2002d,B,836.72,845.16,8.44,Okay so can we close that? This is what it's the final spec that it's gonna be. Someone is gonna have to yeah that's fine that's fine.,Suggest; Inform; Assess
+ES2002d,C,841.48,841.76,0.28,Mm-hmm.,Backchannel
+ES2002d,C,868.95,869.4,0.45,Yeah.,Backchannel
+ES2002d,C,872.38,873.13,0.75,"Sure, okay.",Backchannel
+ES2002d,C,875.4,876.13,0.73,"Yeah, alright.",Backchannel
+ES2002d,C,878.95,880.14,1.19,"Okay, sure.",Backchannel
+ES2002d,C,881.32,883.29,1.97,What about button shape? Square buttons?,Elicit-Offer-Or-Suggestion; Elicit-Assessment
+ES2002d,A,883.33,893.52,10.19,"Yeah button shape might be a good idea to change, rather than rather than positioning, 'cause I think positioning is we're kinda engrained into the the telephone kind of",Assess; Suggest; Inform
+ES2002d,C,885.65,885.99,0.34,Okay.,Backchannel
+ES2002d,C,888.03,888.34,0.31,Yeah.,Backchannel
+ES2002d,C,889.91,890.31,0.4,Sure.,Backchannel
+ES2002d,C,893.23,893.51,0.28,Yeah.,Backchannel
+ES2002d,A,895.12,895.66,0.54,pad.,Inform
+ES2002d,B,896.33,897.8,1.47,Right um.,Stall
+ES2002d,B,899.3,907.36,8.06,"So at this point we uh, let me see, discuss uh how satisfied we all are with um",Inform; Other
+ES2002d,C,917.01,917.26,0.25,Mm 'kay.,Backchannel
+ES2002d,A,932.13,934.47,2.34,Maybe we should do the design evaluation first.,Suggest
+ES2002d,B,935.5,942.65,7.15,"Yeah, yeah go for that first. I wasn't entirely sure what uh who was supposed to be doing that, but y you go for it.",Assess; Suggest; Inform
+ES2002d,C,935.91,936.59,0.68,Evaluation.,Elicit-Inform
+ES2002d,C,939.93,940.49,0.56,Okay.,Backchannel
+ES2002d,C,941.3,941.64,0.34,Sure.,Backchannel
+ES2002d,C,942.91,953.8,10.89,"Um, alright so the way this works, I'm gonna need to plug into PowerPoint, I'll try and do it as quick as possible. Um, this is um I'll just go over your head if that's okay.",Inform; Offer; Stall; Elicit-Assessment
+ES2002d,B,946.32,946.76,0.44,Okay.,Backchannel
+ES2002d,B,948.49,949.04,0.55,Okay.,Backchannel
+ES2002d,B,953.61,953.81,0.2,Yeah.,Assess
+ES2002d,C,956.75,957.21,0.46,What's that?,Comment-About-Understanding
+ES2002d,A,957.89,958.78,0.89,"No, that's okay that's okay.",Inform
+ES2002d,C,958.95,959.77,0.82,I don't need the PowerPoint?,Elicit-Inform
+ES2002d,C,961.8,964.01,2.21,"Oh course, yeah that's true. Let me get that.",Assess; Offer
+ES2002d,C,964.9,965.72,0.82,A bit more.,Other
+ES2002d,A,970.96,972.29,1.33,You you still have your blue fingers.,Inform
+ES2002d,D,974.77,975.26,0.49,Is it?,Elicit-Inform
+ES2002d,A,976.06,977.7,1.64,You killed a monster.,Be-Positive
+ES2002d,C,1005.48,1006.72,1.24,"Doesn't seem like it's going, does it?",Elicit-Inform
+ES2002d,B,1007.53,1008.5,0.97,Oh there it is.,Inform
+ES2002d,C,1007.89,1015.79,7.9,"Yeah, okay great. Uh and I'm gonna write up our results on the board, so this'll be a way for us to go through and decide if we're um sort of review where we stand with it.",Assess; Offer; Suggest
+ES2002d,C,1021.99,1044.11,22.12,"So to sort of b bring together two things, sort of design goals and also the market research that we had, uh when we rate this, one is v high in in succeeding or fitting to our original aim and seven is low, okay. So these i these i th are the and um we've been asked to uh to collectively rate this, so what we can do is try and just y work on a consensus system so",Inform; Elicit-Comment-Understanding; Fragment; Suggest
+ES2002d,B,1034.12,1034.98,0.86,Mm 'kay.,Comment-About-Understanding
+ES2002d,C,1045.42,1051.93,6.51,"we just come to an agreement. Okay? So the first one uh, stylish look and feel.",Suggest; Elicit-Assessment; Inform
+ES2002d,B,1046.7,1047.16,0.46,Okay.,Assess
+ES2002d,A,1052.71,1053.72,1.01,I rate that pretty highly.,Assess
+ES2002d,B,1053.81,1061.17,7.36,"Well yeah, I mean compared to most remote controls you see that's pretty good. I dunno like a six or something. What does anybody else think?",Assess; Elicit-Assessment
+ES2002d,D,1053.91,1054.43,0.52,Yeah.,Backchannel
+ES2002d,C,1055.15,1055.4,0.25,Yeah.,Backchannel
+ES2002d,C,1057.73,1057.96,0.23,Yeah.,Backchannel
+ES2002d,C,1059.88,1067.44,7.56,"Yeah um me uh my only reservation with it was that we basically went with yellow because it's the company's colour, and I don't know if yellow's gonna really be a hit.",Assess; Inform
+ES2002d,B,1065.47,1066,0.53,Mm.,Backchannel
+ES2002d,B,1068.53,1069.45,0.92,Mm.,Backchannel
+ES2002d,B,1070.71,1071.29,0.58,Okay.,Assess
+ES2002d,D,1071.49,1073.08,1.59,I'm seeing five then.,Assess
+ES2002d,C,1073.14,1073.85,0.71,What do you guys think?,Elicit-Assessment
+ES2002d,B,1074.03,1077.08,3.05,I would say five or six. David?,Assess; Elicit-Assessment
+ES2002d,C,1075.75,1076.07,0.32,Okay.,Assess
+ES2002d,A,1077.06,1078.09,1.03,Yep I'm fine with that.,Assess
+ES2002d,C,1078.11,1079.22,1.11,Okay let's go with five then.,Suggest
+ES2002d,B,1079.86,1080.41,0.55,Okay.,Assess
+ES2002d,C,1080.5,1082.44,1.94,Fi oh uh just actually the opposite.,Inform
+ES2002d,A,1081.56,1083.06,1.5,"It's one to seven, right?",Elicit-Inform
+ES2002d,C,1083.14,1086.49,3.35,"The So it meant three, okay.",Fragment; Assess
+ES2002d,B,1083.4,1086.13,2.73,"Oh yes sorry then, then I would say two or three.",Assess; Be-Positive
+ES2002d,A,1088.36,1090.15,1.79,"Wait, what's the scale, one to seven, right?",Other; Elicit-Inform
+ES2002d,D,1089.81,1090.68,0.87,One's high-ish isn't it?,Elicit-Inform
+ES2002d,B,1090.05,1090.31,0.26,Yeah.,Inform
+ES2002d,C,1090.29,1091.82,1.53,"Yeah, one is high.",Inform
+ES2002d,D,1092.03,1094.93,2.9,"Ah, okay so yeah, two or three.",Comment-About-Understanding; Assess
+ES2002d,A,1095.65,1096.69,1.04,"Okay, it's upside-down.",Assess; Inform
+ES2002d,C,1096.14,1102.17,6.03,"Let's go with two point five then. Okay, um control high tech innovation.",Suggest; Stall; Fragment; Elicit-Assessment
+ES2002d,C,1105.16,1109.85,4.69,"Yeah, so we've had to remove a few of our features we wanted, but jog-dial",Assess; Inform
+ES2002d,B,1108.07,1108.62,0.55,Mm.,Backchannel
+ES2002d,C,1111.01,1111.84,0.83,'s good.,Assess
+ES2002d,B,1111.03,1113.87,2.84,"I'd go with three or four, maybe three.",Assess
+ES2002d,A,1111.14,1111.76,0.62,Say it's more,Assess
+ES2002d,D,1112.05,1113.01,0.96,Eight three.,Assess
+ES2002d,A,1112.86,1118.05,5.19,"medium, but going towards a little bit higher than medium kind of thing. Yep.",Assess
+ES2002d,C,1116.23,1117.44,1.21,"Okay, three?",Assess; Elicit-Assessment
+ES2002d,B,1116.9,1118.11,1.21,"Yeah about three, okay.",Assess
+ES2002d,A,1126.03,1126.46,0.43,Lemon.,Inform
+ES2002d,D,1128.52,1129.11,0.59,Yeah.,Backchannel
+ES2002d,C,1128.73,1129.12,0.39,Sorta.,Backchannel
+ES2002d,C,1131.62,1131.85,0.23,Yeah.,Backchannel
+ES2002d,C,1133.57,1133.87,0.3,Okay.,Backchannel
+ES2002d,B,1135.13,1138.25,3.12,"But the yellow, I mean it could be a lemon yellow colour, couldn't it?",Suggest; Elicit-Assessment
+ES2002d,C,1135.21,1137.51,2.3,"Right. Yeah, could be. Yeah.",Assess
+ES2002d,A,1137.41,1141.94,4.53,"Yeah, the the yellow is more representative of the colour, but the button itself, the blue can be anything else.",Assess; Inform
+ES2002d,C,1139.89,1140.24,0.35,Okay.,Backchannel
+ES2002d,B,1140.24,1140.57,0.33,Yeah.,Backchannel
+ES2002d,C,1142.07,1143.53,1.46,Okay so we'll go two.,Assess; Suggest
+ES2002d,B,1144.93,1145.39,0.46,Mm-hmm.,Assess
+ES2002d,C,1145.46,1145.6,0.14,Yeah?,Elicit-Assessment
+ES2002d,C,1146.8,1151.5,4.7,"Okay, and um design is simple to use, simple in features.",Stall; Elicit-Assessment
+ES2002d,B,1151.95,1155.61,3.66,"Well yeah, I mean it's really basic looking isn't it? I mean I'd give that nearly a one.",Assess; Inform; Elicit-Assessment
+ES2002d,C,1153.44,1157.69,4.25,"F f yeah f fairly basic, you guys think?",Assess; Elicit-Assessment
+ES2002d,D,1157.86,1158.73,0.87,Yeah one.,Assess
+ES2002d,A,1158.52,1159.69,1.17,"Yep, that's fine.",Assess
+ES2002d,C,1161.86,1172.45,10.59,"Um, soft and spongy, have we achieved that? We've used mostly plastic in the end so it's going to be quite a bit of a compromise for price. Five?",Elicit-Assessment; Inform
+ES2002d,D,1169.41,1170.74,1.33,Yeah I think it's about five.,Assess
+ES2002d,B,1177.65,1179.52,1.87,Yeah I suppose mm 'kay.,Assess
+ES2002d,C,1180.05,1180.65,0.6,Um,Stall
+ES2002d,A,1181.6,1182.73,1.13,"Yeah, company logo.",Stall; Elicit-Assessment
+ES2002d,C,1182.02,1185.85,3.83,could we have used an entirely rubber frame to it? Was that an option?,Elicit-Inform
+ES2002d,A,1186.78,1190,3.22,"I think it'll be cost prohibitive, yeah.",Inform; Assess
+ES2002d,C,1187.9,1189.1,1.2,It would cost more than plastic.,Elicit-Inform
+ES2002d,C,1190.15,1192.28,2.13,"Okay, logo, we've got it in there, haven't we?",Assess; Elicit-Inform
+ES2002d,A,1192.47,1192.85,0.38,Yep.,Inform
+ES2002d,B,1192.83,1196.16,3.33,"Yep. Gonna have that on the side, aren't we, like there or something?",Inform; Elicit-Inform
+ES2002d,C,1198.09,1202.02,3.93,"Huh. And um it's within budget, yep. It is, isn't it?",Stall; Inform; Elicit-Inform
+ES2002d,D,1202.02,1202.3,0.28,Yeah.,Inform
+ES2002d,C,1203.26,1210.32,7.06,"Okay, so we can say then that uh out of a possible or what would be our goal here?",Stall; Fragment; Elicit-Inform
+ES2002d,B,1210.67,1212.12,1.45,"Out of forty nine, I guess.",Inform
+ES2002d,C,1212.1,1215.23,3.13,"Yeah, out of forty nine with with zero being the highest.",Assess; Inform
+ES2002d,C,1217.75,1223.32,5.57,"We are at uh two, seven, eight, ten, fifteen point five.",Inform
+ES2002d,B,1226.68,1227.47,0.79,'S pretty good.,Assess
+ES2002d,C,1227.03,1228.29,1.26,So it's pretty good.,Assess
+ES2002d,C,1230.31,1237.53,7.22,Translates to something like about approximately seventy two percent efficacy,Inform
+ES2002d,C,1238.69,1239.81,1.12,of our original goal.,Inform
+ES2002d,C,1240.96,1241.19,0.23,Right?,Elicit-Inform
+ES2002d,B,1242.24,1243.31,1.07,Uh yeah.,Inform
+ES2002d,C,1242.82,1244.57,1.75,I think 'cause if you turn that into,Inform
+ES2002d,C,1245.84,1246.41,0.57,a hundred,Inform
+ES2002d,C,1247.81,1248.53,0.72,it would be about,Inform
+ES2002d,B,1248.96,1251.49,2.53,"Twice that, about thirty one.",Inform
+ES2002d,B,1254.04,1256.69,2.65,"So yeah ab well yeah about sixty nine, seventy percent yeah.",Inform
+ES2002d,C,1256.12,1258.56,2.44,"Oh right, about seventy, yeah seventy percent.",Assess
+ES2002d,B,1259.28,1260.1,0.82,It's pretty good.,Fragment
+ES2002d,C,1260.77,1264.59,3.82,"Okay, good. That was just a little formality for us to go through.",Assess; Inform
+ES2002d,B,1264.89,1265.36,0.47,Okay.,Assess
+ES2002d,C,1265.75,1275.65,9.9,"Yep, oh hundred pound pen. Sorry alright. No.",Other; Be-Positive; Stall; Inform
+ES2002d,C,1276.91,1277.73,0.82,Hmm.,Fragment
+ES2002d,B,1291.52,1292.15,0.63,Uh-huh.,Backchannel
+ES2002d,B,1303.67,1304.05,0.38,Mm-hmm.,Backchannel
+ES2002d,C,1304.47,1323.55,19.08,"Could our design involve a series of colours so that it's more of like a line where we have like sort of the, I don't know like the harvest line or the vibrant, I dunno the Whatever just some theme and then we have different tones, lime green, lemon. It's just discussion. I mean obviously we can just abandon this, it's fine. I'm just thinking about what we originally set out to do.",Suggest; Fragment; Other; Inform; Assess
+ES2002d,A,1308.21,1308.35,0.14,Yep.,Backchannel
+ES2002d,B,1317.83,1318.31,0.48,Okay.,Backchannel
+ES2002d,C,1324.79,1327.47,2.68,"Um, yep so there. That's all.",Stall; Inform
+ES2002d,B,1325.12,1325.45,0.33,Right.,Backchannel
+ES2002d,B,1327.59,1331.53,3.94,"Okay, great um are you submitting the",Assess; Elicit-Inform
+ES2002d,B,1332.9,1337.22,4.32,the um evaluation criteria or am I? I don't know what your instructions have been.,Elicit-Inform; Inform
+ES2002d,C,1337.2,1343.3,6.1,"Um, I think to record it and uh I haven't been asked to submit it yet. Yeah.",Inform; Assess
+ES2002d,B,1343.41,1349.84,6.43,"Okay, uh just wondering if I need to include it in the minutes, because if you're submitting it anyway then Okay great.",Assess; Inform
+ES2002d,C,1348.56,1349.03,0.47,"I will, yeah.",Inform
+ES2002d,A,1349.83,1350.75,0.92,It keeps getting too big.,Assess
+ES2002d,B,1351.2,1359.09,7.89,"Cool. Um right, uh well next up then, because we've done finance, is the project evaluation.",Assess; Stall; Inform
+ES2002d,A,1360.78,1366.16,5.38,"'Kay I'm I'm listening I'm just trying to incorporate the logo into the the thing, so I'm playing with the Play-Doh as well.",Inform
+ES2002d,B,1363.83,1364.64,0.81,"Oh right, okay.",Assess
+ES2002d,C,1368.76,1368.92,0.16,Huh.,Backchannel
+ES2002d,B,1400.52,1414.3,13.78,"Right, okay. Um well do you wanna um just individually say what you think about about these four points and or not those four points, my four points, sorry, forgotten that.",Stall; Suggest; Inform; Be-Positive
+ES2002d,C,1430.12,1430.25,0.13,Yep.,Backchannel
+ES2002d,C,1434.58,1438.96,4.38,I like those printer cables that just have the two little butterfly clips like that. It's really quick.,Inform
+ES2002d,B,1437.48,1445.78,8.3,"Oh yeah, they're good aren't they, yeah. Right okay, um yeah here we are. Uh as a note we'll do this",Assess; Stall; Inform
+ES2002d,C,1440.43,1441.15,0.72,To use.,Inform
+ES2002d,B,1447.28,1450.99,3.71,alphabetically. Um do you wanna start Andrew?,Inform; Suggest
+ES2002d,C,1449.8,1453.34,3.54,"Sure, um so what is it you're asking of me now?",Assess; Elicit-Inform
+ES2002d,B,1453.37,1460.32,6.95,"I don't know, just um your opinion on those four those four points really and how we used them. Yeah.",Assess; Inform
+ES2002d,C,1457.97,1465.71,7.74,"Or sort of our work on setting this up. Yeah. Well, is it uh okay I'll just go through your system then. The the room uh",Inform; Elicit-Inform; Fragment; Offer
+ES2002d,C,1466.84,1472.33,5.49,"is fairly institutional, but um the main thing is, I think",Inform
+ES2002d,C,1473.48,1496.66,23.18,"um our use of this space is more just to report on things as opposed to be creative and constructive and it would probably help to um have l sort of a cumulative effect of we have ideas and we come back and then the ideas are still in discussion, you know, as in other words this this room is sort of a centre point of creativity, whereas in reality as we've gone through this, it's not really the centre point of creativity, it's more just a",Inform
+ES2002d,B,1489.3,1489.66,0.36,Uh-huh.,Backchannel
+ES2002d,B,1497.14,1502.86,5.72,Well d do you feel though that that you were able to have quite a lot of creative input into the thing?,Elicit-Assessment
+ES2002d,C,1502.37,1513.12,10.75,"Yeah, yeah but that's just the thing is the quest in terms of the the first point there, the room, it feels as though the creativity goes on when we leave, and then we come here and then we kind of put out our ideas and then, you know.",Assess; Fragment; Inform
+ES2002d,C,1515.96,1524.01,8.05,"Oh, oh right right, oh right okay room for creativ Oh right I just looked up and saw okay whiteboard, digital pens, the room. No, of course, yeah.",Assess; Inform
+ES2002d,B,1521.04,1521.27,0.23,Room.,Backchannel
+ES2002d,C,1524.7,1525.05,0.35,Sorry.,Be-Positive
+ES2002d,C,1525.97,1526.13,0.16,Huh.,Backchannel
+ES2002d,C,1527.22,1527.62,0.4,Yeah.,Backchannel
+ES2002d,C,1529.11,1552.81,23.7,"Yeah I th okay on th um yeah dif answering the question uh in those terms I'd say that actually there's sort of a tease of creativity because we're asked to work through this, but actually the guidelines are fairly contrived in terms of um okay fashion trends, say fruit and vegetable colour scheme, but then i then we're told okay use the co company company colours.",Assess; Fragment; Inform
+ES2002d,B,1544.91,1545.45,0.54,Mm-hmm.,Backchannel
+ES2002d,B,1551.94,1552.26,0.32,Mm.,Backchannel
+ES2002d,B,1560.79,1561.21,0.42,Okay.,Backchannel
+ES2002d,A,1568.64,1576.25,7.61,"You feel like you're caged within whatever y It's like a balloon in a cage, it can only go so big and not hit the side. The constraints do come in very fast.",Inform
+ES2002d,B,1568.68,1569.14,0.46,Okay.,Backchannel
+ES2002d,C,1572.91,1573.28,0.37,Yeah.,Backchannel
+ES2002d,B,1574.94,1583.92,8.98,"Okay uh do you know what, actually let's take each point and everybody discuss it, I think. Yeah. So still on the topic of room for creativity uh next up is Craig.",Other; Suggest; Elicit-Assessment; Inform
+ES2002d,C,1578.93,1579.12,0.19,Yeah.,Backchannel
+ES2002d,D,1584.55,1592.87,8.32,"Um I agree with his point it's um it is quite a lot of fun t to go and then you have sort of hit the end then go right, gotta cut everything out 'cause we don't have enough money.",Assess; Inform
+ES2002d,B,1593.16,1593.73,0.57,Yeah.,Assess
+ES2002d,A,1593.79,1594.01,0.22,Yeah.,Assess
+ES2002d,C,1595.43,1595.7,0.27,Yep.,Assess
+ES2002d,A,1596.28,1615.66,19.38,"I think another point is that the meetings um are more brainstorming sessions than meetings, so time is also a very s um strong factor, and structure. Because for a brainstorming meeting you want a structure that allows you to allows ideas to get tossed, um to be evaluated, and to be reviewed, and to get feedback and come back.",Inform
+ES2002d,C,1600.43,1600.73,0.3,Yeah.,Backchannel
+ES2002d,B,1605.33,1605.68,0.35,Yeah.,Backchannel
+ES2002d,C,1605.67,1606.09,0.42,Yeah.,Backchannel
+ES2002d,C,1611.56,1612.83,1.27,"Mm-hmm, mm-hmm.",Backchannel
+ES2002d,B,1611.8,1612.24,0.44,Mm.,Backchannel
+ES2002d,A,1615.91,1640.59,24.68,"And I guess that point about the room not being r very friendly to that, I think that's a very big thing, and I think the fact that we're wearing these things restricts I feel it 'cause I wear m my glasses, right, and that but that irritates me right it it it does actually you know affect how, w whether you feel comfortable to communicate. I feel like I'm hiding behind the equipment, rather than the equipment is helping me, and you know.",Assess; Inform
+ES2002d,C,1620.68,1620.93,0.25,Yeah.,Backchannel
+ES2002d,C,1624.16,1625.34,1.18,"Yeah, sure.",Backchannel
+ES2002d,B,1626.17,1626.54,0.37,Yeah.,Backchannel
+ES2002d,C,1629.53,1629.71,0.18,Yeah.,Backchannel
+ES2002d,C,1632.52,1633.22,0.7,New creativity.,Inform
+ES2002d,C,1637.32,1637.49,0.17,Yep.,Backchannel
+ES2002d,C,1639.75,1640.01,0.26,Right.,Backchannel
+ES2002d,B,1644.92,1646.44,1.52,"Yeah, but actual environment?",Assess; Elicit-Inform
+ES2002d,C,1647.53,1647.69,0.16,Mm.,Backchannel
+ES2002d,C,1649.59,1649.88,0.29,Mm-hmm.,Backchannel
+ES2002d,B,1649.99,1650.31,0.32,Okay.,Backchannel
+ES2002d,C,1652.01,1652.35,0.34,Mm-hmm.,Backchannel
+ES2002d,B,1652.34,1652.83,0.49,Okay.,Assess
+ES2002d,B,1654.52,1657.55,3.03,Very good. Um what about leadership?,Assess; Elicit-Assessment
+ES2002d,B,1659.14,1663.32,4.18,"I don't know if that means like, if I did a good job or something. I don't really know.",Inform
+ES2002d,B,1669.6,1673.33,3.73,"From like your personal coach person and stuff like that, do you think maybe?",Elicit-Inform
+ES2002d,C,1673.08,1676.67,3.59,"Yeah from and you as well I think, just sort of acting as team leader.",Fragment; Inform
+ES2002d,B,1677.16,1677.69,0.53,Okay.,Assess
+ES2002d,C,1677.84,1691.92,14.08,"Um yeah I think I think it's I think it's good. I mean my personal views on on leadership is that effective effective leadership sort of um gives people a certain room for freedom and delegation, but then to come back with something that they take great ownership and",Stall; Assess; Inform
+ES2002d,B,1692.12,1692.62,0.5,Mm-hmm.,Backchannel
+ES2002d,B,1717.76,1719.64,1.88,"Uh-huh, okay.",Backchannel
+ES2002d,C,1733.44,1735.48,2.04,"Yeah, oh yeah, without without a doubt.",Assess
+ES2002d,C,1736.69,1738.08,1.39,Yeah maybe not co confining.,Assess
+ES2002d,C,1738.72,1738.99,0.27,Yeah.,Backchannel
+ES2002d,C,1739.67,1740.86,1.19,"Yeah, yeah.",Backchannel
+ES2002d,C,1743.38,1744.46,1.08,"Mm-hmm, mm-hmm.",Backchannel
+ES2002d,B,1744.24,1744.83,0.59,Okay.,Backchannel
+ES2002d,C,1746.31,1746.68,0.37,Mm-hmm.,Backchannel
+ES2002d,C,1747.42,1747.83,0.41,Mm-hmm.,Backchannel
+ES2002d,C,1750.12,1751.07,0.95,"Mm-hmm, mm-hmm.",Backchannel
+ES2002d,B,1752.43,1753.12,0.69,Uh-huh.,Backchannel
+ES2002d,C,1753.78,1754.99,1.21,"Mm-hmm, mm-hmm.",Backchannel
+ES2002d,C,1757.09,1757.47,0.38,Mm-hmm.,Backchannel
+ES2002d,B,1757.33,1757.81,0.48,Okay.,Backchannel
+ES2002d,C,1760.55,1763.6,3.05,"Mm. Mm-hmm, mm-hmm. Yeah.",Backchannel
+ES2002d,B,1764.07,1766.98,2.91,"Okay, uh what about teamwork?",Backchannel; Elicit-Assessment
+ES2002d,C,1769.62,1771.94,2.32,"Um did, you wanna comment Craig?",Elicit-Assessment
+ES2002d,D,1770.93,1774.53,3.6,"Uh, reckon that was a bit hard because we could only discuss things in the meeting.",Assess
+ES2002d,C,1774.7,1774.99,0.29,Yeah.,Assess
+ES2002d,B,1774.82,1775.64,0.82,Yeah.,Assess
+ES2002d,D,1775.97,1779.1,3.13,"If we could just go up to somebody outside the meeting and have a quick talk with them, that would've been a lot easier.",Assess
+ES2002d,C,1779.33,1779.56,0.23,Yeah.,Backchannel
+ES2002d,B,1781.16,1781.91,0.75,Okay.,Backchannel
+ES2002d,C,1781.9,1782.47,0.57,Fully agree.,Assess
+ES2002d,A,1781.91,1795.7,13.79,"I think you tried to use the common share folder to to to to communicate, but um it just comes back to us so slow in the email um it it doesn't have a, you know, a messenger will go.",Inform
+ES2002d,B,1791.02,1791.76,0.74,Mm.,Backchannel
+ES2002d,B,1796.07,1814.58,18.51,"Did uh did you guys get the email I sent you? Oh that's alright. I was wondering if that got there okay. Okay, um so um to s to to summarize the teamwork issue, saying that if we could communicate outside the meeting, you know just like quick questions, quick thoughts, whatever, it probably would be bit easier.",Elicit-Inform; Assess; Inform; Stall
+ES2002d,C,1796.1,1796.32,0.22,Yeah.,Backchannel
+ES2002d,D,1797.91,1798.26,0.35,Not just yet.,Inform
+ES2002d,A,1798.19,1798.35,0.16,Yeah.,Inform
+ES2002d,C,1798.53,1799.56,1.03,"Yeah, got the email.",Inform
+ES2002d,A,1799.73,1800.08,0.35,Okay.,Backchannel
+ES2002d,C,1812.34,1812.65,0.31,Yeah.,Backchannel
+ES2002d,A,1813.99,1825.08,11.09,"I think the tools that they were given, the tool set that were given to us are fancy but they don't support collaboration, I think that's the word. They don't support the team working together, you know, they're still very individual tools.",Inform
+ES2002d,C,1819.29,1821.61,2.32,"Mm-hmm, mm-hmm, mm-hmm, exactly.",Backchannel; Assess
+ES2002d,B,1821.15,1822.04,0.89,"Oh right, okay.",Assess
+ES2002d,C,1825.24,1849.94,24.7,"Yeah, I mean sort of taking upon that idea, w the way I see this i is that it's uh the the s the structure in which we've we've approached this whole task is quite contrary to the p principle of teamwork because the the tasks were d d sort of um divided, and then the work went on in isolation I I don't know what you guys did while you were together, maybe that was a bit different,",Assess; Inform
+ES2002d,B,1846.67,1847.29,0.62,Mm.,Backchannel
+ES2002d,C,1850.45,1882.13,31.68,"but um yeah, but um but actually if you if you imagine not entire the completely same task given to us but us said okay, first thing we have to do is come up with um let's say um a design concept, and we sit here together and do it, well that's what teamwork is. To s to say okay go off and don't talk to each other, it's actually p sort of predisposes you to quite the contrary of teamwork. Um not that we haven't done I think the best we could have done. I'm not dissatisfied with it.",Stall; Assess; Inform
+ES2002d,A,1850.51,1852.26,1.75,We had Play-Doh fun.,Inform
+ES2002d,B,1867.24,1867.78,0.54,Yeah.,Backchannel
+ES2002d,B,1871.9,1872.41,0.51,Yeah.,Backchannel
+ES2002d,B,1877.46,1878.17,0.71,Okay.,Backchannel
+ES2002d,B,1880.46,1880.99,0.53,Okay.,Backchannel
+ES2002d,B,1882.74,1900.61,17.87,"Right, uh anything else to say on teamwork at all? Okay, um what about the you know how we used the whiteboard, the digital pens, the projector, stuff like that? Um did anybody think anything was like really useful, anything was pretty un f",Stall; Elicit-Assessment; Assess
+ES2002d,A,1886.5,1887.2,0.7,"No, not really.",Inform
+ES2002d,C,1896.57,1896.97,0.4,Mm-hmm.,Backchannel
+ES2002d,B,1901.89,1902.48,0.59,unsupportive?,Elicit-Assessment
+ES2002d,C,1902.41,1924.09,21.68,"I think the whiteboard, for me, is the kind of thing I would use all the time, but it's um not quite as useful as to us as it could have been, maybe just in the way that we we use it, in the sense that once we have an idea out there or while work was going on in between meetings, that could have been up on a board uh you know as opposed to in like in text.",Inform; Assess; Suggest
+ES2002d,B,1920.91,1921.58,0.67,Mm.,Backchannel
+ES2002d,C,1924.59,1949.11,24.52,"Um, and then we could then keep our ideas sort of building on that. I know that people who design cars and you know in aviation they quite often just have a simple like fibreglass prototype and it's completely you know um abs abstract from the final product, but they use it as a kind of a context to sort of walk around and puzzle and and point and discuss and and and in a way everybody's as we discuss things in the in theoretically and out of our notebooks,",Suggest; Inform; Stall
+ES2002d,B,1938.55,1938.9,0.35,Mm-hmm.,Backchannel
+ES2002d,B,1941.11,1941.55,0.44,Yeah.,Backchannel
+ES2002d,B,1942.63,1944.26,1.63,And point at? Yeah.,Inform; Assess
+ES2002d,C,1949.46,1961.73,12.27,"we're just we're actually just each of us discussing something that's in each of our own minds. It wasn't until we had this here, you know, like at one point I peeked across and looked at Craig's paper and I'm like, now I know what he's thinking 'cause I saw his book.",Stall; Inform
+ES2002d,B,1955.02,1955.45,0.43,Yeah.,Backchannel
+ES2002d,B,1960.7,1961.83,1.13,Ah.,Backchannel
+ES2002d,B,1966.71,1970.59,3.88,So do you think producing a prototype earlier in the process woulda been a good idea?,Elicit-Assessment
+ES2002d,C,1971.22,1971.94,0.72,"Think could be, yeah.",Assess
+ES2002d,B,1975.81,1976.27,0.46,Yeah.,Backchannel
+ES2002d,C,1976.65,1977.67,1.02,"Yeah, yeah.",Backchannel
+ES2002d,C,1978.74,1979.07,0.33,Yeah.,Backchannel
+ES2002d,C,1980.46,1981.27,0.81,"Yeah, yeah.",Backchannel
+ES2002d,C,1982.74,1983.13,0.39,Mm-hmm.,Backchannel
+ES2002d,C,1985.11,1985.48,0.37,Mm-hmm.,Backchannel
+ES2002d,C,1987.94,1988.33,0.39,Yeah.,Backchannel
+ES2002d,C,1990.1,1991.1,1,"Yeah, yeah.",Backchannel
+ES2002d,B,1990.73,1991.13,0.4,Okay.,Backchannel
+ES2002d,C,1992.07,2009.6,17.53,"Yeah, because the PowerPoint was provided to us while we had time to prepare, whereas I can imagine if I'd been encouraged to use Paintbrush, for example, or whatever, I would've actually used it, um 'ca you know, just 'cause that's sorta how we what we were set up to to use while we had our time.",Assess; Inform; Stall
+ES2002d,B,2001.24,2001.5,0.26,Alright.,Backchannel
+ES2002d,A,2011.38,2028.19,16.81,"I think that there were too many PowerPoints in the meetings. 'Cause the plug-in and the plugging spent we spent a lot of time doing that. And a lot of the information on the PowerPoints, I don't think, you know, we needed to actually it could have, we could have gone through it verbally, especially my slides, I felt that they just you know as opposed to having to present them.",Assess; Inform; Fragment
+ES2002d,C,2014.1,2014.42,0.32,Mm-hmm.,Backchannel
+ES2002d,D,2014.11,2014.46,0.35,Yeah.,Backchannel
+ES2002d,B,2014.59,2015.17,0.58,Yeah.,Backchannel
+ES2002d,C,2016.05,2016.49,0.44,Yeah.,Backchannel
+ES2002d,B,2017.15,2017.62,0.47,Yeah.,Backchannel
+ES2002d,C,2021.66,2022.89,1.23,"No, not quite.",Backchannel
+ES2002d,C,2024.05,2024.3,0.25,Yeah.,Backchannel
+ES2002d,C,2025.29,2025.48,0.19,Yeah.,Backchannel
+ES2002d,B,2025.83,2026.27,0.44,Okay.,Backchannel
+ES2002d,C,2027.33,2027.62,0.29,Yeah.,Backchannel
+ES2002d,B,2028.23,2031.96,3.73,"What about the digital pens, did you find them easy enough to use?",Elicit-Assessment
+ES2002d,D,2032.68,2033.63,0.95,Oh they're a bit clunky.,Assess
+ES2002d,B,2037.65,2037.8,0.15,Yeah.,Backchannel
+ES2002d,C,2039.35,2039.62,0.27,Yep.,Backchannel
+ES2002d,C,2041.21,2041.47,0.26,Mm.,Backchannel
+ES2002d,A,2043.48,2049.62,6.14,"Having to tick it before you go off was a bit hindering as well, 'cause you're half way through a thought, and then you run out of paper and then you have to jump.",Assess; Inform
+ES2002d,C,2046.45,2046.89,0.44,Mm.,Backchannel
+ES2002d,B,2046.8,2047.3,0.5,Yeah.,Backchannel
+ES2002d,B,2049.73,2067.29,17.56,"I know, I think at the very start of today I like wrote a whole load of stuff, didn't click note on one, then went back and wrote one tiny wee thing on the another page, but then did click note, and so I'm quite worried that I've just written over the top of it or something, but they'll have my paper anyway um and haven't done that since.",Assess; Inform
+ES2002d,C,2060.69,2060.87,0.18,Hmm.,Backchannel
+ES2002d,C,2062.9,2063.09,0.19,Hmm.,Backchannel
+ES2002d,C,2063.27,2066.77,3.5,"Mm-hmm, mm-hmm. Hmm.",Backchannel
+ES2002d,C,2069.94,2072.88,2.94,"Mm-hmm, mm-hmm, mm-hmm.",Backchannel
+ES2002d,B,2070.26,2071.53,1.27,"Yeah, yeah.",Backchannel
+ES2002d,C,2074.39,2081.55,7.16,"And o on the topic of the technology, it just occurred to me that we actually didn't need to move our computers because each computer has all of the files.",Inform
+ES2002d,B,2082.21,2082.76,0.55,Yeah.,Assess
+ES2002d,C,2084.9,2086.29,1.39,We only actually needed one computer.,Inform
+ES2002d,B,2086.16,2088.23,2.07,"Yeah, that's true.",Assess
+ES2002d,C,2087.27,2090.3,3.03,"If there had been a fifth, that coulda just been sitting there ready to go the whole time.",Inform
+ES2002d,D,2088.37,2088.75,0.38,Good point.,Assess
+ES2002d,C,2093.33,2093.55,0.22,Yeah.,Backchannel
+ES2002d,C,2096.84,2097.15,0.31,Yeah.,Backchannel
+ES2002d,C,2099.38,2099.71,0.33,Yeah.,Backchannel
+ES2002d,B,2099.97,2100.41,0.44,Yeah.,Backchannel
+ES2002d,B,2101.88,2104.5,2.62,Do you think the computers just provide distraction in a meeting?,Elicit-Assessment
+ES2002d,D,2106.32,2106.66,0.34,Yeah.,Backchannel
+ES2002d,B,2107.28,2107.85,0.57,Okay.,Assess
+ES2002d,B,2109.88,2123.02,13.14,"I know I I like to have things written down in front of me actually, like a lot of the stuff that was emailed to me I ended up you know like writing down there or something so I could look at it really quickly and not have the distraction of all of that, um I don't know about anybody else.",Inform
+ES2002d,C,2112.53,2114.53,2,Mm-hmm. Yep.,Backchannel
+ES2002d,C,2116.09,2116.46,0.37,Mm-hmm.,Backchannel
+ES2002d,A,2116.8,2117.15,0.35,Yep.,Backchannel
+ES2002d,C,2118.16,2118.75,0.59,Mm-hmm.,Backchannel
+ES2002d,C,2122.39,2122.76,0.37,Mm-hmm.,Backchannel
+ES2002d,B,2123.57,2140.36,16.79,Um what else uh any wh I do I'm not really sure what they're looking for when they say new ideas found. Um I don't know is could you think of like anything else that would have been helpful today at all?,Stall; Other; Inform; Elicit-Assessment
+ES2002d,C,2143.98,2149.07,5.09,"Well, the w main one for me is that uh the process",Stall; Assess
+ES2002d,C,2150.13,2159.9,9.77,na in a natural f context would not have been interrupted by this necessity to discommunicate ourselves from each other.,Assess
+ES2002d,C,2160.57,2175.15,14.58,"So, that's kind of a new idea for me is like just sort of that idea, well you know it's kind of s hard to keep f working forward on a team a team based project when when you're told you must now work away from your team.",Stall; Inform; Assess
+ES2002d,B,2170.22,2171.11,0.89,Mm-hmm.,Backchannel
+ES2002d,C,2182.23,2182.65,0.42,Oh yeah.,Backchannel
+ES2002d,C,2184.04,2185.26,1.22,"Yeah, yeah.",Backchannel
+ES2002d,C,2192.69,2195.37,2.68,"Mm-hmm, mm-hmm, mm-hmm.",Backchannel
+ES2002d,C,2206.21,2206.56,0.35,Mm-hmm.,Backchannel
+ES2002d,C,2208.69,2209.1,0.41,Mm-hmm.,Backchannel
+ES2002d,C,2211.36,2211.82,0.46,Mm-hmm.,Backchannel
+ES2002d,B,2218.41,2234.28,15.87,"There you go. Um so in closing, I haven't got my five minutes to go. Thin Oh there it i Five minutes to go. Wonderful. Okay um are the costs within the budget, yes they are. And is the project evaluated, yes it is. So now celebrate.",Other; Inform; Assess; Stall
+ES2002d,C,2218.78,2219.07,0.29,Hmm.,Backchannel
+ES2002d,A,2235.62,2236.81,1.19,And we have Ninja Homer.,Inform
+ES2002d,D,2237.59,2237.95,0.36,Oh yeah.,Assess
+ES2002d,B,2238.85,2241.73,2.88,Well apparently now I write the final report. What are you guys doing now?,Inform; Elicit-Inform
+ES2002d,D,2240.59,2241.45,0.86,Do we know what the other ones are?,Elicit-Inform
+ES2002d,C,2242,2242.88,0.88,I I don't know.,Inform
+ES2002d,B,2243.01,2243.56,0.55,You dunno?,Comment-About-Understanding
+ES2002d,C,2244.67,2244.84,0.17,Hmm.,Backchannel
+ES2002d,C,2249.94,2250.62,0.68,What did you call it?,Comment-About-Understanding
+ES2002d,A,2251.02,2253.9,2.88,Ninja Homer. See it looks like Homer Simpson,Inform
+ES2002d,C,2254.26,2256.87,2.61,"Huh, huh. Logo.",Other
+ES2002d,A,2255.03,2259.89,4.86,but it's electronic so it's made in Japan. Yeah it's just a logo.,Inform
+ES2002d,C,2260.67,2260.9,0.23,Huh.,Backchannel
+ES2002d,C,2264.16,2264.32,0.16,Mm.,Backchannel
+ES2002d,A,2265.6,2269.68,4.08,The the red is supposed to represent the whatever else you wanna print on the side of it.,Inform
+ES2002d,C,2270.09,2270.45,0.36,Mm-hmm.,Backchannel
+ES2002d,B,2271.19,2272.22,1.03,I think it's quite nice.,Assess
+ES2002d,C,2271.4,2273.23,1.83,Fashion technology or something.,Suggest
+ES2002d,C,2276.86,2278.65,1.79,"Hmm, hmm, hmm.",Other
+ES2002d,B,2279.57,2285.19,5.62,"Oh no, that's cool, it's got I'm kind of I'm slightly gutted that we couldn't get plastic and rubber, I think that would have been nice.",Assess; Fragment; Stall; Inform
+ES2002d,C,2280.87,2281.35,0.48,Hmm.,Backchannel
+ES2002d,A,2281.32,2282.05,0.73,It's clunky.,Assess
+ES2002d,C,2284.92,2285.74,0.82,"Yeah, yeah.",Assess
+ES2002d,B,2286.35,2290.24,3.89,"Ah well, maybe from now on real reaction should give us more money.",Other; Suggest
+ES2002d,C,2289.04,2289.45,0.41,Mm-hmm.,Backchannel
+ES2002d,A,2290.32,2313.37,23.05,"Oh, I did learn something new, Play-Doh is useful. No it is it is. It is useful and in in in in in in in um conceptualizing, in being creative. 'Cause like you say, it's something you can put your hands on and feel and touch and get a sense for. Like we were playing with the Play-Doh and the ideas came with the Play-Doh rather than with everything else. You might wanna write that down. It's just, I'm just fiddling with the Play-Doh, and I'm going yeah yeah it's kinda cool.",Inform; Suggest
+ES2002d,C,2290.55,2290.66,0.11,Hmm.,Backchannel
+ES2002d,B,2293.64,2294.15,0.51,Play-Doh s,Other
+ES2002d,C,2295.48,2295.86,0.38,Huh.,Backchannel
+ES2002d,C,2298.07,2298.37,0.3,Huh.,Backchannel
+ES2002d,B,2300.1,2300.7,0.6,Really?,Elicit-Inform
+ES2002d,B,2303.46,2303.89,0.43,Yeah.,Backchannel
+ES2002d,B,2307.59,2308.07,0.48,Did they?,Other
+ES2002d,C,2309.96,2310.38,0.42,Yeah.,Backchannel
+ES2002d,B,2310.69,2311.1,0.41,Okay.,Backchannel
+ES2002d,B,2312.58,2314.43,1.85,Play-Doh.,Other
+ES2002d,C,2313.08,2314.03,0.95,"No, it's true, yeah.",Assess
+ES2002d,D,2314.66,2316.24,1.58,Guess I'd forgot how good s Play-Doh smells.,Inform
+ES2002d,C,2316.82,2316.96,0.14,Hmm.,Backchannel
+ES2002d,C,2318.56,2320.5,1.94,And some Play-Dohs are actually I think edible aren't they?,Inform; Elicit-Inform
+ES2002d,A,2320.96,2321.99,1.03,"No, all Play-Doh is edible.",Inform
+ES2002d,B,2320.97,2323.68,2.71,"Yeah like the stuff for I think it has to be, yeah.",Fragment; Inform
+ES2002d,D,2321.71,2323.83,2.12,I think they're all non-toxic 'cause it's aimed for like two-year-olds.,Inform
+ES2002d,C,2326.47,2327.1,0.63,"Wow, hmm.",Assess
+ES2002d,B,2326.58,2330.07,3.49,Yeah um so to wha what are your summarising words about Play-Doh?,Stall; Elicit-Inform
+ES2002d,A,2331.35,2340.69,9.34,"It's helpful to the creative process. Um it engages all your senses not just your sight, but your sense of feel your sense of touch. And it helps you to understand",Inform
+ES2002d,C,2332.17,2332.29,0.12,Huh.,Backchannel
+ES2002d,B,2333.49,2334.11,0.62,Okay.,Backchannel
+ES2002d,C,2337.32,2337.5,0.18,Yep.,Backchannel
+ES2002d,A,2342.02,2357.15,15.13,"dimension as well. I think that that's very helpful because it it starts to pop up, whereas on a piece of paper, on a computer, on a board, um even with a three D graphic thing it still, it requires a lot of yeah tangible, that's a nice word. It becomes tangible.",Inform; Assess
+ES2002d,B,2343.25,2343.66,0.41,Yeah.,Backchannel
+ES2002d,B,2347.76,2348.3,0.54,Yeah.,Backchannel
+ES2002d,C,2347.77,2349.74,1.97,"Mm-hmm, yep. Yeah.",Backchannel
+ES2002d,D,2352.26,2353.26,1,Yeah it's not very tangible.,Assess; Inform
+ES2002d,C,2352.76,2353.15,0.39,Yeah.,Backchannel
+ES2002d,B,2354.05,2354.8,0.75,Mm-hmm.,Backchannel
+ES2002d,C,2354.49,2355.95,1.46,"Mm-hmm, mm-hmm, mm-hmm.",Backchannel
+ES2002d,C,2357.61,2357.94,0.33,Mm-hmm.,Backchannel
+ES2002d,B,2358.76,2360.01,1.25,Tangible.,Other
+ES2002d,B,2370.26,2375.7,5.44,Mm. I don't know if there's anything else we needed to discuss.,Inform
+ES2002d,A,2373.56,2373.71,0.15,Nope.,Assess
+ES2002d,B,2377.06,2378.41,1.35,That that's about it really.,Inform
+ES2002d,B,2381.59,2383.44,1.85,Just sit still I guess for a little while.,Suggest
+ES2002d,C,2383.59,2386.67,3.08,"Do we retreat to our, to continue our",Elicit-Inform
+ES2002d,A,2387.12,2390.64,3.52,I think we could probably do it here as long as we don't collaborate.,Suggest
+ES2002d,C,2388.37,2389.7,1.33,r reporting or what i,Fragment
+ES2002d,B,2389.81,2395.28,5.47,Well I dunno. Um I'm sure the little uh the little thing'll pop up any minute now.,Inform
+ES2002d,A,2395.86,2397.04,1.18,Can we turn off the microphones?,Elicit-Inform
+ES2002d,B,2398.3,2400.86,2.56,"Yeah, yeah if the meeting's over then yeah I guess so.",Inform

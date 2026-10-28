@@ -1,0 +1,585 @@
+[0.00 - 2.00] I'll wait until you're all in, I think so.
+[15.02 - 18.58] Ah, good grief.
+[57.12 - 59.92] Thank you.
+[78.16 - 88.62] Welcome back everybody. We've had fun. This is our conceptual design meeting.
+[88.62 - 95.74] I think we're slightly ahead of ourselves from the last meeting.
+[96.28 - 98.12] Yeah, I was getting the impressionism.
+[98.14 - 111.42] I think, yeah, this is where we talk about properties, materials, user interface, and trend watching.
+[112.36 - 119.52] So I think we've touched on a few things to that already, but we'll just go over it.
+[122.50 - 136.12] The minutes from last time, we had a couple of changes in our plans in that we couldn't use teletext, it wasn't going to be a control for everything.
+[136.12 - 141.86] And that we had to incorporate the image of a company into it sometimes.
+[144.26 - 150.62] We have decided on leaving out the voice recognition.
+[151.72 - 159.44] We've decided on there being a flip design and a different shape from what's normal.
+[160.12 - 164.06] We were thinking a shell, but something along those lines is just a different shape from what's normal.
+[168.76 - 179.48] You were going to look into the rechargeable batteries, and we were going to think about the port, and an alarm for getting it lost, things like that.
+[179.48 - 187.52] And our market was going to be young business kind of range.
+[188.96 - 191.04] Okay, so should we start with the first presentation?
+[191.96 - 194.44] Yes, if you could just connect up.
+[217.02 - 221.76] Okay, so we decided on our market.
+[221.76 - 226.96] And so this feedback from the marketing department is really about trend watching.
+[229.36 - 241.62] The methods we use to decide on current trends and so on, market trends, we did our traditional, our usual market research study with our hundred subjects.
+[242.76 - 249.32] And the general feedback from them is that the most, I'm sorry, I'm slightly tongue tied after lunch.
+[250.94 - 256.38] We decided on the most important aspect required in a remote control device, and we'll come to that later.
+[256.64 - 257.92] So that was one of the first things we did.
+[258.48 - 268.50] Also with our company being forerunners in putting fashion into technology, we also looked at a fashion update using our consultants on fashion and design in Paris and Milan.
+[269.76 - 285.16] So the general findings from that was that in the market trends, the most important aspects for remote controls were people want a fancy look and feel rather than the current functional look and feel of remote controls.
+[285.88 - 289.42] They also also want a remote control to be technologically innovative.
+[290.66 - 293.84] And of course, as you predicted, that it should be easy to use.
+[294.28 - 299.66] Now, I should point out that the first of those findings, fancy look and feel is the most important.
+[299.80 - 306.32] It's twice as important as the second technologically innovative, which is in turn twice as important as being easy to use.
+[307.80 - 311.20] So possibly that the feature that we put first is actually third.
+[311.30 - 316.02] It's still important, but it's third in order of preference for the subject that we looked at.
+[316.86 - 334.56] Now, the fashion update, which relates to very personal preferences among our subject group, we found from our consultants in Paris and Milan, who attended all the design and fashion fairs then, that fruit and vegetables are going to be the theme for clothes, shoes and furniture.
+[335.14 - 339.02] So should we be thinking of using something like that in our remote control design too?
+[339.72 - 346.92] There also seems to be a trend towards a spongy feel to materials, again, in contrast to last year.
+[347.96 - 353.56] So a lot of interesting feedback there, both in our market research departments and from our people in Paris and Milan.
+[354.34 - 356.38] It'd be interesting to see what our design people make of that.
+[357.18 - 358.66] Okay, thank you very much.
+[361.46 - 363.58] Let's start from the inside and work our way out.
+[364.50 - 367.58] If anyone has any questions about that, not yet.
+[383.74 - 392.44] I hate those little things, especially if you do them on too tight.
+[411.32 - 419.52] This is all about the design of the components and the availability of the components we have in stock.
+[422.44 - 438.62] Okay, first, into the method, the main idea of the whole thing is just so you just press buttons and it should activate things on the TV and we discussed last meeting, it should be easy to find.
+[439.96 - 450.40] Also, in this study, I've looked into the availability of some of the materials because some of the things that we looked at last time unfortunately aren't available.
+[453.54 - 455.84] I've got my nice little picture there.
+[455.96 - 467.04] This is the chip called the TA-11835, which is what's used in pretty much every remote control because it sends out standard signals based on your input.
+[468.48 - 473.48] It's pretty much used for all TV remotes at the moment.
+[475.32 - 478.52] Then we're looking into battery options.
+[480.10 - 483.98] There's actually no rechargeable option available.
+[485.22 - 493.32] I saw the standard AA and AAA, which we thought were a bit too bulky at the moment.
+[493.86 - 498.12] Dynamo charging, I thought that might be a bit silly to be honest.
+[499.20 - 504.78] It's basically like wind up radio, so you wind up your remote control before you use it.
+[505.20 - 512.16] How long can you get out of that? Can you pick it up and then wind it for two minutes and then that's it for the night?
+[512.66 - 526.42] Yeah, I presume you wouldn't have to wind it for very long, but I don't think it's really necessary when you think of the next two options like the solar charging.
+[527.06 - 532.68] Because most people have the light on in the room anyway, so they could get when you've got TV.
+[532.68 - 534.30] Does this light charge a sun light up?
+[536.12 - 537.16] Is it?
+[540.36 - 545.86] Regarding the sizes, which one do you think will be like because we have to take into consideration the size also.
+[546.18 - 551.22] So maybe standard AAA might take less space and Dynamo might take more space.
+[551.22 - 557.02] Yeah, it would. The Dynamo would take more space because you actually need a physical sort of handle to wind up.
+[557.10 - 561.86] I'm pretty sure that solar is from the sun. I don't think it counts.
+[562.98 - 571.12] But I mean, you don't want to limit your market. I mean, people who live in basements, there's not that many people.
+[571.28 - 572.90] I know a different part of the world too.
+[575.64 - 580.56] Most people also watch TV in the night anyway.
+[581.38 - 586.94] But then it would be charging through the day. I think the point is it charges through the day and then you've got it charged.
+[587.26 - 598.28] But I think the next one's the best anyway, the kinetic charging, which is like you get it in wristwatches and you don't even notice it.
+[598.28 - 603.66] I mean, the amount of probably moving around you'd be doing all the time would charge it up.
+[603.84 - 607.96] I don't think you'd ever need to actually physically start shaking it up to make it work.
+[608.66 - 613.48] And what is the life of the kinetic battery? It runs for a long time?
+[613.48 - 621.68] Yeah, it charges into some form of, it's a smaller cell, which it charges into.
+[623.14 - 628.28] And the size of a watch battery because they use them quite frequently in watches.
+[628.98 - 639.34] And that would last for, well, I'm not entirely sure how long it would last, but I've never seen one run out.
+[639.78 - 644.98] But then if you think about a watch, it's on your wrist, so it's on your body the whole time.
+[646.00 - 649.76] So you're walking around, you're doing things. It is moving a lot of the time.
+[650.40 - 655.08] I mean, you switch the TV and then you put it on the side, then you pick it up to change it and then you put it on the side.
+[655.26 - 662.92] Yeah, but then again, I think it is because if you think about it, the watch, although it's only a tiny amount,
+[666.68 - 672.38] it's always moving for the whole day and they don't run out overnight when you leave them on the side.
+[673.66 - 681.68] And for the same reason, you're only using it for an incredibly short amount of time just to send the signal and then you're finished with it.
+[681.80 - 683.14] So it's not the draw on it?
+[683.26 - 686.02] No, no, I don't think the drawing would be.
+[686.34 - 691.20] And could I just ask, referring back to solar charging, is that compatible with standard batteries?
+[691.20 - 697.04] I mean, could people put standard batteries in, but they could leave it in the sunlight for solar charging, or are the two things not compatible?
+[697.58 - 705.78] Yeah, you could have a dual power thing, but the thing with the solar cells is you would need to put them on the case.
+[708.32 - 714.58] Because on a calculator, they're quite big and they all look identical.
+[714.60 - 716.28] So that affects the exterior design?
+[717.72 - 718.24] They're expensive.
+[718.52 - 722.86] I presume the normal batteries are the cheapest.
+[723.12 - 724.90] Yeah, the normal batteries would be the cheapest.
+[725.16 - 737.28] I presume then it would actually be the solar charging ones, but I think they're not very resistant to dropping.
+[738.16 - 743.90] Because if you drop stuff, yeah, if you have the size you'd need to charge a remote, it wouldn't be that big.
+[743.90 - 756.02] But, I mean, remotes always get thrown around and stuff, so I think practically, I mean, calculators, you don't really throw around a lot.
+[757.16 - 758.44] Whereas remotes, you do.
+[759.48 - 762.44] A bit of grip, but don't calculators have a battery as well?
+[762.44 - 766.94] Yeah, they do. They've got dual things, but the batteries are smaller, I think.
+[766.94 - 777.40] The question is, which one would last the longest? Because we don't want customers to be charging a mobile phone every day, or remote control like that.
+[777.42 - 790.94] Yeah, so if you had something using the standard batteries and the solar charging, I don't think you'd...
+[792.28 - 796.10] Well, you know how long the standard AA's would last.
+[796.58 - 799.38] It would just detract from the attractiveness of the whole feature.
+[799.70 - 800.84] Yeah, I think it would.
+[801.74 - 806.14] Okay, can we add in an attachment to clothing feature?
+[806.98 - 807.22] Okay.
+[807.90 - 812.40] Can we think about that? Because if we're doing the kinetic thing...
+[812.40 - 815.46] Shouldn't we do some market research on that first before we add it in?
+[816.06 - 817.94] We'll add it in to think about it.
+[817.94 - 832.20] Okay, because if it is the kinetic thing, and it is small, and it is portable, and it is a different shape,
+[832.70 - 838.56] kinetic is something people don't do. We're doing something original and different.
+[839.86 - 845.20] But if you wore it, if it's something you could just clip on your pocket, then you would have that less.
+[845.20 - 848.48] You wouldn't lose it so much.
+[849.54 - 855.98] But then maybe that's looking at someone who's just sitting on their own rather than the eternal battle for control of it.
+[856.90 - 861.80] It's not something that's come up in any of our focus groups and market research.
+[861.96 - 866.10] It's not a thing that people are looking for when they throw it open to the field.
+[867.70 - 870.10] But it's something to put on the side to think about then.
+[871.42 - 873.24] Okay, well, I'll move on.
+[874.48 - 887.96] My second part of my findings, the most current remotes use this silicon PCB board, printed circuit board,
+[888.40 - 892.46] which basically has these contacts that are really close together.
+[892.66 - 896.72] And then when you press down on the rubber button, it'll connect the circuit.
+[896.72 - 904.32] And each switch is connected to different legs on the chip, and so sends a different message.
+[906.08 - 917.46] And that then gets translated by the chip into a code, and then it's fired out of this LED in a sequence of on and off bursts.
+[918.18 - 919.76] What kind of things do we have to consider there?
+[921.00 - 925.10] What kind of size does it come in varying sizes, or is it just one size?
+[925.10 - 934.36] Well, the thing about it is that they can be as big or as small as you want them to be,
+[934.60 - 937.72] because you can print a circuit board like that.
+[938.28 - 943.08] It's simply spaced like that, so you can fit the size of the nine buttons in.
+[943.56 - 949.92] If you see how thin the tracks are, you could put them virtually right next to each other
+[949.92 - 953.56] and have a much smaller switch on each one if you wanted to.
+[955.10 - 964.44] But there is an option to do it like that, or you could have some sort of array of switches,
+[964.44 - 966.42] which I'll speak about in the next bit.
+[971.54 - 976.28] To conserve battery life, remote should be in a standby mode while not being used.
+[976.28 - 981.56] Now what I was thinking about that was, because sometimes when you have these things,
+[981.70 - 986.28] they've got little lights behind the buttons, so you can see what all the buttons are.
+[986.28 - 992.06] Like on a mobile phone, they do it more often than on a TV remote.
+[992.30 - 998.34] But you could have lights behind the buttons, and after five or ten seconds and not being used,
+[998.48 - 1002.92] I'd have that turned off if we decided to go for buttons that could light up.
+[1005.32 - 1013.38] The case material, I've been sent what the factory can actually give us.
+[1014.52 - 1021.90] There's the plastic, which I think we were going to go for anyway, as the main case housing.
+[1023.88 - 1031.70] And the main problems with the, well, you could go for wood, but I think it would be a bit impractical.
+[1032.36 - 1040.12] Titanium, very expensive, just the process to make it is expensive.
+[1041.44 - 1046.98] And rubber, well, you're saying that people like this spongy feel this year,
+[1047.12 - 1053.62] so perhaps something made of rubber, but I was thinking more of the buttons,
+[1053.62 - 1065.60] because the buttons which they've put across are what is used in some stressful manufacture,
+[1066.54 - 1069.06] and it's meant to be anti-RSI.
+[1070.12 - 1076.16] I'm not sure how that would work, because surely your fingers would still be moving over the short distances.
+[1076.58 - 1078.56] But that's what they said.
+[1079.52 - 1094.04] The problem with the casing is that there's quite a few design restrictions that they've got on the shape of the case.
+[1094.18 - 1097.44] If you go for titanium, they can only do a standard box shape,
+[1098.06 - 1104.52] whereas if you come to plastic, they can do sort of curved shapes.
+[1104.52 - 1109.14] But whether or not, because we'd have it in two separate units.
+[1111.00 - 1112.34] So for the flip phone.
+[1112.68 - 1115.42] Yeah, and second question is like mobile, you can change the cover.
+[1116.22 - 1117.08] You can call it a skin or whatever.
+[1117.80 - 1121.22] So in this case, if you're looking at like the customer can change the color like from green,
+[1121.36 - 1123.28] parrot, green to chilli red or something like that.
+[1123.72 - 1128.26] Is that feature available in like titanium or it's like only specific to plastic?
+[1128.26 - 1132.28] Yeah, in titanium, I don't think it would be available at all really.
+[1133.88 - 1137.42] Well, you could make it available in the titanium.
+[1137.80 - 1144.50] It would be so expensive to buy a new case for it, because of the expense of how much titanium is.
+[1144.98 - 1151.46] It's light and strong, but I think it should be left for aircraft design rather than for a remote.
+[1151.74 - 1153.50] It does mark quite easily too.
+[1153.56 - 1157.96] If you let it fall, I've got a mobile phone myself, which is titanium, and it does mark very easily.
+[1158.64 - 1166.30] I was just wondering if we make the basic mold out of plastic, but have like a rubber cover that you give the spongy feel.
+[1166.72 - 1168.66] That also allows us to kind of have different functions.
+[1168.66 - 1169.82] And you can peel them off.
+[1170.04 - 1174.44] So instead of the fascia that comes off being plastic, the fascia that comes off...
+[1174.44 - 1175.50] Like a rubber sleeve almost.
+[1176.10 - 1180.86] Like those pens that you get with the grip that you can pull that off.
+[1181.94 - 1183.72] It would be comfortable to hold on to.
+[1184.22 - 1188.58] It's a very cheap way of changing the look of it, and people can just buy a new one if they want to.
+[1188.72 - 1192.76] Well, that's been really popular with mobile phones, so I don't think why not.
+[1194.46 - 1198.14] Also, just going back to the interface designs with the buttons,
+[1200.28 - 1203.50] we were planning to do some sort of touch screen.
+[1204.90 - 1208.44] Now, what I was saying before about instead of having...
+[1208.44 - 1211.90] You could have just a bare PCB circuit board.
+[1211.90 - 1215.46] And I'm sure you could probably get it in different colors.
+[1215.82 - 1219.40] And so just by touching it with your finger, it would make the connection.
+[1220.60 - 1224.02] If you had them close enough, that would be one option.
+[1225.30 - 1228.14] The second option, they offer rubber buttons.
+[1228.40 - 1232.76] But I thought that an LCD type of screen...
+[1232.76 - 1234.68] Because one, they're incredibly thin.
+[1236.06 - 1237.60] And don't take up much space.
+[1237.60 - 1243.88] Two, you can have them in a sort of array.
+[1244.06 - 1247.26] And you could arrange the buttons on the screen in a sort of set theme.
+[1248.02 - 1251.24] You could have them like a touch display.
+[1254.38 - 1258.68] Just what you said, I didn't get the meaning of it completely.
+[1259.24 - 1263.42] Oh, on the LCD screen, you could fit it.
+[1263.70 - 1265.86] The problem with it, basically, is that it's flat.
+[1265.86 - 1269.82] And so you can't do lots of curved things with it.
+[1270.40 - 1273.34] But you wouldn't have...
+[1273.34 - 1275.82] With the LCD, you'd have the wires coming off.
+[1276.66 - 1280.06] You wouldn't have that with the LCD.
+[1280.30 - 1282.12] You'd only have that with the printed circuit board.
+[1285.34 - 1286.62] Sorry to interrupt.
+[1286.86 - 1288.68] I don't see why the curved thing is a problem.
+[1288.82 - 1290.42] If we, for example, had a shell.
+[1290.90 - 1291.00] Yeah.
+[1291.66 - 1292.32] Once we open that.
+[1292.72 - 1294.10] You could have a flat screen inside.
+[1295.30 - 1298.98] But I'm just wondering whether we want an LCD screen inside.
+[1299.12 - 1300.58] It wouldn't be like full colour.
+[1300.94 - 1302.14] It would just be black and white.
+[1303.06 - 1305.04] But there'd be touch buttons.
+[1305.74 - 1307.28] So you wouldn't be pressing down on them.
+[1307.82 - 1311.80] Or we could have rubber buttons which are made of this material which is anti-IS on.
+[1312.30 - 1317.02] I think it would be good to have a contrast between if the whole thing is rubber.
+[1317.92 - 1321.80] It would be good to open it up and see something quite fancy looking inside.
+[1322.48 - 1326.98] If you had it bare, how would you distinguish where you had to press?
+[1328.32 - 1330.10] Yeah, I hadn't really thought of that.
+[1330.10 - 1332.02] There's still another idea. I don't know if it helps with that.
+[1332.22 - 1333.58] But just to do with the RSI.
+[1334.50 - 1335.86] Is it possible just as an option?
+[1336.30 - 1338.68] When we open it up, people can use their fingers to press the button.
+[1339.08 - 1341.26] Or we have inside like a small pointer thing.
+[1341.32 - 1344.34] Yeah, you could have some sort of stylus that you could pull out.
+[1344.68 - 1349.00] But I think they could get a bit easily lost.
+[1350.38 - 1352.00] Easier to replace as well.
+[1353.36 - 1357.84] A person who switches channels very often or uses a particular function very often.
+[1358.22 - 1359.82] He'll find it very irritating to use earlier.
+[1360.90 - 1363.90] And he might spoil the touchpad very fast compared to a button.
+[1364.86 - 1367.46] If you keep punching with a pointer or whatever.
+[1368.68 - 1371.48] They wouldn't actually need one and they could use anything they've got.
+[1371.60 - 1372.58] Couldn't they? A pencil or a pen.
+[1373.14 - 1373.96] So they wouldn't really need one.
+[1374.62 - 1375.76] Okay, we'll talk about that.
+[1375.76 - 1378.64] So if you finish here, I'll come back to that.
+[1378.64 - 1379.92] Yeah, that's the end.
+[1382.02 - 1384.36] Regarding the circuit, since we are having a flip-top,
+[1385.02 - 1387.46] we can customize the two circuits for different types of buttons.
+[1387.68 - 1389.16] We are keeping the standard buttons on the top
+[1389.80 - 1391.40] and the more complex buttons on the distance
+[1391.40 - 1393.08] so we can divide the circuit like this.
+[1393.66 - 1395.58] Yeah, that would be fairly simple.
+[1395.80 - 1400.20] I mean, you'd actually have two separate circuit boards,
+[1400.20 - 1406.36] but they'd be joined by wires or some cabling between them.
+[1407.54 - 1410.88] Because in the actual flip, you'd have some linking.
+[1413.14 - 1415.06] Just to raise another point that occurs to me,
+[1415.16 - 1417.24] it kind of applies to both our designers here.
+[1417.36 - 1418.50] I'm not sure how it would fit in.
+[1419.02 - 1420.18] If we flip open...
+[1420.18 - 1423.08] Now, you know how you've got some mirrors in nightclubs
+[1423.08 - 1425.50] that are mirrors when you turn to them and you turn away
+[1425.50 - 1427.02] and it gives an advertising display.
+[1427.26 - 1427.82] You've seen those?
+[1427.82 - 1428.12] No.
+[1429.02 - 1431.00] And they kind of respond to the turn of your body.
+[1431.46 - 1433.98] Is it possible that when we open our flip-top shell,
+[1434.72 - 1435.82] it's a little compact mirror,
+[1436.04 - 1439.00] and when you press a button, it then goes on to the phone display,
+[1439.64 - 1441.00] or the remote control display thing?
+[1441.56 - 1444.78] We are marketing to guys as much as we are to women.
+[1445.22 - 1446.16] They don't look at themselves?
+[1447.68 - 1448.34] Just a thought.
+[1448.76 - 1450.94] Well, it's remote control, you were sitting watching TV.
+[1451.10 - 1451.36] Yeah.
+[1451.58 - 1453.32] Are you going to want to sort of open it and say,
+[1453.42 - 1454.10] I know what you mean.
+[1454.36 - 1455.66] It's because I was using the ideas to mobile.
+[1457.26 - 1459.02] So there's using the ideas for mobile phones.
+[1459.14 - 1460.90] I've kind of got sidetracked onto that, I think.
+[1461.96 - 1463.66] I'm just trying to think of other features we can build in
+[1463.66 - 1464.58] that wouldn't cost too much,
+[1464.70 - 1466.00] but one would be that one on the side.
+[1466.32 - 1466.48] Yeah.
+[1467.46 - 1467.48] Okay.
+[1469.18 - 1470.90] I mean, you could do it.
+[1471.06 - 1472.54] You could have a...
+[1472.54 - 1476.94] Because if you just put the full charge through an LCD display
+[1476.94 - 1478.46] it would completely blank it out.
+[1479.24 - 1481.20] But I don't know if you could get any mirror effect on it.
+[1481.20 - 1482.50] I think I'll be forget about the mirror.
+[1482.66 - 1484.42] That was just a very quick passing thought, yeah.
+[1484.42 - 1484.86] Okay.
+[1486.00 - 1486.30] Okay.
+[1489.30 - 1491.60] Would like to share something which I did here.
+[1492.40 - 1494.06] First thing is basically on design,
+[1494.50 - 1496.58] we just took the input from the previous meeting,
+[1496.78 - 1498.62] especially from the marketing and industrial design
+[1498.62 - 1502.02] to check on the customer needs and feasibility.
+[1502.84 - 1504.16] Second is we checked into competitors.
+[1504.44 - 1506.18] The picture here shows what are the standard models
+[1506.18 - 1507.38] offered by competitors here.
+[1508.04 - 1510.28] So you generally see there is not much of variety
+[1510.28 - 1513.70] and like marketing team said, people need trendy.
+[1513.70 - 1514.90] They are bored of black and white.
+[1515.82 - 1517.80] So you generally see rectangular shape,
+[1518.74 - 1521.62] very monotonous kind of designs here.
+[1523.46 - 1526.58] And second thing is there's too much of confusion here.
+[1527.28 - 1529.00] No particular remote is standard.
+[1531.34 - 1534.88] Like some people have here.
+[1535.24 - 1535.76] You see this?
+[1536.14 - 1537.36] This is on...
+[1537.36 - 1540.00] I found that the only common feature
+[1540.00 - 1542.72] is the channel control and the volume control.
+[1542.72 - 1545.00] The other buttons, they are in a very disorganized
+[1545.46 - 1548.28] and they are not consistent with other models and all.
+[1549.64 - 1551.36] And second, as already discussed with William,
+[1552.02 - 1554.98] we are going to have maybe a GUI interface
+[1555.72 - 1557.48] in the middle of the flip-top.
+[1557.50 - 1558.54] Sorry, what does that sound like?
+[1558.84 - 1560.00] And a graphic user interface.
+[1560.26 - 1561.78] Basically which is what we do in computer.
+[1562.36 - 1563.54] Have icons or touchpad or whatever.
+[1564.48 - 1566.98] Yeah, if you have buttons that appear on the screen
+[1566.98 - 1568.26] and this LCD screen.
+[1568.26 - 1572.08] Like you have on all, icons are something you have.
+[1572.66 - 1574.92] It's a good example of GUI, graphic user interface.
+[1576.28 - 1578.38] So basically a person need not point or click
+[1578.38 - 1581.14] or press any particular device.
+[1581.22 - 1582.72] He just has to click on that particular icon.
+[1583.12 - 1583.54] That is simplified.
+[1584.46 - 1587.54] And on the top, repetitive buttons which are like volume
+[1587.54 - 1590.26] or channel changing and all could be on the pointing device.
+[1590.96 - 1591.92] That means use a button.
+[1592.74 - 1596.14] So he need not use a pointer to keep changing the channel
+[1596.14 - 1598.12] if a person is frequent so forth.
+[1598.94 - 1600.46] So we are having a combination of both.
+[1601.08 - 1603.56] So on the simpler board on the top,
+[1604.34 - 1605.62] we have this button, rubber buttons,
+[1605.70 - 1607.52] to keep frequently changing the channels.
+[1609.30 - 1612.82] Can we swap that round so that the ones that we use all the time
+[1612.82 - 1614.14] are on the bottom part?
+[1615.44 - 1617.14] If you were thinking about holding it,
+[1618.52 - 1620.62] you would be using your thumbs to press.
+[1621.64 - 1622.58] Just like a mobile phone.
+[1622.58 - 1626.94] You would flip it open and you would be...
+[1626.94 - 1628.18] Wouldn't you? Isn't that the idea?
+[1629.12 - 1631.04] If we just use the shell as an example again,
+[1631.10 - 1633.78] you open that, you have your LCD display there
+[1633.78 - 1634.76] and you have the buttons there.
+[1635.20 - 1636.30] That's what I was just saying.
+[1636.62 - 1637.74] But you can do it with your thumb.
+[1638.20 - 1640.44] And then have the LCD at the top
+[1640.44 - 1643.80] and then be able to touch that for the other controls.
+[1644.12 - 1649.24] So have the volume and the program, things like that.
+[1649.52 - 1650.08] And the lower display.
+[1654.86 - 1657.56] So the findings are too many cluttered buttons.
+[1658.70 - 1660.04] Repetition of certain patterns,
+[1660.24 - 1661.32] which I already explained, example,
+[1661.44 - 1662.76] the volume and channel control buttons.
+[1663.56 - 1665.58] All are confusing and inconsistent.
+[1666.24 - 1668.38] We had a latest finding of voice recognition.
+[1668.64 - 1669.12] There was a mail,
+[1670.38 - 1672.64] which mentioned that our division has developed
+[1672.64 - 1674.58] a new speech recognition feature.
+[1675.52 - 1679.30] We have to check into the financial feasibility
+[1679.30 - 1682.00] whether we can incorporate this at a low cost.
+[1683.42 - 1687.76] But we had a response from the customers
+[1687.76 - 1690.78] that they would like to have a feature of finding it.
+[1691.32 - 1692.68] So it could be like, where is the remote?
+[1692.98 - 1694.24] And the remote answers, I am here.
+[1695.38 - 1698.48] Some kind of thing or it gives a bleep sound
+[1698.48 - 1699.52] or some kind of sound.
+[1700.20 - 1701.16] And if this can be incorporated,
+[1701.38 - 1704.12] this would be more, you can say, trendy also
+[1704.12 - 1706.56] and technologically innovative also.
+[1708.72 - 1711.38] So we can check into the financial feasibility
+[1711.38 - 1713.16] of incorporating this.
+[1715.86 - 1717.88] My personal preferences would be like,
+[1718.30 - 1721.38] as already highlighted by the marketing department,
+[1721.62 - 1722.82] they want something to do with fruit.
+[1723.10 - 1724.88] So I wouldn't say the design should be like a fruit.
+[1725.54 - 1727.86] But yeah, we can take inspiration from fruit colors
+[1727.86 - 1733.90] like the vibrant colors, red chili, tomato red or whatever.
+[1734.80 - 1738.26] And second thing is certain standard buttons we should have.
+[1738.78 - 1740.90] For example, if you see the previous slide,
+[1745.42 - 1747.92] I think most of the users would now be well acquainted
+[1747.92 - 1750.64] with this central pattern here.
+[1751.68 - 1754.18] So we would not change that particular pattern
+[1754.18 - 1756.22] because this is the most consistent thing
+[1756.22 - 1757.16] in all remote controls.
+[1757.54 - 1758.08] I can't see that.
+[1758.08 - 1759.32] Is that play in store?
+[1759.86 - 1760.96] This is the central one.
+[1761.46 - 1763.24] Is that volume and channel?
+[1763.24 - 1767.82] So keep that standardized because that's the most common feature
+[1767.82 - 1768.68] across all models.
+[1769.32 - 1771.44] If you look at all the models, it's here.
+[1780.04 - 1781.40] Voice recognition.
+[1787.32 - 1788.98] Right, okay.
+[1790.84 - 1793.96] I'm not sure how long we've got left,
+[1794.52 - 1801.92] but we need to make a decision about the things we've discussed.
+[1803.24 - 1808.92] So do we agree on the battery?
+[1809.78 - 1810.20] Kinetic.
+[1810.50 - 1810.76] Kinetic.
+[1814.24 - 1818.02] That means that there's no function for the port.
+[1818.02 - 1820.72] You know, that it sits and then pressing the button then having.
+[1821.34 - 1823.88] So we could incorporate voice recognition for finding it.
+[1824.76 - 1826.32] It's a gadget.
+[1827.58 - 1828.74] It's a selling point.
+[1828.84 - 1830.20] It's quite a cool feature to have.
+[1830.50 - 1834.82] And also, if they've got these parts already in stock,
+[1835.38 - 1837.98] then it won't be cheap to remanufacture them.
+[1838.48 - 1840.92] It will be cheap, so, to remanufacture them.
+[1841.54 - 1843.02] So do you reckon that's a good idea,
+[1843.16 - 1846.26] that where's the remote I'm here thing?
+[1846.26 - 1847.90] I think that would be quite fun.
+[1848.10 - 1853.52] I think the only, I think the only pitfall that we would have would be
+[1853.52 - 1854.96] how much it's going to cost.
+[1855.26 - 1857.92] That means we have to cut down somewhere else.
+[1858.34 - 1862.38] But I think pretty much we've used cheap,
+[1863.34 - 1864.90] relatively cheap and simple things.
+[1865.30 - 1866.34] The LCD's not cheap.
+[1866.62 - 1872.18] Well, it's not as expensive as it would be if it was full colour,
+[1872.38 - 1873.90] because they've just got a black and white one.
+[1873.90 - 1876.06] I mean, they use them in calculators.
+[1877.24 - 1879.24] Maybe we could start with the black and white.
+[1880.22 - 1880.24] Yeah.
+[1880.80 - 1881.62] That could be good.
+[1882.40 - 1882.94] Upgrade later on.
+[1884.18 - 1886.08] We talked about kinetic charging.
+[1886.26 - 1887.52] We seem to have decided on that.
+[1887.60 - 1889.36] Did we decide on double A or triple A batteries?
+[1890.60 - 1890.66] What?
+[1891.10 - 1892.82] You weren't like a backup?
+[1893.94 - 1894.08] No.
+[1894.42 - 1896.30] One of the decisions we had to make was whether we had double A
+[1896.30 - 1897.06] or triple A batteries,
+[1897.10 - 1898.76] because they've still got to be charged this way, haven't they?
+[1899.32 - 1903.22] No, the kinetic ones come with a sort of watch.
+[1903.22 - 1904.90] A battery that goes in the watch.
+[1905.28 - 1906.08] Right, OK, got you.
+[1906.16 - 1907.36] So it's a lot smaller.
+[1908.30 - 1909.32] Got you on that, OK.
+[1912.56 - 1914.94] OK, so we've got battery.
+[1916.12 - 1920.06] The inside components is pretty standardized across the board,
+[1920.18 - 1920.62] isn't it?
+[1921.12 - 1921.56] Yeah.
+[1922.00 - 1924.22] So there's not really a decision to be made there.
+[1927.70 - 1931.00] The buttons, what did you give us, Arizona?
+[1934.40 - 1936.12] The bare board, LCD.
+[1936.42 - 1939.42] Yeah, I think we're going for the LCD on that one,
+[1939.52 - 1940.46] on the buttons.
+[1941.34 - 1944.70] On the top one.
+[1945.02 - 1946.38] On the top one, OK, you've got the touch.
+[1947.60 - 1947.82] OK.
+[1948.64 - 1949.22] And then...
+[1949.90 - 1952.50] On the bottom we were going to have the rubber ones,
+[1953.12 - 1955.10] the anti-RSI ones.
+[1956.58 - 1956.84] OK.
+[1959.56 - 1961.64] Sorry, could you repeat that last part?
+[1962.64 - 1967.36] OK, on the flip screen, the top one is going to be the LCD
+[1967.36 - 1969.80] and the bottom one is going to be the rubberized button.
+[1971.70 - 1972.64] And for the...
+[1973.32 - 1973.96] No, it's not.
+[1976.90 - 1978.72] For the body design, I think plastic.
+[1981.00 - 1981.48] Yeah, OK.
+[1981.74 - 1982.32] For the inside.
+[1982.66 - 1983.34] For the inside end.
+[1984.28 - 1987.76] Rubber as a padding or for the grip, something like to add to the design.
+[1989.14 - 1991.88] So we decided on a rubber casing for the plastic shell
+[1991.88 - 1993.62] and variety of designs, OK.
+[1995.90 - 1997.10] And it is just...
+[1997.10 - 1998.48] Oh, it's rubberized and spongy.
+[1999.10 - 2001.72] Apart from that, we're just going to go for sort of vegetable and fruit colours.
+[2001.90 - 2005.44] We're not going to try and make it actually a vegetable or fruit design
+[2005.44 - 2007.12] or anything else in the shell that we discussed.
+[2007.14 - 2012.74] No, I think we don't want to be tacky if we've got a different shape anyway.
+[2014.50 - 2018.04] The fact that the material that we would be using would be cheap.
+[2018.74 - 2023.46] So we could make it red, we could make it psychedelic.
+[2024.70 - 2027.18] You know, we could make it black and white zebra stripes.
+[2027.66 - 2031.64] But that's not really what we're focusing on, what we're focusing on, you know.
+[2031.78 - 2032.20] The feel.
+[2032.74 - 2032.96] Yes.
+[2034.14 - 2036.44] So we could just pick anything.
+[2037.62 - 2041.82] Is that going to be this image I've got in my head of something kind of shaped like that?
+[2041.82 - 2043.48] Maybe about that size.
+[2044.46 - 2048.74] Made of plastic, fits into the palm of the hand, rubberized cover that's spongy.
+[2049.18 - 2052.00] Is that really going to fit fancy looking feel,
+[2052.22 - 2055.00] which was the major thing that people wanted market research?
+[2055.20 - 2056.10] Is that something different?
+[2056.86 - 2057.14] It's just different.
+[2057.16 - 2058.92] It's just different from everything else.
+[2059.16 - 2066.48] And I mean, I'm trying to imagine clean looking houses sort of beige and black.
+[2068.16 - 2070.52] Do you either want something that goes with that,
+[2070.52 - 2072.46] which is what's on the market anyway,
+[2072.98 - 2075.94] or you want something that contrasts as, you know,
+[2076.04 - 2080.70] like you get clocks now that are more of a talking point than an actual clock.
+[2080.96 - 2081.02] Yeah.
+[2081.58 - 2082.30] Because they're so interesting.
+[2082.30 - 2084.94] I'm just kind of pushing at that to see if you came out with anything else.
+[2085.16 - 2086.34] But I mean, I totally agree.
+[2086.86 - 2087.70] We looked at those remotes.
+[2087.88 - 2090.46] I mean, they are kind of anonymous, very similar looking things.
+[2090.78 - 2092.16] This would definitely be different enough.
+[2092.24 - 2093.84] I just wondered if anybody could come up with something.
+[2094.28 - 2096.80] And you would just have a, across the book,
+[2096.86 - 2099.24] you would have so many different options you could do.
+[2099.24 - 2102.76] You could have a plain black one.
+[2103.02 - 2105.22] You could have sparkly pink.
+[2105.52 - 2108.62] One of the things is the rubberized covers are going to be so relatively cheap to produce
+[2108.62 - 2111.62] that if in a year's time we get feedback from the design fears
+[2111.62 - 2112.84] that show something else is coming,
+[2113.02 - 2116.08] it's so easy for us to just produce that and it can be slipped on,
+[2116.28 - 2117.68] which is another beauty of it.
+[2117.80 - 2120.16] Ones that have rubbery spikes.
+[2121.24 - 2124.04] You know, you can just go so far with it.
+[2124.74 - 2125.40] Like a puffer fish.
+[2126.36 - 2127.18] You could take it wherever.
+[2127.18 - 2130.02] So I think that's quite flexible.
+[2130.96 - 2132.70] And finally, the body should be detachable.
+[2133.00 - 2134.26] Maybe you can change the body.
+[2135.10 - 2136.72] Or the case casing, the case outside.
+[2137.40 - 2141.02] It should be molded with the design in such a way you can change it every time.
+[2141.60 - 2142.08] Yeah, yeah.
+[2142.30 - 2144.18] With these rubber, these rubberized,
+[2144.98 - 2149.42] not the actual plastic outside case, just the rubber.
+[2150.14 - 2150.50] There you go.
+[2151.32 - 2153.28] Okay, we've got five minutes.
+[2154.16 - 2156.98] Oh, that might have been up for a while.
+[2157.32 - 2158.84] So can I just recap, Sarah?
+[2159.28 - 2159.44] Yeah.
+[2159.96 - 2160.94] For the decisions that we've made,
+[2161.08 - 2163.22] kinetic charging, the watch-type batteries,
+[2165.52 - 2168.44] LCD display on the top side of the flip-top,
+[2168.78 - 2170.72] rubberized buttons on the bottom side.
+[2171.04 - 2173.22] We're going to use fruit and vegetable colors for the rubber cover.
+[2173.44 - 2174.78] The case itself is plastic.
+[2175.76 - 2176.74] That's how far we've got.
+[2176.88 - 2178.54] What else do we have to add to our decisions here?
+[2180.18 - 2180.62] Fine.
+[2181.24 - 2183.18] We're talking of voice recognition also.
+[2184.24 - 2189.10] Because we have not addressed the issue of how to locate remote control
+[2189.10 - 2189.78] if it's lost.
+[2191.12 - 2193.28] Yeah, it was just a cost issue with that.
+[2193.42 - 2194.20] But it's a good idea.
+[2194.36 - 2195.72] We just need to check on the cost.
+[2196.00 - 2198.04] Or maybe like William was suggesting in the last thing,
+[2198.14 - 2199.68] some devices you put on keychains.
+[2201.58 - 2202.24] Oh, yeah, yeah.
+[2202.60 - 2202.92] The whistle ones.
+[2203.18 - 2203.40] The whistle.
+[2204.32 - 2206.98] So we can financially voice recognition is not feasible.
+[2206.98 - 2208.12] We could go for a whistle.
+[2217.14 - 2219.40] And incorporating the company logo.
+[2220.74 - 2220.76] Yep.
+[2221.32 - 2221.98] Have you...
+[2223.04 - 2225.32] Sorry, but we'll be incorporating on the design.
+[2226.34 - 2228.84] Because I took it from the feedback you gave in the last meeting
+[2228.84 - 2230.16] from your report.
+[2230.60 - 2233.20] It's not just a case of having a little RR hidden somewhere.
+[2233.28 - 2235.40] They do want it to be obvious that it's our product.
+[2235.60 - 2236.18] Well, they do.
+[2236.18 - 2238.52] But I think we can...
+[2238.52 - 2240.00] Since it's the only one of its kind on the market,
+[2240.28 - 2240.94] it's obviously going to be ours.
+[2240.94 - 2241.06] Well, it is.
+[2241.30 - 2243.80] I think you just addressed that with advertising.
+[2244.38 - 2244.40] Yeah.
+[2245.22 - 2248.48] You associate the name with the individual product that it is.
+[2248.56 - 2248.80] Okay.
+[2248.92 - 2250.34] And that does the work for you.
+[2250.38 - 2252.32] Obviously, you'll have a logo on it just like everything.
+[2252.64 - 2254.18] But everything else has a logo on it.
+[2254.26 - 2256.64] The point is that it's got to stand out somehow differently.
+[2257.08 - 2257.32] Okay.
+[2257.34 - 2258.96] But I think it does without that.
+[2259.26 - 2260.28] So I'm not worried about that.
+[2260.36 - 2260.62] Okay.
+[2261.50 - 2262.22] Did we...
+[2262.22 - 2264.28] I know at the last meeting we spoke about a beeper.
+[2264.34 - 2265.98] I think that was you talked about a beeper for a location.
+[2265.98 - 2268.06] Have we just rejected that and beeper voice recognition?
+[2268.74 - 2269.92] Depending on how...
+[2269.92 - 2271.56] Yeah, depending on the expense of it.
+[2271.68 - 2275.78] I mean, we've got this memo saying that it's something that the company's looking into.
+[2276.10 - 2277.00] And they've got in stocks.
+[2278.12 - 2279.58] That seems to make sense.
+[2279.76 - 2281.38] But if it turns out that it's hugely expensive,
+[2281.38 - 2283.00] we'd have to cut down somewhere else,
+[2283.46 - 2286.06] then it's worth thinking about.
+[2286.94 - 2290.74] But I think we'll find out more about cost afterwards.
+[2291.40 - 2291.72] Right.
+[2292.14 - 2293.18] I'm going to wrap it up today.
+[2296.72 - 2297.86] End meeting now!
+[2298.16 - 2299.60] Did it?
+[2299.84 - 2299.86] Yeah.
+[2301.70 - 2301.74] Sorry.
+[2302.60 - 2303.36] I'll be in a bush now.
+[2304.98 - 2305.98] So I think we've probably got...
+[2306.68 - 2307.36] We've got to go through.
+[2307.56 - 2308.54] Instead of proposing we have 40 minutes.
+[2309.64 - 2312.18] So I think we've probably got about that time before we come back.
+[2314.02 - 2318.80] It's either that or we only had 40 minutes to discuss what we discussed.
+[2319.70 - 2320.96] I don't know how long that took me.
+[2321.48 - 2323.80] I think we're pretty going in a clear direction now.
+[2325.98 - 2326.66] Is everyone happy?
+[2328.56 - 2329.14] That's good.
+[2330.10 - 2330.42] Okay.

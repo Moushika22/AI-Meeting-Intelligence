@@ -1,0 +1,13 @@
+﻿meeting_id,aligned_file_exists,turns_file_exists,aligned_segments,matched,needs_review,blank_text,invalid_aligned_timestamps,missing_speaker_on_matched,speaker_turns,invalid_turn_timestamps,missing_turn_speaker,turns_over_30_seconds,status
+ES2002a,True,True,227,211,16,0,0,0,355,0,0,1,OK
+ES2002b,True,True,741,725,16,0,0,0,532,0,0,16,OK
+ES2002c,True,True,853,842,11,0,0,0,535,0,0,16,OK
+ES2002d,True,True,869,843,26,0,0,0,887,0,0,10,OK
+ES2003a,True,True,186,170,16,0,0,0,121,0,0,4,OK
+ES2003b,True,True,575,564,11,0,0,0,291,0,0,20,OK
+ES2003c,True,True,344,335,9,0,0,0,274,0,0,13,OK
+ES2003d,True,True,799,774,25,0,0,0,537,0,0,10,OK
+ES2004a,True,True,306,291,15,0,0,0,298,0,0,0,OK
+ES2004b,True,True,645,628,17,0,0,0,484,0,0,14,OK
+ES2004c,True,True,585,577,8,0,0,0,530,0,0,13,OK
+ES2004d,True,True,610,587,23,0,0,0,669,0,0,10,OK

@@ -1,0 +1,2 @@
+﻿meeting_id,source_file,source_sha256,model,status,language,language_probability,audio_duration_seconds,segment_count,elapsed_seconds,started_at_utc,completed_at_utc,error
+ES2002a,ES2002a.Mix-Headset.wav,9c76866990fcc8b84006dc32d273ad99df439090b748ebe72103bb78c3216ee7,small.en,COMPLETED,en,1,1272.64,35,44.19,2026-10-27T05:57:56.209169+00:00,2026-10-27T05:58:40.506696+00:00,

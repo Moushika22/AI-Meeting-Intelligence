@@ -1,0 +1,186 @@
+[1.88 - 3.64] Well, I think we're ready to begin.
+[6.02 - 7.48] My name's Adam Jugod.
+[7.56 - 8.90] We're here because of Real Reaction.
+[10.62 - 14.40] We have in the group Ebenezer Ademisoy.
+[16.02 - 16.70] Do you want me to scroll there?
+[19.04 - 20.24] Yeah, go for it mate.
+[21.00 - 21.42] NEZ.
+[22.04 - 22.52] NEZ.
+[24.54 - 24.78] Ebenezer.
+[25.08 - 25.92] And your role is?
+[26.32 - 28.08] I'm the marketing expert.
+[28.50 - 29.54] You're the marketing expert.
+[29.74 - 29.98] OK.
+[32.96 - 34.10] Next we have?
+[34.52 - 34.92] TARAC grammar.
+[35.36 - 36.24] T-A-R-I-K.
+[36.54 - 37.52] T-R-I-K.
+[38.50 - 39.76] And your role in this is?
+[40.24 - 40.66] Industrial designer.
+[41.12 - 41.74] Industrial designer.
+[47.46 - 49.08] And lastly we have?
+[50.12 - 50.66] Dave Cochran.
+[52.64 - 54.48] And you're going to be the user interface?
+[54.52 - 54.96] The user interface.
+[55.08 - 55.68] The designer interface.
+[55.70 - 55.94] OK.
+[59.40 - 59.96] And Dave Cochran.
+[61.82 - 62.30] Right.
+[63.02 - 64.46] This is the agenda for today's meeting.
+[64.74 - 69.08] As you can see, opening, acquaintance, tool training, project plan, discussion, and closing.
+[71.22 - 74.42] We've already gone through opening and partially through acquaintance.
+[75.82 - 79.24] So the reason we're here, we're going to design a new remote control as you probably
+[79.24 - 79.70] all know.
+[81.34 - 84.50] The very broad overview is original, trendy, and user friendly.
+[85.22 - 88.42] Of course we'll have to go into a bit more detail than that.
+[90.00 - 95.08] But personally I think that the original is going to be a very key aspect of this design.
+[95.96 - 98.86] There's a lot of remote controls out there anyway, so we're going to need something
+[98.86 - 100.12] that's really going to set it apart.
+[105.52 - 107.68] This is how today seems to be going to work.
+[107.80 - 111.72] We're now in the 3K phases, as you've probably already been told, the functional, architectural,
+[111.88 - 112.82] and the detailed design.
+[118.66 - 122.04] The first one's going to be covering the user requirements spec, technical functions,
+[122.18 - 122.80] working design.
+[123.64 - 126.74] The second seems to be conceptual components, properties, materials.
+[127.08 - 131.72] And the last one is a detailed analysis of our design so far.
+[131.88 - 134.04] Of course you've all got the similar emails, I believe.
+[137.44 - 138.72] What can I say?
+[139.50 - 142.54] Every user, do you want to draw your favorite animal?
+[143.72 - 143.90] Sure.
+[154.92 - 158.86] I'm going to make this quick, since we don't have much time.
+[202.26 - 203.38] Thank you.
+[212.08 - 214.70] Okay, so it's not the best picture in the world.
+[216.00 - 216.94] Here we have an elephant.
+[218.26 - 221.48] First point begins with an E, same like Ebenezer.
+[223.16 - 226.56] Also elephants have a very good memory, much like myself.
+[227.50 - 231.10] And I can't remember back when I used to live in Nigeria, but I think I used to
+[231.10 - 232.70] have a pet elephant.
+[234.62 - 236.78] So elephants are big, strong, and gentle.
+[237.02 - 238.14] And they have great memories.
+[238.84 - 241.66] And it begins with the letter E, just like Ebenezer.
+[243.78 - 245.24] Brilliantly done. Thank you.
+[247.54 - 252.32] Eric, would you like to have a shot at a bit of artistry?
+[253.98 - 254.82] It's supposed to come all the way.
+[255.96 - 257.76] Oh, you can clip them to your bell.
+[257.82 - 258.32] Oh, thank you.
+[258.32 - 263.68] You should also have your lapel mic on as well.
+[264.02 - 267.26] Oh, that's good. We can clip them on.
+[267.74 - 269.74] Okay, yeah, there's this microphone as well, that's you.
+[274.74 - 275.62] Just somewhere.
+[285.12 - 291.10] It's just across here, that's it.
+[299.04 - 300.64] Is this supposed to be clipped?
+[301.16 - 301.70] I think so.
+[301.70 - 304.92] Yeah, it'll follow you if you...
+[304.92 - 306.18] There we go.
+[308.30 - 309.86] You can probably just stick it in your pocket for now.
+[310.02 - 310.86] I wouldn't worry too much.
+[311.28 - 311.82] You should have a good ring.
+[316.92 - 319.04] Yeah, I'm destroying your outfit here.
+[344.72 - 346.14] Thank you.
+[388.88 - 391.68] Thank you.
+[393.40 - 395.20] All right, here we have a tiger.
+[397.84 - 398.88] I've always loved tigers.
+[399.66 - 401.00] They're just the biggest cats.
+[401.92 - 403.98] They're a project on Cats of the Wild one as a kid.
+[404.70 - 408.22] And it was my favorite cat just because it looks the best.
+[408.92 - 409.86] The stripes, orange.
+[410.16 - 411.14] My dad used to talk about it.
+[411.14 - 414.40] He's from Bangladesh, so he used to tell me about it when he was a kid.
+[415.32 - 421.30] And they're just the most feared of animals in the wild.
+[421.30 - 426.06] So that's why that didn't end them at me really well.
+[428.20 - 428.52] Excellent.
+[428.74 - 429.54] Thank you very much.
+[429.86 - 433.22] Dave, if you'd like to have a dash.
+[479.88 - 481.28] Thank you.
+[510.90 - 511.20] Thank you.
+[539.88 - 541.28] Thank you.
+[541.30 - 549.40] Thank you.
+[549.40 - 556.48] Thank you.
+[561.18 - 562.16] Thank you.
+[562.16 - 562.20] Thank you.
+[562.20 - 562.22] Thank you.
+[562.22 - 562.24] Thank you.
+[562.24 - 562.26] Thank you.
+[562.26 - 562.42] Thank you.
+[563.36 - 564.38] Thank you.
+[566.04 - 567.28] Thank you.
+[567.28 - 574.76] A lot of bleak reverence, in fact, to my three-year-old daughter who is affectionately known as Miss Monkey.
+[576.22 - 579.20] Monkeys have attitude, which I think is a good thing.
+[580.06 - 587.98] And from the point of view of the study of human evolution, they and other primates are terribly interesting.
+[588.98 - 591.54] I like monkeys.
+[594.12 - 597.86] This one seems to have perhaps more attitude than most.
+[628.80 - 630.48] Thank you.
+[656.48 - 658.86] Hardly what I'd call the best drawing in the world, but it'll do for now.
+[659.58 - 664.76] Also not quite as feared as your average tiger, but cats are one of my favorite animals.
+[665.04 - 666.34] They're very independent.
+[666.96 - 668.92] They're snotty as hell at the best of times.
+[671.30 - 672.42] And what can you say?
+[672.54 - 673.90] You've got all of those qualities in an animal.
+[680.26 - 680.66] Right.
+[681.32 - 684.46] I think we've all managed to master every whiteboard there by looks of it.
+[685.14 - 686.54] So, onto it.
+[687.22 - 687.74] Project finance.
+[688.50 - 692.52] As you can see, 12.5 euros per unit.
+[693.38 - 695.84] That's not a terrible lot as far as I'm aware.
+[696.62 - 697.88] We're hoping to sell them for 25.
+[699.08 - 702.16] If we're aiming for 50 million euros, we're going to have to be selling an awful lot of them.
+[705.30 - 706.16] Oh, that was profiting.
+[706.92 - 708.70] That was an amount sold.
+[708.90 - 710.06] That's the amount made.
+[710.56 - 710.78] Okay.
+[711.08 - 712.20] Well, 50 million.
+[712.78 - 718.74] And if you're making 12.5 euros in each one, then an awful lot needs to be sold.
+[721.04 - 721.48] Okay.
+[722.20 - 724.92] Now we better actually just get on with the meat of the project.
+[726.10 - 728.32] So, I'm going to guess that we've all used remote controls.
+[730.38 - 734.86] Any ideas of where you think a new remote control could go into this market?
+[737.52 - 743.72] Well, one thing I'm aware of is that there's sort of a very high price end of the market.
+[744.04 - 754.68] There's emerging markets for touch screen LCD remotes that can be programmed in much more sophisticated ways than conventional models.
+[757.70 - 761.72] You can redesign the interface to your own needs.
+[762.16 - 763.50] You can program in macros.
+[764.70 - 766.02] And you get a much greater degree.
+[766.64 - 777.60] You can get integration between the different things that is designed to control to a much greater extent.
+[777.82 - 784.26] You can have one macro to turn the TV to the right channel.
+[784.26 - 789.56] You can rewind the tape in the VCR and get it to play once it's rewound, for instance.
+[792.92 - 805.58] It occurs to me there might be a niche for a remote that aimed towards some of that sort of functionality but using a conventional push button design.
+[806.78 - 811.20] And therefore putting it into a much lower price bracket.
+[812.86 - 819.36] Okay, that's true. With the price range we're looking at, going for a touch screen would probably be possible.
+[820.04 - 825.58] But you think, again, something to control multiple units in a simple fashion?
+[826.24 - 830.42] Yeah, I mean you get ones that you can switch between multiple units.
+[830.80 - 835.24] That's something that could operate between multiple units in a more integrated fashion.
+[835.24 - 844.52] And ideally something into which we could have some at least limited facility for running macros.
+[845.72 - 853.28] Would the idea of something along the lines of one on button would turn on, say, the video recorder to TV, maybe the sound system as well, all in one go?
+[853.28 - 869.20] For instance, you press the play button for the DVD player and it turns the TV on and on to the right channel as well.
+[871.10 - 873.96] Okay, that sounds like a good strong idea.
+[877.68 - 879.00] Any takes on this?
+[879.00 - 884.66] Well, I've noticed that gaming is becoming quite popular with television.
+[885.82 - 893.36] When I was younger we used to play games using our cable, using the cable, subscribe cable providers.
+[894.56 - 902.92] But our remote controls get worn out really easily and the remote control is not a great kind of keypad for playing games.
+[902.92 - 908.96] So perhaps one that was more specialized for game playing or interactive television.
+[909.74 - 917.24] They recently brought out this new remote control for people to set their favorite channels or to record things.
+[917.62 - 926.96] Instead of people entering in what time things start, you simply slide a bar to say what time it begins and slide another bar to say what time it ends.
+[927.68 - 930.24] Yeah, I've seen the barcode design before, yeah.
+[930.86 - 937.68] It's taken out, you don't have to be really clever to use a remote control.
+[937.80 - 942.38] And I think for gaming, you want some big buttons for up, down, left and right, shoot.
+[944.68 - 952.42] You want to be able to change angles in interactive television, so you need buttons to change the camera angles and stuff like that.
+[953.18 - 956.48] Okay, well we're beginning to run out of time now, so we've got a couple of ideas.
+[958.24 - 959.62] We'll have to work fast.
+[961.98 - 972.36] As you can see, we've got 30 minutes until the next meeting, so we'll have to try and decide on some of the basic functionality, how the user interface might work.
+[972.66 - 981.88] That will be a key aspect, especially if the idea of some kind of macro facility, because you have to program it, you have to have a lot of response back, or at least some kind.
+[987.76 - 990.48] And we're going to maybe try and have to figure out...
+[991.36 - 991.94] What the user wants.
+[992.16 - 993.28] What the user wants, yes.
+[994.70 - 1001.22] Right, has anybody got anything they'd like to add at this stage, anything they think that might have been missed so far?
+[1002.32 - 1009.14] Well, when you're talking about gaming and stuff, do you think they should have some sort of stick on it, rather than buttons?
+[1009.36 - 1010.48] Oh, okay, that's a...
+[1016.42 - 1023.00] I don't see why not. Almost everybody's probably used to a console by now, and all of them incorporate small d-pads in them.
+[1023.34 - 1029.64] In fact, even the mobile phones these days are beginning to use them as well, so it's probably an interface that most people are used to.
+[1032.88 - 1037.70] And that could allow easy navigation, user as a joystick as well.
+[1042.78 - 1059.70] Okay, maybe the other key feature that would be a good idea to have a building do is to make something fairly sort of ergonomic, something that fits as comfortably as possible into the hand.
+[1059.70 - 1074.10] Of course, it also allows for the possibility of a more sort of slightly unconventional, attractive shape for it overall.
+[1075.30 - 1081.06] So, small, stylish, and something that's just a little bit different.
+[1081.62 - 1087.58] Slightly sort of biomorphic and formed, but it would need to be sort of conformed with the shape of the hand more efficiently anyway.
+[1089.04 - 1094.56] Okay, that's definitely something that we should be able to do quite easily. I would have hoped so anyway.
+[1096.20 - 1108.98] Right, I'd say we finish this one up, we'll get started, I'll write up what we've kind of quickly done, and I'll get that out to everybody.
+[1110.52 - 1110.64] Yep.
+[1118.62 - 1126.68] And as far as I'm aware, we leave the microphones here, unless we're told otherwise, and just take the laptop for us.

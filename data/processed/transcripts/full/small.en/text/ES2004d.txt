@@ -1,0 +1,610 @@
+[3.58 - 10.86] She leaves them on the whole time, you get to look like a noodle the whole time.
+[35.20 - 39.36] Okay, minutes. We decided to use a kinetic charger.
+[40.68 - 48.40] Standard chip, because it can come in various different sizes, it wasn't going to be a problem factor.
+[49.56 - 55.92] We wanted a standby function. The case material is going to be soft, rubbery, changeable.
+[57.52 - 60.60] Buttons with a combination of LCD and rubber according to the design.
+[61.62 - 67.02] Bright, funky designs inspired by fruit, keeping with the hip kind of feel.
+[68.90 - 75.96] And to try and incorporate voice recognition software into our design until we can find out more about the cost of things like that.
+[77.66 - 81.02] And the rubber buttons that we'll use will be anti-RSI.
+[89.02 - 90.06] Prototype presentation.
+[90.64 - 93.82] I think that would be you.
+[94.78 - 99.22] Me and William bogged on a prototype and I think William is going to make a presentation on that.
+[99.68 - 103.28] Yeah, shall I show? Do you want to...
+[103.28 - 104.76] I can hold it like...
+[104.76 - 107.88] Do you want to hold it and I'll show you the presentation.
+[108.48 - 109.12] Can I just nick you?
+[109.14 - 109.90] Yes, yes you can.
+[114.38 - 118.06] It looks crazy over here.
+[128.14 - 129.90] Thank you.
+[129.90 - 143.44] Okay, so this is our look and feel presentation, our final presentation.
+[144.44 - 150.00] And we'll first look at the exterior of what we've come up with over there.
+[152.34 - 158.60] It's going to have a plastic body with a sort of standard colour.
+[158.98 - 165.44] Either we're thinking something fairly neutral like a white or a light blue or something.
+[165.44 - 175.34] This is underneath the rubberized outer casing, which there'd be sort of a wide choice, they would be attached.
+[176.04 - 177.80] But we can come up with that.
+[179.78 - 186.56] The wide choice of colours and sort of patterns, so you've got a lot of customisation with it.
+[188.66 - 192.16] It's obviously in a sort of clamshell design.
+[197.10 - 201.44] The top LCD screen that you can see there would be sort of...
+[204.28 - 205.86] The black and white touchscreen?
+[206.14 - 211.70] Yeah, it would be sort of inset into the top and the buttons at the bottom would...
+[211.70 - 214.74] So it will fully close flat.
+[214.74 - 215.74] Yeah.
+[218.10 - 224.10] And working on the inside, we've already decided on the kinetic batteries,
+[225.42 - 231.78] which actually thinking about it now, you could also probably attach to the flipping open and shut as well,
+[232.14 - 233.74] so that you could probably get...
+[235.34 - 235.90] Yeah.
+[240.04 - 247.36] We decided that the voice recognition system did actually say on the email that they were sort of coming in
+[247.36 - 252.34] and they were fairly easy to get hold of, so we presumed that they'd also be quite cheap.
+[252.82 - 256.48] So you'd have something like where you'd shout out where is the remote
+[258.24 - 261.04] and it'll shout back, I'm here or something.
+[264.40 - 269.28] And then, yeah, it won't shout out, I'm here or something.
+[269.52 - 271.08] It'll just shout out, I'm here.
+[272.20 - 275.56] Or something too similar about...
+[275.56 - 277.48] Yeah, if it was getting that...
+[277.48 - 280.64] Well, that could be something for next time, maybe.
+[281.54 - 284.22] You can have a remote that tells you exactly where it is.
+[285.78 - 291.26] There'd be a standard transmission with the TV using all the standard chips that we've talked about.
+[293.20 - 297.58] Obviously, because it's split over two different layers,
+[297.76 - 303.14] it would need two separate PCBs that would be joined at the hinge through some sort of cabling.
+[307.04 - 312.16] Because obviously all TVs use this same infrared medium,
+[312.16 - 316.60] we'd just be using the same thing to transmit the data.
+[316.94 - 325.50] And the infrared sender would be on one of the bottom layers,
+[325.68 - 327.16] just at the front of the...
+[328.20 - 330.94] I don't think we actually put it on...
+[330.94 - 332.00] Yeah, someone not there.
+[332.38 - 333.64] Infrared could be here also.
+[334.40 - 336.44] Yeah, on the front side of that, yeah.
+[336.72 - 337.42] Oh, right, yeah.
+[337.66 - 339.54] So even if it's open here...
+[339.54 - 342.38] So when you've actually got it open, it would be facing the TV.
+[343.86 - 346.72] And then finally, on to the interface.
+[347.94 - 355.90] The top screen, as we said, would be an inset black and white LCD touchscreen,
+[356.80 - 365.92] which would have all of the available functions for the remote on it.
+[365.92 - 370.08] Whereas the bottom screen would just contain the standard buttons,
+[370.68 - 375.32] like the volume up and down, channel up and down, power on and off,
+[375.88 - 379.58] and things to that effect.
+[380.76 - 383.92] And now, we also decided on the inside,
+[384.36 - 393.50] we could possibly either have some kind of bezeled logo on it,
+[393.50 - 397.64] or something inset, or maybe an engraving of the logo on the top.
+[399.22 - 400.10] But not interfering with the outside?
+[400.10 - 408.58] No, not actually interfering with the whole look of the product when it's out on the thing.
+[409.06 - 412.76] And finally, that's how we put the fashion back into electronics,
+[413.04 - 416.12] as that is the company logo.
+[416.48 - 417.24] Wrapping it all up.
+[419.32 - 421.76] I've now got evaluation criteria.
+[422.76 - 425.46] So this is the one.
+[437.18 - 450.10] I think this is a good shape.
+[451.88 - 454.14] It's quite similar to what it was before there.
+[455.84 - 460.22] This stage of the evaluation is really for us as a team to evaluate
+[460.22 - 464.98] if we have now got a product specification and prototype design
+[464.98 - 468.48] that meets the criteria that we got from our market research.
+[469.82 - 471.72] So this is the first stage of the evaluation.
+[472.62 - 475.38] Now, the collection of the criteria, as we saw in our previous meeting,
+[475.38 - 479.36] was based on the user requirements and trends found in the marketing reports
+[479.36 - 481.06] and marketing strategy of our company.
+[481.06 - 483.08] So it's what we've discussed in the last meeting.
+[483.20 - 485.86] Are we actually meeting those trends and requirements?
+[488.24 - 491.10] Now, the findings that we came up with, just to recap, are here.
+[491.20 - 495.22] The criteria that we want in this remote control are a fancy look and feel,
+[496.58 - 497.42] technological innovation.
+[498.06 - 499.36] It should be easy to use.
+[499.86 - 501.98] It should incorporate current fashion trends,
+[502.12 - 504.40] and those, the two main ones, they were the spongy texture
+[504.90 - 507.40] and the fruit and vegetable strong design colors.
+[508.16 - 512.22] The design should minimize RSI and be easy to locate,
+[513.08 - 517.60] and we were still a slightly ambivalent as to whether to use voice recognition there,
+[517.62 - 519.50] though that did seem to be the favored strategy,
+[519.88 - 523.06] but there was also on the sideline the thought of maybe having a beeper function.
+[525.08 - 528.56] Okay, so we can come back to that slide if you don't have a note of those.
+[528.80 - 532.60] I'll just show you how we're going to evaluate our own feedback to this,
+[532.68 - 533.70] to what we have so far.
+[534.40 - 538.86] We're going to use a seven-point scale where one is true and seven is false.
+[539.20 - 541.46] You'll look at each of those criteria that I've just mentioned.
+[541.64 - 542.90] I'll call that slide back up,
+[543.34 - 548.14] and I will just do a preliminary rating of all those criteria on the whiteboard here.
+[549.04 - 550.72] Does that seem clear? Any questions there?
+[551.26 - 553.38] So we're going to look at these.
+[553.38 - 555.34] Is it everybody's going to evaluate or just someone?
+[555.46 - 555.70] Yes.
+[556.18 - 558.30] We're going to come to, we'll discuss each one
+[558.30 - 561.64] and we'll come to our consensus rating between one and seven.
+[561.64 - 564.78] One is true, seven is false.
+[567.14 - 567.42] Right.
+[569.28 - 570.82] So I won't write all of that out again.
+[571.06 - 573.74] That will just be criteria one, two, three, four, five, six,
+[573.96 - 577.02] or A, B, C, D, E, F, to confuse it with the number rating.
+[577.92 - 579.24] B, C, D, E, F.
+[580.50 - 583.00] This is where I realize how tiny I actually am.
+[584.38 - 585.16] Just right, Molly.
+[586.58 - 586.98] Criteria.
+[591.04 - 591.76] And rating.
+[595.72 - 598.84] Actually, it might be an idea if we each did give our own individual rating
+[598.84 - 600.16] and we could take an average at the end.
+[600.30 - 600.76] How about that?
+[600.98 - 604.84] So I'll just separate the ratings by obliques
+[604.84 - 607.74] and if we go one, two, three, four, we know who's here.
+[615.86 - 620.96] Okay, criteria A, the fancy look and feel.
+[621.40 - 625.12] How do we feel about this prototype model relating to,
+[625.24 - 626.58] it is a fancy look and feel.
+[626.78 - 628.32] One is true, seven is false.
+[628.88 - 631.32] My own rating for that would be a two.
+[632.36 - 633.86] One is true and seven is false.
+[638.20 - 645.48] Yeah, I'd probably put it two, yeah, two or three.
+[645.86 - 646.82] No, three, three.
+[648.96 - 653.74] I would say four.
+[654.16 - 655.24] Four, okay.
+[655.98 - 658.08] I think those up, we've got six and a five,
+[658.10 - 660.96] eleven divided by four is what?
+[661.72 - 662.76] Two and a quarter?
+[663.18 - 663.74] Yeah, three.
+[665.04 - 666.02] Two and a quarter?
+[667.30 - 667.96] I think yeah.
+[668.88 - 669.42] Yeah, yeah.
+[671.42 - 673.44] Two point seven five, there we go.
+[674.72 - 677.12] Okay, criteria B, criteria on B.
+[677.74 - 678.88] Technologically innovative.
+[680.68 - 683.12] I would give that a three.
+[686.16 - 687.26] I'd give it a one.
+[687.90 - 689.56] Okay, not that you're biased.
+[689.56 - 691.66] No, no, no, two.
+[692.12 - 692.52] The designer.
+[695.78 - 696.38] A two.
+[698.66 - 700.38] Oh, sorry, I got it wrong.
+[701.24 - 702.44] The first one rating, I'm sorry.
+[703.02 - 704.12] Can you just make it two?
+[705.24 - 705.78] The average?
+[706.08 - 707.40] Yeah, I just thought it was.
+[707.50 - 708.54] You want your rating to be a two?
+[709.20 - 709.46] An A.
+[710.08 - 711.04] Is that what you're saying?
+[711.38 - 714.16] Yep, I just got it.
+[714.82 - 716.62] So I'll work out the average for that again at the end.
+[716.70 - 717.86] It's a very slightly altered.
+[719.62 - 721.50] Okay, I'm just waiting for your rating.
+[721.78 - 722.90] Two point five for that one.
+[723.10 - 723.94] Two point five, okay.
+[727.14 - 728.92] I'm using one decimal please.
+[730.66 - 732.52] So you're rating for this one pal?
+[733.32 - 733.96] Two, okay.
+[735.80 - 739.04] So that is eight, that brings it down to two, nice and simple.
+[739.72 - 739.82] Yeah.
+[741.56 - 744.84] Okay, ease of use, easy to use.
+[745.86 - 748.28] Based on what you've said there, I would say a one.
+[748.84 - 749.40] Two.
+[752.96 - 753.38] Two.
+[753.90 - 754.16] Two.
+[758.36 - 759.78] I would say a two.
+[764.06 - 764.40] Two.
+[766.30 - 767.86] I should have said a two to make the arithmetic.
+[770.32 - 774.12] We'll just put almost two because we're getting into silly decimal places.
+[774.54 - 775.20] Okay, okay.
+[775.20 - 778.20] If we want to really bring it down, we can do later.
+[781.12 - 792.92] Now we're looking at it incorporates current fashion trends, and that's particularly in relation to our market research findings about the spongy texture to the exterior and the fruit and vegetable design colors.
+[794.58 - 794.72] Right.
+[795.46 - 801.14] So I'm just thinking before I give it my rating, you were limited in the use of materials for your prototype here.
+[801.34 - 801.46] Yeah.
+[801.54 - 803.80] Is this actually going to be the colors that you choose?
+[803.80 - 818.06] No, the base color was white or sort of a light blue, but the changeable faces would allow you to get basically any one of a number of colors.
+[818.84 - 820.08] So it's full sort of custom.
+[820.32 - 822.54] So it could be any fruit and vegetable color, so that's what we're intending to do.
+[822.62 - 823.24] Yeah, yeah.
+[823.34 - 823.52] Okay.
+[824.12 - 825.86] And the spongy feel is no problem with that?
+[825.90 - 832.12] No, no, because the spongy feel would be in the rubber that you put around it.
+[832.32 - 832.46] Okay.
+[832.46 - 834.82] Otherwise, it's just sort of hard plastic.
+[835.10 - 836.80] In that case, it's got to be a one for me.
+[838.18 - 839.40] Yeah, I'll give it a one as well.
+[840.28 - 841.36] Everybody, okay.
+[843.12 - 843.52] One.
+[844.38 - 845.70] That part was nice and easy.
+[845.92 - 846.14] Yeah.
+[846.72 - 847.10] Okay.
+[848.42 - 852.86] Moving on to, does the design minimize repetitive strain injuries?
+[855.10 - 856.66] I don't think we've really touched on that.
+[856.66 - 856.96] I know.
+[856.96 - 857.86] We've discussed it.
+[857.96 - 863.08] We haven't really come up with anything that we felt could feasibly reduce that.
+[863.18 - 865.74] We've talked about pointers, but the very use of a remote control.
+[865.84 - 868.90] If you're someone who's zapping, who's sitting like that, we've found so many people did.
+[869.32 - 871.28] How do you minimize that in such a small device?
+[871.38 - 878.06] Well, the type of button that we're going to use in the bottom half, the material, it's meant to be.
+[878.06 - 878.38] Mm-hmm.
+[881.66 - 887.96] Maybe because with the size that we've got, it's quite small, but with the amount of stuff we're putting on, it isn't that much.
+[888.60 - 895.06] So maybe because there's more space, it's not kind of moving around to kind of hit accurately the buttons in between.
+[895.76 - 897.90] It's quite obvious, just big buttons.
+[898.20 - 898.44] Right.
+[899.78 - 902.60] I think I'm going to have to be neutral on that and give it a four.
+[905.40 - 908.66] Yeah, I'd go for a five, actually.
+[908.86 - 909.52] Five, I guess.
+[911.70 - 911.74] Four.
+[912.02 - 912.30] Four.
+[912.84 - 913.38] Four.
+[913.70 - 914.64] Four, okay.
+[917.44 - 918.56] Twenty-one.
+[918.82 - 921.56] Twenty-one, so that's 4.25.
+[922.42 - 922.56] Yep.
+[925.68 - 929.20] And finally, last but not least, easy to locate.
+[929.50 - 930.76] Now, we talked about voice recognition.
+[931.04 - 931.98] We talked about a beeper.
+[932.66 - 933.12] Yeah.
+[934.28 - 936.98] Yeah, it was a voice recognition.
+[940.12 - 942.16] And we're happy with the costs on that.
+[942.72 - 943.28] Yeah, yeah.
+[943.56 - 944.16] Cost-wise.
+[944.34 - 945.04] Yeah, that was feasible.
+[945.48 - 946.34] That sounds good, then.
+[946.50 - 950.08] I'd go for, we can adjust the volume on that, just as we could volume on TV.
+[951.56 - 952.72] I think it would.
+[952.78 - 955.06] Something in the other room or TVs in different rooms.
+[955.74 - 959.18] I think it would probably be a standard.
+[959.42 - 960.06] It would be a standard.
+[960.26 - 961.20] It would be quite loud.
+[961.20 - 962.32] It would be.
+[962.54 - 962.60] Okay.
+[962.60 - 963.48] So it would be...
+[963.48 - 966.96] And if you didn't hear it in the room, you were standing in, then you realised it wasn't
+[966.96 - 967.38] in that room.
+[967.58 - 967.66] Okay.
+[967.66 - 968.34] You're going to the room.
+[969.06 - 969.46] Logical.
+[970.66 - 971.48] That's a one for me.
+[972.04 - 972.70] Yeah, a one.
+[973.70 - 973.90] One.
+[974.40 - 974.80] And one.
+[975.12 - 975.24] Good.
+[977.46 - 981.12] I do realise that we might be being fairly biased because it isn't a product.
+[984.12 - 985.76] So, how do we feel about this?
+[985.94 - 989.66] We've got the highest rating of meeting the specifications.
+[989.66 - 994.74] That is definitely true for two of the six criteria there.
+[995.18 - 1000.00] That is for, incorporates current fashion trends and is easy to locate.
+[1000.96 - 1003.72] The lowest rating we've got, which is really, it's not terribly low.
+[1003.84 - 1009.52] It's close around neutral is for minimisation of repetitive strain injury.
+[1011.04 - 1015.80] Do we feel on the basis of these evaluation findings that we can go ahead and now produce
+[1015.80 - 1019.14] this as a prototype and market it, or do we have to make further modification?
+[1020.78 - 1022.80] I don't think so.
+[1023.00 - 1029.98] I think, yeah, I think for most of those ratings, it's high enough at the upper end of the
+[1029.98 - 1031.26] scale for us to go ahead with that.
+[1031.32 - 1037.02] And I really doubt if, on the basis of current technology and our current capabilities, we
+[1037.02 - 1038.26] could actually do much more.
+[1038.62 - 1040.40] Too much, probably having a huge big...
+[1040.40 - 1040.72] I know.
+[1041.98 - 1042.22] Okay.
+[1042.80 - 1044.96] And I hope that's clear to the team.
+[1044.96 - 1050.04] Is there anything you would like to ask me about the findings that have come up?
+[1050.50 - 1050.64] No.
+[1052.44 - 1053.20] Fine then.
+[1053.60 - 1054.42] I'll just leave it there.
+[1054.62 - 1055.96] Okay, thank you.
+[1064.54 - 1065.02] Okay.
+[1065.46 - 1067.14] I've got finance here now.
+[1067.24 - 1069.30] I'm going to plug this in so you can all see it.
+[1069.82 - 1070.46] If that's okay.
+[1071.98 - 1072.40] Okay.
+[1078.24 - 1080.22] You want me to unplug that?
+[1080.48 - 1080.78] Yeah.
+[1108.44 - 1109.12] Right.
+[1110.32 - 1110.56] Okay.
+[1112.14 - 1116.62] Now, I presume that the screen will go blank.
+[1120.10 - 1120.78] That...
+[1125.56 - 1126.24] Okay.
+[1126.66 - 1131.04] We just type numbers into this and we come out with the final value.
+[1131.82 - 1134.48] So, are we still on for kinetic?
+[1136.22 - 1136.48] Okay.
+[1137.16 - 1138.82] See, it would have been handy to have this at the beginning.
+[1140.12 - 1142.06] It might have influenced our choice.
+[1144.74 - 1145.26] Right.
+[1145.46 - 1147.56] What's happening with the electronics?
+[1148.38 - 1152.04] There's regular chip on print and...
+[1157.76 - 1158.82] Oh, no, no, no.
+[1160.22 - 1160.70] The...
+[1160.70 - 1162.74] Yeah, it's...
+[1162.74 - 1165.50] You've put in three for the number of kinetic cells.
+[1165.66 - 1168.50] There should just be one in the top.
+[1168.74 - 1169.34] It's the number.
+[1169.78 - 1170.56] Oh, right.
+[1170.98 - 1171.06] Okay.
+[1175.30 - 1175.88] So, would there be two?
+[1175.88 - 1176.96] Yeah, just...
+[1176.96 - 1177.82] No, one reg...
+[1179.44 - 1180.16] One chip?
+[1180.46 - 1183.44] Yeah, one of them and one sample sensor and sample speaker.
+[1183.84 - 1184.24] Okay.
+[1188.28 - 1188.34] Yeah.
+[1188.34 - 1188.96] No, double curve.
+[1190.96 - 1192.02] One double curve.
+[1192.66 - 1193.96] Two, because it's two.
+[1194.14 - 1194.30] Two curves, yeah.
+[1194.76 - 1196.82] We don't have a slightly flattened bottom so it can fit.
+[1197.10 - 1198.34] So, what's a single curve?
+[1198.38 - 1199.94] Yeah, I'd say it was...
+[1199.94 - 1200.80] Is it a flat bottom with one curve?
+[1200.80 - 1202.76] Yeah, I think it's...
+[1202.76 - 1204.22] So, just one double?
+[1204.46 - 1205.46] One double curve.
+[1206.80 - 1207.70] And what...
+[1207.70 - 1208.26] No, because one...
+[1208.26 - 1208.44] One double.
+[1208.66 - 1211.84] Yeah, one's double curved and then the other one's...
+[1211.84 - 1213.88] It's slightly flattened at the bottom so it doesn't roll over.
+[1217.68 - 1218.08] Plastic.
+[1218.08 - 1220.30] We've got plastic and rubber, haven't we?
+[1222.06 - 1224.12] Plastic one and maybe a double point color.
+[1224.70 - 1225.28] Is that what I think?
+[1227.46 - 1230.84] No, I think rubber, since it's being used just as a casing, we can put 0.5.
+[1232.12 - 1232.52] Yeah.
+[1232.84 - 1233.16] Do you think?
+[1233.52 - 1234.84] Yeah, because there are...
+[1235.56 - 1237.40] I think it allows the 0.5 here.
+[1238.00 - 1238.76] We can use that.
+[1239.12 - 1239.28] Yeah.
+[1239.52 - 1239.68] Okay.
+[1240.40 - 1242.38] What does it mean if you put 0.5 for that?
+[1242.56 - 1244.52] It means we are not using a lot of rubber actually.
+[1244.84 - 1246.64] It would be like saying we're using...
+[1246.64 - 1249.40] A very low quantity of rubber compared to plastic.
+[1250.62 - 1252.52] See, it says case material.
+[1253.90 - 1257.14] So, we're not actually using plastic in a case.
+[1257.18 - 1259.06] No, no, it's as an extra.
+[1260.24 - 1266.76] So, that shouldn't be actually on there because that's not incorporated in the cost of the remote you get.
+[1267.18 - 1268.66] But it is going to be part of the total cost.
+[1268.66 - 1271.30] And there's nowhere else we can put that in, is there?
+[1271.70 - 1274.14] There's nowhere else we can code for the rubber used in the casing.
+[1274.90 - 1276.76] So, do we not have to account for it in the cost somewhere there?
+[1278.36 - 1278.72] Okay.
+[1279.10 - 1280.10] We'll just put it in as...
+[1280.10 - 1281.04] We'll put it in as half.
+[1281.26 - 1281.54] Okay.
+[1283.56 - 1286.18] We should just put it in as one because plastic is 0 anyway.
+[1286.38 - 1286.62] Yeah.
+[1287.22 - 1287.42] Okay.
+[1289.14 - 1289.74] There we go.
+[1290.46 - 1293.16] Okay, special color.
+[1293.38 - 1293.90] Do we need that?
+[1293.90 - 1295.04] We might do.
+[1295.30 - 1299.70] If we go for some of the more exotic aubergines and such like colors.
+[1300.70 - 1301.12] Interface.
+[1302.20 - 1302.60] Push button.
+[1304.36 - 1308.08] Yeah, the push buttons, one and LC display one.
+[1309.60 - 1309.98] One.
+[1311.26 - 1312.02] Buttons.
+[1351.16 - 1352.56] Okay.
+[1371.64 - 1373.60] I think we could change the battery also.
+[1373.76 - 1375.84] Instead of going for kinetic, how about going for a standard battery?
+[1377.20 - 1378.06] Is that not made any...
+[1378.06 - 1381.22] If you click off that square now, it doesn't make any difference.
+[1381.92 - 1384.10] Oh, no, it was 7.5.
+[1384.26 - 1385.68] It changed.
+[1386.66 - 1391.02] It's uncurved completely and just actually making the rubber case the curved thing is not going to make a difference.
+[1391.66 - 1392.54] On gold flag.
+[1395.24 - 1397.26] No, it's not made any difference, is it?
+[1397.38 - 1398.56] No, well...
+[1398.56 - 1402.06] No, no, you've got to click off to calculate it again.
+[1402.76 - 1403.68] Okay, there we go.
+[1403.68 - 1405.68] It might...
+[1406.64 - 1411.66] You might be assuming that that is in euros, it could be in dollars.
+[1412.76 - 1416.20] And then it would be fine because the exchange rate may get better.
+[1416.40 - 1419.42] We haven't been dealing with dollars though, I think.
+[1419.78 - 1420.98] I think it's the new one.
+[1421.14 - 1423.68] Okay, so the highest we've got is the electronics here.
+[1427.22 - 1428.94] And the interface.
+[1429.58 - 1433.74] If we moved away from our much-loved idea of a kinetic battery...
+[1433.74 - 1434.76] I'm going to do a little bit.
+[1436.42 - 1437.78] Yeah, the standard...
+[1437.78 - 1439.50] It would make one difference.
+[1440.16 - 1442.94] The biggest one would be taking away, if you took away...
+[1443.88 - 1446.86] What I feel is customers never said anything about the battery and all.
+[1446.96 - 1448.52] It's internal, nobody looks into the battery.
+[1449.42 - 1451.54] But shape and colour, that's something we should...
+[1451.54 - 1454.48] If you take away the voice, I don't like to say it,
+[1454.50 - 1457.26] but if you take away the voice recognition, then you've got it.
+[1460.90 - 1462.94] Do we see what difference it makes?
+[1463.10 - 1465.34] Where is the voice recognition?
+[1465.72 - 1468.40] It's a sample speaker.
+[1468.80 - 1471.70] If you took away that, that would make it 12.35.
+[1472.16 - 1473.26] Well, the kinetic is 3.
+[1473.54 - 1476.32] If we change it to the battery, that's minus 3.
+[1477.22 - 1480.12] Yeah, but you've minus 3 plus 2.
+[1480.28 - 1480.70] Oh, right.
+[1488.94 - 1490.86] We can do it in some other way.
+[1491.38 - 1492.92] It doesn't have to be voice recognition.
+[1493.20 - 1497.62] We could do the voice recognition for business class or something,
+[1498.00 - 1499.68] like an upgraded version.
+[1500.26 - 1502.10] You could choose to have it or not.
+[1502.36 - 1507.60] But I mean, I don't see why we have to set up 25 euros now,
+[1507.68 - 1511.24] because they were saying they were quite willing to pay more for a better product.
+[1511.88 - 1513.34] But we're still working to...
+[1513.34 - 1515.76] So should we just change the design's location then?
+[1516.00 - 1516.78] We can put in our recognition.
+[1516.78 - 1519.54] If we're working to head off the specifications,
+[1520.26 - 1521.88] this is what this project team's working for.
+[1521.98 - 1524.60] We can put in our recommendations with what we found
+[1524.60 - 1527.16] and the consensus that we've come to the wrong meeting.
+[1527.46 - 1529.96] But we need to work to that specification to start with.
+[1530.18 - 1530.90] Yeah, we can say.
+[1531.24 - 1532.68] And I think voice recognition sounds wonderful,
+[1532.68 - 1535.64] but our object is so distinctive that that in itself
+[1535.64 - 1539.18] is going to make it easier to locate in our first instance.
+[1539.96 - 1543.16] As you say, we can offer the voice recognition initially
+[1543.16 - 1544.70] to business class customers.
+[1544.70 - 1549.68] Okay, we can make the price fit and then say,
+[1549.90 - 1552.96] if we had our project, we would have had this,
+[1553.40 - 1554.98] because it also sets it apart.
+[1555.12 - 1557.18] Because we've done all the background work to go for that.
+[1557.44 - 1559.46] They like something that's completely different.
+[1559.60 - 1559.78] Yeah.
+[1560.72 - 1562.96] Because I'm completely different associated with your company.
+[1563.66 - 1564.12] Right, okay.
+[1564.64 - 1567.80] So if we take voice recognition out...
+[1567.80 - 1569.70] That'll do it.
+[1571.06 - 1572.18] 12.35.
+[1573.52 - 1575.00] Is it 12.55?
+[1575.70 - 1576.88] Is it 12.55?
+[1577.38 - 1579.04] No, it's 12.25.
+[1579.84 - 1580.94] Are you sure? Sorry.
+[1581.12 - 1582.08] Not meaning to doubt your word.
+[1582.08 - 1584.88] Yeah, well, it's 12.25 times two years.
+[1586.42 - 1586.88] 25.
+[1587.48 - 1589.56] Are they going to be really quibble about 10p?
+[1591.56 - 1592.60] 1.01 of a euro.
+[1594.54 - 1595.62] Which is less than 10p.
+[1600.52 - 1601.96] I don't remember.
+[1602.30 - 1603.78] It said 50% is the cost.
+[1604.92 - 1605.76] So half of the price would be...
+[1605.76 - 1608.40] I think the other one was where the price was, wasn't it?
+[1611.98 - 1614.02] I think that was the first one.
+[1614.62 - 1615.46] That's today's.
+[1622.22 - 1623.30] 12.5.
+[1624.42 - 1625.92] So we are under the bridge.
+[1629.92 - 1634.10] So has that got us covered for the electronics then?
+[1634.32 - 1635.98] We don't need something else to take that place.
+[1636.36 - 1636.44] No.
+[1636.78 - 1637.12] Okay.
+[1637.94 - 1640.70] Because that was just bolt on X-ray.
+[1640.94 - 1642.30] You could just take that out.
+[1643.76 - 1644.64] And it'd be fine.
+[1645.30 - 1645.36] Okay.
+[1653.30 - 1654.12] That seems fine.
+[1655.20 - 1655.80] Yeah, I think that's pretty good.
+[1655.80 - 1657.42] Thanks for the voice recognition, everything was...
+[1657.42 - 1657.68] Right.
+[1658.68 - 1659.08] Around that.
+[1661.90 - 1662.42] Okay.
+[1663.84 - 1664.56] Product evaluation.
+[1666.80 - 1669.02] We've done room for creativity, haven't we?
+[1669.20 - 1669.50] Yeah.
+[1669.66 - 1674.18] Because we've got decisions that we would have made that we weren't, didn't feel able to make.
+[1677.06 - 1679.80] I presume we discussed leadership and teamwork?
+[1680.40 - 1680.64] Mm-hmm.
+[1683.44 - 1683.96] Yes.
+[1684.38 - 1684.42] Okay.
+[1686.04 - 1687.30] In the sense that...
+[1689.84 - 1693.30] Did you feel like a teen or did you feel like...?
+[1694.92 - 1696.22] I'd say as a teen.
+[1696.54 - 1698.12] I think we had a nice chat.
+[1698.40 - 1701.20] There was so much interaction, so much that we needed to...
+[1701.20 - 1702.68] Find out from each other, yeah.
+[1703.28 - 1712.10] And I've certainly felt heard, listened to, and that in relevant areas we've been able to give and take and adjust our remit if we're necessary.
+[1713.30 - 1716.72] Yeah, I think it is a very constructive feedback by everybody.
+[1717.36 - 1719.38] It's not like people trying to cut each other.
+[1720.30 - 1722.08] It is more of a through cohesive teamwork.
+[1722.40 - 1725.32] We came to a very pretty creative design.
+[1728.12 - 1731.52] And, yeah, I think and Sara, you coordinated the work very well.
+[1731.86 - 1732.26] Thank you.
+[1733.06 - 1734.38] How did you find it?
+[1734.66 - 1736.94] Yeah, no, I thought it went really well.
+[1738.28 - 1748.32] And, yeah, I feel that everyone was listened to and all the points that were raised seemed to have been sorted out.
+[1748.60 - 1752.88] Though we didn't quite make the voice recognition in there, so that's good.
+[1753.66 - 1756.94] I think it would have made it into the final product if it was actually...
+[1756.94 - 1766.78] If we'd seen the marketing before the initial specification was put out, I think maybe it would have come out a little different.
+[1767.06 - 1767.26] Yeah.
+[1768.20 - 1777.86] I like the fact that we could say an idea and it'd be suggested that there wasn't the best idea, but no one felt like a shot down.
+[1778.10 - 1778.26] Yeah.
+[1778.26 - 1786.30] You know, it didn't matter saying what you thought because if it wasn't something that was that relevant, then it didn't matter because it was just another idea.
+[1790.06 - 1790.52] Teamwork.
+[1790.68 - 1794.78] Well, you two created that wonderful specimen of a Play-Doh model.
+[1796.12 - 1797.34] I think that was the best part of it.
+[1800.32 - 1801.92] I'm still not caught up.
+[1802.66 - 1804.74] That's nothing to do with the teamwork at all.
+[1806.42 - 1809.42] Maybe we should think of branching out into children's toys.
+[1810.46 - 1812.30] Fake mobile phones, if we've had one.
+[1812.76 - 1814.00] The fake eye feed.
+[1814.54 - 1815.42] Yeah, that was quite fun.
+[1816.20 - 1819.54] It means whiteboard digital pens, etc. What does that mean?
+[1820.64 - 1825.08] Did we evaluate the materials we had for communicating and sharing information?
+[1825.72 - 1826.04] Yeah.
+[1826.90 - 1828.42] Could it have been better? Was it adequate?
+[1829.36 - 1838.38] Yeah, I think we probably would have used the actual email system more had we actually had more time.
+[1838.92 - 1841.60] And if we'd been separated more.
+[1841.80 - 1844.78] Yeah, because we could just sort of say, sorry, what did you say about that?
+[1844.88 - 1847.34] Or what do you think about that rather than having to email it?
+[1848.46 - 1853.46] But it was nice having it there, like the whole picture of the thing.
+[1853.46 - 1856.02] Yeah, it didn't like moving around the room.
+[1857.06 - 1857.88] I think it's good.
+[1859.70 - 1861.76] We spend time individually.
+[1894.28 - 1897.34] I never thought of a remote controller with a flip-top.
+[1899.58 - 1902.48] Yeah, I think it's borrowing from other areas.
+[1902.66 - 1904.84] It's bringing things from other areas in.
+[1905.02 - 1906.18] I mean, nothing in me.
+[1907.02 - 1909.16] But it's applying it to a different area.
+[1909.52 - 1909.72] Vegetables.
+[1911.02 - 1911.74] It's mine.
+[1911.74 - 1912.46] Yeah.
+[1915.42 - 1916.26] Yeah, no.
+[1917.18 - 1918.22] Well, they have to come from somewhere.
+[1918.76 - 1919.32] Absolutely, yeah.
+[1920.98 - 1921.02] Sorry.
+[1922.96 - 1931.22] As was shown by your presentation with all of the other controls, remote controls, no one's thought about it particularly.
+[1932.08 - 1933.00] I mean, they're slightly different.
+[1933.24 - 1938.80] So someone's been shot in the room and said, Maycar's a bit different from everyone else's because there's something we should think about.
+[1938.80 - 1942.02] But obviously, no one's put any great deal of thought into it.
+[1942.02 - 1944.40] I don't think the companies are really concerned.
+[1944.62 - 1947.04] They're just like, we've got a DVD player.
+[1947.44 - 1948.90] Does anyone remember the remote control?
+[1949.22 - 1951.68] Can't you get the one that we used for the last one?
+[1952.34 - 1953.68] Yeah, just jazz it up a bit.
+[1954.64 - 1959.44] They don't really think about it because normally the remote control isn't the product which they're trying to ship.
+[1959.56 - 1962.44] They're trying to ship the DVD player, the video player, the TV.
+[1962.44 - 1968.66] But then when everything is really smart, and you've just got this big chunk of black things sitting on your coffee table.
+[1968.66 - 1969.58] It doesn't go.
+[1970.30 - 1976.76] I mean, if you could have something that's a proper funky thing, a funky item that's individual to you.
+[1977.22 - 1984.52] I mean, they could even go into you go in with an idea and they design it on Photoshop and then they just get it printed on the plastic.
+[1984.52 - 1991.38] You pay a lot extra because it's individually being a plastic was being made for you.
+[1992.34 - 1995.44] But people could have anything that they wanted.
+[1996.84 - 2001.50] Surprising things like people give a lot of attention to modifying mobile phones.
+[2002.30 - 2005.70] Like every month you see a new launch or something like that.
+[2006.04 - 2011.04] And new television products coming up, but nobody giving much idea to this.
+[2011.10 - 2015.34] I think it's really good that this has been very market research based.
+[2016.12 - 2023.14] Because just going back to mobile phones, I mean, this is the first change in remote control devices that I can really say is obviously visible.
+[2023.84 - 2027.76] We see it in mobile phones a lot and that's where we've borrowed a lot of ideas from.
+[2028.60 - 2030.76] There are innovations in that that people don't really want.
+[2031.40 - 2034.84] I see people wanting a model of the phone they're really happy with and they can't get it anymore.
+[2035.02 - 2036.44] And it's innovation for innovation's sake.
+[2036.94 - 2039.44] And I think it's wonderful that our company is so R&D based.
+[2039.90 - 2042.44] Well, it's innovation for money's sake.
+[2043.04 - 2044.48] That people have to keep on.
+[2044.68 - 2045.50] But forcing it onto people.
+[2045.94 - 2048.22] Things that, you know, they might want to buy the thing they really want.
+[2048.22 - 2052.86] And you've got your handset that works fine, but you can't get the battery anymore for that type of phone.
+[2052.86 - 2054.66] Because the phones have moved on, things like that.
+[2054.66 - 2055.84] Oh, there's a cover to fit it.
+[2062.36 - 2072.30] In closing, our costs are below budget with recommendations that the budget be increased.
+[2073.12 - 2075.12] But I think, I don't know, what do you think?
+[2075.12 - 2084.20] Do you think that takes into account overheads, like us being well paid kind of a thing?
+[2085.04 - 2086.48] And the heating for the building.
+[2086.62 - 2089.72] Do you think our budget includes everything, all the costs that are going out?
+[2089.92 - 2090.76] I think it was just the product.
+[2091.06 - 2093.12] I think that was just the physical.
+[2093.20 - 2096.36] So it looks, well, it looks like it's going to be 50% profit.
+[2096.66 - 2099.60] Still gone, all of the overheads come out of that.
+[2100.04 - 2104.46] So maybe increasing it, you would also have to increase the price of it.
+[2106.40 - 2108.38] But you were saying that that's quite...
+[2108.38 - 2110.28] Yeah, I don't. From the market research.
+[2110.30 - 2112.70] It was very specific. I think we've done what we're required to do.
+[2112.82 - 2117.48] And I think like the other project team or any project for us to look at those kind of things,
+[2117.70 - 2122.32] I don't think that's something we have to look at and find a way of leaving the cash for.
+[2123.16 - 2124.44] Yeah, it was...
+[2124.44 - 2129.30] We've done very well to get within budget, and it still makes such an innovative item.
+[2129.64 - 2129.86] Yeah.
+[2130.14 - 2134.36] So I think people are really going to want to shame it for never again.
+[2136.00 - 2138.22] Maybe they are going to steal our ideal.
+[2138.72 - 2139.36] It's top secret.
+[2140.14 - 2142.72] What is this conspiracy going on here?
+[2143.58 - 2146.44] The project has been evaluated well and truly.
+[2148.38 - 2151.36] And I've got the meeting summary in question here.
+[2151.70 - 2158.68] Oh, so we've got about 50 minutes to catch up with everything that I fell behind with.
+[2159.04 - 2163.08] So I'll be delegating as project supervising.
+[2163.08 - 2165.08] So good luck.
+[2168.00 - 2169.04] Celebration. You didn't talk about that.
+[2169.56 - 2171.66] I think that the celebration is the 25th time.
+[2173.02 - 2174.46] That or we'll be dancing on the desk.
+[2182.34 - 2184.18] OK. Is that it then?
+[2184.98 - 2186.78] Yeah, just the last, I think.
+[2191.12 - 2191.58] Awesome.
+[2191.58 - 2197.06] I think I've got minutes for two of the meetings and the last thing.
+[2200.14 - 2204.20] I didn't have to rate you on how much you increased the meeting at the time.
+[2204.76 - 2210.18] Is that not the questionnaire for the how you felt you'd done in the thing?
+[2210.74 - 2213.34] Oh, right. But do we not sometimes evaluate the meetings?
+[2213.84 - 2214.76] Yeah, there is. Yeah.
+[2214.76 - 2219.04] I think, yeah, question seven is the one for the meeting.
+[2220.84 - 2222.14] Yeah, I just got.

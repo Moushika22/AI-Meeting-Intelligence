@@ -1,0 +1,869 @@
+[9.78 - 17.00] We're going to discuss the look and feel design, user interface design, and we're going to evaluate
+[17.00 - 17.58] the product.
+[18.76 - 23.42] And the end result of this meeting has to be a decision on the details of the remote control,
+[23.70 - 25.02] like absolute final decision.
+[25.02 - 30.34] And then I'm going to have to specify the final design in the final report.
+[31.36 - 39.42] So just from last time to recap, we said we were going to have a snowman-shaped remote control
+[39.42 - 42.44] with no LCD display, no need for talk back.
+[42.62 - 48.30] It was hopefully going to be kinetic power and battery with rubber buttons, maybe backlighting
+[48.30 - 52.48] the buttons with some internal LEDs to shine through the casing.
+[52.48 - 57.48] Hopefully a job dial and incorporating the slogan somewhere as well.
+[58.16 - 58.98] Anything I missed?
+[63.76 - 68.28] Sue, if you want to present your prototype, go ahead.
+[70.36 - 71.18] That's it.
+[72.08 - 73.22] Ninja Homa made in Japan.
+[75.38 - 76.44] There are a few things we've made.
+[77.52 - 78.92] We'll have a look at the expense sheet.
+[81.08 - 84.70] It's going to be quite a lot expensive to open up now lots of buttons and stuff inside.
+[86.06 - 87.66] This is going to be an LCD screen.
+[89.18 - 90.80] Just a very, very basic one, very small.
+[92.06 - 97.02] With access to the menu through the scroll wheel and confirm button.
+[99.32 - 101.74] Apart from that, it's pretty much the same thing we discussed last time.
+[101.74 - 105.46] It doesn't open up to the advanced functions.
+[106.24 - 111.20] The advanced functions are still hidden from you, but they're hidden in the sense that they're not in use.
+[111.92 - 112.22] Where are they?
+[112.98 - 114.72] They're in the LCD panel in the job dial.
+[116.06 - 118.06] What kind of thing is it going to be?
+[118.28 - 121.28] The LCD panel just displays functionally what you're doing.
+[121.42 - 125.88] If you're using an advanced function like brightness, contrast, whatever.
+[125.88 - 130.04] It only has four columns.
+[130.26 - 130.98] It's a very simple LCD.
+[131.66 - 136.52] Or the minimum amount you need that the user will automatically know this is brightness or this is contrast.
+[137.46 - 146.32] It might even be one a bit more complex LCD panel with pictures like maybe the sun or the symbols of the various functions.
+[146.86 - 148.02] What is this here?
+[148.84 - 149.62] That's a number pad.
+[151.26 - 152.80] Where are we going to have this slogan?
+[157.76 - 161.88] You have this space here and then you have this thing on the side as well.
+[162.14 - 162.66] Or at the bottom.
+[164.36 - 165.64] The slogans are usually quite small, right?
+[165.76 - 166.86] They're not huge.
+[170.42 - 173.24] Say a button's about this size, right?
+[173.70 - 176.06] You would still have plenty of space for a slogan.
+[176.06 - 181.68] If this isn't to scale, what kind of dimensions are you thinking about here?
+[183.62 - 185.96] The buttons have to be bigger enough to push easily with a finger.
+[187.18 - 189.80] That would be about the same size as the family hand.
+[190.74 - 193.06] That would be about a centimeter for a button.
+[193.62 - 198.22] One, two, three, four centimeters.
+[199.52 - 204.30] Plus maybe half, five, six, seven, eight.
+[205.32 - 206.60] That sounds good.
+[208.16 - 209.00] That would be good.
+[209.68 - 211.10] Ten centimeters in height.
+[212.98 - 215.60] That would be good.
+[215.76 - 218.00] A pen is about ten centimeters usually.
+[218.84 - 220.84] That sounds like a really good sign.
+[222.06 - 222.64] That's great.
+[222.76 - 224.22] It's very bright as well.
+[226.02 - 226.62] Is it possible?
+[228.18 - 229.98] I'm just going to bring up the idea of colors.
+[230.26 - 232.26] Are these the colors of production?
+[232.26 - 234.12] Is this just what we had available?
+[234.46 - 239.98] We're going to have again the foggy yellow from last time we lit up when you beat the button.
+[241.42 - 245.82] Could you list all the things that it does so I can write them in the report?
+[248.88 - 251.78] This button, because it's red, it's very prominent.
+[251.96 - 255.60] We're going to use it as the power button if you hold it for maybe two seconds.
+[258.56 - 262.14] Apart from that, it's going to be used as a confirm button for the LCD screen.
+[262.90 - 263.98] You use this as a jog dial.
+[265.30 - 266.50] That's like an okay button.
+[267.88 - 271.60] We discussed how high it is, but how wide it is.
+[273.10 - 273.76] How high is it?
+[274.20 - 275.04] Not as in the height.
+[276.04 - 276.92] What about the width?
+[278.16 - 279.76] The depth of the actual height.
+[281.10 - 282.34] About three and a half.
+[283.68 - 288.40] Is this to get an idea of scale from your thing there?
+[289.20 - 290.66] You can power on and off.
+[290.90 - 291.50] What else can you do?
+[292.02 - 294.10] You can skip straight to the channel using these buttons.
+[301.40 - 302.98] We're going to have the volume control here.
+[303.78 - 307.42] Because we've got the LCD and the jog dial, we'll just start with the volume.
+[308.04 - 309.38] Okay, jog dial for volume.
+[311.72 - 313.26] What else do you do with the jog dial?
+[314.48 - 317.62] You can use it for more advanced functions like contrast, color.
+[320.22 - 324.06] Contrast, brightness, anything else?
+[324.96 - 327.60] It's whatever else we wanted to include as the advanced functions.
+[328.44 - 329.86] We didn't actually go through and specify this.
+[330.56 - 332.24] As the designers, what are they?
+[333.28 - 334.38] What can a TV do?
+[335.50 - 338.22] Things like brightness contrast.
+[340.04 - 341.78] Maybe tuning the channels.
+[342.42 - 343.08] Okay, channel tuning.
+[344.90 - 345.32] What else?
+[345.74 - 346.26] The various inputs.
+[346.46 - 349.22] So you have a VCR, which input do you have?
+[350.66 - 352.84] Probably color sharpness.
+[353.18 - 354.68] Color sharpness.
+[355.68 - 359.88] A lot of these things will have to be free and open for users to define them.
+[360.36 - 362.34] What about sign settings?
+[362.34 - 364.64] Can you change any of those at all?
+[366.36 - 369.94] We have your base, your mid-range, your high range.
+[371.54 - 372.54] You're probably up there at the bounce.
+[374.14 - 375.26] Left, right, bounce.
+[376.38 - 378.24] Maybe even pre-programmed sound modes.
+[379.98 - 383.36] The user could determine a series of sound modes.
+[383.74 - 388.24] And then what could happen would be when you click on that and go to that setting.
+[388.24 - 391.78] Is there anything else at all that can do?
+[393.72 - 396.54] Because that's fine, you just need to know so I can write it down.
+[400.62 - 401.98] I guess that's it.
+[402.46 - 417.16] We can now have a little look at the Excel sheet and price this thing and see if we need to rethink anything at all.
+[417.16 - 422.62] For this first part here, power-wise, have we got battery?
+[423.32 - 424.28] Do we have kinetic as well?
+[426.70 - 427.86] Just battery.
+[430.70 - 432.70] That's because of cost restraints, is it?
+[433.86 - 435.46] What about the electronics here?
+[436.38 - 436.86] Advanced chip.
+[437.48 - 438.68] Let me just confirm that.
+[449.70 - 452.22] The case, what does it mean by single and double, do you know?
+[453.30 - 456.70] I think single just be sort of one double, where double is this sort of thing.
+[456.82 - 458.12] So we want double-carved?
+[461.50 - 461.90] Plastic.
+[464.56 - 466.30] Is there any rubber at all in the button?
+[466.46 - 467.52] I think we're going to have to skip the rubber.
+[467.80 - 468.12] Okay.
+[469.54 - 471.82] And we want special colours, don't we?
+[472.86 - 473.30] Oh no, wait.
+[473.92 - 475.18] How many colours have we got there?
+[475.18 - 477.88] For the case itself, one colour.
+[478.42 - 479.24] It's one special colour.
+[479.38 - 480.26] Just one colour, okay.
+[480.52 - 483.12] Because the case unit itself, the rest of it is on top of it.
+[483.20 - 485.90] So interface-wise, is it the third option we have?
+[486.18 - 486.90] The two of them there?
+[487.24 - 489.46] One and the LC display.
+[490.10 - 490.50] Okay.
+[491.74 - 493.04] And then buttons.
+[493.68 - 495.02] I mean, we have what?
+[495.78 - 496.12] Two colours?
+[497.22 - 498.58] We've got push buttons as well.
+[498.74 - 499.84] We've got push buttons as well.
+[502.78 - 505.64] Like, oh wait, so push button and integrated school.
+[506.32 - 506.34] Okay.
+[506.70 - 509.18] I reckon we've got one button for this thing because it's just one big sheet of rubber.
+[509.60 - 509.92] Uh-huh.
+[510.84 - 512.02] I'm not sure if that counts.
+[512.72 - 516.04] Okay, let's just be safe and put like say four buttons for that one.
+[516.72 - 517.12] Okay.
+[517.76 - 518.04] Okay.
+[519.32 - 522.70] And maybe a special colour for the ones, so maybe four again.
+[523.74 - 523.82] Four?
+[524.12 - 524.84] We're already...
+[524.84 - 526.72] So why are we arriving at the number four?
+[527.44 - 528.64] Where does the number four come from?
+[528.84 - 529.82] Because that's one button.
+[529.82 - 532.08] That's one button, but it's the complexity of 12 buttons.
+[532.82 - 532.84] Okay.
+[534.28 - 536.48] So we're just estimating that, yeah, it will be less.
+[539.82 - 541.40] Are we wanting them in...
+[541.40 - 541.56] No.
+[542.34 - 542.62] No?
+[543.16 - 544.38] Is everything going to be plastic?
+[545.92 - 548.20] So we're quite far over.
+[549.50 - 550.74] Something's going to have to go.
+[551.70 - 553.16] We're at 16.8.
+[554.76 - 558.18] How are we going to achieve this high-end product?
+[559.76 - 565.18] Well, something has to go to the tune of 2.3 euro.
+[566.40 - 567.54] So let me see.
+[567.78 - 568.18] What are we...
+[569.20 - 569.58] 0.3?
+[569.74 - 570.62] 4.3, yeah?
+[571.04 - 572.46] Oh, yeah, sorry, 4.3.
+[573.14 - 575.78] Well, we could take it at one, but we can get a single curve.
+[576.28 - 577.22] Just fill in those bits.
+[578.78 - 579.02] Yeah.
+[579.72 - 580.72] How much would that save us?
+[580.78 - 581.38] How much would that save us?
+[581.40 - 582.36] That would only save you one.
+[582.62 - 582.70] One.
+[582.82 - 586.50] The other thing could be that you could take away the LCD panel
+[586.50 - 587.54] and the advanced chip together.
+[588.64 - 591.72] Because when you do something on the TV,
+[592.20 - 593.88] the TV responds and reacts as well.
+[594.80 - 597.12] So the user could be looking at the TV and pushing this thing,
+[597.40 - 599.30] so we may not need to...
+[599.30 - 602.64] So when we scroll, we need just some way to get the TV to respond,
+[602.96 - 605.00] which I think is a technically doable thing.
+[605.50 - 607.50] So what's our reviewed suggestion?
+[608.58 - 610.44] Take away the LC display.
+[612.50 - 614.30] And the advanced chip goes away as well?
+[614.30 - 617.80] To be replaced with a regular chip.
+[621.62 - 626.58] And so we've got 0.3 to get rid of.
+[627.18 - 630.00] And where are the four push buttons?
+[630.48 - 631.40] Where exactly now?
+[631.70 - 633.26] The 12 buttons that you see there.
+[633.88 - 634.64] 12 buttons?
+[635.32 - 637.72] That's one piece of rubber, but it's going to have 12 buttons.
+[638.18 - 639.80] Functionally, you're going to have to intercept.
+[640.02 - 641.58] So 4 is a good estimate for...
+[641.58 - 642.18] Do you think?
+[642.80 - 643.26] Yeah.
+[643.26 - 645.26] So you can't actually cut...
+[646.34 - 647.88] It's like three times the number of buttons.
+[647.88 - 648.70] It's 4812.
+[649.68 - 652.22] Is that one big button, or is it 12 buttons?
+[652.76 - 654.18] How can it be something in between?
+[654.42 - 656.72] It needs to be more than one big button,
+[656.82 - 658.84] because if you open up your phone underneath,
+[659.18 - 660.56] there's actually one button underneath.
+[660.92 - 663.48] It's just that the panel itself is a single panel.
+[663.90 - 664.20] Okay.
+[664.50 - 666.58] Well, we have 0.3 to get rid of somewhere.
+[667.88 - 669.80] Just report that it has to be over budget.
+[670.94 - 671.98] Or the colors.
+[672.34 - 674.38] You could take away colors for the buttons.
+[674.94 - 677.54] Yeah, we could just go with normal colored buttons.
+[679.52 - 681.64] Well, do you want color differentiation here?
+[682.24 - 683.66] No, that's not the button we're talking about.
+[684.08 - 685.80] The buttons only refer to the pad, so...
+[687.40 - 688.40] Right, so...
+[688.40 - 689.10] Take that off.
+[692.12 - 693.12] It's back to the original.
+[694.54 - 697.02] So then these just become normal colored buttons.
+[697.52 - 699.88] So that might be somebody cutting the cost.
+[701.86 - 703.00] Okay, off that issue.
+[705.38 - 705.82] Right.
+[707.14 - 708.28] So take away that completely.
+[709.70 - 711.34] And now we're under budget.
+[711.94 - 714.62] So we do have 0.5 euro to play with, if we wanted.
+[716.16 - 717.70] How about with embossing the logo?
+[717.96 - 719.30] Isn't that going to cost us some money?
+[719.90 - 720.88] It doesn't say so.
+[721.66 - 722.34] That's pretty good.
+[722.58 - 723.86] That's our special form, the buttons.
+[724.52 - 725.62] Yeah, that's a good idea.
+[727.62 - 727.98] One.
+[730.32 - 733.02] Does that mean that one button has a special form, or...?
+[733.84 - 735.12] I think that's just one button.
+[735.48 - 735.74] Yeah.
+[737.74 - 738.72] Well, there we go.
+[739.00 - 741.16] So I'm just going to have to redraw this now.
+[741.34 - 742.98] So we're not going to have the LCD anymore.
+[743.56 - 745.56] We're just going to have an on the TV.
+[745.68 - 748.18] It'll show you what you're doing, which I think is fair enough.
+[748.76 - 750.42] And so this is going to be one big thing here.
+[754.96 - 758.98] Was the goal in your prototype design,
+[758.98 - 761.32] could it be as low profile as possible?
+[762.30 - 763.30] What do you mean by profile?
+[763.60 - 765.02] Sort of flat as possible.
+[765.76 - 765.80] No.
+[766.34 - 768.28] The ambition of being quite deep,
+[768.52 - 771.98] so deep enough to be comfy to hold your hands while I'm being white and black.
+[772.48 - 774.18] We didn't have enough clay to make it.
+[774.22 - 774.86] Yeah, all right.
+[776.08 - 776.96] Okay, just...
+[777.52 - 781.14] So there's one more dimension to the thing which we need to add,
+[781.36 - 783.52] and you might want to add in a report, length, width, and height.
+[783.90 - 784.62] Right, okay.
+[785.66 - 788.16] So just to, well, to be thorough then,
+[788.60 - 791.64] width-wise we're looking at about, what, three centimeters or something?
+[792.36 - 792.56] Yeah.
+[793.94 - 796.96] And then so height-wise...
+[801.26 - 803.12] How tall do you envisage being?
+[804.04 - 804.52] About two.
+[804.82 - 806.48] About two centimeters, okay.
+[806.96 - 809.26] Two's not very high at all, though.
+[809.38 - 809.84] Maybe a bit higher.
+[810.22 - 810.84] This is about two.
+[812.92 - 813.84] Slightly more than two.
+[814.14 - 815.02] Yeah, I'm about that thick.
+[815.38 - 815.64] Okay, okay.
+[815.64 - 816.54] Maybe closer to three.
+[817.12 - 819.72] Okay, we'll say 2.5.
+[820.36 - 823.82] Okay, so we have it within cost anyway.
+[826.38 - 828.68] So yeah, project evaluation is this point.
+[830.86 - 831.82] Mm-hmm.
+[832.82 - 833.08] Right.
+[834.48 - 838.54] Okay, so can we close that?
+[838.74 - 841.36] This is what it's the final spec that's going to be.
+[841.90 - 843.08] So I'm just going to have to...
+[844.24 - 845.12] Yeah, that's fine, that's fine.
+[846.24 - 849.48] It's probably just, I don't know if it's worth getting into,
+[850.80 - 853.24] but just in that we want this to be stylish,
+[853.52 - 856.14] should we think a little bit more out of the box in terms of a button grid?
+[856.62 - 858.98] Because I've seen there's lots of devices out there that,
+[859.32 - 862.76] instead of taking your standard nine-square grid,
+[862.76 - 865.74] and they have it sort of stylized or in different concept.
+[866.14 - 868.76] I think that's something that's very hard to catch.
+[869.68 - 872.30] So you restrict the number of people who want to try something.
+[872.50 - 873.08] Sure, okay.
+[873.20 - 875.38] The look and the color is something which is cool.
+[875.60 - 876.08] Yeah, all right.
+[876.12 - 878.76] I think that there's also that factor of if it's too unfamiliar.
+[878.98 - 880.04] Okay, sure.
+[880.92 - 881.98] Because when you put it on the shelf...
+[881.98 - 882.92] What about button shape, square buttons?
+[883.28 - 885.68] Yeah, button shape might be a good idea to change.
+[885.68 - 885.88] Okay.
+[887.04 - 891.70] Rather than positioning, because I think positioning is kind of ingrained
+[891.70 - 894.60] into the telephone kind of pad.
+[894.60 - 896.56] Okay, right.
+[899.06 - 909.98] So at this point we discuss how satisfied we all are with these four points
+[909.98 - 914.60] with the Room for Creativity and the project and leadership and teamwork
+[914.60 - 917.76] and the stuff we have around us, I guess.
+[922.78 - 930.88] Do you want me to do my design evaluation last?
+[932.16 - 933.86] Yeah, I wasn't really sure what that was.
+[935.30 - 935.70] Yeah.
+[936.64 - 937.56] Yeah, go for that first.
+[937.80 - 941.06] I wasn't entirely sure what he was supposed to be doing that,
+[941.14 - 942.76] but you go for it.
+[943.36 - 946.26] All right, so the way this works, I'm going to need to plug in the PowerPoint.
+[946.34 - 946.66] Okay.
+[946.66 - 948.16] I'll try and do it as quick as possible.
+[950.94 - 953.36] I'll just go over your head if that's okay.
+[953.82 - 953.84] Yeah.
+[954.86 - 955.92] I don't think you need the PowerPoint.
+[956.60 - 957.02] What's that?
+[957.78 - 958.36] No, it's okay.
+[958.94 - 959.58] I don't need the PowerPoint?
+[960.12 - 961.64] No, the PowerPoint cord itself.
+[961.86 - 962.72] Oh, of course, yeah.
+[962.84 - 965.66] Yeah, so I'm going to need a bit more freedom and a bit more...
+[970.08 - 970.56] Okay.
+[972.28 - 980.58] So what this is, is this for us to use kind of like ideas that I've set up.
+[980.74 - 984.68] I've reviewed all of the points of discussion from the beginning
+[984.68 - 993.80] and used that as a criteria of evaluation for the current design or the plan,
+[993.80 - 995.64] and so we can review that.
+[996.58 - 998.46] I think it's going to end up being sort of elementary
+[998.46 - 1002.74] because we're not going to probably use it to change anything,
+[1002.90 - 1006.24] but it doesn't seem like it's going.
+[1007.86 - 1008.46] Okay, great.
+[1009.08 - 1010.84] And I'm going to write up our results on the board,
+[1010.92 - 1014.98] so this will be a way for us to go through and decide if we're to review
+[1014.98 - 1016.12] where we stand at it.
+[1016.80 - 1024.06] Okay, so to sort of bring together two things,
+[1024.24 - 1027.10] sort of design goals and also the market research that we had,
+[1027.64 - 1032.48] when we rate this, one is high in succeeding or fitting to our original aim
+[1032.48 - 1034.14] and seven is low, okay?
+[1034.24 - 1034.42] Okay.
+[1035.04 - 1036.12] So these are the...
+[1036.72 - 1040.46] And we've been asked to collectively rate this,
+[1040.60 - 1043.60] so what we can do is try and just work on a consensus system.
+[1043.60 - 1046.44] So we just come to an agreement.
+[1047.90 - 1051.64] So the first one, stylish look and feel.
+[1052.42 - 1053.60] I rate that pretty highly.
+[1053.98 - 1055.78] Well, yeah, I mean, compared to most remote controllers,
+[1056.02 - 1056.92] you say that's pretty good.
+[1057.68 - 1059.02] I don't know, like a six or something.
+[1059.78 - 1060.06] Yeah.
+[1060.26 - 1061.10] What does anybody else say?
+[1061.18 - 1063.80] Yeah, my only reservation with it was that we basically went with yellow
+[1063.80 - 1065.12] because it's the company's color,
+[1065.46 - 1067.42] and they don't know if yellow is going to really be a hit.
+[1070.02 - 1070.42] But...
+[1070.42 - 1071.10] Okay.
+[1071.10 - 1071.36] Okay.
+[1071.98 - 1072.38] Five then.
+[1073.22 - 1073.84] What do you guys think?
+[1074.14 - 1075.40] I would say five or six.
+[1077.18 - 1077.20] Yep.
+[1078.06 - 1079.68] Let's go five then.
+[1079.80 - 1080.28] Okay.
+[1080.96 - 1082.24] Oh, it's actually the opposite.
+[1082.72 - 1082.98] It's one to seven, right?
+[1083.44 - 1083.84] Oh, yes.
+[1084.16 - 1084.50] Sorry, then.
+[1084.78 - 1086.02] Then I would say two or three.
+[1088.02 - 1089.08] Wait, what's the scale?
+[1089.26 - 1089.76] One to seven.
+[1090.00 - 1090.84] One's five, isn't it?
+[1091.08 - 1091.74] One is high.
+[1092.98 - 1093.14] Okay.
+[1093.26 - 1093.82] Yeah, two or three.
+[1094.88 - 1095.18] Okay.
+[1096.00 - 1096.36] Sorry.
+[1096.64 - 1097.66] Two, four, five then.
+[1098.62 - 1098.64] Okay.
+[1101.00 - 1101.02] Control.
+[1101.20 - 1101.88] High tech innovation.
+[1103.12 - 1105.16] Well, possibly jog dial, but...
+[1105.16 - 1105.32] Yeah.
+[1106.02 - 1108.58] So, we've had to remove a few of our features we wanted,
+[1108.78 - 1110.00] but jog dial...
+[1110.70 - 1113.28] I'd say it's more three or four, maybe three.
+[1113.52 - 1116.38] Medium, but going towards a little bit higher than medium.
+[1117.02 - 1117.56] Yeah, that's three.
+[1118.64 - 1118.78] Okay.
+[1122.30 - 1125.46] Style reflects a fruit-inspired color design.
+[1126.00 - 1127.50] I shouldn't have said color, but just...
+[1127.50 - 1128.22] Where's kind of...
+[1128.22 - 1131.36] Okay, the blue colors and don't actually represent the color,
+[1131.48 - 1134.92] except for the red button, Dave, is for one of them.
+[1135.06 - 1137.48] But the yellow, I mean, it could be a yellow color.
+[1137.48 - 1139.72] Yeah, the yellow is more representative of the color,
+[1139.84 - 1141.94] but the button itself, the blue, can be anything else.
+[1142.34 - 1143.44] Okay, so two.
+[1146.98 - 1151.14] Okay, and design is simple to use, simple in features.
+[1151.94 - 1154.12] Yeah, and it's really basic looking, isn't it?
+[1154.22 - 1155.46] I mean, I'd give that nearly a one.
+[1155.46 - 1156.28] There it is.
+[1157.02 - 1157.62] What do you guys think?
+[1158.14 - 1158.44] Yeah, one?
+[1158.90 - 1159.20] Yeah, one.
+[1159.28 - 1159.62] That's fine.
+[1163.88 - 1165.66] Soft and spongy, we achieved that.
+[1165.92 - 1167.74] We've used mostly plastic in the end.
+[1168.24 - 1169.60] It's going to be quite...
+[1170.00 - 1171.36] A bit of a compromise for price.
+[1173.88 - 1174.40] Five?
+[1174.80 - 1175.84] That's really low.
+[1176.40 - 1176.64] Well...
+[1176.64 - 1177.34] We'll have to use plastic.
+[1177.68 - 1178.30] Yeah, I suppose.
+[1181.64 - 1181.78] Yeah.
+[1182.04 - 1183.92] Can we use an entirely rubber frame?
+[1183.92 - 1185.74] Is that an option?
+[1187.18 - 1189.08] It'll cost more than plastic.
+[1190.16 - 1190.18] Okay.
+[1190.94 - 1192.30] Logo, we've got it in there, haven't we?
+[1193.88 - 1195.68] We're going to have that on the side, aren't we, right there?
+[1199.18 - 1200.78] And it's within budget, yep.
+[1201.52 - 1202.06] It is, isn't it?
+[1202.08 - 1202.26] Yeah.
+[1203.16 - 1206.92] Okay, so we can say then, out of a possible...
+[1210.20 - 1212.00] Out of 49, I think.
+[1212.00 - 1215.04] Yeah, out of 49, with 0 being highest.
+[1217.90 - 1218.72] We have...
+[1218.72 - 1223.44] 10, 15.5.
+[1226.94 - 1228.26] Pretty good.
+[1229.92 - 1239.76] Translate to something like about approximately 72% efficacy of our original goal.
+[1240.64 - 1241.12] Right?
+[1242.30 - 1249.22] I think, because if you turn that into 100, it would be about...
+[1249.22 - 1249.58] Twice that.
+[1249.78 - 1253.64] About 31, and then invert that.
+[1254.18 - 1256.34] So, yeah, well, you have a 69, 70%.
+[1256.34 - 1257.76] Oh, right, about 70%.
+[1258.88 - 1259.88] It's pretty good.
+[1260.66 - 1261.62] Okay, good.
+[1261.94 - 1264.60] That was just a little formality for us to go through.
+[1264.86 - 1265.22] Okay.
+[1266.68 - 1267.80] 100 pound 10.
+[1270.20 - 1270.64] Sorry.
+[1272.80 - 1274.06] Nobody saw it, honestly.
+[1275.92 - 1276.58] Cameras did.
+[1277.88 - 1279.22] Is that your finished?
+[1279.52 - 1280.52] Yeah, that's me.
+[1280.66 - 1282.92] I did have one other frame.
+[1283.14 - 1286.36] I thought, I mean, not knowing how we would deal with this information,
+[1286.74 - 1291.20] I thought, okay, in theory, this kind of process would be about refining our design,
+[1291.42 - 1292.58] revisiting our original goals.
+[1293.18 - 1295.68] It's not something I need to push through, but I thought,
+[1296.18 - 1297.46] should we be thinking more about the dimensions?
+[1298.80 - 1302.46] Sort of like more of a three-dimensional shapes as well as opposed to just that flat.
+[1304.24 - 1307.02] Could our design involve a series of colors that is more of like a line,
+[1307.14 - 1310.66] where we have like sort of the, I don't know, like the harvest line or the vibrant,
+[1310.94 - 1313.88] I don't know, something, whatever, just some theme,
+[1313.96 - 1317.00] and then we have different tones, line, green, lemon.
+[1317.78 - 1318.14] Okay.
+[1318.34 - 1318.96] It's just discussion.
+[1319.12 - 1320.26] I mean, obviously, we can just abandon this.
+[1320.36 - 1320.62] It's fine.
+[1321.66 - 1323.46] Just thinking about what we originally set out to do.
+[1325.18 - 1325.36] Right?
+[1326.04 - 1326.22] Yep.
+[1327.50 - 1327.92] Okay.
+[1328.34 - 1328.38] Great.
+[1329.54 - 1335.84] Are you submitting the evaluation criteria, or am I?
+[1335.98 - 1337.18] I don't know what your instructions have been.
+[1337.56 - 1342.80] I think they've recorded it, and I haven't been asked to submit it yet.
+[1343.36 - 1343.76] Okay.
+[1345.28 - 1347.22] Just wondering if I need to include it in the minutes,
+[1347.34 - 1348.50] because if you're submitting it anyway.
+[1348.58 - 1349.06] I will, yeah.
+[1349.32 - 1349.80] Okay, great.
+[1350.32 - 1350.48] Thank you.
+[1351.18 - 1351.44] Cool.
+[1351.44 - 1351.54] Thank you.
+[1352.80 - 1353.22] Right.
+[1354.24 - 1356.76] Well, next up then, because we've done finance,
+[1357.34 - 1358.68] is the project evaluation.
+[1360.58 - 1360.92] Okay.
+[1361.02 - 1361.46] I'm listening.
+[1361.66 - 1364.50] I'm just trying to incorporate the logo into the thing,
+[1364.76 - 1366.08] so I'm playing with the Play-Doh as well.
+[1367.36 - 1368.32] Just in case you're wondering.
+[1368.94 - 1369.92] I'm still playing with the Play-Doh.
+[1386.94 - 1388.28] Just about right.
+[1388.90 - 1389.76] Don't you get your logo.
+[1390.70 - 1393.64] Come on.
+[1393.64 - 1393.98] Okay.
+[1393.98 - 1394.32] What's happening?
+[1400.08 - 1400.76] Right.
+[1401.26 - 1401.56] Okay.
+[1403.48 - 1409.62] Well, do you want to just individually say what you think about these four
+[1409.62 - 1411.42] points, and not those points?
+[1411.42 - 1411.86] My four points.
+[1411.98 - 1412.60] My four points.
+[1412.94 - 1414.04] My four points.
+[1414.04 - 1414.34] I don't know.
+[1416.68 - 1424.56] I've got a different...
+[1433.68 - 1437.16] I like those printer cables that just have the two little butterfly clips.
+[1437.78 - 1438.76] It's really quick.
+[1440.06 - 1440.26] Right.
+[1440.26 - 1440.76] Okay.
+[1441.78 - 1442.26] Yeah.
+[1442.26 - 1442.82] Here we are.
+[1444.08 - 1449.66] As I know, we'll do this alphabetically and do the start.
+[1449.90 - 1450.10] Sure.
+[1451.42 - 1453.26] So, what is it you're asking of me now?
+[1453.42 - 1453.92] I don't know.
+[1454.04 - 1457.84] Your opinion on those four points, really, and how we...
+[1457.84 - 1459.64] Sort of our work on setting this up.
+[1459.74 - 1460.08] Yeah.
+[1461.02 - 1462.56] Well, okay.
+[1462.80 - 1463.82] I'll just go through your system.
+[1464.06 - 1468.84] The room is fairly institutional.
+[1469.92 - 1476.92] But the main thing is, I think, our use of this space is more just to report on
+[1476.92 - 1479.34] things as opposed to be creative and constructive.
+[1479.70 - 1485.86] And it would probably help to have sort of a cumulative effect of we have ideas
+[1485.86 - 1488.34] and we come back, and then the ideas are still in discussion.
+[1489.06 - 1492.14] You know, in other words, this room is sort of a center point of creativity.
+[1492.60 - 1495.38] Whereas in reality, as we've gone through this, it's not really a center point
+[1495.38 - 1495.82] of creativity.
+[1495.98 - 1496.90] It's more just a...
+[1496.90 - 1502.10] Do you feel, though, that you were able to have quite a lot of creative input into this?
+[1502.48 - 1502.82] Yeah, yeah.
+[1502.92 - 1506.44] But that's just the thing in terms of the first point there, the room.
+[1506.98 - 1509.72] It feels as though the creativity goes on when we leave and then we come here
+[1509.72 - 1512.58] and then we kind of put out our ideas and then...
+[1512.58 - 1515.40] I don't think it means the room as in this room.
+[1515.90 - 1517.06] I think it means, like, you know...
+[1517.06 - 1517.52] Oh, right, right.
+[1517.96 - 1518.06] Okay.
+[1518.30 - 1518.44] Yeah.
+[1519.38 - 1519.70] All right.
+[1519.76 - 1522.32] I just looked up and saw, okay, whiteboard, digital pens, the room.
+[1522.44 - 1522.68] Okay.
+[1523.20 - 1523.94] No, of course, yeah.
+[1524.02 - 1524.56] Well, I don't know.
+[1524.56 - 1525.80] I think it means...
+[1525.80 - 1528.80] I think it means did you feel you were able to give creative input?
+[1529.20 - 1529.32] Yeah.
+[1529.78 - 1529.94] Okay.
+[1530.72 - 1534.26] Yeah, answering the question in those terms.
+[1534.72 - 1539.88] I'd say that actually there is sort of a tease of creativity because we're asked
+[1539.88 - 1544.62] to work through this, but actually the guidelines are fairly contrived in terms
+[1544.62 - 1550.12] of, okay, fashion trends, say fruit and vegetable color scheme, but then we're
+[1550.12 - 1552.50] told to use the company colors.
+[1553.16 - 1553.66] So what do we do?
+[1553.66 - 1557.88] We're told, okay, I think in terms of style and look and feel and technology,
+[1557.94 - 1560.54] but build something for 12 and a half pounds.
+[1561.06 - 1561.08] Okay.
+[1561.26 - 1568.60] So actually the creativity was more of like a sort of a formality than...
+[1568.60 - 1570.62] You feel like caged within...
+[1570.62 - 1571.48] Yeah, with the constraints.
+[1571.84 - 1572.76] It's like a balloon in a cage.
+[1572.94 - 1574.56] It can go so big, if not hit the side.
+[1574.94 - 1575.70] The constraints do come in.
+[1576.04 - 1579.28] Actually, let's take each point and everybody discuss that, I think, yeah.
+[1579.54 - 1581.50] So still on the topic of room for creativity.
+[1582.80 - 1583.94] Next up is Craig.
+[1585.62 - 1586.26] I agree with his points.
+[1587.34 - 1590.54] It's quite a lot of fun to go through and then you have to start at the end
+[1590.54 - 1592.86] and go, right, I'll cut everything out because we don't have enough money.
+[1595.34 - 1595.60] Yeah.
+[1596.24 - 1600.16] I think another point is that the meetings are more brainstorming sessions
+[1600.16 - 1605.30] than meetings, so time is also a very strong factor in structure.
+[1605.88 - 1605.90] Yeah.
+[1606.18 - 1611.34] Because for brainstorming meeting, you want a structure that allows you to...
+[1612.14 - 1615.52] To be evaluated and to be reviewed and to get feedback and come back.
+[1616.10 - 1619.86] And I guess that point about the room not being very friendly to that,
+[1619.98 - 1622.04] I think that's a very big thing.
+[1622.14 - 1624.34] And I think the fact that we're wearing these things restricts...
+[1625.10 - 1625.20] Sure.
+[1625.36 - 1627.04] I feel it because I wear my glasses, right?
+[1627.64 - 1629.40] But that irritates me, right?
+[1629.56 - 1634.98] It does actually affect whether you feel comfortable to communicate.
+[1635.16 - 1639.50] I feel like I'm hiding behind the equipment rather than the equipment is helping me.
+[1639.50 - 1642.64] So you think a more relaxed atmosphere would be more kind of...
+[1642.64 - 1644.70] Not so much an atmosphere. The atmosphere is very relaxed.
+[1644.96 - 1646.50] But the actual environment...
+[1647.06 - 1648.74] The gear creates boundaries to that.
+[1649.88 - 1652.76] And the time given also restricts.
+[1654.30 - 1655.02] Very good.
+[1655.66 - 1657.18] What about leadership?
+[1659.16 - 1662.44] I don't know if that means if I did a good job or something.
+[1663.04 - 1668.90] Yeah, well, my sense on that is what kind of guidance and direction
+[1668.90 - 1669.62] and encouragement.
+[1669.62 - 1672.62] Something like your personal coach person and stuff like that.
+[1673.10 - 1676.54] Yeah, from you as well. I think team leader.
+[1677.18 - 1677.48] Okay.
+[1679.04 - 1680.86] Yeah, I think it's good.
+[1681.10 - 1685.42] I mean, my personal views on leadership is that effective leadership
+[1685.42 - 1688.96] sort of gives people a certain room for freedom and delegation,
+[1689.32 - 1691.54] but then to come back with something that they take great ownership
+[1692.38 - 1694.28] and innovative thought with.
+[1694.80 - 1698.06] In reality, I think here the different elements of leadership
+[1698.06 - 1701.84] such as the original briefing and then the personal coach
+[1701.84 - 1705.28] and then having you with the meeting agenda
+[1705.28 - 1710.52] is actually quite a confining framework to work within.
+[1711.10 - 1713.52] And so it is leadership almost at the point of
+[1713.52 - 1717.54] sort of disempowering the team member.
+[1718.58 - 1719.24] Okay.
+[1719.48 - 1722.78] But it's not bad leadership. It's just sort of fairly strong.
+[1722.78 - 1729.04] It turns the individual into more of like a sort of pre-determined mechanism
+[1729.04 - 1730.22] as opposed to...
+[1730.22 - 1732.78] So maybe I'm too controlling or...
+[1733.50 - 1733.68] Yeah.
+[1734.10 - 1736.54] I think controlling is not the right word.
+[1736.72 - 1738.44] I think the interactions are structured.
+[1738.80 - 1740.34] I think structure is probably what you're saying,
+[1740.58 - 1743.70] that each individual is structured to one particular task
+[1743.70 - 1745.76] rather than controlling.
+[1745.98 - 1748.56] I don't need a sense of control because decisions have been made
+[1748.56 - 1750.70] in terms of a consensus, right?
+[1750.70 - 1754.52] We go around and we think about it, but that, you know, process
+[1754.52 - 1757.02] actually says you have to do it in a certain way.
+[1757.72 - 1758.86] It doesn't tell you, you know,
+[1758.98 - 1760.94] sometimes you might want to be a bit more creative
+[1760.94 - 1762.48] in terms of the process.
+[1762.94 - 1763.94] Yeah, not the...
+[1763.94 - 1764.46] Okay.
+[1765.48 - 1766.68] What about teamwork?
+[1770.26 - 1771.36] Did you want to comment?
+[1771.38 - 1774.42] That was a bit hard because we could only discuss things in the meeting.
+[1774.88 - 1775.04] Yeah.
+[1775.92 - 1777.38] If we could just go up to somebody outside the meeting
+[1777.38 - 1778.96] and have a quick talk with them, it would have been a lot easier.
+[1778.96 - 1779.32] Yeah.
+[1781.12 - 1781.64] Okay.
+[1781.96 - 1786.22] I think you tried to use the common shared folder to communicate,
+[1786.72 - 1790.68] but it just comes back to us so slow in the email.
+[1791.84 - 1794.90] It doesn't have a, you know, a messenger.
+[1795.68 - 1798.02] Did you guys get the email I sent you?
+[1798.42 - 1798.88] Oh, that's right.
+[1799.00 - 1800.08] I was wondering if that got there.
+[1800.38 - 1800.44] Okay.
+[1803.34 - 1806.12] So, to summarize the teamwork issue,
+[1806.12 - 1808.70] saying that if we could communicate outside the meeting,
+[1809.38 - 1811.98] you know, just like quick questions, quick thoughts, whatever,
+[1812.36 - 1813.68] it probably would be easier.
+[1813.68 - 1815.82] I think the tools that they were given,
+[1815.92 - 1817.62] the tool set they were given to us are fancy,
+[1817.72 - 1819.24] but they don't support collaboration.
+[1819.58 - 1820.18] I think that's the word.
+[1820.48 - 1822.30] They don't support the team working together.
+[1822.94 - 1824.92] I mean, they're still very individual tools.
+[1826.00 - 1827.96] I mean, sort of taking upon that idea,
+[1828.26 - 1832.50] the way I see this is that it's the structure
+[1832.50 - 1835.28] in which we've approached this whole task
+[1835.28 - 1837.96] is quite contrary to the principle of teamwork,
+[1838.40 - 1843.26] because the tasks were sort of divided,
+[1843.84 - 1846.22] and then the work went on in isolation.
+[1847.04 - 1848.82] I don't know what you guys did while you were together.
+[1849.08 - 1849.90] Maybe that was a bit different.
+[1852.44 - 1858.70] But actually, if you imagine the completely same task given to us,
+[1858.88 - 1862.16] but us said, okay, first thing we have to do is come up with,
+[1863.32 - 1865.60] let's say, a design concept,
+[1865.84 - 1867.32] and we sit here together and do it.
+[1868.02 - 1869.28] Well, that's what teamwork is,
+[1869.28 - 1871.72] just to say, okay, go off and don't talk to each other.
+[1872.00 - 1876.86] It's actually sort of predisposes you to quite the contrary of teamwork.
+[1877.86 - 1880.12] Not that we haven't done, I think, the best we could have done.
+[1880.76 - 1882.26] I'm not dissatisfied with it.
+[1882.82 - 1886.20] Right. Anything else to say on teamwork at all?
+[1886.60 - 1886.78] No.
+[1887.28 - 1887.60] Okay.
+[1888.14 - 1892.20] What about how we used the whiteboard, the digital pens,
+[1892.90 - 1895.52] the projector, stuff like that?
+[1896.46 - 1898.38] Did anybody think anything was really useful,
+[1898.64 - 1901.60] anything pretty unsupported?
+[1902.50 - 1903.82] I think the whiteboard, for me,
+[1903.96 - 1906.14] is the kind of thing I would use all the time,
+[1906.32 - 1910.36] but it's not quite as useful to us
+[1910.36 - 1913.14] as it could have been maybe just in the way that we use it,
+[1913.28 - 1915.20] in the sense that once we have an idea out there,
+[1915.20 - 1917.56] or while work was going on in between meetings,
+[1917.92 - 1920.72] that could have been up on a board,
+[1921.62 - 1923.64] as opposed to in text,
+[1925.68 - 1928.52] and then we could then keep our ideas sort of building on that.
+[1928.60 - 1931.14] I know that people who design cars and aviation,
+[1931.52 - 1934.16] they quite often just have a simple fiberglass prototype,
+[1934.60 - 1939.26] and it's completely abstract from the final product,
+[1939.32 - 1940.84] but they use it as a kind of a context
+[1940.84 - 1944.08] to sort of walk around and puzzle and point and discuss,
+[1944.08 - 1947.86] and in a way, everybody, as we discuss things theoretically
+[1947.86 - 1948.96] and out of our notebooks,
+[1949.84 - 1952.18] we're actually just, each of us discussing something
+[1952.18 - 1953.28] in each of our own minds.
+[1953.66 - 1956.00] It wasn't until we had this here.
+[1956.52 - 1958.62] At one point, I peeked across and looked at Craig's paper,
+[1958.74 - 1960.34] and I'm like, now I know what he's thinking,
+[1960.58 - 1961.54] because I saw his book,
+[1962.18 - 1964.22] but the whiteboard could have actually been
+[1964.22 - 1966.54] this kind of continuing...
+[1966.54 - 1969.60] So do you think producing a prototype earlier in the process
+[1969.60 - 1970.46] would have been a good idea?
+[1970.46 - 1975.16] I think the focus of it a lot was the PowerPoint,
+[1975.60 - 1977.08] as opposed to the whiteboard,
+[1977.38 - 1982.42] and I think that that also does hinder certain things.
+[1982.56 - 1984.70] I think it would be cooler to have the whiteboard
+[1984.70 - 1987.74] rather than the PowerPoint,
+[1987.88 - 1990.44] or maybe the whiteboard and the PowerPoint in the same place.
+[1992.12 - 1993.98] Yeah, because the PowerPoint was provided to us
+[1993.98 - 1995.02] while we had time to prepare,
+[1995.92 - 1998.32] whereas I can imagine if I'd been encouraged
+[1998.32 - 2001.90] to use paintbrush, for example, or whatever,
+[2002.08 - 2003.32] I would have actually used it,
+[2005.44 - 2008.64] just because that's sort of what we were set up to use
+[2008.64 - 2009.56] when we had our time.
+[2011.04 - 2013.52] I think there were too many PowerPoints in the meetings.
+[2014.54 - 2016.94] The plug-in and the plug-in, we spent a lot of time doing that,
+[2017.02 - 2018.74] and a lot of information on the PowerPoints,
+[2019.40 - 2021.98] I don't think we needed to...
+[2021.98 - 2023.78] We could have gone through them very verbally,
+[2023.88 - 2025.04] especially my slides, I felt,
+[2026.30 - 2028.22] as opposed to having to present them.
+[2028.40 - 2029.62] What about the digital pens?
+[2029.86 - 2031.82] Did you find them easy enough to use?
+[2032.72 - 2033.52] Not that clunky.
+[2034.94 - 2037.20] Yep, clunky. Agreed.
+[2042.96 - 2045.30] Having to take it before you go off
+[2045.30 - 2046.50] was a bit hindering as well,
+[2046.52 - 2047.64] because you're halfway through a thought,
+[2047.86 - 2049.42] and then you run out of paper, and then you have to jump.
+[2049.78 - 2051.56] I think at the very start of today,
+[2051.56 - 2054.10] I wrote a whole load of stuff,
+[2054.34 - 2056.12] didn't click note on one,
+[2056.46 - 2059.34] then went back and wrote one tiny thing on another page,
+[2059.60 - 2060.56] but then did click note,
+[2060.94 - 2063.28] so I'm quite worried that I've just written over the top of it
+[2063.28 - 2065.08] or something, but they'll have my paper anyway.
+[2066.16 - 2068.54] But I think the pen is very intuitive,
+[2068.76 - 2070.68] everybody knows how to use it, we don't even have to worry.
+[2071.54 - 2073.80] The pen's good, it's not the best thing.
+[2074.56 - 2075.92] On the topic of the technology,
+[2076.06 - 2077.82] it just occurred to me that we actually didn't need
+[2077.82 - 2080.18] to move our computers because each computer
+[2080.18 - 2081.36] has all of the files.
+[2082.28 - 2083.56] It just occurred to me that...
+[2083.56 - 2084.84] Yeah, we only needed one computer.
+[2084.94 - 2086.14] We only actually needed one computer.
+[2087.26 - 2089.32] If there had been a fifth, it could have just been sitting there
+[2089.32 - 2090.04] ready to go the whole time.
+[2090.06 - 2093.10] And the computer may not be conducive to a meeting,
+[2093.30 - 2095.84] because you tend to look at your computer
+[2095.84 - 2099.34] and want to have the urge to check something.
+[2100.22 - 2101.84] It's useful, but...
+[2101.84 - 2104.06] Do you think the computers just provide distraction in the reading?
+[2104.06 - 2106.86] I think too many computers are just distracting.
+[2109.86 - 2112.40] I like to have things written down in front of me, actually.
+[2112.86 - 2114.88] A lot of the stuff that was emailed to me,
+[2115.26 - 2117.30] I ended up writing down there or something,
+[2117.36 - 2118.78] so I could look at it really quickly
+[2118.78 - 2120.94] and not have the distraction of all of that.
+[2121.72 - 2123.02] I don't know about anybody else.
+[2126.18 - 2126.74] What else?
+[2129.56 - 2131.06] I'm not really sure what they're looking for
+[2131.06 - 2132.42] but I'm going to say new ideas find.
+[2134.06 - 2136.94] I don't know. Can you think of anything else
+[2136.94 - 2140.20] that would have been helpful today at all?
+[2144.06 - 2148.78] Well, the main one for me is that the process
+[2149.64 - 2154.80] in a natural context would not have been interrupted
+[2154.80 - 2158.80] by this necessity to discommunicate ourselves.
+[2160.76 - 2162.46] That's kind of a new idea for me.
+[2164.48 - 2170.28] It's hard to keep working forward on a team-based project
+[2170.28 - 2174.98] when you're told you must now work away from the team.
+[2176.48 - 2178.90] I think it was quite good that we had time limits
+[2178.90 - 2181.46] on the meetings, because they really could have run on.
+[2181.62 - 2183.76] My experience of meetings is that they really do.
+[2184.36 - 2185.72] You can spend a lot of time talking about it.
+[2185.94 - 2187.70] The only thing is, when we had our meeting
+[2187.70 - 2190.70] about the conceptual design, I thought maybe another
+[2190.70 - 2192.32] 15 minutes would have been useful there.
+[2197.90 - 2200.84] I think maybe if we had all been working in the one room
+[2200.84 - 2204.36] and they just said, every hour or something,
+[2204.60 - 2207.76] make sure you just have a short meeting
+[2207.76 - 2211.06] and then just to have something written down,
+[2211.58 - 2214.06] just like a milestone if you like,
+[2214.06 - 2216.56] rather than having meetings.
+[2221.64 - 2223.78] I haven't got my five minutes to go.
+[2224.08 - 2224.88] Oh, there it is.
+[2225.26 - 2225.94] Five minutes to go.
+[2227.70 - 2229.02] Okay, are the courses in the budget?
+[2229.32 - 2229.86] Yes, they are.
+[2230.72 - 2231.86] And is the project evaluated?
+[2232.22 - 2232.72] Yes, it is.
+[2233.50 - 2234.04] So now you celebrate.
+[2235.24 - 2236.68] So we have Ninja Homo.
+[2237.68 - 2237.88] Oh, yeah.
+[2238.84 - 2240.70] Well, apparently now I write the final report.
+[2240.94 - 2241.80] What are you guys doing now?
+[2242.32 - 2242.78] I don't know.
+[2242.78 - 2243.96] Oh, wow.
+[2245.44 - 2246.44] That is lovely.
+[2248.10 - 2249.24] I said Ninja Homo.
+[2249.98 - 2250.76] What did you call it?
+[2251.16 - 2251.58] Ninja Homo.
+[2252.68 - 2253.68] See, it looks like Homer Simpson.
+[2255.12 - 2259.04] So is that just a logo or is it doing a thing?
+[2259.22 - 2259.82] Yeah, it's just a logo.
+[2259.94 - 2263.70] Just a logo and then like Ninja Homer, right, okay.
+[2265.48 - 2269.00] The red is supposed to represent whatever else you want to print
+[2269.00 - 2271.04] on the side of it.
+[2271.04 - 2273.74] It's crashing technology or something.
+[2274.18 - 2274.92] You can wear Homer.
+[2275.18 - 2276.68] You can throw Homer when you're frustrated.
+[2279.68 - 2280.30] It's cool.
+[2280.60 - 2283.46] I'm kind of, I'm slightly gutted that we couldn't get plastic
+[2283.46 - 2283.84] and rubber.
+[2284.04 - 2284.86] I think that would have been nice.
+[2286.16 - 2286.76] Oh, well.
+[2287.96 - 2290.12] Maybe from now on real reaction should give us more money.
+[2290.40 - 2291.22] Oh, I did learn something.
+[2291.58 - 2292.64] Play-doh is useful.
+[2293.78 - 2294.30] No, it is.
+[2294.42 - 2299.80] It is useful in conceptualizing, in being creative.
+[2299.80 - 2302.70] You say it's something you can put your hands on and feel
+[2302.70 - 2304.28] and touch and get a sense for.
+[2304.42 - 2306.54] We were playing with the play-doh and the ideas came
+[2306.54 - 2307.48] with the play-doh.
+[2307.58 - 2307.94] Did they?
+[2308.00 - 2309.20] Rather than with everything else.
+[2309.34 - 2310.16] You might want to write that down.
+[2310.70 - 2310.94] Okay.
+[2311.14 - 2312.30] I'm just fooling with the play-doh anyway.
+[2313.00 - 2313.14] Play-doh.
+[2314.54 - 2316.12] I forgot how to use the play-doh smells.
+[2316.96 - 2318.22] Yeah, it smells funny, doesn't it?
+[2318.94 - 2320.56] The play-doh's are actually edible, aren't they?
+[2321.02 - 2321.56] Yeah, it's separate.
+[2321.58 - 2321.84] The wall play-doh is edible.
+[2322.44 - 2323.34] I think it has to be.
+[2323.44 - 2323.96] It's just wheat.
+[2324.16 - 2325.92] It's the stuff that your mom could make with preservatives.
+[2327.86 - 2330.18] What are your summarizing words about play-doh?
+[2331.36 - 2332.86] It's helpful to the creative process.
+[2333.82 - 2336.80] It engages all your senses, not just your sight,
+[2337.04 - 2338.52] but your sense of feel, your sense of touch,
+[2338.52 - 2342.84] and it helps you to understand dimension as well.
+[2343.08 - 2346.20] I think that's very helpful because it starts to pop up,
+[2346.34 - 2348.18] whereas on a piece of paper, on a computer, on a board,
+[2349.32 - 2352.58] even with a 3D graphics thing, it still requires a lot.
+[2353.02 - 2353.14] Tangible.
+[2354.30 - 2355.48] Tangible, that's a nice word.
+[2355.92 - 2357.08] It becomes tangible.
+[2359.00 - 2359.66] Tangible.
+[2363.02 - 2363.04] Okay.
+[2370.52 - 2375.42] I don't know if there's anything else we need to discuss.
+[2377.08 - 2378.22] That's about it, really.
+[2381.56 - 2382.76] Just sit still, I guess.
+[2382.76 - 2387.08] Do we retreat to our continue hour?
+[2387.26 - 2389.74] I think we could probably do it here as long as we do it.
+[2389.80 - 2390.54] Well, I don't know.
+[2391.00 - 2395.28] I'm sure a little thing will pop up any minute now.
+[2395.88 - 2396.72] Can we turn off the microphones?
+[2398.10 - 2398.96] Yeah, yeah.
+[2399.14 - 2400.28] The meeting's over, then, yeah.
+[2401.06 - 2402.98] And my microphone has no signal.
+[2406.16 - 2409.94] Which would explain why we don't get a nice sound.
+[2411.94 - 2414.30] Yeah, it might be because of the power store.
+[2418.52 - 2421.88] I think the time has to run out for us to get any more instructions.
+[2448.14 - 2448.96] That's really cool.
+[2449.10 - 2449.76] I can see there.
+[2450.98 - 2451.54] I'm going to talk.
+[2451.70 - 2454.30] I can see my own voice on there.
+[2455.88 - 2456.66] You ready to watch?
+[2494.82 - 2496.22] Thank you.
+[2527.20 - 2529.10] Thank you.
+[2557.20 - 2559.10] Thank you.
+[2587.20 - 2589.10] Thank you.
+[2617.20 - 2619.10] Thank you.
+[2622.74 - 2624.14] Thank you.

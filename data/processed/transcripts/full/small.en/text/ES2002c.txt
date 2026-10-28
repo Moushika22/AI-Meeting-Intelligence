@@ -1,0 +1,853 @@
+[0.00 - 3.70] to do now is to decide how to fulfill what your stuff is.
+[4.38 - 4.58] OK.
+[5.08 - 5.98] Yeah, sure.
+[6.50 - 6.78] OK.
+[7.00 - 8.20] It kind of does make sense, doesn't it?
+[8.24 - 9.34] Because when we get into the end of meeting,
+[9.38 - 12.40] we're kind of talking about action and design
+[12.40 - 13.22] as opposed to background.
+[13.74 - 14.74] Everything I have is kind of background.
+[15.10 - 16.24] OK, are we all ready to do?
+[16.68 - 19.02] We'll have it in this meeting then.
+[19.52 - 25.10] If we, I'll just recap on the minutes from the last meeting.
+[26.10 - 33.78] We decided on our target group being 15 to 35.
+[35.18 - 37.50] We decided that it was going to be normally
+[37.50 - 39.32] chargeable battery power, that we're
+[39.32 - 42.00] going to group our audio, visual, and other functions
+[42.00 - 44.00] into those categories.
+[46.88 - 49.76] And I told you guys about the three new requirements
+[49.76 - 52.62] about ignoring teletext, ignoring everything except the TV,
+[53.06 - 57.28] and trying to incorporate the corporate color and slogan.
+[59.14 - 60.52] So that was the last meeting.
+[61.06 - 61.34] Is there anything?
+[61.52 - 62.22] Have I forgotten anything?
+[63.18 - 63.20] No.
+[63.78 - 64.24] Is that everything?
+[65.86 - 67.52] So if we have the three presentations,
+[67.78 - 70.90] and then if you have anything to kind of that you
+[70.90 - 72.16] know you're going to want to discuss,
+[72.46 - 73.84] maybe just make a note of it, and then we'll
+[73.84 - 75.12] have all the discussion at the end.
+[75.28 - 76.48] That might be a better idea this time.
+[76.98 - 81.58] And so if we start off with Andre, and then Craig,
+[81.58 - 83.60] and then David, is that right?
+[85.02 - 89.04] And then after that, we'll have to make some decisions about stuff.
+[90.04 - 90.22] Right.
+[91.44 - 93.70] So if you're going to take this.
+[100.36 - 101.82] It's going to click, don't we?
+[107.78 - 110.04] How did we leave it with speech recognition?
+[110.04 - 114.00] Should we say we're going to try, maybe incorporate it,
+[114.00 - 115.54] but we hadn't made a definite decision or not?
+[116.98 - 120.94] We should also point out that the final objective
+[120.94 - 123.20] of this meeting is to reach a decision
+[123.20 - 125.30] on the concepts of the product.
+[126.40 - 130.26] So that's kind of the end result, hopefully.
+[134.52 - 137.20] All right, so is it function f8?
+[145.82 - 147.18] I think it's working.
+[147.74 - 148.28] Oh, they're all good.
+[148.74 - 148.98] OK, great.
+[149.42 - 151.32] So let me just start this.
+[156.50 - 157.10] OK, great.
+[157.86 - 160.80] So let's move on.
+[163.66 - 164.80] Oh, where did it all go?
+[165.22 - 165.78] It's not good.
+[166.86 - 170.02] OK, let me just see where I find it.
+[181.98 - 184.52] I think I just open up the template so we know that.
+[184.94 - 186.86] OK, all right, so let's have a look here.
+[186.92 - 189.02] OK, so this is the method that I've taken.
+[189.56 - 191.78] Basically, what I want to do here before we get into it
+[191.78 - 195.14] too far is I want to show you all the background information
+[195.14 - 197.06] I have that I think we need to acknowledge
+[197.06 - 198.28] if we want this to be successful.
+[199.46 - 201.92] And then sort of go through some of the way
+[201.92 - 203.06] that I've dealt with that information
+[203.06 - 206.20] and then sort of bring us all together into it
+[206.20 - 208.42] to see how this fits in with the overall vision.
+[209.46 - 212.66] So I've tried to take a whole lot of market research
+[212.66 - 214.78] and summarize it for us.
+[215.04 - 218.24] And then I identify trends that are sort of in sync
+[218.24 - 222.82] and are important to our project plan that we have so far.
+[223.16 - 226.60] And then initiate a kind of discussion on design options
+[226.60 - 230.24] so that it sort of helps us to narrow in on aspects
+[230.24 - 234.04] that will inform other elements of the project.
+[234.74 - 235.32] Does that make sense?
+[235.98 - 236.56] That sort of strategy.
+[236.94 - 238.94] I thought that that will impact on the rest of what we do,
+[239.10 - 240.50] so that's why I suggested we get into it.
+[241.44 - 244.60] OK, so out of different figures and ratings
+[244.60 - 247.92] of people in general, consumers in general,
+[248.02 - 249.48] the number one thing that was found
+[249.48 - 252.74] was that the television remote control
+[252.74 - 255.12] of a fancy-looking feel, OK, and not,
+[255.12 - 260.42] and specify, not a functional look or feel, fancy.
+[261.54 - 264.14] However, this is where we kind of have to be very,
+[264.22 - 265.32] I think, creative about it.
+[265.56 - 267.32] Number two was that it be innovative.
+[268.12 - 270.60] OK, so that tells me that we have to find a way
+[270.60 - 273.20] to be innovative without adding just the necessary
+[274.40 - 276.28] sort of functional bits to it.
+[276.70 - 279.42] And third priority for ease of use.
+[279.58 - 281.98] So again, that kind of gives us a general picture
+[281.98 - 286.28] of how it has to be quite user-friendly
+[286.28 - 287.86] while still having technology.
+[288.44 - 290.68] So I'll just say right away as a bit of a foreshadowing
+[290.68 - 293.10] into how we proceed with this in terms of marketing
+[293.66 - 295.94] is that I think what we should think about
+[295.94 - 301.20] is how the, about how the innovation
+[302.24 - 303.60] contributes to the look and feel
+[303.60 - 307.16] and not so much to the functionality of it.
+[307.50 - 309.48] For example, like when you pick it up
+[309.48 - 311.36] and push it like it all lights up or something,
+[311.36 - 311.98] you know what I mean, like,
+[312.14 - 315.62] or it's got something else to it that just seems innovative
+[315.62 - 318.76] because obviously the message here is ease of use.
+[319.38 - 323.46] So how do you make innovation make something more easy to use?
+[323.54 - 325.04] Well, that's, I guess, where we're gonna go with this.
+[325.80 - 329.46] OK, then there's the other aspect of the market.
+[331.20 - 333.48] Research I have here is on fashion style,
+[333.72 - 335.50] OK, which as we've agreed is a priority.
+[336.38 - 340.26] Top European fashion trend that I read about
+[340.26 - 344.30] it says there's this emerging theme of fruit and vegetables,
+[344.80 - 346.46] OK, especially in clothes and furniture.
+[346.60 - 347.70] And when I first saw that, I thought,
+[347.94 - 350.48] hmm, well, do we want to actually try and think
+[350.48 - 352.84] about this trend and how we add something to it
+[352.84 - 353.88] or we get right into it
+[353.88 - 355.46] or we completely steer away from it?
+[355.68 - 355.98] You know what I mean?
+[356.02 - 356.72] OK, OK.
+[356.78 - 359.50] My feeling is that we do want to observe this trend
+[359.98 - 362.14] but we want to think also about the fact
+[362.14 - 365.18] that it sort of has to fit in with something
+[365.18 - 367.56] which is not specifically electronics
+[368.58 - 372.28] because I think what we're in is partly sort of home decor,
+[372.82 - 374.34] partly something like a computer.
+[375.82 - 378.80] So I think we might want to be careful about how quickly
+[378.80 - 380.88] we create like a remote control in the shape of an apple
+[380.88 - 382.32] or something, I think that would be pushing it.
+[383.24 - 384.88] And then in terms of material trends
+[384.88 - 386.90] are for things to be soft and spongy
+[386.90 - 390.62] and sort of might say ergonomic or friendly to handle,
+[390.78 - 394.86] which also indicated that last year this was not the case.
+[395.42 - 399.08] So probably a lot of the competition on the market
+[399.08 - 401.76] will be still in last year's mode.
+[402.02 - 403.84] So if we try and really capitalize on that,
+[403.92 - 405.20] I think that'll be in our favor.
+[409.30 - 411.22] So this is the summary of everything.
+[412.46 - 415.16] Style is number one thing in the market
+[415.16 - 416.26] of who we're selling to.
+[417.10 - 419.12] Innovative design technology is also a must
+[419.12 - 422.66] in that it seemed to be seen to be cutting edge
+[423.30 - 425.44] but ease of use has to be ensured throughout.
+[425.56 - 426.92] That was like the number three thing.
+[427.38 - 429.54] And then at the end there are vibrant natural colors.
+[431.90 - 433.46] That's the way I interpreted it anyway.
+[433.96 - 435.98] Softness in material, shape and function.
+[436.72 - 438.10] And so I wrote and written at the bottom
+[438.10 - 440.04] to give us sort of a context of discussion.
+[440.78 - 442.90] Mac, iPods, something which is,
+[443.72 - 446.50] I'd have to say very high tech, 10 gigabytes, whatever.
+[446.90 - 448.70] But when you hold it in your hand, there's like no buttons.
+[449.56 - 450.20] You know what a Mac iPod is?
+[451.08 - 453.54] I'm thinking however, Mac iPod is sort of last year's
+[453.54 - 456.02] because it's very hard and sort of glassy and glossy.
+[456.38 - 459.02] So I'm thinking if we imagine that we're taking some
+[459.02 - 460.44] of the features of a Mac iPod
+[461.00 - 465.22] and we're then making it more of like a comfortable type
+[465.22 - 471.28] of more of like maybe more vibrant friendly thing to have.
+[472.04 - 474.10] And then so this is with all that information,
+[474.56 - 476.78] what I'm suggesting in this slide here
+[476.78 - 479.08] is that we take these ideas
+[479.08 - 485.28] and as we get into more the more sort of production side
+[485.28 - 487.64] of things that we think about shape, materials
+[488.56 - 491.78] and themes or series that go throughout sort of like,
+[493.88 - 496.86] I don't know, like we think of some kind of a theme
+[496.86 - 499.14] that unifies it all that we agree on.
+[499.38 - 500.74] Sort of like a marketing identity.
+[503.40 - 504.32] Does that make sense?
+[504.92 - 508.42] Yeah, so like I threw out a few ideas there
+[508.42 - 510.18] just to kind of get us thinking along those lines
+[510.18 - 514.16] like lemon, lime, I don't know, green colors, whatever.
+[514.38 - 515.74] It's just an idea because I'm thinking
+[515.74 - 518.14] that some of these ideas will seem quite coherent
+[518.14 - 519.70] if we use them in terms of their,
+[520.12 - 522.62] what people associate them with in terms of texture,
+[522.70 - 525.26] shape, colors, things like that.
+[527.06 - 530.78] Like the ones which I'm most fond of in terms of giving
+[530.78 - 534.00] like a theme to it would be like lemon
+[534.00 - 535.96] or something like that, you know, something which is,
+[535.96 - 539.96] like you see a lot in other areas.
+[540.38 - 542.00] Like I see lots of websites and things
+[542.00 - 544.68] that seem to associate with like lemon and lime.
+[546.04 - 547.74] So anyway, it's just an idea.
+[548.56 - 548.90] Yeah.
+[549.04 - 551.06] I'm thinking maybe we could incorporate some of these features
+[551.06 - 555.72] into a fairly, into something which seems to have
+[555.72 - 557.78] something to it which is almost gimmicky
+[558.40 - 562.30] because like something to do with like lighting within it.
+[562.58 - 564.34] Like, you know, just in the simple sense
+[564.34 - 568.18] when you pick up a phone and touch a button, it lights up.
+[568.92 - 570.12] Usually the buttons light up.
+[570.40 - 571.50] How can we build on that?
+[571.68 - 573.38] Maybe like it could light up in different colors
+[573.38 - 576.98] or something or people could buy the control
+[576.98 - 580.66] and then it comes with different like covers or something.
+[581.10 - 582.76] So anyway, those are, that's all I have,
+[582.98 - 585.62] but hopefully we can revisit those ideas
+[586.34 - 587.06] when we get into.
+[588.00 - 589.00] Okay, great.
+[590.48 - 591.98] Thank you for that.
+[592.80 - 598.00] Craig, do you wanna plug yours in?
+[640.58 - 641.12] Okay.
+[646.54 - 647.12] Did you press it?
+[647.64 - 648.94] It's probably not sending.
+[656.70 - 658.38] Oh, is something coming now?
+[658.60 - 660.32] Yeah, there it is.
+[661.72 - 662.46] Oh, dear.
+[664.20 - 666.12] All right, so the interface concept.
+[669.36 - 672.44] To research it, I've had to look on the homepage again
+[672.44 - 673.84] to provide me with more examples
+[673.84 - 676.10] of previous existing control controls.
+[677.60 - 679.26] And there's a wee bit of discussion
+[679.26 - 680.96] about the existing ones there.
+[681.62 - 681.96] So I've taken the first one,
+[681.96 - 683.92] and then the suggestion from them
+[683.92 - 685.24] and tried to incorporate them into this.
+[688.22 - 691.54] At the end, we're looking for suggestions on size
+[691.96 - 693.80] and size of the control and the buttons
+[694.40 - 695.92] and the shape of the control
+[695.92 - 698.28] and where about the button should be located
+[698.28 - 698.90] on the control.
+[703.04 - 705.04] What I found from the research is that
+[705.04 - 706.38] most of the current controls are just
+[706.84 - 708.98] breaks with loads of buttons all over them.
+[710.20 - 711.66] They're not very attractive to look at,
+[712.34 - 713.36] and they're not very comfortable to hold.
+[713.58 - 714.90] They're not just holding like big bricks.
+[715.50 - 716.60] And they're very easily lost.
+[717.60 - 718.50] They tend to be very dark colors,
+[718.64 - 720.42] so if they're shadowy places down inside the couches,
+[720.60 - 721.50] you can't really see them.
+[721.74 - 721.94] Mm-hmm.
+[725.46 - 727.42] The controls themselves tend to use
+[727.42 - 728.58] a very inconsistent color scheme.
+[729.94 - 732.16] For instance, the standby button isn't always red.
+[732.44 - 733.06] It really should be.
+[733.14 - 735.52] It's just something that the users identify with.
+[735.88 - 736.90] This is a red switch off.
+[737.14 - 738.04] That's how it should be.
+[739.26 - 741.08] I'm not sure if there's any other examples of that,
+[741.22 - 742.82] but I don't think there are.
+[745.62 - 748.08] It's a problem that I've got a couple of preferences
+[748.08 - 750.08] for the end control.
+[751.64 - 753.46] Again, with the red color button for standby
+[753.46 - 755.46] and the other examples of that.
+[757.20 - 758.34] The buttons should be large.
+[758.60 - 759.78] They shouldn't be tiny little things
+[759.78 - 760.80] like you get on some mobile phones.
+[760.98 - 762.82] They should be easy to press, very comfortable.
+[765.22 - 767.14] One of the examples given on the home page
+[767.14 - 770.52] was there's an up and down volume button,
+[770.78 - 771.96] but both of them have a V on them.
+[772.34 - 774.38] The up volume button looks like it should be a down volume button,
+[774.52 - 775.16] and that's kind of confusing.
+[776.62 - 777.90] It should avoid things like that.
+[780.36 - 782.08] If the corporate color scheme was it,
+[782.20 - 783.72] we should have a very bright color
+[783.72 - 785.60] so that it can be identified anywhere.
+[787.88 - 789.64] Obviously, it's trying to avoid being tacky there,
+[789.68 - 792.94] but it could tie in very easily with your alignment idea.
+[793.10 - 794.22] Do we have a corporate color scheme?
+[794.56 - 794.80] I don't know.
+[794.80 - 798.10] I think it's yellow because the website is yellow
+[798.10 - 799.68] and there's the band at the bottom of the yellow.
+[799.98 - 800.70] The Play-Doh is yellow.
+[803.48 - 804.80] Definitely food for the thought there,
+[804.90 - 806.48] but keep going and we'll discuss it.
+[808.32 - 810.44] Any extra features we add beyond the basic ones
+[810.44 - 811.26] should be hidden.
+[811.48 - 815.26] They shouldn't be visible without something being opened
+[815.26 - 816.76] or some sort of special text effort.
+[818.68 - 820.54] If we do decide to go for a voice activation,
+[821.48 - 822.88] there should also be a button misalternative
+[822.88 - 824.52] possibly hidden in the opened-up section
+[825.10 - 826.52] in case something was wrong with it.
+[826.90 - 833.74] We should definitely avoid the big square block book.
+[833.96 - 834.54] That's just wrong.
+[837.64 - 841.06] We've got an email from the research department
+[841.06 - 843.02] and they've said that the voice control
+[843.02 - 845.04] can now talk back if you ask it a question.
+[846.12 - 848.88] It could be good to confirm any action you take.
+[849.88 - 850.94] That's a good possibility.
+[854.24 - 855.92] These are the problems I've had with it.
+[856.70 - 857.94] We don't know where the spoken could go
+[857.94 - 859.20] or really what the spoken is.
+[859.34 - 861.04] I think it's fashion and deltronics.
+[862.56 - 864.48] And we don't know how flexible the color scheme is.
+[864.88 - 866.64] You can say you want the corporate colors,
+[866.78 - 869.50] but we don't see if we can use any other colors at all.
+[874.66 - 875.02] Great.
+[876.96 - 878.30] Lots of good information there.
+[878.30 - 880.64] Yeah, that was very good.
+[899.50 - 901.60] It's a shame the cable wasn't just in the middle.
+[902.06 - 903.70] I know, it would be handy, wouldn't it?
+[915.92 - 918.56] Do you want to sit in the line of sight of this?
+[919.12 - 920.54] Okay, let me just get this.
+[946.82 - 947.84] Okay, it's a second.
+[953.88 - 961.08] Okay, I guess the same thing again.
+[961.22 - 962.60] I started with something very basic.
+[963.38 - 964.70] So just so you guys have some idea
+[964.70 - 966.08] of what's involved in my process,
+[966.08 - 968.12] and then you can just work through it
+[968.12 - 970.76] and we'll either modify it or start from scratch,
+[971.68 - 972.90] depending on what your needs are.
+[973.98 - 975.44] The components are exactly the same.
+[976.50 - 977.78] I think, like what you guys said,
+[978.06 - 981.00] the most input that's needed is basically in the user interface.
+[981.70 - 982.72] The rest of the components,
+[983.22 - 986.58] they do have an impact in terms of cost and complexity.
+[987.44 - 989.00] Like you said, time to market was a problem.
+[989.90 - 991.80] And how many components are physically in there in cost?
+[992.20 - 993.88] And the power is basically a factor of that.
+[994.94 - 996.88] And the lower components, the power,
+[997.08 - 998.36] the logic, the transmitter, and the infrared,
+[999.22 - 1001.80] they affect you in terms of the size of your device.
+[1002.72 - 1005.74] And that would have some impact on,
+[1006.02 - 1010.18] I think, more how you hold rather than the actual use,
+[1010.72 - 1011.84] using the remote control,
+[1012.14 - 1014.24] because like we've defined,
+[1014.42 - 1016.24] we only want the basic things to be visible
+[1016.24 - 1017.36] and the rest of them we try to hide.
+[1018.54 - 1020.98] So it's just a matter of working out space.
+[1020.98 - 1022.30] So I guess three things,
+[1024.72 - 1026.54] cost, complexity, and the size.
+[1026.92 - 1029.42] These are the three things that will have an impact on you.
+[1029.82 - 1030.92] So I just go through the components.
+[1032.42 - 1034.48] These are the options that are available to you.
+[1034.92 - 1036.48] I'm not very sure about the voice thing
+[1036.48 - 1037.90] because I got another email,
+[1038.14 - 1041.08] and it was quite sketchy on what the voice options are.
+[1041.90 - 1043.38] It said it could talk to you,
+[1043.42 - 1045.42] but it never said anything about being able to listen.
+[1045.76 - 1047.86] It said something about a sensor, but it never clarified that.
+[1048.38 - 1051.84] So maybe if you, I could see the other email that they sent you,
+[1053.14 - 1055.62] because they got back to me with different requirements,
+[1056.88 - 1058.42] or different offerings of what components are available.
+[1058.56 - 1060.28] So your basic components are buttons,
+[1061.14 - 1063.46] and you have a wheel available, like a mouse scroll wheel.
+[1064.20 - 1065.42] There's an LCD display.
+[1067.24 - 1068.56] I think these are quite standard things.
+[1069.00 - 1069.80] They're standard, I think.
+[1070.22 - 1070.34] No.
+[1071.52 - 1073.90] Well, in a sense, these are all the options available for you.
+[1073.96 - 1076.66] I explained to you the complexity and the cost thing again a bit later.
+[1078.26 - 1080.74] Then there's how the case actually looks.
+[1081.26 - 1083.26] It can actually be flat, or it can be curved.
+[1084.82 - 1086.78] And then the different types of materials that you can use.
+[1087.26 - 1089.16] I don't think you can use them in a combination,
+[1090.90 - 1093.10] but I could check back for you,
+[1093.18 - 1095.14] but I don't think you can actually use them in a combination.
+[1095.32 - 1097.10] You can have plastic and rubber.
+[1097.86 - 1099.86] I think plastic and rubber would be fine,
+[1100.10 - 1101.98] but plastic, rubber, and wood,
+[1102.22 - 1103.80] I'm not very sure about the titanium.
+[1103.80 - 1106.94] They had some restrictions on using the rubber and the titanium.
+[1107.80 - 1111.22] The rubber was a restriction on the kind of power source you could use,
+[1111.34 - 1115.94] but the titanium had a different kind of things on the shape of the thing.
+[1116.18 - 1119.08] So I think that there is some restriction on...
+[1119.08 - 1121.22] I think you could probably group plastic and rubber together,
+[1122.18 - 1123.08] wood and titanium,
+[1123.36 - 1126.06] but it might be easier from a cost perspective
+[1126.06 - 1129.26] and a complexity just to use one as opposed to two.
+[1130.18 - 1132.40] And the other components are logic chips.
+[1133.22 - 1135.54] Again, I'll go back to the component chips.
+[1136.56 - 1138.88] How complex or how easy the logic is,
+[1138.88 - 1141.04] it depends on how many functions you have on the unit,
+[1141.66 - 1142.94] and that impacts cost.
+[1143.72 - 1145.82] I don't think the logic chip has an issue about size
+[1145.82 - 1147.34] because they should be about the same size.
+[1147.62 - 1148.80] Power consumption should be about the same.
+[1150.22 - 1151.78] I think the main impact is complexity.
+[1154.16 - 1156.04] And the other thing is the power options.
+[1157.12 - 1158.34] The first one is standard battery.
+[1158.80 - 1163.10] The second one, I think, is more of a gimmick than actually a usable thing.
+[1163.28 - 1164.32] It's a wind-up.
+[1166.30 - 1167.60] You know, a crank.
+[1168.60 - 1169.44] Just by amazing.
+[1170.24 - 1172.40] But that might be something...
+[1172.40 - 1174.08] I think that's more of a look and feel decision
+[1174.08 - 1176.92] because I don't think you can have one power source
+[1176.92 - 1178.84] if you're using the alternative power sources.
+[1179.42 - 1180.92] I think whatever it is, you still need a battery
+[1180.92 - 1183.70] because I don't think anybody wants to keep doing one thing.
+[1184.54 - 1186.30] The other ones are a solar powered cell,
+[1186.80 - 1188.60] which may not be a great idea in Europe
+[1188.60 - 1190.12] or any country that has seasons
+[1190.12 - 1192.68] because half the year you'll be dead.
+[1193.44 - 1196.58] Like what I said, you probably need a battery and something else.
+[1197.94 - 1200.74] And the kinetic one, I guess, for me is the most interesting one
+[1200.74 - 1203.10] because it's movement and people like to fiddle with it.
+[1203.64 - 1206.56] And it's a nice sales gimmick, I think, from a marketing gimmick.
+[1206.80 - 1209.14] It's a technology thing. It's a shake it.
+[1209.84 - 1211.66] It doesn't work. Shake it. Knock it or something.
+[1213.04 - 1214.60] Have you had those balls?
+[1214.96 - 1216.96] Those stress balls where you bounce the ball
+[1216.96 - 1219.22] and it lights up and it goes...
+[1219.22 - 1221.52] That might be a gimmick combined with rubber.
+[1223.06 - 1225.80] Just if you get frustrated with remote control, you can throw it.
+[1225.92 - 1227.66] Kind of just the...
+[1232.42 - 1235.30] Okay, from my role, I don't think there are personal preferences,
+[1235.52 - 1236.16] but role preferences.
+[1236.42 - 1239.72] I think something comfortable to hold.
+[1241.00 - 1244.82] Small and slim, I guess that's more in the sense of...
+[1244.82 - 1247.78] Small and slim in terms of comfortable, not so small you can't...
+[1247.78 - 1249.36] You know, like a phone or something, too small a phone.
+[1250.28 - 1251.92] And the other thing is from a production point of view,
+[1253.08 - 1255.40] the less components we use and the simpler the components
+[1255.40 - 1258.32] means you reduce your cost and you increase your profit.
+[1260.46 - 1261.72] And also the time to market
+[1261.72 - 1264.78] and the complexity of developing, designing and debugging it.
+[1265.72 - 1269.74] Okay, let me just go back and talk about some of the restrictions.
+[1272.70 - 1275.56] The user interface restrictions basically means that
+[1275.56 - 1278.30] if you use more complicated features, like the buttons are standard.
+[1279.30 - 1282.14] The LCD panel and the scroll wheel, you need more complicated logic.
+[1284.60 - 1285.40] The case...
+[1285.40 - 1288.36] Okay, with a rubber case, you can't have the solar panels.
+[1289.40 - 1291.80] Okay, with the titanium case, let me just check that.
+[1297.58 - 1299.76] Titanium case can't be curved, it has to be square.
+[1300.66 - 1302.68] Okay, there's no restriction on the plastic.
+[1302.94 - 1303.46] It can't be curved.
+[1303.86 - 1305.02] It can't be curved on the wood.
+[1305.30 - 1308.28] So that's, again, I don't think you can use them in a combination.
+[1308.68 - 1309.02] Okay.
+[1309.54 - 1313.34] Especially the titanium, I suspect they're very fixed to a particular need.
+[1314.12 - 1316.34] So mixing them may not be a good idea.
+[1316.78 - 1317.18] Okay.
+[1319.80 - 1321.24] Question on... Can I ask a question?
+[1321.24 - 1326.10] Yeah, I'm quite keen to get the discussion going with the time we've left.
+[1327.64 - 1330.42] Can we power a light in this?
+[1331.06 - 1333.00] Can we get a strong enough battery to power a light?
+[1333.88 - 1337.12] I think we could because the LCD panel requires power
+[1337.12 - 1338.88] and the LCD is a form of a light.
+[1339.96 - 1343.54] So maybe one of the things we can just try and include is a really good battery.
+[1344.72 - 1346.16] Why? What kind of light do you want?
+[1346.16 - 1350.16] Well, I mean, I'm thinking it might be...
+[1351.52 - 1355.86] For this to be a high-tech thing, it's going to have to have something high-tech about it.
+[1356.10 - 1357.34] And it's going to take battery power.
+[1358.24 - 1364.60] And to make that a realistic goal, I think one of the issues that will come up later is...
+[1364.60 - 1368.16] Are you thinking of a light in the sense of...
+[1369.08 - 1371.76] A light, light, or a light in the sense of...
+[1371.76 - 1372.64] Illuminate the bottom.
+[1372.84 - 1373.48] It glows, kind of.
+[1373.54 - 1373.90] Yeah, it glows.
+[1374.04 - 1375.00] Frankenstein, it's alive.
+[1375.00 - 1378.56] Well, I'm thinking along the lines of you're in the dark watching a DVD
+[1378.56 - 1382.38] and you find the thing in the dark and you go like this.
+[1382.70 - 1385.94] And that's what everybody does, always the volume button in the dark.
+[1387.04 - 1390.58] And you just touch it or you just pick it up and it lights up or something.
+[1390.90 - 1391.24] Like a phone.
+[1391.72 - 1392.44] Like a phone, yeah.
+[1392.46 - 1392.88] Like a backlight.
+[1393.24 - 1393.54] Okay.
+[1394.50 - 1396.66] Whereas with phones, people charge them once a week.
+[1397.18 - 1399.22] We're going to need to put in a really good battery
+[1399.22 - 1404.40] so people don't have to charge their remote control every few days.
+[1404.40 - 1407.68] That's why I think the option of the kinetic thing, which basically means
+[1407.68 - 1409.04] as long as you shake it like a watch.
+[1409.38 - 1411.10] But are people going to want to shake their movie controller?
+[1412.12 - 1414.22] It's probably sensitive enough when you fiddle it.
+[1415.22 - 1417.10] So you could trigger that to a light.
+[1417.22 - 1418.36] Like I said, the bouncing ball thing.
+[1418.66 - 1422.32] Or you could trigger that to use that to power the light as opposed to...
+[1422.32 - 1423.38] So when they pick it up, right.
+[1423.74 - 1426.00] And then that sort of triggers the...
+[1426.00 - 1426.16] Right.
+[1428.06 - 1428.14] Okay.
+[1428.86 - 1433.46] Well, let's just go back to the marketing ideas for a start.
+[1433.46 - 1435.06] And it's keeping an idea in the time.
+[1435.18 - 1437.80] We've got about 15 minutes to play with at most.
+[1440.58 - 1444.28] So, yeah, so just to bear in mind that the ultimate goal of this meeting
+[1444.28 - 1448.30] is to reach an absolute decision on the concepts of the product.
+[1449.08 - 1453.80] So back to your idea about incorporating the idea of like fruit and veg
+[1453.80 - 1456.32] and the corporate color and things like that.
+[1458.08 - 1460.46] I mean, what does everybody think about...
+[1461.98 - 1465.06] Does anybody have any ideas about how we can fit all that in together?
+[1466.14 - 1467.86] I mean, that's kind of the user interface type of thing.
+[1467.96 - 1468.86] What are your thoughts on that?
+[1470.22 - 1471.46] I reckon we'll go for a...
+[1472.76 - 1476.38] Maybe not a fruit shape, but a very sort of curvy type shape.
+[1477.00 - 1479.04] You can have the same sort of texture and color as a fruit.
+[1479.42 - 1483.40] So maybe, are we thinking something that could sit in your hand comfortably
+[1483.40 - 1485.70] or should you hold on to it comfortably?
+[1486.36 - 1488.02] I'm supposed to be sitting in your hand comfortably.
+[1488.46 - 1489.62] So something quite curvy?
+[1489.62 - 1490.28] Okay.
+[1492.92 - 1493.80] Right, okay.
+[1494.46 - 1497.98] Color-wise, I mean, I can't remember who made the point
+[1497.98 - 1500.18] to bite high if you have a nice bright color, you'll not lose it.
+[1501.66 - 1502.30] What's that mean?
+[1502.50 - 1505.22] Bite high if you have a bright color, you'll not lose it so much.
+[1506.18 - 1508.22] And when the corporate color is yellow,
+[1508.42 - 1512.42] I mean maybe we could think about the color of the whole product being yellow,
+[1512.56 - 1513.00] I don't know.
+[1515.42 - 1519.06] And then obviously the materials.
+[1520.00 - 1523.68] Has anybody got an overall picture in their mind about what might work?
+[1524.54 - 1527.04] Well, I mean, I'm thinking that what we need to do
+[1527.04 - 1530.12] is have something that kind of unifies a lot of the different concepts.
+[1530.40 - 1532.16] And if we think that what we are...
+[1532.16 - 1537.42] Our number one marketing motive is the look and feel.
+[1537.88 - 1539.92] So for the look and feel to seem coherent
+[1539.92 - 1544.34] and not just sort of bits and pieces of concept and technology
+[1544.34 - 1548.34] or whatever, or fashion, then we should have it kind of come back
+[1548.34 - 1550.96] to one thing that we kind of all sort of can visualize.
+[1552.86 - 1555.84] Maybe what we could do is think about a concept
+[1555.84 - 1562.12] which touches back to the color, you said company color, yellow.
+[1562.60 - 1565.46] I mean, if we think of something like, I was saying also lime, lemon,
+[1565.76 - 1566.98] you know, what can we come up with something
+[1566.98 - 1569.96] where we try and associate it with like the series?
+[1570.26 - 1571.94] We just come up with something like that.
+[1572.06 - 1576.56] We kind of use it as a theme to inspire the shapes and things.
+[1578.24 - 1582.84] Is there a particular shape that you're interested in?
+[1583.52 - 1585.40] Does marketing have any research on it?
+[1585.90 - 1586.66] Does it need to be long?
+[1587.06 - 1588.74] Does it need a square thing?
+[1589.14 - 1589.86] Or circular in shape?
+[1590.42 - 1593.82] Yeah, because that will help narrow down the choice of...
+[1593.82 - 1594.72] The choice of material.
+[1595.76 - 1598.26] I was kind of thinking about as well,
+[1598.34 - 1600.82] you know how you get these shock resistant mobile phones
+[1600.82 - 1603.84] and they're plastic, but they also have like rubber around the outside.
+[1604.48 - 1606.94] It kind of feels, it feels kind of warmer to the touch,
+[1606.94 - 1608.00] feels a bit more comfortable.
+[1608.60 - 1611.92] Maybe we could incorporate plastic and rubber into it
+[1611.92 - 1613.90] and then we could have curved shapes
+[1613.90 - 1616.08] because wood or titanium, yeah,
+[1616.14 - 1618.94] it's going to have to be boxy and rectangular
+[1618.94 - 1621.24] and I think we might be moving away from that, you know.
+[1625.76 - 1628.42] Do we really want it in like the shape of a lemon?
+[1629.16 - 1629.64] No, no, no.
+[1629.64 - 1630.60] No, I don't think we do either.
+[1630.98 - 1634.72] No, no, it's more just that we think about like
+[1635.80 - 1637.52] what it is we're trying to achieve
+[1637.52 - 1641.16] and then we have one sort of theme that we stick with.
+[1641.18 - 1642.74] Okay, right.
+[1642.96 - 1646.92] Well, so thoughts about the actual shape of the thing?
+[1648.00 - 1649.84] I'm quite like sort of a snowman type shape.
+[1650.00 - 1650.82] A snowman shape.
+[1651.42 - 1653.08] And sort of larger bits in your hand.
+[1653.20 - 1653.42] Uh-huh.
+[1653.42 - 1655.22] And then you've got to be another bulb at the top
+[1655.22 - 1656.94] for just any other one you need.
+[1657.52 - 1659.92] That's quite a distinctive shape that would be good, wouldn't it?
+[1660.70 - 1661.08] Yeah.
+[1661.28 - 1661.48] Yeah.
+[1662.28 - 1663.62] Shall we, shall we go with that?
+[1664.76 - 1667.36] Um, can we, yeah, like two and one,
+[1668.02 - 1669.78] like do you have a...
+[1669.78 - 1671.02] Do you want to draw it on the board?
+[1671.18 - 1672.80] Yeah, just so we can visualize it.
+[1690.46 - 1691.38] Something like that.
+[1691.60 - 1692.90] If you've got two groups there,
+[1693.84 - 1696.02] maybe it could fold up and you get a third group inside.
+[1696.78 - 1697.36] Ooh, that'd be good.
+[1698.00 - 1699.96] You've got point controls about there.
+[1701.18 - 1701.50] Mm-hmm.
+[1702.80 - 1703.32] Yep.
+[1703.72 - 1705.58] So call that the snowman shape.
+[1706.56 - 1706.82] Trademark.
+[1709.56 - 1712.66] Yeah, that's cool.
+[1713.22 - 1713.40] Um, I think we've got two groups there.
+[1713.40 - 1715.22] And, I mean, color-wise, what does everybody think?
+[1715.34 - 1717.84] I think it is quite important to get yellow in there somewhere.
+[1718.32 - 1719.56] I mean, do you want the whole thing yellow?
+[1719.88 - 1720.80] Maybe yellow and white?
+[1721.02 - 1721.36] Do you want something?
+[1721.88 - 1722.50] Mm-hmm.
+[1722.72 - 1723.50] I think they look quite nice.
+[1723.62 - 1725.20] I've just had this around here.
+[1725.76 - 1726.82] They start background yellow.
+[1727.16 - 1727.40] Uh-huh.
+[1727.44 - 1729.60] And then have a nice bold color for the buttons.
+[1730.02 - 1731.02] Okay, cool.
+[1731.88 - 1735.04] And also, I mean, how are we going to incorporate this slogan in?
+[1735.36 - 1736.94] The fact that it talks to you, I mean,
+[1737.36 - 1739.92] it might be quite cool if when you first start using it,
+[1739.92 - 1741.62] it says, what is it?
+[1741.84 - 1743.54] Putting fashion into electronics or something?
+[1743.82 - 1744.26] I don't know.
+[1745.02 - 1747.00] Or when you, like, if you turn it off or something.
+[1747.32 - 1749.12] If it can speak, if you could actually say,
+[1749.22 - 1750.66] this slogan, it might be a bit more powerful
+[1750.66 - 1752.22] than just having it written on it somewhere.
+[1753.16 - 1753.46] I don't know.
+[1753.52 - 1754.80] Any thoughts on that at all?
+[1755.36 - 1757.02] I think that'd probably scare me and turn it on you.
+[1757.98 - 1758.70] I know.
+[1759.70 - 1764.28] Um, unless, I mean, if you also, like,
+[1764.40 - 1768.80] where, if we wanted to incorporate an LCD display,
+[1768.80 - 1769.74] where would we put that?
+[1769.88 - 1771.34] Would we put that on the inside or?
+[1773.14 - 1774.80] Um, do we need an LCD display?
+[1775.52 - 1776.86] What's the functionality of it?
+[1776.88 - 1778.94] It's bound to increase the cost of it a lot.
+[1779.22 - 1781.46] Yeah, but the question is, what are we using it?
+[1781.62 - 1783.14] What would we achieve from it?
+[1783.26 - 1784.20] Putting it in lights is cheap,
+[1784.32 - 1786.84] but putting an LCD panel just to make it glow is a bit lower.
+[1786.84 - 1788.08] When you mentioned LCD, I was thinking,
+[1788.10 - 1789.10] I wonder what that would be about.
+[1789.54 - 1791.28] And the thing I could see it helping with
+[1791.28 - 1794.16] would be if it was somehow connected with listings.
+[1794.86 - 1795.88] So as you scroll through,
+[1796.04 - 1797.42] because we said we might have a jog dial,
+[1797.42 - 1799.48] because you scroll through your stations,
+[1800.30 - 1802.20] you can, it actually tells you what it is.
+[1802.32 - 1803.18] I think that would be a problem,
+[1803.30 - 1805.30] because we don't have an input device
+[1805.30 - 1806.96] to get the listings into it.
+[1807.36 - 1809.66] So it's a bit nuts to get the user there.
+[1809.90 - 1811.58] Monday, Tuesday, Wednesday.
+[1812.08 - 1813.48] So no need for an LCD display.
+[1813.60 - 1815.78] I'm not saying there's no need for an LCD display,
+[1816.28 - 1819.22] but it's, what will it tell the user,
+[1819.38 - 1820.94] because the LCD tends to be an output
+[1820.94 - 1822.38] as opposed to an input.
+[1823.98 - 1826.56] So there's a remote control need to top.
+[1827.28 - 1828.40] Back to the user.
+[1828.96 - 1830.20] We have the option of the speaker as well.
+[1830.48 - 1831.70] The same thing goes for the speaker.
+[1831.84 - 1833.06] Is there a need for a remote controller?
+[1834.22 - 1834.72] I don't know.
+[1834.94 - 1835.34] There is really.
+[1835.64 - 1836.02] Top back.
+[1836.70 - 1837.10] No.
+[1839.04 - 1841.40] I would say no need for a top back.
+[1841.66 - 1843.16] Does anybody disagree with that?
+[1844.32 - 1845.48] You could put a game on it.
+[1847.26 - 1847.66] Easy.
+[1848.24 - 1850.64] When the TV dies, you can play with the remote control.
+[1852.46 - 1854.98] Right, so you're going to have the three different sets
+[1856.70 - 1857.50] of functionalities.
+[1857.96 - 1859.06] I mean, do you want to greet them
+[1859.06 - 1860.96] into the head of the snowman,
+[1861.18 - 1863.14] body of the snowman, inside of the snowman?
+[1863.22 - 1864.06] Is that what you're thinking?
+[1865.92 - 1866.84] Well, I think the advanced ones,
+[1867.24 - 1868.18] the ones you don't usually use,
+[1868.26 - 1868.90] could be hidden inside.
+[1869.20 - 1869.52] Okay.
+[1870.22 - 1872.52] I think the three groups we had were pretty basic ones
+[1872.52 - 1874.00] that had to go on the front somewhere.
+[1874.40 - 1875.72] Okay, right.
+[1878.64 - 1880.04] What else do you need to talk about?
+[1880.52 - 1883.02] Well, why would you physically position the buttons?
+[1883.56 - 1887.62] I think that that has some impact on many things.
+[1888.96 - 1891.16] Maybe you want to draw into the...
+[1891.16 - 1893.60] So I'm just going to pop this in here
+[1893.60 - 1895.86] because I have a slide about decision making.
+[1897.64 - 1898.76] I'm trying to figure out the right.
+[1910.46 - 1912.14] Oh, God, we've got five minutes.
+[1913.12 - 1913.64] Okay.
+[1916.80 - 1919.38] Energy, do you think that's suggesting
+[1919.38 - 1921.26] we're hard powering the thing?
+[1922.14 - 1924.24] I really like the idea of this kinetic thing
+[1924.24 - 1925.82] where you'd have the backup of the battery
+[1925.82 - 1927.86] but have kinetic power.
+[1928.28 - 1929.88] I've had kinetic things before
+[1929.88 - 1932.72] and the one issue we need to keep in mind with them
+[1932.72 - 1936.30] is that you're committing the user to moving it.
+[1936.40 - 1939.24] No, like I said, we have a hybrid kind of thing
+[1939.24 - 1941.28] so it's not going to charge the battery.
+[1941.74 - 1945.86] It's just worth pointing out
+[1945.86 - 1949.84] because I've known people to have kinetic watches
+[1949.84 - 1950.96] that they wear all the time
+[1950.96 - 1953.00] and it's just like magic because it's always powered
+[1953.00 - 1953.70] and there's no battery.
+[1954.20 - 1958.08] I've also known people to have things like a jewelry watch
+[1958.08 - 1959.08] they wear from time to time
+[1959.08 - 1961.10] and they eventually just say it's just too much of a nuisance
+[1961.10 - 1963.40] because I don't wear it all the time.
+[1964.10 - 1965.62] The remote control is similar.
+[1965.86 - 1966.50] You're way on vacation?
+[1967.08 - 1967.36] I don't know.
+[1967.36 - 1968.76] Whatever, you need something
+[1969.26 - 1971.16] and it just starts to get worn down.
+[1971.40 - 1972.00] Let's face that.
+[1972.10 - 1974.14] If you're away and you're not using it
+[1974.14 - 1975.68] then you're not using any power either.
+[1976.58 - 1978.84] So you'd have the battery as the kind of
+[1978.84 - 1980.84] to keep it ticking over idea.
+[1981.38 - 1982.62] I'm really sure we're going to have to wrap up
+[1982.62 - 1983.04] quite quickly.
+[1983.22 - 1984.38] We don't have as much time as I thought.
+[1985.06 - 1987.68] So I think that's what energy is referring to here.
+[1988.16 - 1988.80] Chip on print.
+[1989.72 - 1991.86] That's an industrial design thing, is it David?
+[1991.98 - 1992.58] Yes, yes.
+[1992.58 - 1993.18] Okay.
+[1993.72 - 1996.78] As for the case, kind of discuss that.
+[1997.40 - 2000.06] And this size here I'd suggest this be small.
+[2000.40 - 2002.46] Yeah, and we're going to have like rubber buttons
+[2002.46 - 2004.58] that feel kind of...
+[2006.66 - 2008.58] Just a lot of...
+[2010.56 - 2012.76] I mean, one of the things running through my mind right now
+[2012.76 - 2015.02] I realize we're being efficient to wrap up the meeting
+[2015.02 - 2016.62] and have lots of decisions made
+[2016.62 - 2018.76] but we are leaning quite a bit to the side
+[2018.76 - 2021.98] of being low tech, rubber buttons, plastic frame.
+[2021.98 - 2024.60] It's almost like we're reproducing the same old remote control
+[2024.60 - 2025.72] that's out there.
+[2026.20 - 2029.08] Should we think about how we are actually getting
+[2029.08 - 2033.70] this high-tech, user-friendly theme,
+[2033.90 - 2037.84] like what is it that we're using to achieve those goals?
+[2038.46 - 2040.16] Some things like backlighting the buttons
+[2040.16 - 2041.72] and stuff like that.
+[2042.62 - 2044.12] Or even a clear case.
+[2045.82 - 2050.34] A glowing yellow type case where the yellow showable
+[2050.34 - 2052.34] but in the dark, it's sort of...
+[2053.34 - 2053.90] It's alive.
+[2056.38 - 2058.56] So slightly transparent.
+[2059.14 - 2060.66] So it's yellow, like tinted yellow
+[2060.66 - 2062.60] but you can maybe see through it.
+[2062.84 - 2065.12] Or there might be a light running through it like a mouse.
+[2065.98 - 2068.34] You know, you have callers mice and they don't need that much power.
+[2068.68 - 2070.46] So the battery in that sense,
+[2070.76 - 2073.86] maybe you have one or two strategically placed lights
+[2073.86 - 2075.42] that sort of...
+[2075.42 - 2080.06] Yeah, they emanate a light through it.
+[2080.06 - 2083.10] It gives it a little bit of a glow to make it freaky.
+[2083.50 - 2087.04] And then the other thing that we've committed ourselves
+[2087.04 - 2088.34] to achieving is simplicity.
+[2089.10 - 2091.16] So I'm thinking, maybe should we try and think about
+[2091.16 - 2095.32] having something like some kind of an innovative concept
+[2095.32 - 2098.96] about how the volume and the channels are controlled?
+[2099.12 - 2100.94] Because that's the main thing people just want to do.
+[2101.40 - 2102.68] Could we use like a jog dial,
+[2102.90 - 2105.28] like a nice just sort of round somewhere on it
+[2105.28 - 2105.72] where you just roll it?
+[2105.72 - 2107.22] The question is, when you're rolling it,
+[2107.36 - 2108.16] how do you want to roll it?
+[2108.20 - 2109.38] Do you want them to roll it like that?
+[2109.38 - 2111.02] Do you want them to roll it like that?
+[2111.28 - 2115.00] Because in a mouse, your hand's in a position to roll it.
+[2115.50 - 2117.48] Whereas the other thing about having a jog dial this way,
+[2117.52 - 2119.78] it tends to get moved accidentally.
+[2121.32 - 2122.42] But why don't we do it like a mouse?
+[2122.70 - 2124.30] You could do that, couldn't you?
+[2124.44 - 2125.90] If you're holding it in your hand.
+[2126.46 - 2128.38] That's a very unnatural motion to...
+[2129.48 - 2129.78] Okay.
+[2130.24 - 2131.74] Can you imagine you have to scroll a lot?
+[2132.36 - 2133.50] It might work for volume.
+[2134.76 - 2136.62] And maybe some of the brightness controls and stuff like that.
+[2136.74 - 2138.54] But not for channels, right?
+[2138.54 - 2140.02] If you have a telewest box,
+[2140.58 - 2142.20] you don't have to buy all the channels.
+[2142.36 - 2143.30] You can buy 50 channels.
+[2143.52 - 2144.54] Can you imagine trying to...
+[2147.14 - 2150.44] And I don't think having that too quick, too slow,
+[2150.68 - 2151.96] it's confusing to the...
+[2151.96 - 2152.24] I don't know.
+[2155.34 - 2157.80] But users tend to want to use that.
+[2158.12 - 2159.78] And once they lose out and then user experience it,
+[2161.00 - 2163.20] because that becomes the most accessible thing.
+[2163.62 - 2164.48] But that's not a bad thing, is it?
+[2164.76 - 2165.76] Because if you think about it,
+[2165.76 - 2168.44] the alternative is to go push the button.
+[2169.08 - 2170.58] Job dials are much easier than that.
+[2170.86 - 2171.28] Okay.
+[2172.44 - 2172.88] Right.
+[2173.18 - 2174.82] Well, we do need to make a decision
+[2174.82 - 2176.80] on whether we want to incorporate a job dial in
+[2176.80 - 2177.64] nice and quickly.
+[2178.46 - 2179.66] I'm all for them, actually.
+[2179.86 - 2182.24] I think they're quite unique, very quick to use.
+[2183.12 - 2185.32] So does anybody oppose the idea
+[2185.32 - 2187.26] of incorporating one into the design at all?
+[2187.42 - 2187.50] No.
+[2188.16 - 2189.46] And the other thing was,
+[2190.50 - 2192.88] can we think of any way of getting the slogan into this thing?
+[2193.24 - 2193.56] Yeah.
+[2193.56 - 2197.80] I mean, if we keep coming back to this board here,
+[2198.02 - 2200.52] I wouldn't be surprised if we could take this idea.
+[2200.86 - 2201.76] Imagine that, I don't know,
+[2201.92 - 2204.00] that it's within the shape of the hand.
+[2204.16 - 2205.06] It's quite small.
+[2205.88 - 2206.82] Oh, okay.
+[2206.88 - 2208.04] I really got to wrap up.
+[2208.76 - 2210.02] Yeah, it's small.
+[2210.22 - 2213.78] And then we've got the slogan somewhere on the casing
+[2213.78 - 2214.88] on the side.
+[2215.54 - 2216.74] Well, if we can do that, great.
+[2217.68 - 2218.18] Yeah. Okay.
+[2218.52 - 2220.22] Well, I mean, isn't that what we just said
+[2220.22 - 2221.88] we just have to decide now?
+[2222.64 - 2223.08] Yeah.
+[2223.72 - 2225.72] Let's try and get the slogan on there.
+[2228.36 - 2232.02] And then like a jog dial somewhere that fits in with the shape of it.
+[2232.36 - 2234.06] Like, I don't know, like here.
+[2235.24 - 2237.48] That might have one problem in terms of
+[2238.64 - 2241.20] in terms of whether you're left-handed or you're right-handed.
+[2241.52 - 2242.72] You might be locking yourself in.
+[2243.04 - 2245.04] Or maybe just fit it in like down the middle here.
+[2245.50 - 2246.92] Can I just jump in and suggest something?
+[2247.26 - 2248.92] I'm really gonna have to hurry on here
+[2248.92 - 2250.52] because we're actually over time.
+[2250.52 - 2253.76] Is there anything anybody's unsure about?
+[2254.20 - 2257.48] Just for in closing, just the next meeting's gonna be in 30 minutes.
+[2257.66 - 2260.50] And so you can see in the screen here what each of you are gonna hopefully be doing.
+[2261.04 - 2263.96] And I know that the designers are gonna be working with Playdoh and that.
+[2264.50 - 2267.42] So that'll be good.
+[2269.12 - 2271.96] And I'll get the minutes up as soon as possible.
+[2272.32 - 2274.56] Anything at all you think we haven't discussed that we need to?
+[2275.50 - 2277.56] Is everybody kind of happy about what they're gonna be doing?
+[2277.56 - 2281.20] I think one thing would be the jog dial.
+[2281.72 - 2283.66] Because that's gonna have quite a big impact on...
+[2283.66 - 2285.86] Yeah, I think the jog dial, you know it just after you drew that.
+[2285.96 - 2287.24] What if it was flat and you just...
+[2287.24 - 2287.88] Yeah, that's what I was thinking.
+[2287.98 - 2288.28] That'd be great.
+[2288.68 - 2290.92] A slide because then you don't have to put the hand.
+[2291.44 - 2292.92] I think incorporating your logo is quite straightforward.
+[2293.20 - 2294.40] There's lots of space for it.
+[2294.66 - 2296.40] That's kind of a design thing that you guys can discuss.
+[2296.40 - 2298.94] Yeah, but it's also a marketing and a function.
+[2300.08 - 2303.22] And materials, we sort of said we do plastic and rubber, didn't we?
+[2303.22 - 2303.26] Yeah.
+[2303.64 - 2307.54] And I think maybe we should try and stay away from just the big protruding rubber.
+[2307.54 - 2309.46] Because that'll just be so standard.
+[2309.76 - 2311.18] Do we have something flush with the case?
+[2311.18 - 2312.58] Something a bit more flush, yeah.
+[2312.74 - 2312.82] Okay.
+[2313.08 - 2315.68] Or maybe have rubber incorporated into the case as well.
+[2316.14 - 2316.16] Okay.
+[2316.82 - 2319.58] And also plastic I've seen can get really textured.
+[2319.94 - 2322.44] So you can get plastics that actually feel soft in your hand.
+[2322.64 - 2323.10] Feel like fruit.
+[2323.66 - 2324.58] Fruit, excuse me.
+[2324.60 - 2326.90] They feel kind of like...
+[2326.90 - 2329.92] You get pins now and then that you think that they were rubber, but they're not.
+[2330.06 - 2331.86] They're actually just plastic that's textured.
+[2332.08 - 2333.30] Kind of like that, yeah.
+[2333.46 - 2336.38] I'm gonna have to call us to a close because we're away every time.
+[2336.38 - 2339.32] So that's really good.
+[2339.48 - 2343.82] Like we've had so much to talk about that pretty much run out of time to do so.
+[2344.42 - 2348.24] So off you go and design stuff.
+[2348.66 - 2348.78] Whoo!
+[2350.08 - 2351.28] Played all the time.
+[2351.62 - 2352.84] Yeah, quite jealous actually.
+[2356.04 - 2357.42] You got to choose first.
+[2358.40 - 2359.00] No, we're kidding.
+[2363.44 - 2364.04] Okay.
+[2364.04 - 2367.96] Can I just swipe your power cable?
+[2368.14 - 2368.86] I don't think it matters.
+[2373.26 - 2373.86] Okay.
+[2375.30 - 2375.90] Okay.
+[2375.90 - 2380.20] I'm gonna pull everybody out first and then put in whoever needs to be left.
+[2383.34 - 2383.72] It's you.
+[2393.64 - 2394.24] Yeah.
+[2395.42 - 2397.16] This is a real asshole.
+[2397.84 - 2398.00] Oops.
+[2399.64 - 2403.16] I'm gonna take the microphones because it's too lazy to take them off again.
+[2405.52 - 2405.86] Cool.
+[2422.26 - 2423.66] Okay.

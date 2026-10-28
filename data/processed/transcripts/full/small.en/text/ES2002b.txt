@@ -1,0 +1,741 @@
+[6.68 - 17.62] Oh, yes, I forgot about that. Okay. Is that all right now? Okay.
+[17.84 - 19.90] That's cool. Someone turned these on. Sorry?
+[20.20 - 25.22] Did someone turn these on? Great. Okay, everybody, all set to start the meeting.
+[25.22 - 32.12] Okay, we've got half an hour for this one to discuss the functional design.
+[32.34 - 35.96] Okay, thanks. All ready to go? Okay.
+[36.44 - 39.68] Okay. So hopefully, while we've been working away,
+[40.22 - 43.16] I've put the minutes of the last meeting in the project folder.
+[45.72 - 50.64] So I guess just to recap on what we did last time.
+[52.94 - 56.14] Got to know each other a little bit and got familiar with all the equipment
+[56.14 - 61.76] and started to discuss a bit about the project cost-wise,
+[61.92 - 64.34] how much money we had to spend.
+[100.96 - 103.80] Just want to tell you that we have three new requirements,
+[103.80 - 112.26] which is the first one is that the companies decided that teletext is outdated
+[112.80 - 116.40] because of how popular the internet is. Nobody uses teletext very much anymore.
+[117.22 - 121.48] So we don't really need to consider that in the functionality of the remote control.
+[122.18 - 128.12] They've also suggested that we only use the remote control to control the television,
+[128.56 - 130.56] not the VCR or DVD or anything else.
+[130.56 - 133.96] I think the worry is that if the project becomes too complex,
+[134.64 - 140.74] it'll affect how long it takes us to get it into production, the time to market.
+[141.90 - 144.74] So we're just going to keep it simple and it'll just control the TV.
+[145.58 - 148.20] And the other thing was that the company want the corporate colour
+[148.20 - 150.38] and slogan to be implemented in the new design.
+[152.16 - 154.58] I'm not entirely sure what the corporate colour is.
+[154.94 - 157.60] It might be yellow because there seems to be a lot of yellow everywhere.
+[157.60 - 160.60] And the slogan, like the actual written slogan,
+[160.72 - 162.86] or just to embody the idea of the slogan?
+[163.30 - 164.78] Well, that's the thing. I'm not sure.
+[167.56 - 171.02] Because on the company website, what does it say?
+[172.38 - 173.72] The fashion in electronics.
+[174.36 - 177.76] Yeah, I mean, is that something they want actually written on?
+[177.84 - 178.70] Because it's quite long.
+[180.52 - 182.22] Or yeah, just the idea that I'm not sure.
+[182.30 - 183.90] So that's something we can discuss as well.
+[183.90 - 185.22] So those are the three things.
+[185.42 - 187.00] Just not to worry about teletext.
+[187.96 - 195.22] Only control the TV and incorporate the colour and slogan of the company.
+[198.06 - 200.72] So is everybody okay with any of that?
+[200.82 - 202.92] Or do you want me to recap at all?
+[204.74 - 206.76] That time for presentations then.
+[206.86 - 207.80] Who would like to go first?
+[209.98 - 210.76] Can I go first?
+[211.60 - 212.16] Okay, cool.
+[216.90 - 219.44] All right, can I steal this from the back of your laptop?
+[219.84 - 222.10] Oh yeah, of course you can go in ahead.
+[252.20 - 252.84] Okay.
+[258.82 - 260.38] So this is the technical function design.
+[264.92 - 270.16] All right, to do the design, I've had a look online.
+[270.26 - 273.98] I've had a look at the homepage, which has given us some inspiration from previous products.
+[275.36 - 277.70] I've had a look at the previous products to see what they offer.
+[279.14 - 284.12] And I would like to ask you guys for your ideas about the design at the end of the meeting.
+[284.72 - 286.56] Unfortunately, we're not allowed to talk outside the meeting room.
+[287.62 - 287.98] Okay.
+[290.36 - 295.18] Having a look at the existing products, I found out that it tends to come into extremes.
+[295.82 - 299.66] There's either a very complicated one that's got lots of buttons, lots of colours, very confusing.
+[299.92 - 300.60] You don't know what you're doing.
+[302.22 - 304.38] In that case, the labeling tends to be very bad.
+[305.08 - 306.46] As an example, I'll show you at the end.
+[307.04 - 308.82] I'll show you now.
+[316.76 - 318.48] There's a button there and there.
+[318.82 - 319.34] This one's Prague.
+[319.90 - 321.50] Sorry, that one's Prague, and that one's Prague.
+[322.06 - 324.82] And it doesn't really tell you what it does.
+[334.80 - 338.32] I'm not sure if you had a look at the other controller, not an example.
+[339.12 - 340.18] It's a very simple one.
+[340.30 - 347.82] It's got only the basic functions, but it's the same size as the hard-to-use one.
+[347.82 - 348.98] It's a bit clunky.
+[349.62 - 352.20] It's very big and not very much used for active buttons.
+[354.44 - 357.08] And it's very hard to access the advanced functions.
+[357.54 - 359.26] There's nothing, for instance, for a slow motion button.
+[363.00 - 365.46] My own preference is I prefer the clunky one.
+[366.14 - 369.86] It's very easy to use, but unfortunately it does lack the advanced functions,
+[370.70 - 372.52] which I quite like having on the controls.
+[373.94 - 377.08] I believe that the advanced functions should be hidden in the drawer.
+[381.84 - 383.54] Now I've got your preferences.
+[384.54 - 386.08] I'm not sure how long we'll go.
+[388.28 - 392.36] We can chat away for five minutes or so, I think, at most.
+[392.56 - 393.34] Just a couple of minutes anyway.
+[394.04 - 400.00] A lot of what I've read and prepared for this meeting fits in really closely
+[400.00 - 402.60] with what Craig's just gone over.
+[403.16 - 405.54] In part, I could give you some of my personal preferences,
+[405.70 - 410.66] but I could also add some to this, which is just about market research.
+[413.10 - 414.74] We'll stick to your area.
+[415.48 - 416.78] The clunky one is the one in the right.
+[417.80 - 418.86] Clunky in what sense?
+[419.88 - 420.74] Heavier or larger?
+[420.74 - 425.14] I think it's supposed to be the same size, but it's got much fewer buttons.
+[425.70 - 427.62] I see, so it's more spread out of the base.
+[428.94 - 431.26] You get the idea that it'll be spread out about this size.
+[431.98 - 433.32] It's got very few buttons in it.
+[433.80 - 435.52] I think it's a valid point.
+[435.92 - 439.50] The one on the left looks quite complicated,
+[439.84 - 443.34] and that PROG thing is incredibly confusing.
+[444.98 - 448.76] I see why you might prefer the simpler design,
+[448.76 - 451.88] but you don't want to lose out on what it does.
+[452.84 - 455.74] You get a lot of remote controls where you flip the thing open,
+[455.88 - 456.68] and I think that's a good idea.
+[460.76 - 463.46] Do we have any functions we'd want on it?
+[463.84 - 465.40] So far, I've got on and off.
+[465.92 - 468.58] Switch the channel up and down, and put the volume up and down.
+[469.06 - 470.70] They're just the very basics you could use for TV.
+[471.96 - 474.40] Then actual numbers for channels as well, yeah.
+[474.90 - 477.38] You see that's our required one, or our requested one.
+[477.54 - 478.22] Which was that?
+[479.10 - 480.88] The channels, like the numbers.
+[481.36 - 482.32] The numbers are the up-down?
+[482.84 - 484.52] I would say that's required.
+[485.18 - 487.88] There's no way anybody's going to buy a remote control these days,
+[487.96 - 490.02] so if she can't actually individually select channels,
+[490.46 - 491.76] would anybody disagree with that?
+[494.10 - 494.78] What else?
+[496.98 - 498.44] So we don't need to worry about tele-text,
+[498.70 - 499.80] we don't need to worry about VCR.
+[502.90 - 505.48] Any kind of display controls at all,
+[505.58 - 507.90] do you think we need to worry about brightness and contrast?
+[508.36 - 510.76] Essentially what we're doing right now is we're categorizing,
+[510.92 - 513.02] we're saying we want this to be a product that offers
+[513.02 - 516.02] all the more tricky features,
+[516.22 - 518.54] but we want them to be in another area.
+[518.86 - 519.16] Is that right?
+[522.26 - 525.76] Or are we actually eliminating things we just don't want the product to have?
+[526.44 - 529.34] Are you maybe thinking what we absolutely have to have,
+[529.34 - 530.24] and what would be nice?
+[530.50 - 531.96] To start with, try a bit of both,
+[532.38 - 534.38] we need to find out exactly what we have to have,
+[534.38 - 536.96] and after that we can add things if they're possible.
+[537.70 - 538.70] Okay, right.
+[539.58 - 541.60] Well, do you want to maybe just at this point
+[541.60 - 545.26] decide on what we absolutely must have as a function of this?
+[546.40 - 550.06] So far, just to recap, we've got volume and channel control.
+[550.30 - 552.88] Volume and channel and skip to certain channels with the numbers.
+[553.18 - 553.94] Right, okay.
+[559.70 - 563.44] Well, one way I would look at this would be
+[564.04 - 568.98] that we approach the different controls in terms of control types
+[568.98 - 571.42] so that for the user it's very clear what they want to do,
+[571.44 - 574.52] where they go, and also think maybe a little bit about
+[575.24 - 577.44] what would just want to be easily accessible.
+[578.08 - 579.78] For example, if we had audio controls,
+[580.12 - 581.98] those could be something people set up very rarely.
+[582.38 - 586.42] Maybe they're in a little area, but covered up.
+[587.88 - 593.70] Things like channel and volume are used all the time,
+[593.70 - 596.60] so we just have them right out on top,
+[598.06 - 600.26] just very self-explanatory.
+[601.96 - 603.86] So maybe we need to think about having
+[603.86 - 606.60] three or more groupings of controls,
+[606.98 - 609.24] one which are just the habitual ones
+[609.24 - 611.12] that should be right within your natural grip,
+[611.74 - 614.54] and others that are also available,
+[614.54 - 617.22] and then others that are concealed, something like that.
+[617.26 - 620.48] Okay, well just to wrap up quickly on this little section.
+[623.12 - 628.26] Do you think maybe that's the only kind of essential requirement,
+[628.50 - 631.28] and then maybe just things that would be nice if it could do
+[631.28 - 634.80] would be things like audio setup and display setup
+[634.80 - 635.50] and things like that.
+[635.60 - 638.12] Maybe like a mute button, that sort of thing.
+[638.32 - 640.70] Any of you anything to add to that at all?
+[643.22 - 645.28] Okay, right.
+[646.34 - 649.48] Okay, if we can move on to the next presentation then please.
+[652.34 - 655.56] Can this plug come across?
+[655.82 - 657.06] Probably not, actually.
+[658.56 - 660.82] So why don't I just pick up and...
+[680.18 - 683.88] Can you go behind me?
+[686.10 - 689.68] It'd be nice if everything was wireless, isn't it?
+[696.48 - 698.64] So I can say already,
+[699.00 - 700.70] I don't know whether this is for good or for bad,
+[700.70 - 705.38] but there'll be a lot of kind of redundancy in the issues.
+[707.84 - 709.68] Oh, like overlap between what you said.
+[709.88 - 711.72] Not necessarily a bad thing,
+[711.88 - 714.66] but what I've already started doing is I created a slide
+[714.66 - 721.00] in my presentation here so that we kind of think,
+[721.14 - 722.84] well what's the cumulative effect of what we've taken
+[722.84 - 724.98] from your ideas and mine,
+[724.98 - 729.42] because certainly I have a hard time separating things completely.
+[729.90 - 733.22] Obviously what you've just told me impacts a lot
+[733.22 - 737.42] on what like market research that I've been...
+[738.32 - 740.14] So how do I get this up?
+[741.48 - 742.34] Function and effect, yeah.
+[752.30 - 755.04] Function the blue button, thanks to the control on the left.
+[755.26 - 756.30] Oh, and effect, okay.
+[764.44 - 766.42] Okay, I think that's it now.
+[773.06 - 773.46] Again?
+[775.38 - 777.42] Yeah, you wanna...
+[778.38 - 779.44] Oh, oh, here we go.
+[779.68 - 780.06] Okay, great.
+[780.06 - 780.48] There you go.
+[782.26 - 784.60] Okay, just before I bring this up,
+[784.66 - 786.76] what I'll just say is what I've done
+[786.76 - 788.14] is tried to collect some information
+[788.14 - 790.86] so that I can then relay this to you guys
+[790.86 - 792.84] so that it now becomes a collective thing
+[792.84 - 795.06] and then kind of lead us in the direction of deciding,
+[795.28 - 796.60] okay, what are our options?
+[796.78 - 797.52] What should we decide?
+[798.34 - 799.32] And do you know what I mean?
+[801.12 - 801.56] So...
+[802.32 - 802.76] Um...
+[803.24 - 803.68] Okay.
+[805.36 - 805.80] Okay.
+[807.60 - 808.04] Right.
+[811.72 - 812.60] Can you...
+[813.82 - 814.78] Right, okay.
+[814.94 - 815.20] Okay.
+[815.78 - 816.58] All right.
+[817.50 - 817.84] Okay.
+[819.10 - 820.28] So that makes sense.
+[820.44 - 822.84] So what I've basically got is I've just looked into some information
+[822.84 - 826.32] and sort of tried to think about how we could review it
+[826.32 - 829.02] and what kind of decisions we could take away from it.
+[829.08 - 831.86] And then maybe by the end of just looking at some of these things,
+[831.86 - 833.56] we can think about what are our priorities
+[834.20 - 836.68] because certainly there's lots of different information to go through.
+[837.48 - 841.28] So I'm thinking here primarily about customer needs
+[841.28 - 842.50] that we start with the customer
+[842.50 - 847.82] and what they want and what are issues with existing products.
+[848.46 - 850.88] To think about trends and also about trying to connect that
+[850.88 - 852.34] as you see with the company Vision,
+[852.72 - 854.18] which is about fashion and electronics.
+[856.12 - 857.08] And then, as I say,
+[857.62 - 862.86] we'd like to prioritize our design features from this and...
+[864.10 - 864.58] Okay.
+[866.54 - 868.24] So this is what I've found here.
+[869.20 - 870.36] A lot of this is new to me,
+[870.36 - 872.22] so we'll just read two together.
+[874.76 - 877.16] Users dislike the look and feel of current remote controls.
+[877.64 - 878.66] So they find them ugly.
+[878.82 - 879.90] Most people find them ugly.
+[881.76 - 885.50] The vast majority would spend more money for it to look fancy as well.
+[885.60 - 886.14] We'll see later.
+[886.58 - 888.06] The vast majority of people would spend more money
+[888.06 - 892.48] for slightly more intuitive controls such as voice recognition.
+[893.06 - 893.32] Okay.
+[893.40 - 894.02] I'm going to...
+[894.02 - 894.98] We'll look at that in a second.
+[896.22 - 900.36] Most people use only a very slim portion of all the controls.
+[901.12 - 903.98] So I guess what we're looking at here is people want this technology.
+[904.96 - 906.94] They tend to use the most simple controls.
+[907.46 - 910.86] And overall, they find remote controls to be something they don't...
+[910.86 - 912.04] Doesn't really appeal to them.
+[912.66 - 914.62] So I think what we're doing is we're trying to take like...
+[914.62 - 918.98] For me, this is sort of like three different inspirations.
+[919.88 - 921.90] One is that we want something that's high-tech,
+[922.02 - 923.42] but we want it to seem easy.
+[924.22 - 927.56] And in spite of the primitive side of it and the very high-tech side,
+[927.64 - 930.92] we want it to just be an appealing piece of equipment in people's hands.
+[934.96 - 938.28] Frustrations, they get lost a lot as it came up in our last meeting.
+[939.42 - 941.38] It takes time to learn how to use them.
+[941.70 - 944.86] This is why I mentioned when Craig was showing us some ideas
+[944.86 - 946.54] that we actually try and group control.
+[946.68 - 948.32] So it doesn't just look like a big panel,
+[948.72 - 951.60] kind of like when you look at a new computer keyboard
+[951.60 - 953.64] or something that is quite explanatory.
+[953.90 - 957.34] If you want audio, if you want visual, then you have those.
+[959.82 - 962.30] And I will admit, I don't know what RSI stands for.
+[962.36 - 963.38] You've had it as strain injury.
+[964.72 - 967.22] Is installing remote controls on people?
+[968.08 - 970.18] No, that did not come up at all.
+[972.22 - 977.10] So here's another sort of a review here of the main things.
+[977.24 - 979.60] I also found that most people would...
+[979.70 - 982.38] adults, at least, would pay more for voice recognition.
+[982.78 - 986.34] Now, apparently, we do have access to all the cutting-edge technology
+[986.34 - 987.14] and remote control.
+[987.32 - 989.00] So I don't know if that's possible.
+[989.30 - 991.42] We might consider getting into it.
+[994.24 - 998.64] And again, here, as we sort of move...
+[998.64 - 1000.58] Start thinking about how we want to sell and market this.
+[1000.88 - 1003.70] I think a recurring theme here is the company wants it to be...
+[1004.26 - 1007.48] wants us to make something that's fashionable and sleek and trendy.
+[1007.48 - 1012.84] People, additionally, aren't liking the appearance of their products.
+[1013.08 - 1016.46] So we want to think about, as we take all the techy features,
+[1016.90 - 1021.22] how we can put that into a unit which people like.
+[1021.66 - 1023.30] They like the aesthetics and the ergonomics.
+[1023.60 - 1026.86] So want something that looks good and is easy to use.
+[1027.36 - 1027.92] Big priorities.
+[1028.76 - 1035.40] Just looking at what Craig's ideas are.
+[1035.40 - 1037.24] He's sort of telling me that maybe what we want to do
+[1037.24 - 1041.82] is try and separate the different things that we want to include in this.
+[1041.98 - 1044.92] So if we do say, well, we want there to be all the technology,
+[1045.38 - 1048.20] but we try and make that almost be optional technology.
+[1050.38 - 1053.30] I find a lot of TVs these days, something really nice about them,
+[1053.40 - 1055.54] is if you want to just turn them on and off, you can.
+[1055.92 - 1057.42] But they have little panels where you click,
+[1057.48 - 1060.98] and there's just tons of features you go through.
+[1060.98 - 1064.60] You group all the different kinds of types of functions together.
+[1065.60 - 1066.62] That's a good idea.
+[1067.92 - 1073.82] That's sort of what I hope here is that I'm putting out this information
+[1073.82 - 1077.36] so that we can then say, OK, well, how do we collectively move on with it?
+[1077.70 - 1081.46] I haven't brought out one specific marketing idea,
+[1081.46 - 1083.80] although my sense is that what we should try and think about
+[1083.80 - 1087.36] is what are the current trends in materials and shapes and styles
+[1087.36 - 1092.50] and then use that, but not let that confine us technologically.
+[1093.96 - 1094.92] OK, right.
+[1095.46 - 1098.80] All right, any comments on all of that?
+[1100.14 - 1102.36] Well, one of the things that we have to decide on
+[1102.36 - 1104.32] by the end of the meeting is who we're going to be,
+[1105.50 - 1108.06] who's our target audience, our target market.
+[1109.96 - 1114.78] So if we want something that looks good and is easy to use
+[1114.78 - 1117.20] but is fairly powerful, product, whatever,
+[1117.56 - 1119.40] who do we really want to aim that at?
+[1120.96 - 1121.68] Where's the money?
+[1122.74 - 1124.54] Yeah, who would have the money to spend?
+[1125.78 - 1127.10] And who watches TV?
+[1127.34 - 1130.74] 25 euro is our selling price, and you can imagine.
+[1130.96 - 1133.40] Well, I'm not really sure how much that will retail at,
+[1133.76 - 1136.08] but it's somebody who's not going to just use their remote
+[1136.08 - 1137.46] that comes with their tele, I suppose.
+[1137.64 - 1139.10] They're going to actually go out and buy one.
+[1139.74 - 1141.46] So who do you think we're aiming this at?
+[1143.38 - 1146.50] I think it will be the mid-range to the high-end market
+[1146.50 - 1150.26] in terms of people, because 25 euros for a remote,
+[1150.36 - 1152.00] how much is that opening in pounds?
+[1152.02 - 1153.80] It's about 16, 17 pounds, I think.
+[1154.32 - 1156.16] Is that a lot of money to buy an extra remote?
+[1158.36 - 1158.38] OK.
+[1160.00 - 1164.24] So maybe not the high-end range, but maybe middle,
+[1164.40 - 1166.38] middle up-ish kind of.
+[1167.46 - 1167.78] You know how much?
+[1167.78 - 1168.32] I don't know.
+[1168.46 - 1169.00] I guess you'd pay what?
+[1171.94 - 1173.32] Like a simple replacement.
+[1173.70 - 1174.88] I mean, if you've lost your remote,
+[1175.04 - 1176.46] and the first thing you just want to go out and get.
+[1177.00 - 1179.24] This kind of touches on your comments there, David.
+[1179.46 - 1181.84] These are the age groups which we have information on,
+[1182.16 - 1185.02] and this is a table of what people would pay more
+[1185.02 - 1185.92] for a certain feature.
+[1186.32 - 1189.18] Just give us a rough idea of where the will
+[1189.18 - 1191.10] to spend money on TV equipment is,
+[1191.76 - 1194.08] mostly focused around the 25 age group.
+[1194.84 - 1196.14] Yeah, so do you think we're aiming
+[1196.14 - 1198.30] at a fairly young market then?
+[1198.48 - 1199.86] Sort of young professional.
+[1200.34 - 1201.46] Yeah, OK.
+[1202.86 - 1206.54] Do you think then voice recognition is something
+[1206.54 - 1208.16] we should really seriously consider?
+[1210.60 - 1211.56] What do you think, Craig?
+[1211.98 - 1214.10] Well, do you not say it was the adults
+[1214.10 - 1216.50] that were going for the voice recognition job?
+[1216.66 - 1221.48] Yeah, it does fit with the market
+[1221.48 - 1222.72] that we're sort of identifying.
+[1224.22 - 1226.22] I think we are going to have to narrow it down
+[1226.22 - 1227.86] to say, let's target these people
+[1227.86 - 1228.94] and give them what they want,
+[1229.24 - 1233.96] because there needs to be some kind of selling point to it.
+[1234.34 - 1239.12] So anything to add, just kind of young professionals,
+[1240.08 - 1242.42] like if we are going to include speech recognition,
+[1242.68 - 1244.56] it's kind of between 15 and 35,
+[1245.10 - 1246.94] seems to be like a really high response to that.
+[1247.74 - 1250.04] So we could say that was our target.
+[1250.04 - 1253.68] So 15 to 35 is fair to add that in the early work,
+[1254.00 - 1255.70] because that's more than half your group of people
+[1255.70 - 1257.74] who are willing to at least try and use your technology.
+[1258.52 - 1261.34] OK, so 15 to 35 looks fairly young.
+[1261.96 - 1264.16] They have a bit of expandable income to spend
+[1264.16 - 1265.02] on this sort of thing.
+[1265.18 - 1267.00] I think perhaps that age group is significant as well,
+[1267.06 - 1268.86] because those are people who use the computer,
+[1269.84 - 1273.24] who are familiar with computers in their everyday work.
+[1274.02 - 1275.96] I think people who are maybe about,
+[1276.50 - 1277.76] I wouldn't say 35,
+[1277.76 - 1279.94] but people who are 40ish and above now
+[1279.94 - 1284.04] would not be so dependent and reliant on a computer
+[1284.04 - 1286.12] or a mobile phone or something like that.
+[1286.16 - 1287.72] These are people who are gadgety, right?
+[1288.08 - 1290.30] People who are growing up used to in schools
+[1290.30 - 1293.02] and in universities, when they go into their working lives.
+[1293.82 - 1296.26] So they're not shy away from something quite high-tech.
+[1296.52 - 1297.72] That's a good point.
+[1298.58 - 1304.44] OK, so shall we make the decision
+[1304.44 - 1306.08] to include speech recognition?
+[1306.84 - 1307.70] If we can.
+[1307.84 - 1308.20] If we can.
+[1308.28 - 1310.14] I think one thing we should try not to avoid
+[1310.14 - 1313.42] is not to say we have to use speech recognition right now.
+[1313.46 - 1314.62] OK, why is that?
+[1315.86 - 1317.54] Based on what everybody is saying,
+[1317.94 - 1318.94] you want something simple.
+[1319.28 - 1320.28] You want basic stuff,
+[1320.78 - 1322.32] and you want something that's easy to use.
+[1322.46 - 1324.32] Speech recognition might not be the simplest thing.
+[1324.34 - 1324.46] Right.
+[1325.40 - 1327.22] Could it be an on-off thing?
+[1328.00 - 1328.98] Like, if you want it?
+[1328.98 - 1330.42] Well, you can activate it and deactivate it.
+[1330.60 - 1333.26] We're trying to lock ourselves into a particular kind of technology,
+[1333.26 - 1337.06] rather than focusing on exactly what are the features
+[1337.06 - 1338.10] that we're going to say.
+[1339.18 - 1341.18] Say speech recognition is good for this,
+[1341.32 - 1342.98] speech recognition is not good for this.
+[1343.54 - 1345.88] I suggest that we think about speech recognition.
+[1346.68 - 1349.06] It's something that can be used to fulfill a function.
+[1349.64 - 1351.44] At the end of the day, we don't look at the technology,
+[1351.56 - 1352.94] but we'll get the function first.
+[1353.50 - 1357.40] OK, well, do you want to give us your presentation,
+[1357.70 - 1358.26] and then we can...
+[1358.96 - 1360.18] It might have been a good idea
+[1360.18 - 1362.32] to all deliver our presentations and then discuss,
+[1362.32 - 1363.52] but this is hybrid.
+[1363.96 - 1366.02] Good to get ideas out while they're fresh in mind.
+[1366.32 - 1367.36] Yeah, exactly, yeah.
+[1367.80 - 1369.38] It's something that's just occurred to me as well,
+[1369.50 - 1371.58] is if we make it speech recognition,
+[1371.76 - 1373.22] if we incorporate speech recognition,
+[1373.70 - 1378.70] that's appealing to people maybe with physical disability as well.
+[1379.08 - 1380.94] Yeah, and not losing,
+[1381.26 - 1384.60] and also it helps in terms of people not losing this,
+[1384.88 - 1386.04] you know, they're saying,
+[1386.10 - 1388.06] oh, I lose it in the couch.
+[1389.40 - 1390.60] It's like we're kind of...
+[1390.60 - 1392.30] We're sort of getting into here
+[1392.30 - 1395.72] is making different design features together.
+[1396.64 - 1398.22] Again, one problem with speech recognition
+[1398.22 - 1399.82] is I've actually seen one of them used,
+[1400.46 - 1402.56] and the technology that was in that one
+[1402.56 - 1403.42] wasn't particularly amusing,
+[1403.72 - 1405.22] so you end up yelling with control for hours.
+[1405.92 - 1407.54] I've already seen one before.
+[1407.60 - 1410.38] Do you think maybe we need further advances
+[1410.38 - 1411.38] in that kind of area
+[1411.38 - 1413.52] until it's worthwhile incorporating it?
+[1413.66 - 1415.40] I think it would be quite expensive to...
+[1415.40 - 1416.18] Of course not.
+[1417.36 - 1418.14] There you go.
+[1421.08 - 1421.46] Nice.
+[1422.02 - 1423.58] Well, this is just a working design.
+[1425.56 - 1428.70] Well, this is just how I would go about it.
+[1429.74 - 1432.14] I guess I try to define what we're doing now,
+[1432.36 - 1434.02] try to define what we're trying to get done.
+[1434.56 - 1435.64] I think in a practical way,
+[1435.90 - 1437.04] we kind of know what it is,
+[1437.18 - 1438.66] we've used it, we're familiar with it,
+[1438.72 - 1441.46] but we haven't narrowed down
+[1441.46 - 1443.42] exactly what other things we're trying to fulfill.
+[1444.86 - 1445.70] Design is the basics.
+[1445.98 - 1447.72] I think in the back of our minds,
+[1447.72 - 1448.82] we know what the basics are.
+[1448.82 - 1450.74] Change channels, change volume,
+[1450.90 - 1452.56] but in specifics,
+[1453.08 - 1455.32] which one of the basics are you trying to cover there?
+[1455.82 - 1457.06] Are there certain parts of the basics
+[1457.06 - 1459.26] that are more important or less important than the basics?
+[1460.46 - 1464.22] The idea is to get everybody to...
+[1464.22 - 1468.36] I usually have a design that has a basic,
+[1469.18 - 1471.86] so things to start everything going,
+[1472.52 - 1474.16] but I guess everybody does have some idea,
+[1474.30 - 1476.08] so I don't think we can move to that.
+[1478.62 - 1481.40] Okay, this finding thing is a little bit confusing,
+[1481.66 - 1483.08] so I'll go into the diagram first.
+[1483.32 - 1485.52] It just explains how the process goes through
+[1485.52 - 1487.98] from the basic technology point of view,
+[1488.02 - 1490.34] the basic steps that you need in the diagram.
+[1491.14 - 1492.42] This slide probably works better.
+[1493.32 - 1495.16] Okay, you need some power source,
+[1495.76 - 1497.46] your battery or something to keep it going.
+[1498.48 - 1500.14] And that power source is important
+[1500.14 - 1504.52] because it ties you down to how long the device will last.
+[1504.52 - 1507.48] It ties you down perhaps a bit later on
+[1507.48 - 1508.30] in terms of technologies,
+[1509.24 - 1511.34] how far you can transmit the signal
+[1511.34 - 1514.18] or the complexity of the functions that you want.
+[1514.68 - 1515.88] For example, voice recognition,
+[1516.46 - 1517.38] that might be constrained
+[1517.38 - 1519.48] because you might need the power microphone,
+[1519.70 - 1520.58] you might need the power of the thing,
+[1521.18 - 1523.04] so that's one constraint there.
+[1525.90 - 1528.36] The basic thing is there's a user interface
+[1528.36 - 1530.16] where people punch a button
+[1530.16 - 1532.74] or talk into it or smile to it
+[1532.74 - 1534.48] or blink their eyes, whatever,
+[1535.12 - 1538.64] and that picks up an input from the user.
+[1540.42 - 1542.62] A logic, a series of logic has to decide
+[1542.62 - 1544.76] what the user is telling the device
+[1544.76 - 1545.98] and the device has to,
+[1546.52 - 1548.42] based on you push button A,
+[1548.62 - 1549.98] so I would do something with button A,
+[1550.14 - 1551.32] so maybe button A is a power button.
+[1552.62 - 1554.60] And then you need to be able to send the signal
+[1554.60 - 1557.30] to the device itself, which is the receiver here.
+[1557.96 - 1560.70] And I think that's about it in terms of my design.
+[1562.78 - 1563.90] It's fairly general,
+[1564.58 - 1567.56] and I guess the purpose of this is also not to restrict you
+[1567.56 - 1568.96] in the way you're thinking,
+[1569.18 - 1571.16] like voice recognition, right?
+[1572.96 - 1574.76] If it's something which is important,
+[1575.00 - 1575.98] then we just add more power,
+[1576.32 - 1578.20] rather than having a thing that we don't have enough power,
+[1578.32 - 1579.76] so it's not really constrained in that sense,
+[1579.92 - 1582.96] but these are functionally, you know,
+[1583.26 - 1585.44] the basic work that you have to do.
+[1586.96 - 1588.02] So I guess the rest of it,
+[1588.02 - 1590.32] I think we should maybe want to go back
+[1590.32 - 1591.48] to what the functions are.
+[1591.48 - 1594.24] I think that's more relevant to the discussion.
+[1594.74 - 1597.66] Well, do you want to finish up your presentation?
+[1598.40 - 1599.04] Are you all done?
+[1599.66 - 1599.76] Yeah.
+[1600.70 - 1602.92] Oh, it's just putting the rest of it into words,
+[1603.08 - 1604.40] but it's essentially the same thing.
+[1605.46 - 1609.44] You have a transmitter, and then you can slide it to, you know.
+[1609.56 - 1609.80] Okay.
+[1610.68 - 1611.68] And like on the,
+[1612.86 - 1615.02] I mean, since we're on the topic of the technology,
+[1615.92 - 1617.98] are there any, like, what are our options?
+[1617.98 - 1624.06] Is this the only way that we go about it, or are there other?
+[1624.64 - 1627.14] These aren't technology options in that sense.
+[1627.36 - 1629.44] This is just the basic principles
+[1630.18 - 1632.18] and basic components that are needed.
+[1632.70 - 1638.20] For example, if you needed to add a voice recognition,
+[1638.56 - 1640.62] then the user interface would be split,
+[1640.80 - 1642.52] broken down into more components, right?
+[1643.08 - 1645.46] You have a microphone, a VR, stuff like that.
+[1645.46 - 1648.06] So this just shows how we're kind of modularizing the whole thing.
+[1648.82 - 1651.06] So each component represents one function,
+[1651.24 - 1653.24] but I think the basic functions of the logic,
+[1653.46 - 1655.60] the transmitter, and the receiver,
+[1656.58 - 1659.54] and the power are things that you won't have to care about.
+[1660.36 - 1661.32] And those are things that,
+[1661.46 - 1663.44] based on what your user interface requires,
+[1663.60 - 1665.32] they will add more functionality to it.
+[1666.08 - 1667.86] There might be one other consideration,
+[1668.08 - 1672.08] which would be the transmission between the remote control
+[1672.08 - 1673.42] and the TV, for example.
+[1674.88 - 1676.96] Are we going to restrict ourselves
+[1676.96 - 1679.80] to using the traditional technologies, or are we going to do it?
+[1680.42 - 1681.90] Because that's something unique, actually,
+[1682.16 - 1684.32] because you can point to rights.
+[1685.10 - 1687.88] Well, a worry that was expressed in the new requirements
+[1687.88 - 1689.52] was that if we made this too complex,
+[1689.62 - 1693.44] it would affect how long it took us to get this to market.
+[1693.96 - 1696.58] So I suspect it might be a good idea
+[1696.58 - 1699.58] to restrict our creative influence on this,
+[1699.58 - 1700.46] on the user interface,
+[1700.46 - 1703.76] and not worry so much about how we transmit it,
+[1704.28 - 1706.36] because it's tried and tested infrared.
+[1707.22 - 1709.30] There might be one other problem with the transmission,
+[1710.24 - 1712.42] in particular right now, since we're talking about voice recognition.
+[1713.30 - 1715.68] If somebody's going to talk to the device,
+[1715.86 - 1717.52] you ideally want them to hold it to them.
+[1718.22 - 1719.62] You may not require that,
+[1720.08 - 1722.84] but it's something very natural, I guess,
+[1723.44 - 1725.54] to hold it, signal to the user,
+[1725.88 - 1728.24] and push a button maybe to start talking about it.
+[1728.40 - 1729.68] Then you need to send the signal out.
+[1729.68 - 1732.26] So if you're using infrared, the line of sight,
+[1732.74 - 1734.86] I'll say the TV's at that chair,
+[1735.06 - 1736.04] and I'm standing in front of here,
+[1736.14 - 1738.32] and the transmitter here blocks it.
+[1738.36 - 1740.92] So in that sense, there's not really a restriction,
+[1741.30 - 1743.56] but it's something that you may have to think about later on
+[1743.56 - 1743.98] in the process.
+[1745.24 - 1748.28] And just a clarification before we finish this,
+[1748.96 - 1752.14] does our controller have the option of being
+[1753.02 - 1758.00] on a standard frequency as all of the other equipment
+[1758.00 - 1759.90] so that the one controller can control
+[1760.40 - 1761.98] several pieces of equipment?
+[1762.18 - 1762.68] There's not much specific information,
+[1763.10 - 1765.78] but I think that one indication of infrared
+[1765.78 - 1768.28] means that you're just targeting traditional devices.
+[1769.12 - 1770.52] Because infrared is something which everybody has.
+[1770.64 - 1773.16] Well, in the new requirements spec,
+[1773.32 - 1774.86] they said just to focus on a TV,
+[1775.04 - 1776.58] so that's what we should do for now, I think.
+[1776.92 - 1778.52] Something I was wondering about was the power.
+[1779.24 - 1782.50] Is it worth considering having a charging unit
+[1782.50 - 1784.34] as opposed to just regular batteries?
+[1785.42 - 1787.46] Is that something you really want to go into, do you think?
+[1787.46 - 1790.22] Or should we just consider running on regular batteries?
+[1790.38 - 1792.64] From a component point of view, there's added complexity,
+[1793.32 - 1796.84] you add cost to it, and then there's probably the fact
+[1796.84 - 1798.76] that you need another physical component,
+[1798.96 - 1800.36] you need a docking cradle, for example.
+[1800.46 - 1800.70] Yeah.
+[1801.04 - 1801.96] Put it into charge.
+[1802.30 - 1802.64] Okay.
+[1802.74 - 1804.30] Or you need to get the user to plug it in.
+[1804.80 - 1805.54] Okay, so.
+[1805.68 - 1809.16] Most users are already used to buying batteries
+[1809.16 - 1810.76] and putting it into the robot.
+[1811.38 - 1814.30] Unless the controller's going to consume a lot of batteries,
+[1814.30 - 1816.22] like, it's going to run through, like,
+[1816.28 - 1818.80] the batteries a month, then I don't think they're chargeable
+[1818.80 - 1819.08] or something.
+[1819.80 - 1821.86] Okay, so just stick to regular.
+[1823.10 - 1823.32] Okay.
+[1826.84 - 1827.32] Right.
+[1827.84 - 1832.90] So, basically, I'm just going to just recap
+[1832.90 - 1837.00] what I said at the start, was that the whole point
+[1837.00 - 1839.34] of this meeting was to absolutely finalize
+[1839.34 - 1840.78] who we're going to aim this at
+[1841.30 - 1843.02] and what exactly the product's going to do.
+[1843.02 - 1847.66] So, just to recap, are we all happy about the idea
+[1847.66 - 1854.08] of aiming the product at the 15 to 35 bracket?
+[1855.58 - 1855.62] Yeah, that's good.
+[1855.62 - 1860.04] And also, the actual functions of what it's going to do.
+[1860.30 - 1861.76] Do you want to recap on that, Craig?
+[1864.12 - 1865.80] I think we used to say it was going to be
+[1865.80 - 1867.54] the most basic stuff possible.
+[1868.70 - 1871.04] On, off, up and down channels, up and down volume.
+[1871.04 - 1873.18] And skip to a channel.
+[1874.26 - 1875.28] Okay, right.
+[1875.52 - 1879.32] And is it going to include any of the more advanced features
+[1879.32 - 1880.74] or are we going to eliminate those?
+[1881.72 - 1884.06] I think we include mute, but apart from that,
+[1885.26 - 1887.08] I think we just go for the simpleness.
+[1887.84 - 1888.02] Okay.
+[1888.78 - 1891.76] Is it not an option still that we include some things
+[1891.76 - 1894.52] just as a sort of under, like, sort of under a door?
+[1894.86 - 1897.12] Yeah, as optional functions.
+[1897.46 - 1899.50] What I'd be a bit worried about is if someone was,
+[1900.50 - 1902.52] had previously developed habits
+[1902.52 - 1905.32] of expecting to control surround sound
+[1905.32 - 1907.12] or this and that with their controller
+[1907.12 - 1911.50] and then they, you know, they get ours
+[1911.50 - 1913.56] and it doesn't have that.
+[1914.16 - 1915.22] I don't know if that'd be a problem.
+[1916.70 - 1917.88] Another thing that you were saying about
+[1918.50 - 1919.54] telegrising the control,
+[1920.80 - 1923.18] maybe I could suggest we break them down
+[1923.18 - 1924.36] into three simple categories.
+[1924.94 - 1928.10] One would be audio control, one would be video control.
+[1928.10 - 1928.66] Okay.
+[1928.66 - 1929.62] And the other would be a device.
+[1930.40 - 1933.54] This may not map very well to advanced functionality
+[1933.54 - 1937.68] especially, but I think that from a manufacturer point of view,
+[1937.70 - 1939.60] a certain person designing the device,
+[1939.80 - 1941.38] but I think from the point of view
+[1941.38 - 1942.54] of a person using the device,
+[1943.30 - 1944.48] you know, a TV is something they see
+[1944.48 - 1945.28] and something they hear.
+[1946.32 - 1948.16] And it's something they do other things to,
+[1948.32 - 1949.48] like turn it on and turn it off.
+[1949.54 - 1949.80] Yeah.
+[1950.78 - 1952.46] So what we could have is like two buckets, right?
+[1952.74 - 1953.80] And you could scroll things into,
+[1953.96 - 1954.74] like if you want this feature,
+[1954.74 - 1955.58] let's throw it into there.
+[1955.88 - 1956.04] Yeah.
+[1956.24 - 1956.80] And then from there,
+[1956.80 - 1957.82] you can see the excitement is basic,
+[1958.20 - 1959.02] but it's non-basic.
+[1959.30 - 1959.52] Okay, okay.
+[1959.58 - 1961.06] And it might help with the visualization.
+[1961.86 - 1964.88] And it would actually help with the component build as well.
+[1965.14 - 1965.44] Okay.
+[1965.78 - 1966.34] Okay, great.
+[1966.54 - 1966.76] Right.
+[1968.28 - 1971.54] Okay, well, I've got five minutes to wrap up now.
+[1972.24 - 1973.60] Next thing we're doing is having lunch.
+[1973.80 - 1974.04] Woo-hoo.
+[1974.72 - 1976.48] And then we're going to have 30 minutes
+[1976.48 - 1978.42] of working on the next stage.
+[1979.64 - 1982.80] So I'll be putting the minutes of this meeting
+[1983.46 - 1985.06] into the project documents folder.
+[1986.88 - 1990.18] So I guess just to confirm that we know
+[1990.18 - 1991.68] what we're doing in the next, well,
+[1991.76 - 1993.28] in the 30 minutes after lunch anyway.
+[1996.04 - 1997.76] For our industrial designer,
+[1997.94 - 2000.16] you're going to be thinking about the components concept.
+[2001.36 - 2002.94] User interface designer is going to be thinking
+[2002.94 - 2004.84] about our user interface and marketing.
+[2005.08 - 2006.54] You're going to be thinking about trend watching.
+[2007.48 - 2009.78] And you'll all get specific instructions as well.
+[2009.78 - 2016.14] So I know just to ask now if you've got anything else
+[2016.14 - 2017.82] you've thought about while we've been talking.
+[2018.66 - 2020.56] Do you want to start with David?
+[2021.24 - 2022.30] Anything else to say at all?
+[2023.54 - 2023.60] No?
+[2023.82 - 2024.22] No? Okay.
+[2024.92 - 2025.18] Andrew?
+[2025.44 - 2028.10] Yeah, I just wanted to ask then before we wrap up,
+[2028.18 - 2031.22] shall we agree for sake of sort of clarity
+[2031.22 - 2034.94] and when we resume that we'll use this idea,
+[2035.06 - 2037.28] David's proposal, we think of these three sort of buckets.
+[2037.76 - 2039.66] Yeah, yeah, I think that's definitely a good idea.
+[2039.66 - 2041.54] Sort of, okay, we're talking about this.
+[2042.08 - 2042.70] Should we do that then?
+[2043.46 - 2044.12] Okay, great.
+[2044.84 - 2045.96] Just about the three buckets,
+[2046.32 - 2048.36] what would go in the device functions one?
+[2049.02 - 2049.46] Things like On-Off.
+[2050.72 - 2052.92] Because they don't have anything to do with what you see.
+[2053.04 - 2053.34] Yeah.
+[2053.62 - 2056.58] I mean in terms of picture and the entertainment value.
+[2058.20 - 2058.54] Okay.
+[2058.74 - 2058.90] So.
+[2060.22 - 2060.74] And channel.
+[2061.08 - 2061.54] And channel.
+[2061.92 - 2062.02] Right.
+[2062.16 - 2064.68] Because the On-Off also goes, you know,
+[2064.88 - 2066.68] like On-Off like power, not On-Off sound.
+[2066.90 - 2067.06] Yeah.
+[2067.06 - 2068.28] On-Off video.
+[2068.78 - 2071.02] Although you don't turn off some video on your TV.
+[2071.36 - 2073.04] But you might want to, you know,
+[2073.12 - 2074.60] turn off the sound so you want to pick up the phone
+[2074.60 - 2075.48] and the mute button, right?
+[2075.54 - 2075.92] Okay.
+[2076.22 - 2081.58] You have a choice of putting it onto others or device.
+[2082.12 - 2084.48] Device is basically anything which we can't categorize.
+[2084.72 - 2087.12] Okay, so you're going to have audio,
+[2087.42 - 2088.18] which is going to be like, you know,
+[2088.36 - 2090.80] your bass settings and actual volume.
+[2090.80 - 2092.38] Anything to do with what you hear, right?
+[2092.38 - 2092.70] Okay.
+[2092.96 - 2093.82] You can put that into audio.
+[2093.92 - 2095.18] Okay, and then visual.
+[2095.18 - 2097.36] Yeah, there's anything that you can see.
+[2098.64 - 2100.62] So brightness, contrast, things like that.
+[2100.98 - 2102.78] And then just actual device things like
+[2102.78 - 2105.08] what channel you're watching, turning On-Off,
+[2105.72 - 2106.56] stuff like that.
+[2107.08 - 2107.28] Okay.
+[2108.36 - 2108.44] And.
+[2108.92 - 2110.40] I suppose quite likely what would happen is
+[2110.40 - 2112.44] in the device category there might be some
+[2112.44 - 2114.52] which are just like the habitual standard
+[2114.52 - 2116.28] and then others which are maybe a bit more.
+[2116.34 - 2118.70] Like random which we have no other place to put.
+[2118.80 - 2118.88] Sure.
+[2119.56 - 2120.08] Somewhere there.
+[2120.26 - 2120.64] Okay.
+[2120.88 - 2122.92] Even if it doesn't matter very clearly what happens
+[2122.92 - 2125.44] is that people at least have some in their mind.
+[2125.72 - 2126.44] It's easy to use.
+[2126.68 - 2128.00] I think that's one thing that,
+[2129.28 - 2131.82] and I guess from the component point of view as well
+[2131.82 - 2133.28] because it's also fixed.
+[2133.90 - 2134.30] Okay.
+[2135.38 - 2137.24] So yeah, I guess just things to think about are,
+[2137.40 - 2139.38] you know, like the fact it's got to look good
+[2139.38 - 2142.60] because of who we're, you know, targeting this at.
+[2143.56 - 2145.36] Something maybe kind of quirky in design,
+[2145.54 - 2148.68] maybe make it kind of ergonomic kind of to hold,
+[2148.76 - 2149.84] you know, things like that.
+[2151.62 - 2154.06] So I guess, I guess that's it.
+[2154.60 - 2155.20] For the meeting over.
+[2155.92 - 2156.12] Woohoo.
+[2162.10 - 2165.16] Now we get to go find out what was picked up for lunch for us.
+[2165.20 - 2165.36] Yeah.
+[2204.62 - 2206.02] Okay.
+[2237.60 - 2239.00] Thank you.
+[2267.10 - 2269.00] Thank you.
+[2278.32 - 2279.72] Thank you.

@@ -1,0 +1,2300 @@
+{
+  "metadata": {
+    "completed": true,
+    "meeting_id": "ES2002a",
+    "source_file": "ES2002a.Mix-Headset.wav",
+    "source_relative_path": "data\\processed\\audio\\ES2002a.Mix-Headset.wav",
+    "source_sha256": "9c76866990fcc8b84006dc32d273ad99df439090b748ebe72103bb78c3216ee7",
+    "mode": "test",
+    "model": "medium.en",
+    "engine": "faster-whisper",
+    "faster_whisper_version": "1.2.1",
+    "ctranslate2_version": "4.8.4",
+    "python_version": "3.11.9 (tags/v3.11.9:de54cf5, Apr  2 2024, 10:12:12) [MSC v.1938 64 bit (AMD64)]",
+    "platform": "Windows-10-10.0.26200-SP0",
+    "device": "cpu",
+    "compute_type": "int8",
+    "cpu_threads": 8,
+    "num_workers": 1,
+    "language_requested": "en",
+    "language_detected": "en",
+    "language_probability": 1,
+    "task": "transcribe",
+    "beam_size": 5,
+    "word_timestamps": true,
+    "vad_filter": false,
+    "condition_on_previous_text": true,
+    "test_excerpt_seconds": 180.0,
+    "source_duration_seconds": 1272.64,
+    "transcribed_clip_end_seconds": 180.0,
+    "segment_count": 44,
+    "transcription_elapsed_seconds": 120.24,
+    "started_at_utc": "2026-10-27T06:23:18.365443+00:00",
+    "completed_at_utc": "2026-10-27T06:25:18.700702+00:00"
+  },
+  "segments": [
+    {
+      "segment_id": 0,
+      "start": 0.0,
+      "end": 7.46,
+      "duration": 7.46,
+      "text": "Oh, my gosh, you've already produced a PowerPoint video.",
+      "avg_logprob": -0.6051721603442461,
+      "no_speech_probability": 0.5435754656791687,
+      "compression_ratio": 1.1559633027522935,
+      "words": [
+        {
+          "start": 0.0,
+          "end": 0.0,
+          "word": " Oh,",
+          "probability": 0.062388546764850616
+        },
+        {
+          "start": 4.12,
+          "end": 4.12,
+          "word": " my",
+          "probability": 0.37745553255081177
+        },
+        {
+          "start": 4.12,
+          "end": 5.26,
+          "word": " gosh,",
+          "probability": 0.9076395332813263
+        },
+        {
+          "start": 5.4,
+          "end": 5.54,
+          "word": " you've",
+          "probability": 0.9106633067131042
+        },
+        {
+          "start": 5.54,
+          "end": 5.7,
+          "word": " already",
+          "probability": 0.9551098942756653
+        },
+        {
+          "start": 5.7,
+          "end": 6.6,
+          "word": " produced",
+          "probability": 0.98639976978302
+        },
+        {
+          "start": 6.6,
+          "end": 6.86,
+          "word": " a",
+          "probability": 0.8900617957115173
+        },
+        {
+          "start": 6.86,
+          "end": 7.22,
+          "word": " PowerPoint",
+          "probability": 0.9829365015029907
+        },
+        {
+          "start": 7.22,
+          "end": 7.46,
+          "word": " video.",
+          "probability": 0.13661246001720428
+        }
+      ]
+    },
+    {
+      "segment_id": 1,
+      "start": 7.8,
+      "end": 9.42,
+      "duration": 1.62,
+      "text": "I think it's already on, actually.",
+      "avg_logprob": -0.6051721603442461,
+      "no_speech_probability": 0.5435754656791687,
+      "compression_ratio": 1.1559633027522935,
+      "words": [
+        {
+          "start": 7.8,
+          "end": 8.06,
+          "word": " I",
+          "probability": 0.7973482012748718
+        },
+        {
+          "start": 8.06,
+          "end": 8.2,
+          "word": " think",
+          "probability": 0.9959545135498047
+        },
+        {
+          "start": 8.2,
+          "end": 8.42,
+          "word": " it's",
+          "probability": 0.9960911571979523
+        },
+        {
+          "start": 8.42,
+          "end": 8.7,
+          "word": " already",
+          "probability": 0.9631215929985046
+        },
+        {
+          "start": 8.7,
+          "end": 8.96,
+          "word": " on,",
+          "probability": 0.879539430141449
+        },
+        {
+          "start": 9.28,
+          "end": 9.42,
+          "word": " actually.",
+          "probability": 0.9938546419143677
+        }
+      ]
+    },
+    {
+      "segment_id": 2,
+      "start": 14.76,
+      "end": 16.2,
+      "duration": 1.44,
+      "text": "God, how did that this thing work?",
+      "avg_logprob": -0.6051721603442461,
+      "no_speech_probability": 0.5435754656791687,
+      "compression_ratio": 1.1559633027522935,
+      "words": [
+        {
+          "start": 14.76,
+          "end": 15.28,
+          "word": " God,",
+          "probability": 0.20409855246543884
+        },
+        {
+          "start": 15.28,
+          "end": 15.38,
+          "word": " how",
+          "probability": 0.7635899782180786
+        },
+        {
+          "start": 15.38,
+          "end": 15.46,
+          "word": " did",
+          "probability": 0.5997234582901001
+        },
+        {
+          "start": 15.46,
+          "end": 15.6,
+          "word": " that",
+          "probability": 0.5560608506202698
+        },
+        {
+          "start": 15.6,
+          "end": 15.78,
+          "word": " this",
+          "probability": 0.0628603845834732
+        },
+        {
+          "start": 15.78,
+          "end": 15.92,
+          "word": " thing",
+          "probability": 0.9210745096206665
+        },
+        {
+          "start": 15.92,
+          "end": 16.2,
+          "word": " work?",
+          "probability": 0.9897423982620239
+        }
+      ]
+    },
+    {
+      "segment_id": 3,
+      "start": 32.94,
+      "end": 42.16,
+      "duration": 9.22,
+      "text": "I've plugged it in the back, but OK, right, plan it all.",
+      "avg_logprob": -0.5270957878657749,
+      "no_speech_probability": 0.04614940658211708,
+      "compression_ratio": 1.1326530612244898,
+      "words": [
+        {
+          "start": 32.94,
+          "end": 33.66,
+          "word": " I've",
+          "probability": 0.2558385878801346
+        },
+        {
+          "start": 33.66,
+          "end": 33.84,
+          "word": " plugged",
+          "probability": 0.8388499021530151
+        },
+        {
+          "start": 33.84,
+          "end": 33.98,
+          "word": " it",
+          "probability": 0.9730731844902039
+        },
+        {
+          "start": 33.98,
+          "end": 34.1,
+          "word": " in",
+          "probability": 0.9647284150123596
+        },
+        {
+          "start": 34.1,
+          "end": 34.24,
+          "word": " the",
+          "probability": 0.9694412350654602
+        },
+        {
+          "start": 34.24,
+          "end": 34.6,
+          "word": " back,",
+          "probability": 0.9865143895149231
+        },
+        {
+          "start": 34.62,
+          "end": 34.98,
+          "word": " but",
+          "probability": 0.9409083127975464
+        },
+        {
+          "start": 34.98,
+          "end": 40.12,
+          "word": " OK,",
+          "probability": 0.044934727251529694
+        },
+        {
+          "start": 40.42,
+          "end": 40.9,
+          "word": " right,",
+          "probability": 0.924373984336853
+        },
+        {
+          "start": 41.4,
+          "end": 41.64,
+          "word": " plan",
+          "probability": 0.14765121042728424
+        },
+        {
+          "start": 41.64,
+          "end": 41.74,
+          "word": " it",
+          "probability": 0.9687460064888
+        },
+        {
+          "start": 41.74,
+          "end": 42.16,
+          "word": " all.",
+          "probability": 0.919005811214447
+        }
+      ]
+    },
+    {
+      "segment_id": 4,
+      "start": 52.5,
+      "end": 59.26,
+      "duration": 6.76,
+      "text": "OK, well, this is the kickoff meeting for our project.",
+      "avg_logprob": -0.5270957878657749,
+      "no_speech_probability": 0.04614940658211708,
+      "compression_ratio": 1.1326530612244898,
+      "words": [
+        {
+          "start": 52.5,
+          "end": 53.22,
+          "word": " OK,",
+          "probability": 0.39488857984542847
+        },
+        {
+          "start": 53.22,
+          "end": 53.94,
+          "word": " well,",
+          "probability": 0.19188393652439117
+        },
+        {
+          "start": 56.58,
+          "end": 56.86,
+          "word": " this",
+          "probability": 0.948802649974823
+        },
+        {
+          "start": 56.86,
+          "end": 56.98,
+          "word": " is",
+          "probability": 0.9924495220184326
+        },
+        {
+          "start": 56.98,
+          "end": 57.1,
+          "word": " the",
+          "probability": 0.9307438135147095
+        },
+        {
+          "start": 57.1,
+          "end": 57.38,
+          "word": " kickoff",
+          "probability": 0.8082720041275024
+        },
+        {
+          "start": 57.38,
+          "end": 57.76,
+          "word": " meeting",
+          "probability": 0.9686736464500427
+        },
+        {
+          "start": 57.76,
+          "end": 58.08,
+          "word": " for",
+          "probability": 0.9955183267593384
+        },
+        {
+          "start": 58.08,
+          "end": 58.7,
+          "word": " our",
+          "probability": 0.9949148893356323
+        },
+        {
+          "start": 58.7,
+          "end": 59.26,
+          "word": " project.",
+          "probability": 0.9964744448661804
+        }
+      ]
+    },
+    {
+      "segment_id": 5,
+      "start": 61.7,
+      "end": 65.52,
+      "duration": 3.82,
+      "text": "OK, and this is just what we're going to be doing",
+      "avg_logprob": -0.2252000274737019,
+      "no_speech_probability": 0.018449708819389343,
+      "compression_ratio": 1.5518672199170125,
+      "words": [
+        {
+          "start": 61.7,
+          "end": 62.1,
+          "word": " OK,",
+          "probability": 0.008199688978493214
+        },
+        {
+          "start": 62.1,
+          "end": 62.5,
+          "word": " and",
+          "probability": 0.3842424750328064
+        },
+        {
+          "start": 62.5,
+          "end": 63.64,
+          "word": " this",
+          "probability": 0.6474860906600952
+        },
+        {
+          "start": 63.64,
+          "end": 64.5,
+          "word": " is",
+          "probability": 0.9962705373764038
+        },
+        {
+          "start": 64.5,
+          "end": 64.68,
+          "word": " just",
+          "probability": 0.74131840467453
+        },
+        {
+          "start": 64.68,
+          "end": 64.98,
+          "word": " what",
+          "probability": 0.9916270971298218
+        },
+        {
+          "start": 64.98,
+          "end": 65.1,
+          "word": " we're",
+          "probability": 0.9703842401504517
+        },
+        {
+          "start": 65.1,
+          "end": 65.2,
+          "word": " going",
+          "probability": 0.8693485856056213
+        },
+        {
+          "start": 65.2,
+          "end": 65.28,
+          "word": " to",
+          "probability": 0.9967001080513
+        },
+        {
+          "start": 65.28,
+          "end": 65.34,
+          "word": " be",
+          "probability": 0.9973872303962708
+        },
+        {
+          "start": 65.34,
+          "end": 65.52,
+          "word": " doing",
+          "probability": 0.996852695941925
+        }
+      ]
+    },
+    {
+      "segment_id": 6,
+      "start": 65.52,
+      "end": 66.8,
+      "duration": 1.28,
+      "text": "over the next 25 minutes.",
+      "avg_logprob": -0.2252000274737019,
+      "no_speech_probability": 0.018449708819389343,
+      "compression_ratio": 1.5518672199170125,
+      "words": [
+        {
+          "start": 65.52,
+          "end": 65.68,
+          "word": " over",
+          "probability": 0.9432982802391052
+        },
+        {
+          "start": 65.68,
+          "end": 65.78,
+          "word": " the",
+          "probability": 0.9971625208854675
+        },
+        {
+          "start": 65.78,
+          "end": 65.98,
+          "word": " next",
+          "probability": 0.9951598048210144
+        },
+        {
+          "start": 65.98,
+          "end": 66.38,
+          "word": " 25",
+          "probability": 0.8806113004684448
+        },
+        {
+          "start": 66.38,
+          "end": 66.8,
+          "word": " minutes.",
+          "probability": 0.9955470561981201
+        }
+      ]
+    },
+    {
+      "segment_id": 7,
+      "start": 68.63999999999999,
+      "end": 71.46,
+      "duration": 2.82,
+      "text": "So first of all, just to kind of make sure",
+      "avg_logprob": -0.2252000274737019,
+      "no_speech_probability": 0.018449708819389343,
+      "compression_ratio": 1.5518672199170125,
+      "words": [
+        {
+          "start": 68.63999999999999,
+          "end": 69.03999999999999,
+          "word": " So",
+          "probability": 0.7874569296836853
+        },
+        {
+          "start": 69.03999999999999,
+          "end": 69.44,
+          "word": " first",
+          "probability": 0.7675422430038452
+        },
+        {
+          "start": 69.44,
+          "end": 69.64,
+          "word": " of",
+          "probability": 0.9948992133140564
+        },
+        {
+          "start": 69.64,
+          "end": 69.8,
+          "word": " all,",
+          "probability": 0.9986566305160522
+        },
+        {
+          "start": 69.9,
+          "end": 70.0,
+          "word": " just",
+          "probability": 0.9411003589630127
+        },
+        {
+          "start": 70.0,
+          "end": 70.16,
+          "word": " to",
+          "probability": 0.990174412727356
+        },
+        {
+          "start": 70.16,
+          "end": 70.34,
+          "word": " kind",
+          "probability": 0.8891604542732239
+        },
+        {
+          "start": 70.34,
+          "end": 70.94,
+          "word": " of",
+          "probability": 0.9974063038825989
+        },
+        {
+          "start": 70.94,
+          "end": 71.22,
+          "word": " make",
+          "probability": 0.9870356917381287
+        },
+        {
+          "start": 71.22,
+          "end": 71.46,
+          "word": " sure",
+          "probability": 0.9996053576469421
+        }
+      ]
+    },
+    {
+      "segment_id": 8,
+      "start": 71.46,
+      "end": 73.28,
+      "duration": 1.82,
+      "text": "that we all know each other, I'm Laura,",
+      "avg_logprob": -0.2252000274737019,
+      "no_speech_probability": 0.018449708819389343,
+      "compression_ratio": 1.5518672199170125,
+      "words": [
+        {
+          "start": 71.46,
+          "end": 71.62,
+          "word": " that",
+          "probability": 0.9920176267623901
+        },
+        {
+          "start": 71.62,
+          "end": 71.72,
+          "word": " we",
+          "probability": 0.9989571571350098
+        },
+        {
+          "start": 71.72,
+          "end": 71.84,
+          "word": " all",
+          "probability": 0.992038369178772
+        },
+        {
+          "start": 71.84,
+          "end": 72.0,
+          "word": " know",
+          "probability": 0.9865358471870422
+        },
+        {
+          "start": 72.0,
+          "end": 72.18,
+          "word": " each",
+          "probability": 0.9976484179496765
+        },
+        {
+          "start": 72.18,
+          "end": 72.44,
+          "word": " other,",
+          "probability": 0.9970248341560364
+        },
+        {
+          "start": 72.82,
+          "end": 73.08,
+          "word": " I'm",
+          "probability": 0.9585163593292236
+        },
+        {
+          "start": 73.08,
+          "end": 73.28,
+          "word": " Laura,",
+          "probability": 0.9029903411865234
+        }
+      ]
+    },
+    {
+      "segment_id": 9,
+      "start": 73.4,
+      "end": 74.46,
+      "duration": 1.06,
+      "text": "and I'm the project manager.",
+      "avg_logprob": -0.2252000274737019,
+      "no_speech_probability": 0.018449708819389343,
+      "compression_ratio": 1.5518672199170125,
+      "words": [
+        {
+          "start": 73.4,
+          "end": 73.48,
+          "word": " and",
+          "probability": 0.9639801383018494
+        },
+        {
+          "start": 73.48,
+          "end": 73.66,
+          "word": " I'm",
+          "probability": 0.9963539838790894
+        },
+        {
+          "start": 73.66,
+          "end": 73.76,
+          "word": " the",
+          "probability": 0.8455430269241333
+        },
+        {
+          "start": 73.76,
+          "end": 74.0,
+          "word": " project",
+          "probability": 0.8638061285018921
+        },
+        {
+          "start": 74.0,
+          "end": 74.46,
+          "word": " manager.",
+          "probability": 0.9977421760559082
+        }
+      ]
+    },
+    {
+      "segment_id": 10,
+      "start": 75.42,
+      "end": 77.38,
+      "duration": 1.96,
+      "text": "Do you want to introduce yourself again?",
+      "avg_logprob": -0.2252000274737019,
+      "no_speech_probability": 0.018449708819389343,
+      "compression_ratio": 1.5518672199170125,
+      "words": [
+        {
+          "start": 75.42,
+          "end": 75.42,
+          "word": " Do",
+          "probability": 0.7079311609268188
+        },
+        {
+          "start": 75.42,
+          "end": 76.16,
+          "word": " you",
+          "probability": 0.9773818850517273
+        },
+        {
+          "start": 76.16,
+          "end": 76.24,
+          "word": " want",
+          "probability": 0.9949328303337097
+        },
+        {
+          "start": 76.24,
+          "end": 76.36,
+          "word": " to",
+          "probability": 0.9961329698562622
+        },
+        {
+          "start": 76.36,
+          "end": 76.74,
+          "word": " introduce",
+          "probability": 0.9971795082092285
+        },
+        {
+          "start": 76.74,
+          "end": 77.04,
+          "word": " yourself",
+          "probability": 0.9960913062095642
+        },
+        {
+          "start": 77.04,
+          "end": 77.38,
+          "word": " again?",
+          "probability": 0.96222323179245
+        }
+      ]
+    },
+    {
+      "segment_id": 11,
+      "start": 77.68,
+      "end": 79.46,
+      "duration": 1.78,
+      "text": "Hi, I'm David, and I'm supposed",
+      "avg_logprob": -0.2252000274737019,
+      "no_speech_probability": 0.018449708819389343,
+      "compression_ratio": 1.5518672199170125,
+      "words": [
+        {
+          "start": 77.68,
+          "end": 77.68,
+          "word": " Hi,",
+          "probability": 0.6276213526725769
+        },
+        {
+          "start": 77.84,
+          "end": 78.12,
+          "word": " I'm",
+          "probability": 0.9925809502601624
+        },
+        {
+          "start": 78.12,
+          "end": 78.46,
+          "word": " David,",
+          "probability": 0.9894492626190186
+        },
+        {
+          "start": 78.72,
+          "end": 78.8,
+          "word": " and",
+          "probability": 0.9815291166305542
+        },
+        {
+          "start": 78.8,
+          "end": 79.26,
+          "word": " I'm",
+          "probability": 0.9908928275108337
+        },
+        {
+          "start": 79.26,
+          "end": 79.46,
+          "word": " supposed",
+          "probability": 0.9904484152793884
+        }
+      ]
+    },
+    {
+      "segment_id": 12,
+      "start": 79.46,
+      "end": 80.58,
+      "duration": 1.12,
+      "text": "to be an industrial designer.",
+      "avg_logprob": -0.2252000274737019,
+      "no_speech_probability": 0.018449708819389343,
+      "compression_ratio": 1.5518672199170125,
+      "words": [
+        {
+          "start": 79.46,
+          "end": 79.62,
+          "word": " to",
+          "probability": 0.9980510473251343
+        },
+        {
+          "start": 79.62,
+          "end": 79.72,
+          "word": " be",
+          "probability": 0.9961423277854919
+        },
+        {
+          "start": 79.72,
+          "end": 79.9,
+          "word": " an",
+          "probability": 0.9600491523742676
+        },
+        {
+          "start": 79.9,
+          "end": 80.16,
+          "word": " industrial",
+          "probability": 0.9874748587608337
+        },
+        {
+          "start": 80.16,
+          "end": 80.58,
+          "word": " designer.",
+          "probability": 0.9835333228111267
+        }
+      ]
+    },
+    {
+      "segment_id": 13,
+      "start": 80.98,
+      "end": 81.16,
+      "duration": 0.18,
+      "text": "OK.",
+      "avg_logprob": -0.2252000274737019,
+      "no_speech_probability": 0.018449708819389343,
+      "compression_ratio": 1.5518672199170125,
+      "words": [
+        {
+          "start": 80.98,
+          "end": 81.16,
+          "word": " OK.",
+          "probability": 0.8464226722717285
+        }
+      ]
+    },
+    {
+      "segment_id": 14,
+      "start": 82.1,
+      "end": 86.42,
+      "duration": 4.32,
+      "text": "And I'm Andrew, and I'm a marketing expert.",
+      "avg_logprob": -0.2252000274737019,
+      "no_speech_probability": 0.018449708819389343,
+      "compression_ratio": 1.5518672199170125,
+      "words": [
+        {
+          "start": 82.1,
+          "end": 82.26,
+          "word": " And",
+          "probability": 0.9240458011627197
+        },
+        {
+          "start": 82.26,
+          "end": 82.5,
+          "word": " I'm",
+          "probability": 0.9956993758678436
+        },
+        {
+          "start": 82.5,
+          "end": 82.78,
+          "word": " Andrew,",
+          "probability": 0.998052716255188
+        },
+        {
+          "start": 82.96,
+          "end": 83.02,
+          "word": " and",
+          "probability": 0.9937100410461426
+        },
+        {
+          "start": 83.02,
+          "end": 83.78,
+          "word": " I'm",
+          "probability": 0.9950851202011108
+        },
+        {
+          "start": 83.78,
+          "end": 83.88,
+          "word": " a",
+          "probability": 0.5849097967147827
+        },
+        {
+          "start": 83.88,
+          "end": 84.38,
+          "word": " marketing",
+          "probability": 0.9972994923591614
+        },
+        {
+          "start": 84.38,
+          "end": 86.42,
+          "word": " expert.",
+          "probability": 0.9858065843582153
+        }
+      ]
+    },
+    {
+      "segment_id": 15,
+      "start": 87.22,
+      "end": 88.54,
+      "duration": 1.32,
+      "text": "I'm Greg, and I'm a user interface.",
+      "avg_logprob": -0.2252000274737019,
+      "no_speech_probability": 0.018449708819389343,
+      "compression_ratio": 1.5518672199170125,
+      "words": [
+        {
+          "start": 87.22,
+          "end": 87.42,
+          "word": " I'm",
+          "probability": 0.9471673965454102
+        },
+        {
+          "start": 87.42,
+          "end": 87.62,
+          "word": " Greg,",
+          "probability": 0.9581737518310547
+        },
+        {
+          "start": 87.72,
+          "end": 87.78,
+          "word": " and",
+          "probability": 0.9938442707061768
+        },
+        {
+          "start": 87.78,
+          "end": 88.04,
+          "word": " I'm",
+          "probability": 0.992822527885437
+        },
+        {
+          "start": 88.04,
+          "end": 88.1,
+          "word": " a",
+          "probability": 0.37208008766174316
+        },
+        {
+          "start": 88.1,
+          "end": 88.14,
+          "word": " user",
+          "probability": 0.5302790403366089
+        },
+        {
+          "start": 88.14,
+          "end": 88.54,
+          "word": " interface.",
+          "probability": 0.9940912127494812
+        }
+      ]
+    },
+    {
+      "segment_id": 16,
+      "start": 89.08000000000001,
+      "end": 90.42,
+      "duration": 1.34,
+      "text": "Great, OK.",
+      "avg_logprob": -0.32336897111457324,
+      "no_speech_probability": 0.005670606624335051,
+      "compression_ratio": 1.4894736842105263,
+      "words": [
+        {
+          "start": 89.08000000000001,
+          "end": 89.56,
+          "word": " Great,",
+          "probability": 0.1257394701242447
+        },
+        {
+          "start": 90.0,
+          "end": 90.42,
+          "word": " OK.",
+          "probability": 0.1488390415906906
+        }
+      ]
+    },
+    {
+      "segment_id": 17,
+      "start": 92.5,
+      "end": 94.4,
+      "duration": 1.9,
+      "text": "So we're designing a new remote control.",
+      "avg_logprob": -0.32336897111457324,
+      "no_speech_probability": 0.005670606624335051,
+      "compression_ratio": 1.4894736842105263,
+      "words": [
+        {
+          "start": 92.5,
+          "end": 92.98,
+          "word": " So",
+          "probability": 0.5354986190795898
+        },
+        {
+          "start": 92.98,
+          "end": 93.12,
+          "word": " we're",
+          "probability": 0.8674938380718231
+        },
+        {
+          "start": 93.12,
+          "end": 93.44,
+          "word": " designing",
+          "probability": 0.9971727132797241
+        },
+        {
+          "start": 93.44,
+          "end": 93.68,
+          "word": " a",
+          "probability": 0.9330610632896423
+        },
+        {
+          "start": 93.68,
+          "end": 93.74,
+          "word": " new",
+          "probability": 0.9851281046867371
+        },
+        {
+          "start": 93.74,
+          "end": 94.0,
+          "word": " remote",
+          "probability": 0.9539377689361572
+        },
+        {
+          "start": 94.0,
+          "end": 94.4,
+          "word": " control.",
+          "probability": 0.996151864528656
+        }
+      ]
+    },
+    {
+      "segment_id": 18,
+      "start": 95.56,
+      "end": 98.2,
+      "duration": 2.64,
+      "text": "And oh, I have to record who's here, actually.",
+      "avg_logprob": -0.32336897111457324,
+      "no_speech_probability": 0.005670606624335051,
+      "compression_ratio": 1.4894736842105263,
+      "words": [
+        {
+          "start": 95.56,
+          "end": 96.03999999999999,
+          "word": " And",
+          "probability": 0.34632402658462524
+        },
+        {
+          "start": 96.03999999999999,
+          "end": 96.52,
+          "word": " oh,",
+          "probability": 0.2581874132156372
+        },
+        {
+          "start": 96.7,
+          "end": 96.84,
+          "word": " I",
+          "probability": 0.9939059615135193
+        },
+        {
+          "start": 96.84,
+          "end": 96.96,
+          "word": " have",
+          "probability": 0.9925211071968079
+        },
+        {
+          "start": 96.96,
+          "end": 97.06,
+          "word": " to",
+          "probability": 0.9975098371505737
+        },
+        {
+          "start": 97.06,
+          "end": 97.34,
+          "word": " record",
+          "probability": 0.9982274174690247
+        },
+        {
+          "start": 97.34,
+          "end": 97.6,
+          "word": " who's",
+          "probability": 0.8747058212757111
+        },
+        {
+          "start": 97.6,
+          "end": 97.76,
+          "word": " here,",
+          "probability": 0.9953985810279846
+        },
+        {
+          "start": 98.02,
+          "end": 98.2,
+          "word": " actually.",
+          "probability": 0.9984394907951355
+        }
+      ]
+    },
+    {
+      "segment_id": 19,
+      "start": 98.8,
+      "end": 102.26,
+      "duration": 3.46,
+      "text": "So that's David, Andrew, and Craig, isn't it?",
+      "avg_logprob": -0.32336897111457324,
+      "no_speech_probability": 0.005670606624335051,
+      "compression_ratio": 1.4894736842105263,
+      "words": [
+        {
+          "start": 98.8,
+          "end": 98.82,
+          "word": " So",
+          "probability": 0.9342986345291138
+        },
+        {
+          "start": 98.82,
+          "end": 100.14,
+          "word": " that's",
+          "probability": 0.8574252426624298
+        },
+        {
+          "start": 100.14,
+          "end": 100.5,
+          "word": " David,",
+          "probability": 0.9866319298744202
+        },
+        {
+          "start": 100.6,
+          "end": 100.84,
+          "word": " Andrew,",
+          "probability": 0.42380911111831665
+        },
+        {
+          "start": 100.9,
+          "end": 101.08,
+          "word": " and",
+          "probability": 0.9943636655807495
+        },
+        {
+          "start": 101.08,
+          "end": 101.3,
+          "word": " Craig,",
+          "probability": 0.9908803701400757
+        },
+        {
+          "start": 101.4,
+          "end": 101.52,
+          "word": " isn't",
+          "probability": 0.9711337387561798
+        },
+        {
+          "start": 101.52,
+          "end": 102.26,
+          "word": " it?",
+          "probability": 0.9959398508071899
+        }
+      ]
+    },
+    {
+      "segment_id": 20,
+      "start": 104.56,
+      "end": 106.1,
+      "duration": 1.54,
+      "text": "And you all arrived on time.",
+      "avg_logprob": -0.32336897111457324,
+      "no_speech_probability": 0.005670606624335051,
+      "compression_ratio": 1.4894736842105263,
+      "words": [
+        {
+          "start": 104.56,
+          "end": 105.04,
+          "word": " And",
+          "probability": 0.9547353982925415
+        },
+        {
+          "start": 105.04,
+          "end": 105.2,
+          "word": " you",
+          "probability": 0.9764897227287292
+        },
+        {
+          "start": 105.2,
+          "end": 105.34,
+          "word": " all",
+          "probability": 0.5008545517921448
+        },
+        {
+          "start": 105.34,
+          "end": 105.6,
+          "word": " arrived",
+          "probability": 0.9805615544319153
+        },
+        {
+          "start": 105.6,
+          "end": 105.82,
+          "word": " on",
+          "probability": 0.9888725876808167
+        },
+        {
+          "start": 105.82,
+          "end": 106.1,
+          "word": " time.",
+          "probability": 0.9900201559066772
+        }
+      ]
+    },
+    {
+      "segment_id": 21,
+      "start": 109.6,
+      "end": 111.88,
+      "duration": 2.28,
+      "text": "Yes, so design a new remote control.",
+      "avg_logprob": -0.32336897111457324,
+      "no_speech_probability": 0.005670606624335051,
+      "compression_ratio": 1.4894736842105263,
+      "words": [
+        {
+          "start": 109.6,
+          "end": 109.88,
+          "word": " Yes,",
+          "probability": 0.3297189474105835
+        },
+        {
+          "start": 110.06,
+          "end": 110.06,
+          "word": " so",
+          "probability": 0.38956892490386963
+        },
+        {
+          "start": 110.06,
+          "end": 110.96,
+          "word": " design",
+          "probability": 0.43582218885421753
+        },
+        {
+          "start": 110.96,
+          "end": 111.12,
+          "word": " a",
+          "probability": 0.9606853127479553
+        },
+        {
+          "start": 111.12,
+          "end": 111.2,
+          "word": " new",
+          "probability": 0.9989749193191528
+        },
+        {
+          "start": 111.2,
+          "end": 111.44,
+          "word": " remote",
+          "probability": 0.996217668056488
+        },
+        {
+          "start": 111.44,
+          "end": 111.88,
+          "word": " control.",
+          "probability": 0.9985585808753967
+        }
+      ]
+    },
+    {
+      "segment_id": 22,
+      "start": 112.94,
+      "end": 114.8,
+      "duration": 1.86,
+      "text": "As you can see, it's supposed to be original, trendy,",
+      "avg_logprob": -0.32336897111457324,
+      "no_speech_probability": 0.005670606624335051,
+      "compression_ratio": 1.4894736842105263,
+      "words": [
+        {
+          "start": 112.94,
+          "end": 113.12,
+          "word": " As",
+          "probability": 0.91596919298172
+        },
+        {
+          "start": 113.12,
+          "end": 113.2,
+          "word": " you",
+          "probability": 0.9934542179107666
+        },
+        {
+          "start": 113.2,
+          "end": 113.3,
+          "word": " can",
+          "probability": 0.9974685907363892
+        },
+        {
+          "start": 113.3,
+          "end": 113.42,
+          "word": " see,",
+          "probability": 0.9938992261886597
+        },
+        {
+          "start": 113.48,
+          "end": 113.6,
+          "word": " it's",
+          "probability": 0.9930621981620789
+        },
+        {
+          "start": 113.6,
+          "end": 113.74,
+          "word": " supposed",
+          "probability": 0.9726239442825317
+        },
+        {
+          "start": 113.74,
+          "end": 113.84,
+          "word": " to",
+          "probability": 0.9927880167961121
+        },
+        {
+          "start": 113.84,
+          "end": 113.94,
+          "word": " be",
+          "probability": 0.9986467957496643
+        },
+        {
+          "start": 113.94,
+          "end": 114.38,
+          "word": " original,",
+          "probability": 0.9747741222381592
+        },
+        {
+          "start": 114.54,
+          "end": 114.8,
+          "word": " trendy,",
+          "probability": 0.997116208076477
+        }
+      ]
+    },
+    {
+      "segment_id": 23,
+      "start": 114.98,
+      "end": 115.68,
+      "duration": 0.7,
+      "text": "and user friendly.",
+      "avg_logprob": -0.32336897111457324,
+      "no_speech_probability": 0.005670606624335051,
+      "compression_ratio": 1.4894736842105263,
+      "words": [
+        {
+          "start": 114.98,
+          "end": 115.04,
+          "word": " and",
+          "probability": 0.9972779154777527
+        },
+        {
+          "start": 115.04,
+          "end": 115.32,
+          "word": " user",
+          "probability": 0.998318076133728
+        },
+        {
+          "start": 115.32,
+          "end": 115.68,
+          "word": " friendly.",
+          "probability": 0.6032965779304504
+        }
+      ]
+    },
+    {
+      "segment_id": 24,
+      "start": 115.68,
+      "end": 121.12,
+      "duration": 5.44,
+      "text": "OK, so that's kind of our brief, if it were.",
+      "avg_logprob": -0.387658227350294,
+      "no_speech_probability": 0.0014192619128152728,
+      "compression_ratio": 1.5192307692307692,
+      "words": [
+        {
+          "start": 115.68,
+          "end": 115.8,
+          "word": " OK,",
+          "probability": 0.0021347489673644304
+        },
+        {
+          "start": 116.02,
+          "end": 118.36,
+          "word": " so",
+          "probability": 0.7292240858078003
+        },
+        {
+          "start": 118.36,
+          "end": 118.74,
+          "word": " that's",
+          "probability": 0.8997763693332672
+        },
+        {
+          "start": 118.74,
+          "end": 118.92,
+          "word": " kind",
+          "probability": 0.8558724522590637
+        },
+        {
+          "start": 118.92,
+          "end": 119.06,
+          "word": " of",
+          "probability": 0.9978082776069641
+        },
+        {
+          "start": 119.06,
+          "end": 119.48,
+          "word": " our",
+          "probability": 0.9327367544174194
+        },
+        {
+          "start": 119.48,
+          "end": 119.98,
+          "word": " brief,",
+          "probability": 0.985463559627533
+        },
+        {
+          "start": 120.84,
+          "end": 120.86,
+          "word": " if",
+          "probability": 0.12404729425907135
+        },
+        {
+          "start": 120.86,
+          "end": 120.9,
+          "word": " it",
+          "probability": 0.535239577293396
+        },
+        {
+          "start": 120.9,
+          "end": 121.12,
+          "word": " were.",
+          "probability": 0.9767060875892639
+        }
+      ]
+    },
+    {
+      "segment_id": 25,
+      "start": 122.64,
+      "end": 125.58,
+      "duration": 2.94,
+      "text": "And so there are three different stages to the design.",
+      "avg_logprob": -0.387658227350294,
+      "no_speech_probability": 0.0014192619128152728,
+      "compression_ratio": 1.5192307692307692,
+      "words": [
+        {
+          "start": 122.64,
+          "end": 122.64,
+          "word": " And",
+          "probability": 0.6922036409378052
+        },
+        {
+          "start": 122.64,
+          "end": 123.54,
+          "word": " so",
+          "probability": 0.9801973104476929
+        },
+        {
+          "start": 123.54,
+          "end": 123.72,
+          "word": " there",
+          "probability": 0.9341167211532593
+        },
+        {
+          "start": 123.72,
+          "end": 123.9,
+          "word": " are",
+          "probability": 0.9760280847549438
+        },
+        {
+          "start": 123.9,
+          "end": 124.1,
+          "word": " three",
+          "probability": 0.9805312752723694
+        },
+        {
+          "start": 124.1,
+          "end": 124.38,
+          "word": " different",
+          "probability": 0.9987912774085999
+        },
+        {
+          "start": 124.38,
+          "end": 124.78,
+          "word": " stages",
+          "probability": 0.9969379901885986
+        },
+        {
+          "start": 124.78,
+          "end": 125.04,
+          "word": " to",
+          "probability": 0.9972883462905884
+        },
+        {
+          "start": 125.04,
+          "end": 125.2,
+          "word": " the",
+          "probability": 0.9984099864959717
+        },
+        {
+          "start": 125.2,
+          "end": 125.58,
+          "word": " design.",
+          "probability": 0.996307373046875
+        }
+      ]
+    },
+    {
+      "segment_id": 26,
+      "start": 126.38,
+      "end": 128.84,
+      "duration": 2.46,
+      "text": "I'm not really sure what you guys have already received",
+      "avg_logprob": -0.387658227350294,
+      "no_speech_probability": 0.0014192619128152728,
+      "compression_ratio": 1.5192307692307692,
+      "words": [
+        {
+          "start": 126.38,
+          "end": 126.46,
+          "word": " I'm",
+          "probability": 0.946334719657898
+        },
+        {
+          "start": 126.46,
+          "end": 126.58,
+          "word": " not",
+          "probability": 0.9955741167068481
+        },
+        {
+          "start": 126.58,
+          "end": 126.72,
+          "word": " really",
+          "probability": 0.9501351118087769
+        },
+        {
+          "start": 126.72,
+          "end": 126.9,
+          "word": " sure",
+          "probability": 0.9962260723114014
+        },
+        {
+          "start": 126.9,
+          "end": 127.22,
+          "word": " what",
+          "probability": 0.9886806011199951
+        },
+        {
+          "start": 127.22,
+          "end": 127.6,
+          "word": " you",
+          "probability": 0.933930516242981
+        },
+        {
+          "start": 127.6,
+          "end": 127.8,
+          "word": " guys",
+          "probability": 0.9976358413696289
+        },
+        {
+          "start": 127.8,
+          "end": 127.96,
+          "word": " have",
+          "probability": 0.9923112392425537
+        },
+        {
+          "start": 127.96,
+          "end": 128.2,
+          "word": " already",
+          "probability": 0.996337890625
+        },
+        {
+          "start": 128.2,
+          "end": 128.84,
+          "word": " received",
+          "probability": 0.9975606203079224
+        }
+      ]
+    },
+    {
+      "segment_id": 27,
+      "start": 129.90000000000003,
+      "end": 131.16,
+      "duration": 1.26,
+      "text": "in your emails.",
+      "avg_logprob": -0.387658227350294,
+      "no_speech_probability": 0.0014192619128152728,
+      "compression_ratio": 1.5192307692307692,
+      "words": [
+        {
+          "start": 129.90000000000003,
+          "end": 130.38000000000002,
+          "word": " in",
+          "probability": 0.7878146767616272
+        },
+        {
+          "start": 130.38000000000002,
+          "end": 130.86,
+          "word": " your",
+          "probability": 0.9969858527183533
+        },
+        {
+          "start": 130.86,
+          "end": 131.16,
+          "word": " emails.",
+          "probability": 0.9047811627388
+        }
+      ]
+    },
+    {
+      "segment_id": 28,
+      "start": 131.4,
+      "end": 132.06,
+      "duration": 0.66,
+      "text": "What did you get?",
+      "avg_logprob": -0.387658227350294,
+      "no_speech_probability": 0.0014192619128152728,
+      "compression_ratio": 1.5192307692307692,
+      "words": [
+        {
+          "start": 131.4,
+          "end": 131.52,
+          "word": " What",
+          "probability": 0.9926906228065491
+        },
+        {
+          "start": 131.52,
+          "end": 131.68,
+          "word": " did",
+          "probability": 0.9984217882156372
+        },
+        {
+          "start": 131.68,
+          "end": 131.8,
+          "word": " you",
+          "probability": 0.9990862607955933
+        },
+        {
+          "start": 131.8,
+          "end": 132.06,
+          "word": " get?",
+          "probability": 0.9968210458755493
+        }
+      ]
+    },
+    {
+      "segment_id": 29,
+      "start": 133.16,
+      "end": 134.74,
+      "duration": 1.58,
+      "text": "I just got the project announcement.",
+      "avg_logprob": -0.387658227350294,
+      "no_speech_probability": 0.0014192619128152728,
+      "compression_ratio": 1.5192307692307692,
+      "words": [
+        {
+          "start": 133.16,
+          "end": 133.32,
+          "word": " I",
+          "probability": 0.3594267964363098
+        },
+        {
+          "start": 133.32,
+          "end": 133.48,
+          "word": " just",
+          "probability": 0.9755120873451233
+        },
+        {
+          "start": 133.48,
+          "end": 133.7,
+          "word": " got",
+          "probability": 0.9925683736801147
+        },
+        {
+          "start": 133.7,
+          "end": 133.9,
+          "word": " the",
+          "probability": 0.7257399559020996
+        },
+        {
+          "start": 133.9,
+          "end": 134.26,
+          "word": " project",
+          "probability": 0.9432944655418396
+        },
+        {
+          "start": 134.26,
+          "end": 134.74,
+          "word": " announcement.",
+          "probability": 0.996086597442627
+        }
+      ]
+    },
+    {
+      "segment_id": 30,
+      "start": 135.54,
+      "end": 138.02,
+      "duration": 2.48,
+      "text": "I got the design and the remote control.",
+      "avg_logprob": -0.387658227350294,
+      "no_speech_probability": 0.0014192619128152728,
+      "compression_ratio": 1.5192307692307692,
+      "words": [
+        {
+          "start": 135.54,
+          "end": 135.54,
+          "word": " I",
+          "probability": 0.04113228991627693
+        },
+        {
+          "start": 135.54,
+          "end": 135.7,
+          "word": " got",
+          "probability": 0.14881233870983124
+        },
+        {
+          "start": 135.7,
+          "end": 136.78,
+          "word": " the",
+          "probability": 0.49971988797187805
+        },
+        {
+          "start": 136.78,
+          "end": 137.06,
+          "word": " design",
+          "probability": 0.6774744391441345
+        },
+        {
+          "start": 137.06,
+          "end": 137.44,
+          "word": " and",
+          "probability": 0.45657849311828613
+        },
+        {
+          "start": 137.44,
+          "end": 137.6,
+          "word": " the",
+          "probability": 0.5649871826171875
+        },
+        {
+          "start": 137.6,
+          "end": 137.74,
+          "word": " remote",
+          "probability": 0.8012219667434692
+        },
+        {
+          "start": 137.74,
+          "end": 138.02,
+          "word": " control.",
+          "probability": 0.8892325162887573
+        }
+      ]
+    },
+    {
+      "segment_id": 31,
+      "start": 139.22,
+      "end": 140.18,
+      "duration": 0.96,
+      "text": "Yeah, that's it.",
+      "avg_logprob": -0.387658227350294,
+      "no_speech_probability": 0.0014192619128152728,
+      "compression_ratio": 1.5192307692307692,
+      "words": [
+        {
+          "start": 139.22,
+          "end": 139.7,
+          "word": " Yeah,",
+          "probability": 0.3758377730846405
+        },
+        {
+          "start": 139.84,
+          "end": 140.12,
+          "word": " that's",
+          "probability": 0.9860832691192627
+        },
+        {
+          "start": 140.12,
+          "end": 140.18,
+          "word": " it.",
+          "probability": 0.215271458029747
+        }
+      ]
+    },
+    {
+      "segment_id": 32,
+      "start": 140.18,
+      "end": 141.18,
+      "duration": 1.0,
+      "text": "Is that what everybody got?",
+      "avg_logprob": -0.387658227350294,
+      "no_speech_probability": 0.0014192619128152728,
+      "compression_ratio": 1.5192307692307692,
+      "words": [
+        {
+          "start": 140.18,
+          "end": 140.24,
+          "word": " Is",
+          "probability": 0.7198439836502075
+        },
+        {
+          "start": 140.24,
+          "end": 140.38,
+          "word": " that",
+          "probability": 0.9981117248535156
+        },
+        {
+          "start": 140.38,
+          "end": 140.48,
+          "word": " what",
+          "probability": 0.9833139181137085
+        },
+        {
+          "start": 140.48,
+          "end": 140.82,
+          "word": " everybody",
+          "probability": 0.9891536831855774
+        },
+        {
+          "start": 140.82,
+          "end": 141.18,
+          "word": " got?",
+          "probability": 0.9882889986038208
+        }
+      ]
+    },
+    {
+      "segment_id": 33,
+      "start": 141.66,
+      "end": 141.82,
+      "duration": 0.16,
+      "text": "OK.",
+      "avg_logprob": -0.387658227350294,
+      "no_speech_probability": 0.0014192619128152728,
+      "compression_ratio": 1.5192307692307692,
+      "words": [
+        {
+          "start": 141.66,
+          "end": 141.82,
+          "word": " OK.",
+          "probability": 0.6619021892547607
+        }
+      ]
+    },
+    {
+      "segment_id": 34,
+      "start": 143.72000000000003,
+      "end": 146.44,
+      "duration": 2.72,
+      "text": "So we're going to have individual work, and then",
+      "avg_logprob": -0.25624015111298787,
+      "no_speech_probability": 0.0022291718050837517,
+      "compression_ratio": 1.5463917525773196,
+      "words": [
+        {
+          "start": 143.72000000000003,
+          "end": 144.20000000000002,
+          "word": " So",
+          "probability": 0.3733977675437927
+        },
+        {
+          "start": 144.20000000000002,
+          "end": 144.68,
+          "word": " we're",
+          "probability": 0.8782580196857452
+        },
+        {
+          "start": 144.68,
+          "end": 144.76,
+          "word": " going",
+          "probability": 0.6396051049232483
+        },
+        {
+          "start": 144.76,
+          "end": 144.82,
+          "word": " to",
+          "probability": 0.9944948554039001
+        },
+        {
+          "start": 144.82,
+          "end": 144.96,
+          "word": " have",
+          "probability": 0.9886445999145508
+        },
+        {
+          "start": 144.96,
+          "end": 145.9,
+          "word": " individual",
+          "probability": 0.4126337766647339
+        },
+        {
+          "start": 145.9,
+          "end": 146.18,
+          "word": " work,",
+          "probability": 0.9503792524337769
+        },
+        {
+          "start": 146.28,
+          "end": 146.34,
+          "word": " and",
+          "probability": 0.9399728178977966
+        },
+        {
+          "start": 146.34,
+          "end": 146.44,
+          "word": " then",
+          "probability": 0.9677863121032715
+        }
+      ]
+    },
+    {
+      "segment_id": 35,
+      "start": 146.44,
+      "end": 151.08,
+      "duration": 4.64,
+      "text": "a meeting about it, and repeat that process three times.",
+      "avg_logprob": -0.25624015111298787,
+      "no_speech_probability": 0.0022291718050837517,
+      "compression_ratio": 1.5463917525773196,
+      "words": [
+        {
+          "start": 146.44,
+          "end": 146.54,
+          "word": " a",
+          "probability": 0.9915040135383606
+        },
+        {
+          "start": 146.54,
+          "end": 146.7,
+          "word": " meeting",
+          "probability": 0.9986226558685303
+        },
+        {
+          "start": 146.7,
+          "end": 146.96,
+          "word": " about",
+          "probability": 0.9971522092819214
+        },
+        {
+          "start": 146.96,
+          "end": 147.44,
+          "word": " it,",
+          "probability": 0.9974506497383118
+        },
+        {
+          "start": 148.02,
+          "end": 148.24,
+          "word": " and",
+          "probability": 0.9869799613952637
+        },
+        {
+          "start": 148.24,
+          "end": 149.1,
+          "word": " repeat",
+          "probability": 0.9545198678970337
+        },
+        {
+          "start": 149.1,
+          "end": 149.44,
+          "word": " that",
+          "probability": 0.9717761874198914
+        },
+        {
+          "start": 149.44,
+          "end": 149.96,
+          "word": " process",
+          "probability": 0.9926375150680542
+        },
+        {
+          "start": 149.96,
+          "end": 150.48,
+          "word": " three",
+          "probability": 0.954413652420044
+        },
+        {
+          "start": 150.48,
+          "end": 151.08,
+          "word": " times.",
+          "probability": 0.9988589286804199
+        }
+      ]
+    },
+    {
+      "segment_id": 36,
+      "start": 154.26,
+      "end": 156.62,
+      "duration": 2.36,
+      "text": "And at this point, you get to try out the whiteboard",
+      "avg_logprob": -0.25624015111298787,
+      "no_speech_probability": 0.0022291718050837517,
+      "compression_ratio": 1.5463917525773196,
+      "words": [
+        {
+          "start": 154.26,
+          "end": 154.72,
+          "word": " And",
+          "probability": 0.8244773745536804
+        },
+        {
+          "start": 154.72,
+          "end": 154.9,
+          "word": " at",
+          "probability": 0.9505705237388611
+        },
+        {
+          "start": 154.9,
+          "end": 155.02,
+          "word": " this",
+          "probability": 0.9994124174118042
+        },
+        {
+          "start": 155.02,
+          "end": 155.24,
+          "word": " point,",
+          "probability": 0.9993988275527954
+        },
+        {
+          "start": 155.36,
+          "end": 155.38,
+          "word": " you",
+          "probability": 0.7407709956169128
+        },
+        {
+          "start": 155.38,
+          "end": 155.52,
+          "word": " get",
+          "probability": 0.7121582627296448
+        },
+        {
+          "start": 155.52,
+          "end": 155.72,
+          "word": " to",
+          "probability": 0.8000736236572266
+        },
+        {
+          "start": 155.72,
+          "end": 155.86,
+          "word": " try",
+          "probability": 0.9945372939109802
+        },
+        {
+          "start": 155.86,
+          "end": 156.1,
+          "word": " out",
+          "probability": 0.9504789710044861
+        },
+        {
+          "start": 156.1,
+          "end": 156.24,
+          "word": " the",
+          "probability": 0.9902045726776123
+        },
+        {
+          "start": 156.24,
+          "end": 156.62,
+          "word": " whiteboard",
+          "probability": 0.8173364996910095
+        }
+      ]
+    },
+    {
+      "segment_id": 37,
+      "start": 156.62,
+      "end": 157.76,
+      "duration": 1.14,
+      "text": "over there.",
+      "avg_logprob": -0.25624015111298787,
+      "no_speech_probability": 0.0022291718050837517,
+      "compression_ratio": 1.5463917525773196,
+      "words": [
+        {
+          "start": 156.62,
+          "end": 157.08,
+          "word": " over",
+          "probability": 0.9618566036224365
+        },
+        {
+          "start": 157.08,
+          "end": 157.76,
+          "word": " there.",
+          "probability": 0.9990608096122742
+        }
+      ]
+    },
+    {
+      "segment_id": 38,
+      "start": 160.52,
+      "end": 162.58,
+      "duration": 2.06,
+      "text": "So you get to draw your favorite animal",
+      "avg_logprob": -0.25624015111298787,
+      "no_speech_probability": 0.0022291718050837517,
+      "compression_ratio": 1.5463917525773196,
+      "words": [
+        {
+          "start": 160.52,
+          "end": 161.0,
+          "word": " So",
+          "probability": 0.8257394433021545
+        },
+        {
+          "start": 161.0,
+          "end": 161.48,
+          "word": " you",
+          "probability": 0.9433645606040955
+        },
+        {
+          "start": 161.48,
+          "end": 161.62,
+          "word": " get",
+          "probability": 0.9987273812294006
+        },
+        {
+          "start": 161.62,
+          "end": 161.76,
+          "word": " to",
+          "probability": 0.9929059743881226
+        },
+        {
+          "start": 161.76,
+          "end": 161.86,
+          "word": " draw",
+          "probability": 0.9843408465385437
+        },
+        {
+          "start": 161.86,
+          "end": 162.02,
+          "word": " your",
+          "probability": 0.996414303779602
+        },
+        {
+          "start": 162.02,
+          "end": 162.24,
+          "word": " favorite",
+          "probability": 0.8332592248916626
+        },
+        {
+          "start": 162.24,
+          "end": 162.58,
+          "word": " animal",
+          "probability": 0.9990124702453613
+        }
+      ]
+    },
+    {
+      "segment_id": 39,
+      "start": 162.58,
+      "end": 165.62,
+      "duration": 3.04,
+      "text": "and sum up your favorite characteristics of it.",
+      "avg_logprob": -0.25624015111298787,
+      "no_speech_probability": 0.0022291718050837517,
+      "compression_ratio": 1.5463917525773196,
+      "words": [
+        {
+          "start": 162.58,
+          "end": 163.1,
+          "word": " and",
+          "probability": 0.7082966566085815
+        },
+        {
+          "start": 163.1,
+          "end": 163.84,
+          "word": " sum",
+          "probability": 0.9728710651397705
+        },
+        {
+          "start": 163.84,
+          "end": 164.04,
+          "word": " up",
+          "probability": 0.9961603879928589
+        },
+        {
+          "start": 164.04,
+          "end": 164.18,
+          "word": " your",
+          "probability": 0.9989449381828308
+        },
+        {
+          "start": 164.18,
+          "end": 164.46,
+          "word": " favorite",
+          "probability": 0.987770676612854
+        },
+        {
+          "start": 164.46,
+          "end": 165.04,
+          "word": " characteristics",
+          "probability": 0.9985835552215576
+        },
+        {
+          "start": 165.04,
+          "end": 165.38,
+          "word": " of",
+          "probability": 0.9970899820327759
+        },
+        {
+          "start": 165.38,
+          "end": 165.62,
+          "word": " it.",
+          "probability": 0.9995803236961365
+        }
+      ]
+    },
+    {
+      "segment_id": 40,
+      "start": 165.98,
+      "end": 167.24,
+      "duration": 1.26,
+      "text": "So who would like to go first?",
+      "avg_logprob": -0.25624015111298787,
+      "no_speech_probability": 0.0022291718050837517,
+      "compression_ratio": 1.5463917525773196,
+      "words": [
+        {
+          "start": 165.98,
+          "end": 166.1,
+          "word": " So",
+          "probability": 0.9797144532203674
+        },
+        {
+          "start": 166.1,
+          "end": 166.22,
+          "word": " who",
+          "probability": 0.972423255443573
+        },
+        {
+          "start": 166.22,
+          "end": 166.34,
+          "word": " would",
+          "probability": 0.943942666053772
+        },
+        {
+          "start": 166.34,
+          "end": 166.48,
+          "word": " like",
+          "probability": 0.9971837401390076
+        },
+        {
+          "start": 166.48,
+          "end": 166.62,
+          "word": " to",
+          "probability": 0.9929221868515015
+        },
+        {
+          "start": 166.62,
+          "end": 166.82,
+          "word": " go",
+          "probability": 0.9781140089035034
+        },
+        {
+          "start": 166.82,
+          "end": 167.24,
+          "word": " first?",
+          "probability": 0.9947368502616882
+        }
+      ]
+    },
+    {
+      "segment_id": 41,
+      "start": 168.02,
+      "end": 168.34,
+      "duration": 0.32,
+      "text": "Very good.",
+      "avg_logprob": -0.25624015111298787,
+      "no_speech_probability": 0.0022291718050837517,
+      "compression_ratio": 1.5463917525773196,
+      "words": [
+        {
+          "start": 168.02,
+          "end": 168.02,
+          "word": " Very",
+          "probability": 0.2280859649181366
+        },
+        {
+          "start": 168.02,
+          "end": 168.34,
+          "word": " good.",
+          "probability": 0.9971144199371338
+        }
+      ]
+    },
+    {
+      "segment_id": 42,
+      "start": 172.98,
+      "end": 174.68,
+      "duration": 1.7,
+      "text": "All right.",
+      "avg_logprob": -0.5602898061275482,
+      "no_speech_probability": 0.0456894189119339,
+      "compression_ratio": 0.6363636363636364,
+      "words": [
+        {
+          "start": 172.98,
+          "end": 174.38,
+          "word": " All",
+          "probability": 0.6019105315208435
+        },
+        {
+          "start": 174.38,
+          "end": 174.68,
+          "word": " right.",
+          "probability": 0.9982169270515442
+        }
+      ]
+    },
+    {
+      "segment_id": 43,
+      "start": 176.3,
+      "end": 176.46,
+      "duration": 0.16,
+      "text": "So.",
+      "avg_logprob": -0.5602898061275482,
+      "no_speech_probability": 0.0456894189119339,
+      "compression_ratio": 0.6363636363636364,
+      "words": [
+        {
+          "start": 176.3,
+          "end": 176.46,
+          "word": " So.",
+          "probability": 0.8221893310546875
+        }
+      ]
+    }
+  ],
+  "full_text": "Oh, my gosh, you've already produced a PowerPoint video. I think it's already on, actually. God, how did that this thing work? I've plugged it in the back, but OK, right, plan it all. OK, well, this is the kickoff meeting for our project. OK, and this is just what we're going to be doing over the next 25 minutes. So first of all, just to kind of make sure that we all know each other, I'm Laura, and I'm the project manager. Do you want to introduce yourself again? Hi, I'm David, and I'm supposed to be an industrial designer. OK. And I'm Andrew, and I'm a marketing expert. I'm Greg, and I'm a user interface. Great, OK. So we're designing a new remote control. And oh, I have to record who's here, actually. So that's David, Andrew, and Craig, isn't it? And you all arrived on time. Yes, so design a new remote control. As you can see, it's supposed to be original, trendy, and user friendly. OK, so that's kind of our brief, if it were. And so there are three different stages to the design. I'm not really sure what you guys have already received in your emails. What did you get? I just got the project announcement. I got the design and the remote control. Yeah, that's it. Is that what everybody got? OK. So we're going to have individual work, and then a meeting about it, and repeat that process three times. And at this point, you get to try out the whiteboard over there. So you get to draw your favorite animal and sum up your favorite characteristics of it. So who would like to go first? Very good. All right. So."
+}

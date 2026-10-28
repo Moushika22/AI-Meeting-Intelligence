@@ -1,0 +1,344 @@
+[16.10 - 21.70] Okay, so we'll start off with a quick overview of minutes. I think to sum up the last meeting
+[22.26 - 28.82] would be to say the requirements that we've set out. Those are, we were going to go for
+[28.82 - 38.72] what seemed to be a fairly minimal design, based on a small joystick, LCD and a couple
+[38.72 - 46.64] of other buttons for navigation, with power being, I suppose, one of the main single purpose
+[46.64 - 53.12] buttons. We were also going to use a novelty of being able to locate the remote control
+[53.12 - 57.84] again via a small transmitter with any luck, the idea to try and separate us, and also
+[57.84 - 64.42] because of the minimal design, it looks like we'll be able to be fairly adventurous in the
+[64.42 - 70.98] actual physical shape of our remote control, if any luck. Pretty much sums up the last one.
+[72.28 - 80.20] So we'll just crack on. I'd like to maybe start with the industrial designer, if it's
+[81.26 - 99.48] possible. Today is the conceptual design phase, and it's to cover things like what the parts
+[99.48 - 107.02] might be made of, can we outsource these from elsewhere, what we have to construct the items
+[107.02 - 122.58] ourselves. I have a presentation here, I'll just load it up then. Which one? Interface
+[122.58 - 146.42] concept? That's you. We've got Trenwashing.com. Components design? Components design. So, the
+[146.42 - 154.18] case, that's what I wrote. First of all, it could be plastic, but later on, we found out
+[154.18 - 165.54] that it can be rubber as well, or titanium, or even wood. So, probably plastic. We need
+[165.54 - 172.32] the infrared transmitter, get that off the shelf. Joystick, if we're going to use it,
+[172.32 - 184.12] could be plastic or rubber even as well. If you go on to the next slide, if you go on
+[184.12 - 192.64] to the findings, it's like two or three slides down. So, this is what our family can use.
+[194.10 - 205.20] Three different types of batteries can either use a hand dynamo, or the kinetic type ones
+[205.20 - 211.74] that they use in watches, or else a solar powered one.
+[212.30 - 221.36] Now, the kinetic one, because that's the ones where the movement causes it. The battery
+[221.36 - 229.12] for a watch wouldn't require a lot of power, would be my one query. Is a kinetic one going
+[229.12 - 235.06] to be able to supply enough power? I don't think a watch moves around a great deal more.
+[236.32 - 243.82] Yeah, I don't think it would. And solar cells, I don't know about that.
+[255.50 - 263.96] Which I suppose would allow us to go off the shelf again, you two? Yeah. These are two
+[265.10 - 272.56] different types of shapes. One is a flat one, and then more original ones are a single curved
+[272.56 - 280.16] one, or one with a double curved. The materials are there as you can see, but you can't have
+[280.16 - 287.12] a titanium one with a double curved. Titanium, they're really strong metal. Is it not also
+[287.12 - 297.16] expensive? I think so as well. I'm curious, I don't know if you'd be able to off the top
+[297.16 - 300.64] of your head or not, the single curved with double curved. Would you be able to give
+[300.64 - 307.50] an example? Could you maybe draw something? It doesn't have to be perfect, it's just because
+[307.50 - 330.62] I'm not quite sure if I understand the difference between the two. Well, for a curved, well
+[330.62 - 336.80] I don't think it would be perfect. An OK button around here, so that the thumb can use it
+[336.80 - 343.94] quite easily. I don't think it would have to be double curved. It probably means this
+[343.94 - 356.54] is probably double curved, whereas a single curved would be like that, I guess. So it
+[356.54 - 366.38] might literally just be two curves. OK. Yeah, whereas this is two curves. So I guess that's
+[366.38 - 375.34] what they mean by double curved. It looks better than a single curved, but you can't
+[375.34 - 389.28] use titanium, which is a nice material. And for the buttons, you can have the scroll wheel,
+[389.48 - 405.32] which they use in mouses. It requires a more expensive chip to use, and if you want to
+[405.32 - 413.86] get to the side, just try it off there. If you have a double curved control and it's
+[413.86 - 421.70] rubber, then you have to use rubber buttons as well. I reckon you're going to have to
+[421.70 - 427.54] have a number keypad anyways. For the amount of channels these days, you wouldn't want
+[427.54 - 431.00] to just have to scroll through all the channels together when you want to enter, just a number
+[431.00 - 438.14] of channels, if you know. So I reckon I'm going to have to have a number keypad anyway.
+[439.92 - 449.56] Do you think? OK, that's definitely something we can talk about. So you've got a little
+[449.56 - 460.84] bit about the chip that we might require as well. Yeah. So it depends where it's going
+[460.84 - 471.30] to spend the money, if you want to fancy an LCD display. Do you have any idea so far,
+[471.68 - 477.02] like when we're saying that we need an advanced chip for an LCD, does that shoot the cost
+[477.02 - 483.46] up by a drastic amount? Do you need an advanced chip for the LCD? Often compared to say
+[483.46 - 492.28] the pressing of buttons. If you press a button, it sends a certain transmission through the
+[492.28 - 496.20] infrared, whereas if we're controlling the LCD, it would definitely require a much more
+[496.20 - 501.26] powerful chip. Just compared to the chip you would use for pushing buttons, I think,
+[501.26 - 509.22] that's the point being made, if I've not overstepped. OK, should I go on or go back?
+[512.70 - 519.48] If we only have 12 pounds, 50, 12 euros, not even 12 pounds, 12 euros, what's that, like
+[519.48 - 527.10] 8 pounds or something like that? Well, we'd also be relying on the bulk buying and produce
+[527.10 - 534.00] equipment and such. I assume we have to look into the cost of those. The previous slides
+[534.00 - 540.50] just explain what's in the internal components of the remote control. If you go to one before
+[541.10 - 545.74] that, so it just says what it does, it turns out the key press into an infrared signal
+[545.74 - 554.14] and this is received by the TV. The chip just needs to detect the key press and then
+[554.14 - 562.90] it'll send it to the amplifier. OK. Then the next slide just shows how the copper
+[562.90 - 576.14] wires interact with the buttons, the rubber buttons, to get sent to the chip. So that's
+[576.16 - 584.94] just how the controller works inside. You decide on what buttons we're going to use.
+[586.10 - 598.22] OK. You've just got to set your first preferences. So in the information that you've been supplied,
+[598.22 - 604.98] how feasible would you say that the idea of using an LCD looks?
+[605.00 - 614.28] I think we can do it if we use conventional batteries and not have solar cells or kinetic
+[615.94 - 628.08] and then maybe use a single curved case because you might need to be curved for the film to
+[628.08 - 635.74] use the joystick easily. And then you'll need the advanced chip as your curiosity.
+[638.38 - 643.16] I mean, that sounds like quite a good requirement to me. Conventional batteries would seem to
+[643.16 - 648.86] make sense. I'm not sure if there's any cost differences between single and double curved
+[648.86 - 655.12] and I don't know about anybody else but plastic or rubber as a traditional form of casing
+[655.12 - 663.62] would seem to be a good way forward. I'm actually going to go straight for rubber
+[663.62 - 671.56] for a reason as well. OK. I also have a preference for rubber. OK. Well, based on my reasons.
+[672.90 - 680.58] Yeah. Well, will we move on to user interface and? Yeah. OK. Sorry, as long as we're using
+[680.58 - 697.24] it. OK. Interface concept. I'm going to have to work between the slides and the whiteboard
+[697.24 - 708.32] because I actually have some fairly concrete things. I was given an HTML file giving various
+[708.32 - 714.40] ideas from other previous remote control designs and pretty much decided to dump them
+[714.40 - 720.74] all. I wasn't very impressed by them and nothing I saw seemed to meet the sorts of design
+[720.74 - 727.46] specifications that we're going for today. So rather than looking at other remotes, it
+[727.46 - 734.42] would be better to simply look at the human hand and try and figure a way of laying out
+[734.42 - 743.38] the elements we've already decided on so that each finger or thumb is wherever it needs
+[743.38 - 755.80] to be already. So next slide please. And what we basically decided on was the joystick
+[755.80 - 761.80] two function buttons and the LCD just keep it paired down to the absolute minimum. I think
+[761.80 - 769.76] we need the numeric keypad because if you because one of the menus that we could have
+[769.76 - 785.78] available via the LCD is one where you scroll through channels. So if there's something
+[785.78 - 793.62] for digital or for cable or whatever, you're basically looking at four or five terrestrial
+[793.62 - 814.52] channels and then the channel for your VCR and our DVD player and our set top box. So
+[814.52 - 825.22] left, right for channels, up, down for volume and the menu mode for further functions. The
+[825.22 - 829.74] reason I was particularly interested in using rubber for this is if we're going to have
+[829.74 - 835.22] a highly ergonomic design, it needs to be ergonomic for left or right handed people.
+[836.22 - 840.98] Can I jump in slightly there? That would suggest that double curved design is probably going
+[840.98 - 852.52] to be most appropriate then. Yes, absolutely. Basically what this would be having, I would
+[852.52 - 858.68] say the whole thing articulated at two points so that if you're handing it from the left
+[858.68 - 870.32] or right handed, you can adjust it so that the LCD and the joystick would be in the right
+[870.32 - 880.68] place. Also, this is a rather nice design gimmick that the whole thing should have
+[880.68 - 887.34] an organic feel to it because it should be soft to touch and can be moved around.
+[891.54 - 898.68] Just to let you know, it will probably be quite tight for time as well because I think
+[898.68 - 901.10] you've probably got a lot you'd like to say, I guess.
+[901.10 - 917.10] Yeah, basically, I can add pretty pictures to this. Assuming the hand to be in a sort of
+[917.10 - 929.10] disposition, holding the remote, the joystick unit should rest over the joint of the forefinger
+[929.78 - 937.64] so that it's directly visible for the thumb. It would need to be articulated just below
+[937.64 - 951.54] that so that it could be switched around for left or right handed users. You then have
+[951.54 - 959.58] a grip section that can be more or less the same irrespective of handedness. You just have
+[959.58 - 966.20] two big buttons that cover most of the area in the upper part, one for the forefinger,
+[966.20 - 974.14] one for the middle finger. Is this a joystick? This part here is the joystick. This would be
+[974.14 - 980.18] the actual grip, probably where you don't have the battery as well. That would be probably
+[980.18 - 988.28] the bulkiest part. You then have at the bottom the LCD and this would need to be
+[988.28 - 993.48] articulated as well. Basically, I'd want this to rest here right at the base of the wrist
+[993.48 - 1009.54] so it would fit just nicely in the hand. Again, this part could be rotated so that it can be
+[1009.54 - 1019.92] adjusted to either a left or right handed user. The top function button in basic mode
+[1019.92 - 1026.06] would be the on-off switch and menu mode would be the enter button and then the bottom function button
+[1026.06 - 1036.28] switches between modes. This is one thing I found with replacement remote control programming
+[1036.28 - 1043.26] can be a right pain. I thought the simplest way around that would be to have a cable to connect
+[1043.26 - 1051.20] the computer to some fairly simple software on the computer just so that you could
+[1052.88 - 1059.48] program it in a rather more comfortable interface and you could download programs
+[1059.48 - 1071.48] for TVs from all the main manufacturers. Though it would be necessary to have a
+[1073.94 - 1082.08] mode for programming it without the computer just in case there are still people left out there who don't have them yet.
+[1108.94 - 1118.06] So together with my research, we compare whether people want remote control to do a lot of stuff
+[1118.06 - 1126.02] or they want it to look cool. Then we research our fashion trends in Europe, what's the new black as it goes.
+[1130.22 - 1137.40] We found in order of importance, people want the remote control to look cool more than they want it to be cool.
+[1137.64 - 1144.54] They want it to look like it does a lot. If it does do a lot, that's a bonus, but they don't care so much.
+[1145.86 - 1154.40] They want it to be, that sounds a bit like a contradiction, technological, technologically innovative.
+[1155.20 - 1159.76] People want it to be that, but still they care more about the way it looks than what it does.
+[1160.62 - 1169.54] So the interface is really important. It just so happens that from the second point to the third point,
+[1169.58 - 1180.60] the second point is twice as important as the third point. People want it, it has to be cooler than easy to use.
+[1180.82 - 1185.40] If it has the newer speeches, even if it's difficult to use, to prefer it to have the newer speeches,
+[1186.60 - 1188.26] and if it's easy to use, that's a bonus.
+[1189.56 - 1197.14] Now this seems better to me, but fruit and veg is the new black for furniture, for clothes, for shoes.
+[1197.86 - 1200.52] How that relates to remote control, I don't know.
+[1201.98 - 1204.46] I'll come on to that in the next slide.
+[1205.54 - 1209.18] Spongy, I've been saying everything is a new black, but spongy is a new black as well.
+[1209.60 - 1211.44] So we had the choice between rubber and plastic.
+[1212.28 - 1216.00] If it's a type of rubber that you can squeeze, it's spongy.
+[1216.98 - 1224.76] I forgot to mention that. The rubber material is the type of stress ball material, not just normal rubber.
+[1225.66 - 1228.24] So kind of spongy material.
+[1231.38 - 1240.18] So my personal opinion, we want something fancy and technologically innovative, obviously.
+[1240.92 - 1246.58] But what we need is something that looks like it's from the future, that looks cool, that's different.
+[1247.34 - 1250.96] Everyone has a white remote control, black remote control, you need something cool.
+[1252.00 - 1257.62] Titanium is cool, but it's expensive, and maybe it's a bit of an overkill for remote control.
+[1258.98 - 1260.80] Now the fruit and veg options.
+[1261.54 - 1265.18] Either we go in that direction or we stay totally away from it.
+[1266.16 - 1271.40] I mean, the research did come up with fruit and veg, so maybe it is important, up to the interface guy.
+[1271.98 - 1274.92] So if we stay away from it, stay away from it.
+[1274.92 - 1280.90] But if we're going to go along with it, then it doesn't necessarily have to be like an apple or something like that.
+[1280.90 - 1283.90] Or a kiwi fruit. There could be something like...
+[1284.44 - 1289.64] I say potato peeler, but I'm sure you guys have a much cooler idea than I do.
+[1290.08 - 1291.70] So I think cool is the key.
+[1292.78 - 1295.86] A few questions about a spongy remote control.
+[1296.10 - 1298.84] I've never seen one before, I've seen plastic remote controls.
+[1299.44 - 1302.26] I think maybe they were...
+[1302.26 - 1309.28] I don't know, back in the day when they first came up with remote controls, they had a reason for it being sturdy.
+[1310.12 - 1311.62] For being strong and sturdy.
+[1312.18 - 1316.24] So if we want something strong and sturdy, I say stable plastic or titanium.
+[1317.34 - 1322.10] But if we go with spongy, we can stress that you can drop this as many times as you want.
+[1322.44 - 1324.26] It doesn't matter, spongy material is not going to break.
+[1325.20 - 1329.72] I just don't know how the LED and the lights are going to fit into a spongy material.
+[1330.22 - 1333.52] Because it's not going to be completely squeezable.
+[1334.08 - 1335.16] So how do things fit in?
+[1335.16 - 1337.96] And if we are going to use spongy, we can say it's long lasting.
+[1340.48 - 1342.96] It's damage resistant and stuff like that.
+[1343.34 - 1349.34] So just to summarize, people want stuff that's cool, that looks like it's cool.
+[1350.26 - 1352.66] And if it is cool, then that's a bonus, where it doesn't have to be.
+[1353.94 - 1359.04] People like fruit and veg, we can either go down that alley or stay totally away from it.
+[1359.96 - 1363.96] People like spongy material, if we're going to use spongy material, we have to think of how practical it is.
+[1363.96 - 1366.84] And how we can further promote that idea.
+[1367.18 - 1368.50] And also, this was this year.
+[1369.48 - 1372.06] So things change all the time, every year.
+[1372.18 - 1375.24] You know, they always talk about, this year, this is the new black.
+[1375.60 - 1377.66] Or next year, something else is going to be the new black.
+[1377.80 - 1381.30] And we're stuck with last year's fruit and veg type stuff.
+[1383.20 - 1383.80] That's me.
+[1388.38 - 1392.92] Well, I would say that the most you could probably hope for is gaining a year's lead on most people anyway.
+[1392.92 - 1400.80] You always have to bring out new designs, so if we can get next year, then that's possibly a good place to start anyway.
+[1407.80 - 1414.16] It seems like a lot of the components could be off the shelf, so I don't know exactly what cost would be incurred.
+[1415.52 - 1417.50] I can see your point about the numbered key back.
+[1419.24 - 1427.02] But I would say that we can probably incorporate it into the menu system, if you need to do traversal of a large number of channels.
+[1427.96 - 1434.38] My feeling would be that even if at a later date this was to be taking control of set-top boxes as well,
+[1435.48 - 1440.50] having the use of the LCD in a joystick would probably allow you to manipulate enough channel numbers for you to be...
+[1440.50 - 1446.06] Actually, if you've got a lot of channels, the numbered key back can be quite annoying as well,
+[1446.20 - 1452.50] because if you're trying to remember what numbers the discovery channel...
+[1453.04 - 1455.58] That's a good point. You can incorporate names into the menu.
+[1455.58 - 1458.54] But if you have a menu structure, then you can subgroup them.
+[1459.32 - 1463.20] You can use music like they do on the Sky Digital.
+[1463.20 - 1469.78] So what it looks like to me is we'll use a large number of standard components,
+[1472.16 - 1480.90] say something like lithium-ion battery, the kind that you find in most small handheld devices now.
+[1482.46 - 1485.08] Looks like we could be going for a double-curve design.
+[1486.18 - 1488.30] I don't know what cost implications there are in that.
+[1490.06 - 1493.84] Looks like we're pretty much decided on some kind of flexible rubber.
+[1494.26 - 1500.08] For I'd have to say, depending on how flexible it is, we might need to have some kind of inner frame.
+[1501.50 - 1502.80] Yeah, I would say definitely.
+[1504.24 - 1512.22] I mean, the idea of having it articulated, there would be basically two points of articulation.
+[1514.76 - 1518.04] One below and one above the main sort of grip.
+[1519.34 - 1522.86] Do you think there's any way we could maybe remove the articulation?
+[1523.12 - 1528.96] I can see why it looks appealing, but it could be a weak point in the structure, do you think?
+[1529.62 - 1530.78] That would be a worry of mine.
+[1531.34 - 1534.24] You're going with the fruit and veg, saying it looks like a banana.
+[1535.52 - 1537.32] If you want to design it that way.
+[1537.96 - 1541.08] I don't think it would be a structural weakness.
+[1541.08 - 1546.46] I mean, if you have a firm substructure, you can then incorporate articulation into that.
+[1546.84 - 1552.32] If you then have a sort of outer skin of flexible spongy rubber,
+[1552.56 - 1557.46] then you have something that is very much organic.
+[1558.26 - 1559.72] I think it would look rather cool.
+[1559.78 - 1563.64] I mean, my drawing there doesn't do it justice.
+[1564.80 - 1570.04] It makes it look a little bit more like a vibration than a remote control.
+[1570.04 - 1571.96] But yeah, we won't add that functionality.
+[1573.76 - 1577.14] One interesting point is, I don't know how serious you were there,
+[1578.40 - 1581.04] but if we take some of the ideas of a banana,
+[1581.76 - 1586.58] why don't we make the damn thing yellow to incorporate the color of the logo?
+[1587.14 - 1587.94] Sure, yeah.
+[1588.50 - 1588.88] I don't know.
+[1589.26 - 1591.44] It's certainly a different color from your average.
+[1592.76 - 1595.08] You make it harder to lose as well.
+[1597.30 - 1599.02] Was there anything in your research?
+[1600.36 - 1602.98] The noise for when you lose the banana.
+[1604.06 - 1605.62] Yeah, for when you lose the remote control.
+[1606.64 - 1609.36] It could be like a monkey noise or something like that,
+[1609.48 - 1610.24] rather than a standard.
+[1611.38 - 1613.92] You know, you lose the monkey, that banana.
+[1614.32 - 1615.10] You lose the monkey.
+[1615.80 - 1617.62] You lose the banana, you press a button,
+[1617.94 - 1621.88] and you hear monkey screams or something like that to direct you towards the banana.
+[1622.50 - 1626.30] I think that's something that could perhaps be programmable.
+[1627.28 - 1628.72] They'll maybe have monkey as default.
+[1629.80 - 1632.88] Oh, I was going to talk about the programmable remote control.
+[1633.50 - 1636.60] Now, I think it'd be cool if you had one remote control that can work with all TVs.
+[1637.16 - 1642.50] You know, you click a button and it finds the frequency that works with your particular television.
+[1643.08 - 1647.54] But why you'd need to program it like as a standard feature, I don't know.
+[1651.46 - 1660.04] Basically, each manufacturer will have a particular command set that the TV responds to.
+[1660.04 - 1661.36] It's not simply a matter of frequency.
+[1664.28 - 1669.50] So, usually what's done is you have a big booklet full of different possibilities.
+[1670.74 - 1674.82] You'll have all of them programmed in to the remote,
+[1675.00 - 1676.72] and you'll have this little booklet of codes.
+[1676.72 - 1687.08] You then find your manufacturer and try the different codes that come under that manufacturer's name
+[1687.08 - 1688.34] until you find the right one.
+[1688.76 - 1692.68] That's because televisions don't give the remote control any type of feedback when you send it.
+[1693.22 - 1693.46] Yeah, that's right.
+[1694.98 - 1700.06] So, that's quite annoying, and we probably would still have to do that.
+[1700.56 - 1705.24] But if we had some sort of hookup to your computer as an option,
+[1705.24 - 1711.26] then if you've got a computer, you can avoid that rather irritating thing.
+[1711.66 - 1715.72] An interesting point is that if the person doesn't have the computer,
+[1715.86 - 1720.14] we can still make the process easier, because instead of having to look up codes,
+[1720.88 - 1722.82] maybe we can have it for one of the options they have,
+[1722.90 - 1725.66] is that they look up the name of the company on the LCD,
+[1726.00 - 1731.84] and then they maybe look up different names of the different actual units that have been produced.
+[1732.90 - 1738.50] Or we have the remote control just go through them until it does a stupid correct function and such.
+[1739.04 - 1743.26] Is it actually a book of names to digits, or is it like a few pages?
+[1744.20 - 1746.68] A booklet. Some pages.
+[1747.36 - 1750.46] I was just thinking, if we were to store this information, some type of mapping,
+[1751.68 - 1754.42] this person probably needs to use this feature once,
+[1755.08 - 1758.20] when they first buy the remote control, whenever they buy a new television.
+[1758.78 - 1761.18] It doesn't have to be used very often, that's right.
+[1761.56 - 1763.66] But it's a nuisance.
+[1764.12 - 1769.60] And it's a nuisance very close to actually purchasing it.
+[1769.98 - 1772.24] So it's something you're likely to be thinking about.
+[1773.46 - 1778.30] If there's one in the shop that says it can avoid much of that nuisance,
+[1779.18 - 1782.20] you might be favorably inclined towards it.
+[1787.34 - 1792.70] Okay, so it's just to give us a rough idea of what we're meant to be doing for the next stage.
+[1793.00 - 1795.42] I'm pretty sure that you've got that anyway.
+[1795.58 - 1796.82] This was a conceptual one.
+[1799.34 - 1802.40] I think we've covered everything we need to here.
+[1803.98 - 1808.90] I think we've decided on standard items for most of them, rubber and such.
+[1809.60 - 1813.46] So we're now looking at the detail design and what we need to be doing for the next meeting.
+[1818.32 - 1821.06] So, for example, at the start of the talk,
+[1821.20 - 1826.00] you've got yourself and the industrial designer going to be working quite closely at this stage,
+[1826.12 - 1827.82] because it'll be hard not to, obviously.
+[1833.10 - 1837.92] Looking from prototyping up some of this description using clay.
+[1838.98 - 1842.14] I suppose you'll be told a lot more about that as we progress.
+[1845.78 - 1856.68] The user interface design, it looks like the idea of push forward so far is maybe more of a physical one now,
+[1856.68 - 1861.92] whereas it would possibly be more interested in maybe how the LCD is going to incorporate, do you think?
+[1863.10 - 1868.60] Or do you foresee that most of the design decisions still need to be based on the physical layout?
+[1870.46 - 1878.68] Well, I think other than getting a more aesthetically pleasing form for it,
+[1881.11 - 1886.75] most of the layout design decisions are made, I would say.
+[1888.41 - 1895.29] But then again, the menu structure, to a considerable extent,
+[1895.41 - 1902.59] is going to vary according to the model of television and also any customizations that the user might wish to incorporate.
+[1903.59 - 1911.59] One of the nice things about having an LCD and a menu structure is that there is that flexibility to it.
+[1912.65 - 1913.91] That's very true.
+[1919.37 - 1921.91] I've got product evaluation as well.
+[1921.91 - 1927.15] Some of these things logically follow the others.
+[1927.67 - 1934.25] How can product evaluation, doesn't that come after actually seeing a product prototype?
+[1934.89 - 1944.09] I think it would be more a case of how do you envisage us performing the product evaluation once we have a model to test with.
+[1946.07 - 1951.49] So it would be a case of, do you think that just bringing users in to have them test out,
+[1952.29 - 1957.05] maybe putting a certain number of products into the field in certain places, which I suppose is quite similar,
+[1957.69 - 1964.07] or just hitting the streets and saying, this is a new remote control, what do you think of the look of it?
+[1967.33 - 1970.99] At this stage, we still have no target audience.
+[1970.99 - 1980.61] I think the target audience is pretty much anybody under the age of, say, maybe 60 or something, ludicrous.
+[1982.41 - 1988.07] The reason I'm saying that is that we're just looking at a replacement remote control, something that's stylish,
+[1988.81 - 1996.13] so maybe you're narrowing down your target audience simply by saying, if they're buying it that often,
+[1996.13 - 1999.87] or they're maybe looking to replace something, then they've got a bit of free cash,
+[2000.03 - 2008.73] so that puts them potentially in the younger age bracket, maybe even single, just for the reasons of excess cash flow.
+[2010.53 - 2017.45] Of course, I mean, at 25 years, I don't think we're looking at charging the year for the price, as well as the normal bracket.
+[2019.45 - 2023.27] Your idea of the USB, I think, would largely depend on the cost.
+[2023.27 - 2029.11] USB is definitely one of the cheapest interfaces out there, but it might push the cost of the overall unit up,
+[2029.29 - 2035.83] because we require not just the connection, but the chip for communicating with the rest of the system.
+[2037.11 - 2038.47] That one might have to be based on.
+[2039.13 - 2040.15] The USB for which?
+[2040.71 - 2041.33] For the remote control.
+[2041.69 - 2049.19] The idea was that maybe it could connect up for allowing a software interface on the PC for a larger programming,
+[2049.19 - 2054.05] due to the fact that we've gone for such a nice, easy, minimal design normally.
+[2054.89 - 2057.37] Definitely talking some type of...
+[2057.37 - 2059.15] But didn't they just say it was just for TV?
+[2060.67 - 2067.69] It's just for TV, but for programming it to use your TV, you might hook it up to the PC.
+[2068.95 - 2074.07] I'm not sure, but I'm thinking maybe that the additional cost of USB might be prohibitive.
+[2074.39 - 2079.17] We don't know unless it would make sense to them.
+[2079.89 - 2082.33] Well, something that doesn't...
+[2082.33 - 2084.95] You wouldn't have to redo the whole thing once the batteries are changed.
+[2085.25 - 2093.87] Yeah, I mean, it would need to have some sort of onboard memory anyway.
+[2096.29 - 2100.17] For one thing, because I do think the main system should be...
+[2102.63 - 2105.07] Although it's not going to be terribly complicated.
+[2105.25 - 2106.33] It's just controlling one device.
+[2106.33 - 2112.43] The main system ought to be customizable.
+[2113.07 - 2117.23] Different languages and different schemes and stuff like that.
+[2117.93 - 2125.23] How you want, say, the menu structure for clicking through channels, if you've got lots of channels.
+[2126.05 - 2130.07] If it was customizable, as in different languages and stuff, that does open.
+[2130.43 - 2131.87] It is supposed to be international, right?
+[2132.51 - 2133.95] It would make sense to.
+[2136.11 - 2138.89] And we better be careful about the time as well.
+[2139.31 - 2140.57] We've already had a five-minute warning.
+[2142.67 - 2147.03] I would say, yeah, international would make sense.
+[2148.05 - 2149.55] You're going to look at product evaluation.
+[2150.43 - 2152.25] I better start writing up a hell of a lot of crap.
+[2154.19 - 2156.49] You're going to look a bit more at the physical makeup.
+[2157.65 - 2161.47] It looks like we're going to need a prototype in clay.
+[2163.15 - 2164.61] We'll see how that goes.
+[2165.03 - 2166.61] We're going to be supplied with the clay.
+[2167.55 - 2168.67] Where is the clay?
+[2171.13 - 2174.95] I think we've got an idea of where we need to go for the next meeting, would you say?
+[2176.15 - 2178.07] We're still going with the fashion thing.
+[2179.39 - 2179.95] The fruit and veg.
+[2180.13 - 2181.35] Which is spongy.
+[2181.95 - 2185.79] Yeah, that would be my feeling.
+[2186.09 - 2190.03] I think I would largely want to actually clear out the whole fruit and veg thing.
+[2192.79 - 2197.55] But the spongy, I like it a lot.
+[2197.99 - 2203.03] You seem to have quite a general consensus that the idea of the rubber could be quite...
+[2205.27 - 2209.61] I'm not sure about having this bright yellow.
+[2210.05 - 2213.09] Maybe we could have options for colors as well.
+[2214.23 - 2214.57] Okay.
+[2216.29 - 2218.85] And again, this has the advantage of being harder to lose.
+[2219.39 - 2224.37] We are trying to promote remote control, but we want to keep the company brand as well.
+[2225.03 - 2228.25] Yeah, so we always need to remember that in some way we're meant to be getting the slogan on.
+[2230.45 - 2236.03] Possibly, I'm not sure, but I'm seeing a little bit of space around maybe the joystick area which could be used.
+[2238.03 - 2243.87] Like I said before, I think we should have the RR on the top function button.
+[2245.63 - 2246.03] Okay.
+[2246.03 - 2248.03] And I think that says it all really.
+[2248.17 - 2248.85] I think so too.
+[2249.41 - 2251.37] Right, we'll see everybody in a half hour.

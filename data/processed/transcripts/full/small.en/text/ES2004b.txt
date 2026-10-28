@@ -1,0 +1,645 @@
+[0.00 - 0.66] Help.
+[2.84 - 2.98] Maybe.
+[6.84 - 8.74] Is that fair?
+[9.96 - 10.62] That screen's black.
+[26.00 - 27.70] Not really true.
+[36.68 - 37.42] I don't know.
+[37.60 - 37.92] Okay.
+[60.00 - 60.30] Sorry.
+[66.46 - 67.46] Right, okay.
+[70.70 - 78.58] Right, our agenda for today, do you want us to be second?
+[80.12 - 81.46] No, that's okay, sorry.
+[85.68 - 88.26] I'll go over what we just made in last meeting.
+[92.14 - 99.00] We decided upon our universal control, one handset for all TV video.
+[100.78 - 100.92] Perfect.
+[103.40 - 111.30] That it was important that the product set to go to a wide range of consumers, wide age range, not limiting anyone.
+[112.26 - 117.90] We decided it was important to reflect the company's image in our product in good fashion and electronics.
+[117.90 - 119.86] That kind of thing.
+[120.88 - 142.92] Our budget would have to affect, try not to reflect our budget, that we might have a bit of dissonance between what our budget was and what we wanted to look like.
+[144.26 - 147.64] We wanted to look unsaturated, undaunted to the customer.
+[148.80 - 160.34] We discussed a flip open design, reducing the size of the control and an electronic panel for further features like programming, things like that.
+[163.82 - 166.22] Three presentations I've got written here.
+[166.72 - 170.42] So, shall we hear from Martin first?
+[171.02 - 175.66] Is it okay if I postpone that to later? I just want to get access to a little bit more information, is that okay?
+[175.68 - 176.34] No, that's fine, that's fine.
+[176.56 - 179.28] Okay, yeah, I'll go first. Can I grab the...
+[179.28 - 179.76] Please, like me?
+[182.00 - 182.40] Thanks.
+[191.28 - 192.82] What can I press? Oh, F8.
+[194.54 - 194.94] FN.
+[196.04 - 196.40] FN.
+[196.60 - 197.18] Oh, wait.
+[203.18 - 203.82] Okay.
+[209.46 - 218.60] Okay, this is the working design presented by me, the industrial design extraordinaire.
+[219.56 - 223.42] Okay, this is where I went a bit mad with PowerPoint, so...
+[224.78 - 228.32] The first thing the question I asked was what are we trying to design?
+[228.32 - 238.38] Well, a device which basically just sends the signal to the TV to change its state, whether that be the power or the channel or the volume.
+[238.52 - 246.84] Everything is just some sort of signal to change the state of the TV or other appliance that it's sending the signal to.
+[249.24 - 255.38] So, I decided I'd have a look at what other people have designed and try and take some inspiration from that.
+[257.24 - 265.02] But although we will want to be taking ideas from other people, we want to make sure that our design stands out.
+[265.44 - 274.32] And I thought that was something that, well, it wasn't really my area because I'm dealing with the inside, really.
+[275.32 - 279.84] Yeah, I ran out of time so I couldn't do this one as fun as the last one.
+[282.02 - 297.28] And I found out that most controls use some form of infrared to send signals to the TV, presumably because of the cost issue of something like the same thing that can use wireless, and you don't need to send very much information.
+[299.28 - 301.94] Most of them are powered by some form of battery.
+[301.94 - 312.62] Now, R1, I'm not sure whether we want to look at the size issue because most of them are powered by AAA batteries, but those can be quite bulky.
+[313.24 - 320.32] So, I didn't know if you wanted to look at something else so it could shrink down the size of the controller.
+[320.46 - 322.40] Can I interject to ask a question? Is that appropriate?
+[323.12 - 324.56] You're saying the AAA batteries are small?
+[325.48 - 332.34] No, no. If you look at most remote controls, they're quite chunky, and that's because of the size of the batteries.
+[332.66 - 336.76] They have to be, obviously, this certain size to fit those batteries in.
+[336.78 - 337.98] AAA's are the smallest you can get.
+[338.24 - 347.38] Well, you can get the circular round ones, but I'm just wondering about power consumption and how much you need to send the data across,
+[348.60 - 354.40] which leads on to the next point about them being small and easy to carry around.
+[355.14 - 360.28] Now, the ones at the moment are small, but I was just wondering if we could look at something a bit smaller.
+[361.66 - 368.08] Now, the main components I came up with were obviously the power source for the batteries, because otherwise it's not going to work.
+[368.88 - 374.96] As I said about which batteries we were going to choose, we can discuss that later.
+[374.96 - 387.16] And then, obviously, you need something to decode the information that you're putting in from the controller and to turn it into an infrared signal,
+[388.24 - 391.78] which we're going to use to send the information.
+[392.22 - 400.14] Now, these have a wireless range of up to about 5 meters, which is suitable for anyone who's watching their TV unless they're in a cinema,
+[401.10 - 407.16] which not most people do, so as we're applying for the most audience, that should be fine.
+[407.44 - 417.54] And then I just had a quick look at the external design, but I left that mostly to the interface designer.
+[419.26 - 425.44] And so this is what I had as the basic idea of what we want to do. It's not a proper circuit.
+[425.44 - 432.46] I'm not sure if it'll work or not. I'm not even confident that those are the real way you'd wire it up.
+[432.80 - 440.34] But anyway, we've just got the power going to the infrared bulb of the chip and the UI interface,
+[442.98 - 450.50] which would basically, when you pressed anything, the chip would convert it into some form of IR data,
+[450.50 - 464.84] which could be decoded by the TV receiver, which obviously means that we're going to have to conform to whatever form of communication that the TVs are already using,
+[465.08 - 470.54] and since that's another reason to use infrared, because that's what all TVs use at the moment.
+[471.90 - 479.82] And then finally, we want it to be available to a wide audience at a low cost,
+[480.04 - 486.68] so all the components that I've put forward are at a low cost, so that should be good.
+[487.58 - 495.18] It should be different enough from the alternative products to get a good consumer base.
+[495.18 - 502.38] We were talking about it before, and also just something that I was thinking about, because they're small, they're also easy to lose,
+[502.66 - 511.88] so if we could look into some way of, I don't know, some anti-going down the side of the sofa thing that you could have,
+[512.58 - 515.72] that was just sort of a general point there.
+[516.90 - 523.18] That's a very important point that came up in our market research findings too, so I can refer to that whenever you'd like me to present.
+[548.68 - 553.10] And yeah, that's what I came up with there.
+[581.44 - 582.66] Thank you.
+[587.70 - 590.50] Thank you.
+[614.28 - 619.72] Okay, yeah, actually some of my points might overlap with what Valium just mentioned,
+[620.28 - 624.42] but basically, my method was like whatever brainstorming we did in the last meeting,
+[625.12 - 627.82] just took up valuable points and started developing on that,
+[628.08 - 631.04] and there might be some missing loops in this thing,
+[631.14 - 634.80] which I think will take a feedback from the marketing,
+[635.06 - 641.70] because I haven't had some marketing data, and basically every product is market-driven.
+[642.28 - 648.28] So purpose, as Valium already said, I would put it to simplify the interaction with TV, to make it as simple as possible.
+[649.26 - 653.58] And to summarize, I would say it should be user-friendly by being easy to use,
+[654.04 - 658.48] rather than having a lot of complex buttons, because you can have an engineering driven, maybe having 100 buttons,
+[659.16 - 661.82] and maybe having a remote control, which has the main features,
+[663.14 - 666.12] like volume control or channel, changing the channel or whatever.
+[667.08 - 671.46] But we are to make it unique, so that people want to buy it.
+[671.56 - 673.94] We'll punch in these two features together.
+[674.84 - 677.22] So what the concept is to have a flip-top model.
+[677.44 - 680.96] The main functions, such as which are often used, will be on the top,
+[682.10 - 686.42] and the complex functions, which you can say like the young generation or trendy generation,
+[686.56 - 690.06] want to say program their favorite channels or whatever,
+[690.24 - 692.68] can be put in the middle part of the flip-top.
+[694.10 - 698.14] So it's like it could be accessed by a wider range of audience.
+[699.14 - 702.80] And we can punch in new features, such as added features, such as shock-proof body,
+[703.66 - 706.56] and maybe a design to appeal to a lot of people.
+[708.34 - 711.78] Findings, most people prefer user-friendly rather than complex remote controls,
+[712.34 - 715.34] because there are times like people have used a remote control card,
+[716.22 - 720.32] say, a year or something, and they are not used maybe 30% to 40% of the buttons.
+[720.32 - 725.92] So it's of no use of trying to put in those things on the top of the remote control
+[725.92 - 726.98] and try to confuse a user.
+[727.88 - 730.14] As we saw, we have to make a profit also.
+[730.74 - 735.64] So we can maybe go for a higher production, like 50 million, we say.
+[736.62 - 739.80] With that, I think we'll be able to achieve economies of scale also.
+[740.08 - 743.72] So we can add in more features and make it less costly.
+[747.50 - 756.10] So if you ask me personally, I would make a flip-top with a trendy design,
+[756.38 - 759.66] and maybe we should look at also the buttons,
+[759.86 - 761.80] whether they are soft or a little hard,
+[761.94 - 764.44] because there are times where the buttons tend to be a bit hard
+[764.44 - 767.10] after continuous usage and all that.
+[767.66 - 771.68] So overall, a simple and user-friendly design.
+[772.86 - 773.64] Any comments?
+[776.30 - 778.38] I think we'll chat about it at the end.
+[778.90 - 781.32] Okay, so if anyone wants to write something down,
+[781.58 - 782.70] I want to bring up at the end.
+[802.70 - 805.06] Well, I've got to keep this here.
+[806.92 - 810.54] I'll have to move it one time.
+[812.56 - 813.08] Whoops.
+[813.88 - 814.22] A bit more.
+[815.80 - 817.70] A bit more?
+[818.02 - 818.20] Yep.
+[818.68 - 818.90] My dear.
+[826.26 - 828.06] Okay, I want to go a bit more.
+[830.00 - 831.06] Is that okay?
+[836.28 - 837.40] Thank you.
+[837.46 - 839.26] Just pull it closer a little bit.
+[840.08 - 841.48] You should be able to...
+[841.48 - 842.60] Get it right over.
+[843.26 - 843.78] Thank you.
+[847.58 - 850.22] Okay, I'm going to look at the functional requirements
+[850.22 - 852.06] from the marketing point of view,
+[852.42 - 856.18] and obviously our starting point with marketing is always market research.
+[858.18 - 859.70] So that's where we started.
+[859.98 - 862.84] We used our usability lab, the company's usability lab.
+[863.38 - 864.78] We did our usual selection methods
+[864.78 - 866.54] to get a cross-section of the general public,
+[866.74 - 868.88] male and female, all age groups from 15 upwards.
+[869.96 - 871.92] And we observed them in the lab,
+[872.24 - 873.90] just their general use of the remote control.
+[874.04 - 875.64] You can see we had 100 subjects there.
+[877.32 - 879.18] Our findings, lots of findings.
+[879.32 - 880.78] I've just summarized some of them here.
+[881.46 - 884.26] The overall thing, which I've got at the top there in italics,
+[884.26 - 888.04] is that users dislike the look and feel of current remote controls.
+[888.26 - 890.14] It has obvious design implications there.
+[891.34 - 895.30] We found that 75% of users find most remote controls ugly.
+[896.92 - 901.32] 80% would spend more money when a remote control would look fancy.
+[901.58 - 903.22] We were quite surprised by that finding,
+[903.40 - 908.08] but that's quite a high proportion of our international target group
+[908.08 - 911.46] are prepared to spend more money for something that's a bit nicer looking.
+[912.30 - 914.92] Current remote controls do not match well
+[914.92 - 917.26] with the operating behavior of the user overall.
+[917.96 - 919.38] For example, you can see below there,
+[919.68 - 921.74] 75% of users zap a lot.
+[922.18 - 925.26] So you've got your person sunk back in the sofa, channel hopping.
+[926.02 - 927.72] So again, there's power implications there.
+[929.10 - 932.24] 50% of users only use 10% of the buttons.
+[932.40 - 934.06] So again, a big design issue there.
+[935.46 - 937.72] And possibly we can also cut back on cost
+[937.72 - 940.96] if we don't have so many functions actually on the remote control.
+[946.18 - 950.32] The biggest frustrations that people found with regard to personal preferences
+[950.32 - 953.06] were something that you mentioned earlier.
+[954.06 - 955.88] Remote controls are often lost in the room.
+[955.98 - 958.26] It's the slipping down the back of the sofa type of thing.
+[959.14 - 962.06] 50% were particularly frustrated by that.
+[963.02 - 966.92] 34% of people said they take too much time to learn to use.
+[967.44 - 970.38] And I think that ties in with the previous finding
+[970.38 - 972.30] of people only using 10% of the buttons.
+[972.48 - 975.02] They just can't be bothered to learn about the other functions.
+[977.52 - 979.84] Slightly more than a quarter of people said
+[979.84 - 982.70] it was bad for repetitive strain injury.
+[983.52 - 985.72] You know, those small movements of the remote control
+[985.72 - 987.82] can lead to kind of shoulder and elbow problems.
+[989.36 - 992.24] The vast majority of the 35 and underage group
+[992.24 - 996.40] would like a liquid crystal display and speech recognition.
+[996.40 - 1002.00] Again, that was to aid, I think, when they've lost the actual remote control,
+[1002.54 - 1003.72] some kind of speech recognition.
+[1004.24 - 1006.68] Something we didn't put to them, but which I'm thinking of now,
+[1007.00 - 1011.28] is even if perhaps the lost control can give off a bleep every now and again
+[1011.28 - 1014.04] until you find it or a flashing light, possibly.
+[1015.10 - 1017.88] That trend reverses in the older age groups.
+[1018.26 - 1020.42] So 35s and unders who would like those two features,
+[1020.54 - 1022.76] that kind of evens out 35 to 45,
+[1023.20 - 1025.18] and in the older age group it kind of reverses.
+[1025.30 - 1026.60] They're not so bothered with this.
+[1028.08 - 1030.30] I had marvellous tables and things that I could show you,
+[1030.36 - 1031.64] but I think I'll just keep it simple.
+[1031.76 - 1034.94] If there's any more information, I can email you extra details.
+[1035.12 - 1035.68] Is that okay?
+[1038.64 - 1039.00] Right.
+[1041.50 - 1043.44] We have new project requirements.
+[1050.72 - 1053.84] We're not going to be using teletext.
+[1055.80 - 1059.44] Partners and consumers consider it outdated with the internet now.
+[1061.92 - 1064.64] Our control is only going to be for TV.
+[1064.84 - 1067.26] It's not going to be a combined control,
+[1068.94 - 1072.42] which limits all of the different things.
+[1072.42 - 1074.18] It limits the cost for us,
+[1074.18 - 1077.38] but it also makes it easier to understand further.
+[1077.60 - 1079.66] So can we not program a video with this remote control?
+[1080.78 - 1084.48] It says for TV only, so it looks like it.
+[1084.48 - 1085.14] Just channel hopping?
+[1085.58 - 1085.84] Yeah.
+[1086.32 - 1091.38] I think maybe Sky, things like that, might be incorporated into it,
+[1091.38 - 1095.44] but I don't know what you think.
+[1095.58 - 1097.54] It just said for TV only.
+[1097.62 - 1099.10] Would that imply video use?
+[1100.24 - 1100.44] Yeah.
+[1100.44 - 1103.48] Do you do video as well?
+[1103.60 - 1104.78] Well, I don't know.
+[1105.20 - 1108.38] You get combined TV and video stuff.
+[1108.82 - 1112.88] Yeah, and if you've got a Sky box,
+[1113.28 - 1115.10] one of those Sky Plus boxes now,
+[1115.20 - 1118.14] you can record straight off the TV anyway,
+[1118.80 - 1122.24] onto the TV hard drive or something.
+[1122.54 - 1125.48] I think we've seen it still got flow and start functions.
+[1126.92 - 1129.72] Anything about that on the market research or something?
+[1129.72 - 1134.20] Like regarding whether people want a combined something like that?
+[1134.82 - 1136.02] We didn't really look into that,
+[1136.04 - 1142.08] but remember we found that finding that most people only use about 10% of the buttons.
+[1142.74 - 1146.18] I think that those did tend to be the basic channel hopping things
+[1146.18 - 1148.68] and on and off of the video, fast forwarding, so on.
+[1148.98 - 1150.48] And I think it's sort of general knowledge
+[1150.48 - 1153.44] that people do find programming their videos a knife.
+[1154.44 - 1159.70] So I don't know if that's something we need to...
+[1159.70 - 1164.90] It would probably be quite expensive to incorporate an entire speech recognition thing,
+[1164.98 - 1165.86] and they're not that great.
+[1165.90 - 1167.78] In fact, I've just called up that table there.
+[1168.24 - 1169.24] We asked those two questions.
+[1169.42 - 1171.86] The table relates to both questions, so we didn't differentiate.
+[1172.46 - 1174.10] Would you prefer an LCD screen?
+[1174.40 - 1175.42] That's multifunction remote.
+[1176.02 - 1178.90] And would you pay more for speech recognition in a remote control?
+[1179.34 - 1184.02] So you can see how the yes, no varies across the age group there.
+[1184.18 - 1186.40] A substantial number of don't know's in the older age group.
+[1186.50 - 1188.26] I think that's just general fear of new technology.
+[1188.26 - 1188.76] Yeah.
+[1189.80 - 1194.22] But on that again, I just thought, because you can get those key chains now
+[1194.22 - 1198.90] and you whistle, and then it'll let off a loud noise to let you know where it is.
+[1199.20 - 1199.44] Right.
+[1199.48 - 1200.50] So I thought that could be fine.
+[1200.72 - 1205.96] We do have our budget limitation that we can't control ourselves.
+[1206.66 - 1211.52] So I think when we can take a cheaper option, which still does the same kind of thing,
+[1213.08 - 1215.38] because it is something...
+[1215.38 - 1216.76] It needs to be...
+[1216.76 - 1221.70] The thing that you use to find it needs to be something that you don't lose.
+[1221.88 - 1222.86] You receive whistling.
+[1223.78 - 1227.62] Maybe on the TV you could put a pack on the TV or something.
+[1227.86 - 1228.80] So you can't see the remote.
+[1228.96 - 1231.92] You go and press the button on top of the TV, and it beeps.
+[1232.70 - 1233.36] Okay, it's over there.
+[1233.68 - 1234.42] It's a super idea.
+[1234.86 - 1236.86] But that sounds a lot cheaper to me.
+[1237.10 - 1237.64] Yeah.
+[1239.32 - 1246.42] The third thing was that we have to make sure the corporate image is very much incorporated into the handset.
+[1248.88 - 1256.14] So we want logo, we want fashionable, trendy.
+[1256.34 - 1258.36] I mean, what you were talking about with the marketing.
+[1259.86 - 1263.50] People paying more for it to look good.
+[1265.32 - 1267.44] We need to focus on that as well.
+[1267.86 - 1271.28] Further market research will be needed to kind of focus on what that is.
+[1271.50 - 1274.02] It's going to be different for a 15-year-old, for somebody who's 60.
+[1274.76 - 1277.36] And also across the world of framing the international market,
+[1277.82 - 1282.64] what is attractive to a trendy New Yorker and what is attractive to a retired South African.
+[1283.60 - 1284.18] I don't know.
+[1284.60 - 1285.26] You get the idea.
+[1285.88 - 1287.38] It's going to vary around the world.
+[1287.72 - 1291.42] At the end of the day, the engineering design is one thing.
+[1291.42 - 1296.54] It's the user interface design that's sort of the fashionable aspect of it.
+[1296.64 - 1299.64] We might have to change the different markets around the world.
+[1300.18 - 1304.88] So are we talking of a single model or maybe a basic design?
+[1306.00 - 1309.08] Well, yeah, you could have a number of different designs.
+[1309.32 - 1311.96] I mean, inside they'd be essentially exactly the same.
+[1313.16 - 1316.20] The features could be the same and the body could look spectacular.
+[1320.88 - 1322.60] We're talking about the buttons.
+[1324.82 - 1328.70] The controls that are coming out now have kind of big rubber buttons.
+[1329.12 - 1330.68] Not tiny little, big rubber buttons.
+[1331.66 - 1334.58] But what about, I mean, because we've got to make it original.
+[1336.62 - 1340.64] What about, you know, with the touch screen?
+[1340.78 - 1343.20] Yeah, yeah, that's what I was just...
+[1343.20 - 1343.60] Yeah?
+[1344.04 - 1344.18] Yeah.
+[1345.18 - 1348.86] So it's like a little panel that you touch rather than a button,
+[1349.66 - 1352.36] which shouldn't wear out as much either.
+[1352.98 - 1354.56] Well, no, because you wouldn't have to.
+[1354.72 - 1355.96] You don't have to press it.
+[1356.14 - 1357.54] You just have to put your thumb onto it.
+[1358.68 - 1360.34] I think that might appeal.
+[1360.88 - 1369.16] I'm thinking kind of Japan, I'm thinking young office people, trendy.
+[1370.16 - 1376.30] It would appeal to sections of the market, but quite easily labelled
+[1376.30 - 1380.62] so that anyone can, oh yeah, that's obvious what that's for
+[1380.62 - 1383.98] and it's not daunting to maybe the older generation.
+[1385.88 - 1388.94] Well also, ergonomics, as we were saying with the different designs.
+[1389.44 - 1392.52] Ergonomics, there's sort of physically different things
+[1392.52 - 1396.70] because if you've ever seen the Xbox,
+[1396.70 - 1399.74] they had to make two different sized controllers
+[1399.74 - 1401.96] because people in Japan wouldn't buy it
+[1401.96 - 1404.22] because the controller was physically too big
+[1404.22 - 1408.34] because they're cut just generally.
+[1408.88 - 1410.68] Japanese people have smaller hands
+[1410.68 - 1412.72] so they can go around the controller,
+[1412.92 - 1417.82] which is, so if you, I don't know what,
+[1418.00 - 1419.98] because obviously you can have bigger buttons
+[1419.98 - 1421.96] for some countries or something,
+[1422.34 - 1423.74] and smaller ones for others.
+[1423.74 - 1427.66] Yeah, or maybe to, as it was indicated,
+[1427.92 - 1430.98] the risk for repeated use, the injuries,
+[1431.80 - 1434.06] maybe your touch screen could be a better option for that.
+[1434.48 - 1435.70] Yeah, yeah.
+[1436.74 - 1440.56] So a bigger, okay, so you're dividing designs based on,
+[1440.70 - 1443.02] not only segment, age groups, you're dividing it
+[1443.02 - 1445.82] according to the countries also, the market.
+[1446.42 - 1449.02] Maybe for US and all, you can have a slightly bigger remote.
+[1449.14 - 1449.34] Yeah.
+[1449.96 - 1451.88] And maybe in Japan, I don't know, you need to have a small.
+[1451.88 - 1455.60] I think we have to design one product
+[1456.06 - 1458.78] and then the company can take it wherever they want to
+[1458.78 - 1461.10] in the sense that they can make it smaller
+[1461.10 - 1464.22] or they can make it bigger or they can change features slightly.
+[1465.28 - 1468.02] The internal engineering design has got to remain the same.
+[1468.30 - 1471.22] It's going to be the same, so we need to focus on just one thing
+[1471.22 - 1475.44] or get bogged down in lots of different possibilities.
+[1477.36 - 1480.22] I'm concerned when you raised the RSI issue again
+[1480.22 - 1481.42] in repetitive strain injury.
+[1482.30 - 1484.58] I don't think just moving your finger around on a small screen
+[1484.58 - 1485.74] is going to deal with that enough.
+[1485.90 - 1487.62] I think that is still a kind of question mark.
+[1487.82 - 1489.86] It's how we deal with that.
+[1491.50 - 1494.62] RSI tends to be caused by repetitive small movements.
+[1496.22 - 1497.98] I really can't get my head around this one.
+[1498.12 - 1499.78] This may have to be postponed to a future meeting,
+[1500.02 - 1501.16] but it's something we should think about.
+[1501.90 - 1504.40] Yeah, I was just thinking about how you can combat that
+[1504.40 - 1508.92] because without doing something
+[1508.92 - 1510.98] where you have to move your arms around,
+[1511.04 - 1511.96] it becomes ridiculous.
+[1512.96 - 1516.98] Or speech recognition, which is extremely expensive.
+[1517.36 - 1521.68] I think that's the only way that you can avoid that kind of issue.
+[1522.18 - 1526.74] Do we have to initially, looking at the findings here,
+[1527.76 - 1531.76] focus on a younger age group initially
+[1531.76 - 1533.60] and then broaden out the market later?
+[1534.22 - 1536.70] Do we really have to go for everyone right away?
+[1536.70 - 1539.42] Do we really have to focus on the biggest market?
+[1540.42 - 1542.58] Do we have to say between age group of 20 to 35?
+[1542.72 - 1544.02] And when we've been throwing up our ideas,
+[1544.22 - 1546.42] we're automatically talking about business people,
+[1546.58 - 1547.62] young people, trendy people.
+[1547.76 - 1552.80] We're talking about the type of company
+[1552.80 - 1554.26] that we're working for as well.
+[1555.04 - 1557.70] They want it to be fashionable.
+[1557.96 - 1558.74] They want it to be trendy.
+[1559.32 - 1562.66] And you wouldn't automatically associate that
+[1562.66 - 1564.46] with the older generations.
+[1564.96 - 1567.52] Now, with the baby boomers,
+[1568.32 - 1570.34] the older generations are actually larger.
+[1570.34 - 1573.30] They have a greater population than us young people.
+[1574.08 - 1575.68] But I don't think we're focusing on that.
+[1575.84 - 1582.90] I think we are focusing on a sort of mid-range business kind of last time.
+[1583.20 - 1585.28] I'm just thinking of budgetary issues too.
+[1585.88 - 1588.68] But when it does get to the sort of broad-scale marketing stage,
+[1588.72 - 1591.96] we want to not waste money, not be profligate.
+[1594.94 - 1597.92] And focus on where the idea will be taken up first.
+[1598.06 - 1599.78] It's most likely to be taken up first of all,
+[1599.78 - 1602.86] where the main purchasing power is coming from for a product like this.
+[1604.60 - 1608.42] Okay. So the remote control functions.
+[1610.56 - 1613.78] We've got the TV. We've got the video.
+[1615.98 - 1616.86] Now, there's...
+[1616.86 - 1618.58] I can't remember what it's called.
+[1618.58 - 1622.00] The little code at the end of program details.
+[1622.46 - 1622.96] Video class.
+[1623.44 - 1623.50] Yeah.
+[1625.62 - 1630.96] We could use that as an alternative to programming in times.
+[1631.58 - 1632.18] Things like that.
+[1633.22 - 1636.64] I always find that really easy when I discovered it.
+[1639.12 - 1641.70] Because you've got your general record anyway,
+[1641.86 - 1645.48] so if there's a program on you want to put record on, that's fine.
+[1645.48 - 1648.66] But if you do want to tape something in two days' time,
+[1648.76 - 1650.74] you're not sure if you're going to, you put the number in.
+[1651.24 - 1652.30] And it's just a number.
+[1652.58 - 1654.68] It's not a date, it's not time, it's not a channel,
+[1654.84 - 1657.72] it's not when it finishes, it's not anything like that.
+[1657.86 - 1658.50] It's just a number.
+[1658.78 - 1662.34] And you wouldn't need a whole host of extra buttons for that.
+[1662.46 - 1664.50] You just need one, because you've already got the numbers.
+[1664.82 - 1665.26] You've already got the numbers.
+[1665.68 - 1668.50] I'm not coming across that function, but it sounds wonderful.
+[1669.44 - 1673.90] It is after, if you look in the newspaper, a TV guide,
+[1673.90 - 1677.56] there's a six-digit number afterwards,
+[1678.18 - 1679.42] and that's the number you put in.
+[1679.98 - 1684.68] And it's recorded, but it's going to be on on Tuesdays at 10 o'clock
+[1685.20 - 1687.28] on the 17th, things like that.
+[1687.36 - 1688.50] So you don't have to worry about dates,
+[1688.60 - 1689.94] and you don't have to worry about times.
+[1691.98 - 1693.76] And it has been around for a long time.
+[1693.76 - 1695.14] It's been around for a long time.
+[1695.28 - 1696.86] It's not very well advertised.
+[1697.20 - 1697.94] No, it's not.
+[1698.50 - 1702.34] I think if awareness was kind of put to the forefront about that.
+[1702.34 - 1702.80] Yes.
+[1703.48 - 1706.92] So if you've got something like Sky Anyway, you can just click on it,
+[1706.94 - 1709.98] and you can just press the button on the program once,
+[1710.18 - 1712.04] and it will record that program when it's on,
+[1712.18 - 1714.42] and you press it on it twice, and it will record the whole series.
+[1714.98 - 1715.00] Excellent.
+[1716.42 - 1717.58] So that, yeah.
+[1718.60 - 1721.98] But just have that function would be really good.
+[1722.80 - 1725.30] Can I just run this past you while that occurs to me?
+[1725.32 - 1727.62] I don't mean to quickly jump from one subject to another,
+[1727.96 - 1729.90] but just discussing the different age groups
+[1729.90 - 1731.94] and targeting the different age groups.
+[1732.58 - 1734.64] It occurs to a minority producer on mobile phones.
+[1734.84 - 1737.66] That's kind of what led us on to comparing TBR web controls
+[1737.66 - 1739.02] with their design features.
+[1740.84 - 1742.74] Chain companies like Carphone Warehouse,
+[1743.10 - 1745.16] you can pop in any time with a phone that you've bought for them
+[1745.16 - 1746.42] if you've got any problems with it,
+[1746.46 - 1748.18] and they'll fix it before the company,
+[1748.34 - 1749.48] you can use their telephones.
+[1750.70 - 1753.82] Is it worthwhile with our retail outlets
+[1753.82 - 1756.80] having a similar kind of service
+[1756.80 - 1759.78] so that if older users were deterred from buying this,
+[1759.78 - 1762.22] if they know they can just pop into one of our high street outlets,
+[1763.52 - 1765.30] which button is that I press for this?
+[1765.56 - 1767.52] That's a fee aspect of our service.
+[1767.72 - 1769.16] Would that not make it more attractive to them?
+[1770.32 - 1773.22] But the only problem is that with a mobile phone,
+[1773.42 - 1774.50] you sign for a contract,
+[1774.86 - 1779.66] so the companies who you deal with
+[1779.66 - 1784.58] have actually got an obligation to help you out and also.
+[1785.44 - 1787.64] I mean, it's fair enough
+[1787.64 - 1789.60] that I have some sort of help service,
+[1789.94 - 1793.78] but I am not sure how much the cost would be.
+[1794.54 - 1796.52] The functionality of it in the sense that
+[1796.52 - 1798.58] you're sitting there, you're pressing this button
+[1798.58 - 1800.66] and your TV's not doing it.
+[1800.66 - 1801.06] Oh, right.
+[1801.30 - 1803.44] Taking your TV and your phone and saying,
+[1803.62 - 1805.82] look, this is what I'm doing, it's not working, what should I do?
+[1806.04 - 1808.22] If it was something as simple as you couldn't change the channel,
+[1808.34 - 1809.62] but I mean, if there were any more,
+[1810.44 - 1813.30] are we absolutely definite it's only going to be for TV and video?
+[1814.16 - 1815.94] Okay. Just a thought.
+[1815.94 - 1818.54] I mean, instruction books, I feel.
+[1818.86 - 1819.32] Instruction manuals.
+[1819.96 - 1822.18] But I mean, there's customer service.
+[1823.16 - 1826.88] There will be a customer service number thing
+[1826.88 - 1828.52] that you can phone up and speak to.
+[1828.54 - 1828.82] Sure.
+[1829.08 - 1831.10] And that way, there's no call-out charge.
+[1831.34 - 1832.08] There's no extra.
+[1832.90 - 1834.88] The person has to walk to a shop on the high street.
+[1835.64 - 1837.56] I think I heard too much of an effort for a person to,
+[1837.82 - 1839.60] for a phone, maybe he might walk down the street.
+[1840.40 - 1841.90] But for a remote, he will just...
+[1841.90 - 1844.62] Not for such simple functions because we're focusing on that.
+[1844.62 - 1849.36] We should focus on making the manual as user friendly as possible
+[1849.36 - 1853.00] because a lot of them are just kind of writing in lots and lots of pages.
+[1853.46 - 1855.22] It puts people off reading them, so they just do the obvious.
+[1855.26 - 1856.64] Just do it in the drawer until something goes wrong
+[1856.64 - 1858.24] and then you try and search through it.
+[1858.46 - 1858.70] Sure.
+[1858.92 - 1860.62] So that should be something to think about.
+[1862.30 - 1863.84] What other functions do we need?
+[1864.76 - 1868.46] I'm not sure if we need a design decision now,
+[1869.52 - 1870.62] but we should think about...
+[1871.82 - 1875.74] Because you've got the dilemma between old batteries,
+[1875.92 - 1876.88] that's what I was thinking about.
+[1877.06 - 1877.98] What about phone batteries?
+[1878.14 - 1879.10] What kind of batteries are they?
+[1880.66 - 1885.42] They're specially made for all the mobile phones,
+[1885.66 - 1886.74] but they come with a charger.
+[1887.02 - 1888.76] I mean, you could bundle a charger.
+[1889.04 - 1890.78] They last quite a long time.
+[1892.06 - 1892.78] And if you had...
+[1894.22 - 1896.74] The thing that you get with mobile headphones,
+[1897.68 - 1900.18] you sit it in its charger when you're not using it
+[1900.18 - 1902.40] or at night or something, but it doesn't really matter
+[1902.40 - 1904.92] because it never really runs out because it lasts a long time
+[1904.92 - 1905.78] when it's charged.
+[1907.10 - 1910.08] Something like that should reduce the size of it.
+[1910.28 - 1912.30] Yeah, if you had one of those,
+[1912.68 - 1915.02] just coming back to your other point about pressing the button
+[1915.02 - 1917.18] and setting off the bleeper in the room, that could...
+[1918.00 - 1919.18] Yeah, it could be on that.
+[1919.32 - 1920.30] Yeah, on that as well.
+[1920.62 - 1920.88] Okay.
+[1923.00 - 1925.34] Are we talking of a concept of rechargeable?
+[1925.54 - 1927.14] Yeah, some sort of docking station.
+[1927.94 - 1929.18] Rechargeable with a docking station.
+[1930.38 - 1933.12] So the rechargeable, which would be your...
+[1933.12 - 1933.94] Yeah, yeah.
+[1934.40 - 1936.00] Yeah, that would be fine.
+[1936.32 - 1938.30] And also that would mean they wouldn't have to go out
+[1938.30 - 1939.58] buying batteries all the time.
+[1939.58 - 1942.20] Yes, it's true for me as well.
+[1943.30 - 1946.56] The shape, you've got trendy.
+[1947.72 - 1950.36] I don't want a big box with lots of things.
+[1951.20 - 1954.48] You don't want a tiny little thing either
+[1954.48 - 1957.24] because then you have got the repetitive stringing
+[1957.24 - 1961.16] no matter how much you try and make it simple.
+[1962.50 - 1963.32] And we don't want...
+[1963.32 - 1965.84] I mean, so many remote controls look absolutely identical.
+[1966.18 - 1968.58] These long brown things with the same colored buttons
+[1968.58 - 1970.00] all crammed in on the surface.
+[1970.58 - 1971.68] We definitely...
+[1971.68 - 1973.16] An obvious thing, a very simple thing,
+[1973.18 - 1975.26] is to get away from these brown rectangles.
+[1976.16 - 1976.90] We don't want that.
+[1977.16 - 1978.58] Okay, so we've got a flip screen.
+[1982.60 - 1984.26] What I was thinking of our design,
+[1984.26 - 1988.04] which Nokia came up with almost six or seven years back.
+[1988.52 - 1990.16] Basically, we have a flat one.
+[1990.72 - 1992.36] It looks like a box, like a chocolate.
+[1992.76 - 1994.92] That's very strenuous because your thumb is slightly up.
+[1996.10 - 1997.56] So they come up with something like this,
+[1998.06 - 1998.38] curved up.
+[1998.56 - 2000.48] So here, and you don't have to...
+[2000.48 - 2001.58] You don't bend your thumb too much.
+[2002.36 - 2003.36] So it's like a...
+[2003.36 - 2004.04] You can say...
+[2004.04 - 2005.68] Like a curved boat.
+[2008.32 - 2011.26] So what happens is you don't have to press your thumb too down.
+[2012.24 - 2013.64] So it's already curved up.
+[2013.64 - 2014.68] So your thumb doesn't...
+[2014.68 - 2015.38] It's kind of molded to your hand anyway.
+[2015.80 - 2017.18] So we can have a...
+[2017.18 - 2019.72] Like, you know, mold it according to your...
+[2019.72 - 2020.02] Yeah.
+[2020.06 - 2021.20] The way you hold up.
+[2021.54 - 2023.00] It's kind of semi-circular in the bottom.
+[2023.20 - 2023.52] Okay.
+[2024.70 - 2026.62] I wouldn't say exactly semi-circular, but...
+[2026.62 - 2029.98] You look into the company logo.
+[2031.82 - 2033.54] Things that are associated with the company
+[2033.54 - 2036.82] in view to try and incorporate that
+[2036.82 - 2039.66] into the design of the product.
+[2040.34 - 2040.68] It could be.
+[2040.78 - 2041.98] I mean...
+[2042.78 - 2046.92] For example, if it was a sea or something like that,
+[2047.58 - 2050.46] you could have it in a vague sea shape that opens up
+[2050.98 - 2053.26] kind of like a shell or something.
+[2055.54 - 2056.94] Something along those lines
+[2056.94 - 2058.98] to be able to incorporate it quite...
+[2059.54 - 2059.94] That's it.
+[2061.10 - 2062.80] Obviously, into the design,
+[2063.30 - 2065.10] while also making it quite different
+[2065.10 - 2066.36] than anything else it's saying.
+[2067.26 - 2068.04] We could look in the background.
+[2070.50 - 2073.96] What we were talking is to make it...
+[2073.96 - 2076.34] Like, seashells logo could become...
+[2076.34 - 2079.08] You could put a logo in the corner of the model
+[2079.64 - 2081.14] rather than, you know, trying to make it
+[2081.14 - 2083.38] like a sea shell or whatever you're telling me.
+[2083.38 - 2085.76] Well, we need to think about how it's going to look different.
+[2087.12 - 2089.96] I think that sounds a really attractive idea,
+[2090.26 - 2092.14] not come across anything like that before.
+[2092.86 - 2093.48] If it kind of...
+[2093.48 - 2095.14] Yeah, and that opens out into your flip-top.
+[2095.62 - 2097.10] And it's nice to...
+[2097.10 - 2097.82] You can make it lightweight,
+[2097.82 - 2099.86] nice to hold in the palm of the hand,
+[2100.46 - 2102.20] and just because you're having to actually insert
+[2102.20 - 2103.34] in between the two covers,
+[2103.44 - 2105.28] that's going to take care of some of the
+[2105.28 - 2106.58] repetitive strain injury,
+[2106.68 - 2108.26] try and prevent a lot of it, I would think.
+[2108.74 - 2110.12] I think it's a really nice idea.
+[2111.20 - 2113.08] And plus, you can get...
+[2113.08 - 2114.24] You know, even though we're using plastic,
+[2114.52 - 2115.06] you can still...
+[2115.06 - 2116.58] I mean, think of the designs you can get in plastic.
+[2116.76 - 2117.94] You can do a nice conch shell
+[2118.68 - 2120.98] or scallop shell, exterior.
+[2121.54 - 2123.82] Or you could do different...
+[2124.34 - 2127.02] Like you get with mobile phones, different fashers.
+[2127.02 - 2130.62] You could have different kind of casings.
+[2131.08 - 2135.56] You could have psychedelic ones for younger people
+[2135.56 - 2137.78] and sleek ones.
+[2138.22 - 2139.78] Less chance of it being lost, too.
+[2139.86 - 2141.70] It's not like a chocolate brown lozenge
+[2141.70 - 2142.80] that's going to go down the sofa.
+[2143.22 - 2144.86] People might want to put it on their mantelpiece
+[2144.86 - 2146.74] or whatever, if it looks attractive enough,
+[2147.30 - 2147.94] as a kind of ornament,
+[2148.14 - 2149.92] and they're not going to lose it so much that way.
+[2151.30 - 2152.98] It feels just a bit nice to handle.
+[2152.98 - 2156.94] Yeah, maybe we could commit some 5-6 designs
+[2156.94 - 2161.66] and then choose whichever appears to be the most common design.
+[2161.98 - 2162.22] Okay.
+[2162.80 - 2164.40] If we can think of 5-6 designs.
+[2164.90 - 2166.90] Right, I think we have to round it out.
+[2167.76 - 2170.38] Can I just quickly go over the new project requirements
+[2170.38 - 2171.54] so that I haven't missed anything?
+[2171.98 - 2172.92] There's no teletext.
+[2173.36 - 2175.20] It's only for TV and by implication video.
+[2175.94 - 2178.58] Corporate image should be incorporated in remote control.
+[2179.92 - 2181.30] Something about video plus.
+[2181.98 - 2189.82] That was in cutting down the number of functions,
+[2190.64 - 2191.60] making it simpler,
+[2192.12 - 2194.50] so instead of having lots of things...
+[2194.50 - 2195.92] So when they press for programming,
+[2196.20 - 2198.74] it comes up on the LCD reminder about using video plus
+[2199.30 - 2200.68] so that they will look at the guidance.
+[2202.24 - 2204.30] Or is this nothing to do with the project requirements?
+[2204.92 - 2206.10] That was an add-on feature.
+[2207.12 - 2209.58] It kind of takes the place of having a button
+[2209.58 - 2210.78] to press for the date,
+[2211.12 - 2212.96] and having the button to press for the channel,
+[2213.14 - 2213.58] things like that.
+[2214.20 - 2216.54] So it's kind of doing away with the programming feature.
+[2216.94 - 2220.70] Yes, it could be an advertisement feature
+[2221.74 - 2223.34] rather than a design feature.
+[2224.16 - 2225.94] You know, drawing attention to that
+[2225.94 - 2230.40] and also paid lip service in the instruction manual.
+[2231.02 - 2232.02] Because it's very simple,
+[2232.26 - 2235.20] so putting it down in words should be helpful.
+[2235.70 - 2236.88] And they recharge all batteries.
+[2236.88 - 2240.14] Was there anything else there that we...
+[2240.14 - 2241.16] New project requirements?
+[2249.40 - 2250.88] We've got the button,
+[2251.24 - 2255.50] but I think we'll run through that with the design event.
+[2256.90 - 2258.24] That's not at the moment a requirement.
+[2258.42 - 2259.34] It's something we're looking at.
+[2259.50 - 2261.34] We'll preference it when we come round to market research
+[2261.34 - 2261.96] at some point.
+[2262.08 - 2264.28] And we've talked about there being an alarm
+[2264.28 - 2267.16] or something, a beeping, or being lost.
+[2270.06 - 2272.58] Learning how to use it should be as simple as possible.
+[2273.16 - 2275.26] But there aren't going to be that many functions
+[2275.26 - 2277.62] incorporated into it, so it should be fine.
+[2278.22 - 2280.18] And the instruction manual.
+[2280.82 - 2282.26] I don't know if we deal with that.
+[2287.82 - 2288.70] I think...
+[2289.60 - 2291.98] Yeah, I'm different than what that is.
+[2291.98 - 2294.02] Yeah, I think that does.
+[2294.66 - 2296.34] What would you specifically like marketing to look at
+[2296.34 - 2297.24] before the next meeting,
+[2297.38 - 2299.90] or should I just generally look at all the issues involved?
+[2300.12 - 2301.72] I think you might get guidance,
+[2302.18 - 2308.04] but I don't know about the instruction manuals,
+[2308.54 - 2314.42] because there tends to be a demonized thing there.
+[2315.58 - 2316.88] Everyone's got a big pile of them,
+[2316.98 - 2318.36] but no one really uses them.
+[2322.24 - 2324.24] Oop, questionnaire phones.
+[2325.32 - 2326.64] Because we're at lunchtime now, I think.
+[2332.10 - 2337.02] I think you can email me if there's any more questions.

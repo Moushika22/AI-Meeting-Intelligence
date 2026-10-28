@@ -1,0 +1,25 @@
+meeting_id,speaker,start_time,end_time,text,action_item,task,owner,deadline,priority,dependency,decision,decision_text
+ES2002d,B,2.41,30.51,"Okay we all all set? Right. Well this is the uh final detailed design meeting. Um we're gonna discuss the look and feel design, the user interface design, and we're gonna evaluate the product. And the end result of this meeting has to be a decision on the details of this remote control, like absolute final decision, um and then I'm gonna have to specify the final design in the final report.",NO,,,,,,YES,Meeting must end with a final decision on the remote control design
+ES2002d,B,31.0,68.34,"So um just from from last time to recap, we said we were gonna have a snowman shaped remote control with no L_C_D_ display, no need for talk-back, it was hopefully gonna be kinetic power and battery uh with rubber buttons, maybe backlighting the buttons with some internal L_E_D_s to shine through the casing, um hopefully a jog-dial, and incorporating the slogan somewhere as well. Anything I've missed? Okay um so uh if you want to present your prototype go ahead.",NO,Finalize previously agreed remote-control requirements,Team,,Medium,Previous meeting requirements,YES,Previously agreed design requirements
+ES2002d,D,70.11,95.42,"Uh-oh. This is it? Um, there are a few changes we've made. Um, well look at the expense sheet, and uh it turned to be quite a lot expensive to have open up and have lots of buttons and stuff inside, so instead we've um this is gonna be an L_C_D_ screen, um just a a very very basic one, very small um with access to the menu through the the scroll wheel and uh confirm",,,,,,,,
+ES2002d,D,96.64,101.71,"um button. Uh, apart from that, it's just pretty much the same as we discussed last time.",NO,Update remote design with LCD screen and scroll-wheel menu,D,,High,Cost/expense considerations,YES,LCD screen and scroll-wheel menu added to revised design
+ES2002d,A,101.92,111.34,"And there isn't uh d it doesn't open up to the advanced functions? So the advanced functions are still hidden from you, but they're hidden in the sense that um they're not in use.",,,,,,,,
+ES2002d,A,118.1,136.6,"The L_C_D_ panel just displays um functionally what you're doing. If you're using an advanced function right, like um c brightness, contrast, whatever, it will just say You know it's like it only has four columns, it's a very simple L_C_D_ like, whereas many the minimum amount we need that the user will automatically know like this is brightness or this is contrast.",,,,,,,,
+ES2002d,A,137.92,146.65,"It might even be one, a bit more complex L_C_D_ panel with pictures like maybe the sun or the, you know, the the symbols of the various functions.",,,,,,,,
+ES2002d,B,151.6,153.45,Where are we gonna have the slogan?,NO,,,,Low,,YES,Revised design remains otherwise unchanged
+ES2002d,C,205.99,207.3,That sounds good. Yeah.,,,,,,,,
+ES2002d,D,245.88,264.13,"But um this button um, because it's red it's sort of very prominent, we're gonna use it as uh it can be the power button if you hold it for maybe two seconds it'll send a stand-by signal. Um apart from that it's gonna be used as a confirm button for the L_C_D_ screen and you use this as a jog-dial.",YES,List all remote-control functions in the report,B,,Medium,LCD interface design,YES,Advanced functions remain hidden/not directly exposed
+ES2002d,B,256.26,256.62,Mm-hmm.,,,,,,,,
+ES2002d,B,294.34,295.19,Okay.,,,,,,,,
+ES2002d,B,308.08,309.76,Okay jog-dial for volume.,NO,Use a simple LCD panel to display active functions,A,,Medium,LCD panel,YES,LCD displays the active function
+ES2002d,A,342.9,343.98,Um.,,,,,,,,
+ES2002d,B,354.57,355.66,Sharpness.,,,,,,,,
+ES2002d,B,378.48,379.08,Okay.,,,,,,,,
+ES2002d,D,413.42,413.82,Mm-hmm.,YES,Review the Excel price list and assess whether design changes are needed,B,,,,,
+ES2002d,A,421.58,422.14,The battery.,YES,Check battery and kinetic-power options against cost constraints,B,,,,,
+ES2002d,A,446.55,446.86,Yep.,NO,Consider a more complex LCD panel with function symbols,A,,Low,LCD design,NO,
+ES2002d,A,458.07,458.32,Yep.,,,,,,,,
+ES2002d,B,467.78,475.2,"Okay, um and we wanted special colours didn't we? So I'll have to put that Oh no wait we ho how many colours have we got there?",,,,,,,,
+ES2002d,B,479.25,480.32,"Just one colour, okay.",,,,,,,,
+ES2002d,C,482.76,483.03,Mm.,,,,,,,,
+ES2002d,B,490.15,496.28,"Okay and then buttons, we have what, two colours?",,,,,,,,

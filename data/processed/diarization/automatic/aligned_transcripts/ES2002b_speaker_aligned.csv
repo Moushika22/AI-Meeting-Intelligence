@@ -1,0 +1,742 @@
+﻿meeting_id,segment_id,start,end,duration,speaker_id,alignment_status,speaker_coverage,speaker_candidates,text
+ES2002b,0,6.68,17.62,10.94,UNCERTAIN,low_or_mixed_speaker_overlap,0.4108,"[{""speaker_id"": ""SPEAKER_01"", ""overlap_seconds"": 4.494}]","Oh, yes, I forgot about that. Okay. Is that all right now? Okay."
+ES2002b,1,17.84,19.9,2.06,SPEAKER_04,matched_automatic_diarization,0.8845,"[{""speaker_id"": ""SPEAKER_04"", ""overlap_seconds"": 1.822}, {""speaker_id"": ""SPEAKER_01"", ""overlap_seconds"": 0.238}]",That's cool. Someone turned these on. Sorry?
+ES2002b,2,20.2,25.22,5.02,UNCERTAIN,low_or_mixed_speaker_overlap,0.3721,"[{""speaker_id"": ""SPEAKER_01"", ""overlap_seconds"": 1.868}, {""speaker_id"": ""SPEAKER_04"", ""overlap_seconds"": 1.667}]","Did someone turn these on? Great. Okay, everybody, all set to start the meeting."
+ES2002b,3,25.22,32.12,6.9,SPEAKER_01,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_01"", ""overlap_seconds"": 6.9}]","Okay, we've got half an hour for this one to discuss the functional design."
+ES2002b,4,32.34,35.96,3.62,UNCERTAIN,low_or_mixed_speaker_overlap,0.4213,"[{""speaker_id"": ""SPEAKER_03"", ""overlap_seconds"": 1.525}, {""speaker_id"": ""SPEAKER_01"", ""overlap_seconds"": 1.403}]","Okay, thanks. All ready to go? Okay."
+ES2002b,5,36.44,39.68,3.24,SPEAKER_01,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_01"", ""overlap_seconds"": 3.24}]","Okay. So hopefully, while we've been working away,"
+ES2002b,6,40.22,43.16,2.94,SPEAKER_01,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_01"", ""overlap_seconds"": 2.94}]",I've put the minutes of the last meeting in the project folder.
+ES2002b,7,45.72,50.64,4.92,SPEAKER_01,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_01"", ""overlap_seconds"": 4.92}]",So I guess just to recap on what we did last time.
+ES2002b,8,52.94,56.14,3.2,SPEAKER_01,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_01"", ""overlap_seconds"": 3.2}]",Got to know each other a little bit and got familiar with all the equipment
+ES2002b,9,56.14,61.76,5.62,SPEAKER_01,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_01"", ""overlap_seconds"": 5.62}]","and started to discuss a bit about the project cost-wise,"
+ES2002b,10,61.92,64.34,2.42,SPEAKER_01,matched_automatic_diarization,0.8752,"[{""speaker_id"": ""SPEAKER_01"", ""overlap_seconds"": 2.118}, {""speaker_id"": ""SPEAKER_00"", ""overlap_seconds"": 0.135}]",how much money we had to spend.
+ES2002b,11,100.96,103.8,2.84,SPEAKER_01,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_01"", ""overlap_seconds"": 2.84}]","Just want to tell you that we have three new requirements,"
+ES2002b,12,103.8,112.26,8.46,SPEAKER_01,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_01"", ""overlap_seconds"": 8.46}]",which is the first one is that the companies decided that teletext is outdated
+ES2002b,13,112.8,116.4,3.6,SPEAKER_01,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_01"", ""overlap_seconds"": 3.6}]",because of how popular the internet is. Nobody uses teletext very much anymore.
+ES2002b,14,117.22,121.48,4.26,SPEAKER_01,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_01"", ""overlap_seconds"": 4.26}]",So we don't really need to consider that in the functionality of the remote control.
+ES2002b,15,122.18,128.12,5.94,SPEAKER_01,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_01"", ""overlap_seconds"": 5.94}]","They've also suggested that we only use the remote control to control the television,"
+ES2002b,16,128.56,130.56,2.0,SPEAKER_01,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_01"", ""overlap_seconds"": 2.0}]",not the VCR or DVD or anything else.
+ES2002b,17,130.56,133.96,3.4,SPEAKER_01,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_01"", ""overlap_seconds"": 3.4}]","I think the worry is that if the project becomes too complex,"
+ES2002b,18,134.64,140.74,6.1,SPEAKER_01,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_01"", ""overlap_seconds"": 6.1}]","it'll affect how long it takes us to get it into production, the time to market."
+ES2002b,19,141.9,144.74,2.84,SPEAKER_01,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_01"", ""overlap_seconds"": 2.84}]",So we're just going to keep it simple and it'll just control the TV.
+ES2002b,20,145.58,148.2,2.62,SPEAKER_01,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_01"", ""overlap_seconds"": 2.62}]",And the other thing was that the company want the corporate colour
+ES2002b,21,148.2,150.38,2.18,SPEAKER_01,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_01"", ""overlap_seconds"": 2.18}]",and slogan to be implemented in the new design.
+ES2002b,22,152.16,154.58,2.42,SPEAKER_01,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_01"", ""overlap_seconds"": 2.42}]",I'm not entirely sure what the corporate colour is.
+ES2002b,23,154.94,157.6,2.66,SPEAKER_01,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_01"", ""overlap_seconds"": 2.66}]",It might be yellow because there seems to be a lot of yellow everywhere.
+ES2002b,24,157.6,160.6,3.0,SPEAKER_04,matched_automatic_diarization,0.89,"[{""speaker_id"": ""SPEAKER_04"", ""overlap_seconds"": 2.67}, {""speaker_id"": ""SPEAKER_01"", ""overlap_seconds"": 0.145}]","And the slogan, like the actual written slogan,"
+ES2002b,25,160.72,162.86,2.14,SPEAKER_04,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_04"", ""overlap_seconds"": 2.14}]",or just to embody the idea of the slogan?
+ES2002b,26,163.3,164.78,1.48,SPEAKER_01,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_01"", ""overlap_seconds"": 1.48}]","Well, that's the thing. I'm not sure."
+ES2002b,27,167.56,171.02,3.46,SPEAKER_01,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_01"", ""overlap_seconds"": 3.46}]","Because on the company website, what does it say?"
+ES2002b,28,172.38,173.72,1.34,SPEAKER_04,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_04"", ""overlap_seconds"": 1.34}]",The fashion in electronics.
+ES2002b,29,174.36,177.76,3.4,SPEAKER_01,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_01"", ""overlap_seconds"": 3.4}]","Yeah, I mean, is that something they want actually written on?"
+ES2002b,30,177.84,178.7,0.86,SPEAKER_01,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_01"", ""overlap_seconds"": 0.86}]",Because it's quite long.
+ES2002b,31,180.52,182.22,1.7,SPEAKER_01,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_01"", ""overlap_seconds"": 1.7}]","Or yeah, just the idea that I'm not sure."
+ES2002b,32,182.3,183.9,1.6,SPEAKER_01,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_01"", ""overlap_seconds"": 1.6}]",So that's something we can discuss as well.
+ES2002b,33,183.9,185.22,1.32,SPEAKER_01,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_01"", ""overlap_seconds"": 1.32}]",So those are the three things.
+ES2002b,34,185.42,187.0,1.58,SPEAKER_01,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_01"", ""overlap_seconds"": 1.58}]",Just not to worry about teletext.
+ES2002b,35,187.96,195.22,7.26,SPEAKER_01,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_01"", ""overlap_seconds"": 7.26}]",Only control the TV and incorporate the colour and slogan of the company.
+ES2002b,36,198.06,200.72,2.66,SPEAKER_01,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_01"", ""overlap_seconds"": 2.66}]",So is everybody okay with any of that?
+ES2002b,37,200.82,202.92,2.1,SPEAKER_01,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_01"", ""overlap_seconds"": 2.1}]",Or do you want me to recap at all?
+ES2002b,38,204.74,206.76,2.02,SPEAKER_01,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_01"", ""overlap_seconds"": 2.02}]",That time for presentations then.
+ES2002b,39,206.86,207.8,0.94,SPEAKER_01,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_01"", ""overlap_seconds"": 0.94}]",Who would like to go first?
+ES2002b,40,209.98,210.76,0.78,SPEAKER_03,matched_automatic_diarization,0.75,"[{""speaker_id"": ""SPEAKER_03"", ""overlap_seconds"": 0.585}]",Can I go first?
+ES2002b,41,211.6,212.16,0.56,UNCERTAIN,low_or_mixed_speaker_overlap,0.4089,"[{""speaker_id"": ""SPEAKER_01"", ""overlap_seconds"": 0.229}]","Okay, cool."
+ES2002b,42,216.9,219.44,2.54,SPEAKER_03,matched_automatic_diarization,0.8705,"[{""speaker_id"": ""SPEAKER_03"", ""overlap_seconds"": 2.211}]","All right, can I steal this from the back of your laptop?"
+ES2002b,43,219.84,222.1,2.26,SPEAKER_00,matched_automatic_diarization,0.9903,"[{""speaker_id"": ""SPEAKER_00"", ""overlap_seconds"": 2.238}]","Oh yeah, of course you can go in ahead."
+ES2002b,44,252.2,252.84,0.64,UNCERTAIN,no_speaker_overlap,0.0,[],Okay.
+ES2002b,45,258.82,260.38,1.56,SPEAKER_03,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_03"", ""overlap_seconds"": 1.56}]",So this is the technical function design.
+ES2002b,46,264.92,270.16,5.24,SPEAKER_03,matched_automatic_diarization,0.8878,"[{""speaker_id"": ""SPEAKER_03"", ""overlap_seconds"": 4.652}]","All right, to do the design, I've had a look online."
+ES2002b,47,270.26,273.98,3.72,SPEAKER_03,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_03"", ""overlap_seconds"": 3.72}]","I've had a look at the homepage, which has given us some inspiration from previous products."
+ES2002b,48,275.36,277.7,2.34,SPEAKER_03,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_03"", ""overlap_seconds"": 2.34}]",I've had a look at the previous products to see what they offer.
+ES2002b,49,279.14,284.12,4.98,SPEAKER_03,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_03"", ""overlap_seconds"": 4.98}]",And I would like to ask you guys for your ideas about the design at the end of the meeting.
+ES2002b,50,284.72,286.56,1.84,SPEAKER_03,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_03"", ""overlap_seconds"": 1.84}]","Unfortunately, we're not allowed to talk outside the meeting room."
+ES2002b,51,287.62,287.98,0.36,SPEAKER_03,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_03"", ""overlap_seconds"": 0.36}]",Okay.
+ES2002b,52,290.36,295.18,4.82,SPEAKER_03,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_03"", ""overlap_seconds"": 4.82}]","Having a look at the existing products, I found out that it tends to come into extremes."
+ES2002b,53,295.82,299.66,3.84,SPEAKER_03,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_03"", ""overlap_seconds"": 3.84}]","There's either a very complicated one that's got lots of buttons, lots of colours, very confusing."
+ES2002b,54,299.92,300.6,0.68,SPEAKER_03,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_03"", ""overlap_seconds"": 0.68}]",You don't know what you're doing.
+ES2002b,55,302.22,304.38,2.16,SPEAKER_03,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_03"", ""overlap_seconds"": 2.16}]","In that case, the labeling tends to be very bad."
+ES2002b,56,305.08,306.46,1.38,SPEAKER_03,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_03"", ""overlap_seconds"": 1.38}]","As an example, I'll show you at the end."
+ES2002b,57,307.04,308.82,1.78,SPEAKER_03,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_03"", ""overlap_seconds"": 1.78}]",I'll show you now.
+ES2002b,58,316.76,318.48,1.72,SPEAKER_03,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_03"", ""overlap_seconds"": 1.72}]",There's a button there and there.
+ES2002b,59,318.82,319.34,0.52,SPEAKER_03,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_03"", ""overlap_seconds"": 0.52}]",This one's Prague.
+ES2002b,60,319.9,321.5,1.6,SPEAKER_03,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_03"", ""overlap_seconds"": 1.6}]","Sorry, that one's Prague, and that one's Prague."
+ES2002b,61,322.06,324.82,2.76,SPEAKER_03,matched_automatic_diarization,0.5062,"[{""speaker_id"": ""SPEAKER_03"", ""overlap_seconds"": 1.397}]",And it doesn't really tell you what it does.
+ES2002b,62,334.8,338.32,3.52,SPEAKER_03,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_03"", ""overlap_seconds"": 3.52}]","I'm not sure if you had a look at the other controller, not an example."
+ES2002b,63,339.12,340.18,1.06,SPEAKER_03,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_03"", ""overlap_seconds"": 1.06}]",It's a very simple one.
+ES2002b,64,340.3,347.82,7.52,SPEAKER_03,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_03"", ""overlap_seconds"": 7.52}]","It's got only the basic functions, but it's the same size as the hard-to-use one."
+ES2002b,65,347.82,348.98,1.16,SPEAKER_03,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_03"", ""overlap_seconds"": 1.16}]",It's a bit clunky.
+ES2002b,66,349.62,352.2,2.58,SPEAKER_03,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_03"", ""overlap_seconds"": 2.58}]",It's very big and not very much used for active buttons.
+ES2002b,67,354.44,357.08,2.64,SPEAKER_03,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_03"", ""overlap_seconds"": 2.64}]",And it's very hard to access the advanced functions.
+ES2002b,68,357.54,359.26,1.72,SPEAKER_03,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_03"", ""overlap_seconds"": 1.72}]","There's nothing, for instance, for a slow motion button."
+ES2002b,69,363.0,365.46,2.46,SPEAKER_03,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_03"", ""overlap_seconds"": 2.46}]",My own preference is I prefer the clunky one.
+ES2002b,70,366.14,369.86,3.72,SPEAKER_03,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_03"", ""overlap_seconds"": 3.72}]","It's very easy to use, but unfortunately it does lack the advanced functions,"
+ES2002b,71,370.7,372.52,1.82,SPEAKER_03,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_03"", ""overlap_seconds"": 1.82}]",which I quite like having on the controls.
+ES2002b,72,373.94,377.08,3.14,SPEAKER_03,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_03"", ""overlap_seconds"": 3.14}]",I believe that the advanced functions should be hidden in the drawer.
+ES2002b,73,381.84,383.54,1.7,SPEAKER_03,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_03"", ""overlap_seconds"": 1.7}]",Now I've got your preferences.
+ES2002b,74,384.54,386.08,1.54,SPEAKER_03,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_03"", ""overlap_seconds"": 1.54}]",I'm not sure how long we'll go.
+ES2002b,75,388.28,392.36,4.08,SPEAKER_01,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_01"", ""overlap_seconds"": 4.08}]","We can chat away for five minutes or so, I think, at most."
+ES2002b,76,392.56,393.34,0.78,SPEAKER_01,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_01"", ""overlap_seconds"": 0.78}]",Just a couple of minutes anyway.
+ES2002b,77,394.04,400.0,5.96,SPEAKER_04,matched_automatic_diarization,0.9622,"[{""speaker_id"": ""SPEAKER_04"", ""overlap_seconds"": 5.735}]",A lot of what I've read and prepared for this meeting fits in really closely
+ES2002b,78,400.0,402.6,2.6,SPEAKER_04,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_04"", ""overlap_seconds"": 2.6}]",with what Craig's just gone over.
+ES2002b,79,403.16,405.54,2.38,SPEAKER_04,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_04"", ""overlap_seconds"": 2.38}]","In part, I could give you some of my personal preferences,"
+ES2002b,80,405.7,410.66,4.96,SPEAKER_04,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_04"", ""overlap_seconds"": 4.96}]","but I could also add some to this, which is just about market research."
+ES2002b,81,413.1,414.74,1.64,SPEAKER_01,matched_automatic_diarization,0.564,"[{""speaker_id"": ""SPEAKER_01"", ""overlap_seconds"": 0.925}, {""speaker_id"": ""SPEAKER_04"", ""overlap_seconds"": 0.715}]",We'll stick to your area.
+ES2002b,82,415.48,416.78,1.3,SPEAKER_04,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_04"", ""overlap_seconds"": 1.3}]",The clunky one is the one in the right.
+ES2002b,83,417.8,418.86,1.06,SPEAKER_04,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_04"", ""overlap_seconds"": 1.06}]",Clunky in what sense?
+ES2002b,84,419.88,420.74,0.86,SPEAKER_04,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_04"", ""overlap_seconds"": 0.86}]",Heavier or larger?
+ES2002b,85,420.74,425.14,4.4,SPEAKER_03,matched_automatic_diarization,0.9382,"[{""speaker_id"": ""SPEAKER_03"", ""overlap_seconds"": 4.128}, {""speaker_id"": ""SPEAKER_04"", ""overlap_seconds"": 0.272}]","I think it's supposed to be the same size, but it's got much fewer buttons."
+ES2002b,86,425.7,427.62,1.92,SPEAKER_03,matched_automatic_diarization,0.9474,"[{""speaker_id"": ""SPEAKER_03"", ""overlap_seconds"": 1.819}, {""speaker_id"": ""SPEAKER_04"", ""overlap_seconds"": 0.101}]","I see, so it's more spread out of the base."
+ES2002b,87,428.94,431.26,2.32,SPEAKER_03,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_03"", ""overlap_seconds"": 2.32}]",You get the idea that it'll be spread out about this size.
+ES2002b,88,431.98,433.32,1.34,SPEAKER_03,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_03"", ""overlap_seconds"": 1.34}]",It's got very few buttons in it.
+ES2002b,89,433.8,435.52,1.72,SPEAKER_01,matched_automatic_diarization,0.8314,"[{""speaker_id"": ""SPEAKER_01"", ""overlap_seconds"": 1.43}]",I think it's a valid point.
+ES2002b,90,435.92,439.5,3.58,SPEAKER_01,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_01"", ""overlap_seconds"": 3.58}]","The one on the left looks quite complicated,"
+ES2002b,91,439.84,443.34,3.5,SPEAKER_01,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_01"", ""overlap_seconds"": 3.5}]",and that PROG thing is incredibly confusing.
+ES2002b,92,444.98,448.76,3.78,SPEAKER_01,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_01"", ""overlap_seconds"": 3.78}]","I see why you might prefer the simpler design,"
+ES2002b,93,448.76,451.88,3.12,SPEAKER_01,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_01"", ""overlap_seconds"": 3.12}]",but you don't want to lose out on what it does.
+ES2002b,94,452.84,455.74,2.9,SPEAKER_01,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_01"", ""overlap_seconds"": 2.9}]","You get a lot of remote controls where you flip the thing open,"
+ES2002b,95,455.88,456.68,0.8,SPEAKER_01,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_01"", ""overlap_seconds"": 0.8}]",and I think that's a good idea.
+ES2002b,96,460.76,463.46,2.7,SPEAKER_03,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_03"", ""overlap_seconds"": 2.7}]",Do we have any functions we'd want on it?
+ES2002b,97,463.84,465.4,1.56,SPEAKER_03,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_03"", ""overlap_seconds"": 1.56}]","So far, I've got on and off."
+ES2002b,98,465.92,468.58,2.66,SPEAKER_03,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_03"", ""overlap_seconds"": 2.66}]","Switch the channel up and down, and put the volume up and down."
+ES2002b,99,469.06,470.7,1.64,SPEAKER_03,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_03"", ""overlap_seconds"": 1.64}]",They're just the very basics you could use for TV.
+ES2002b,100,471.96,474.4,2.44,SPEAKER_01,matched_automatic_diarization,0.9947,"[{""speaker_id"": ""SPEAKER_01"", ""overlap_seconds"": 2.427}]","Then actual numbers for channels as well, yeah."
+ES2002b,101,474.9,477.38,2.48,SPEAKER_03,matched_automatic_diarization,0.894,"[{""speaker_id"": ""SPEAKER_03"", ""overlap_seconds"": 2.217}]","You see that's our required one, or our requested one."
+ES2002b,102,477.54,478.22,0.68,SPEAKER_03,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_03"", ""overlap_seconds"": 0.68}]",Which was that?
+ES2002b,103,479.1,480.88,1.78,SPEAKER_03,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_03"", ""overlap_seconds"": 1.78}]","The channels, like the numbers."
+ES2002b,104,481.36,482.32,0.96,SPEAKER_04,matched_automatic_diarization,0.9302,"[{""speaker_id"": ""SPEAKER_04"", ""overlap_seconds"": 0.893}, {""speaker_id"": ""SPEAKER_03"", ""overlap_seconds"": 0.067}]",The numbers are the up-down?
+ES2002b,105,482.84,484.52,1.68,SPEAKER_01,matched_automatic_diarization,0.9185,"[{""speaker_id"": ""SPEAKER_01"", ""overlap_seconds"": 1.543}]",I would say that's required.
+ES2002b,106,485.18,487.88,2.7,SPEAKER_01,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_01"", ""overlap_seconds"": 2.7}]","There's no way anybody's going to buy a remote control these days,"
+ES2002b,107,487.96,490.02,2.06,SPEAKER_01,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_01"", ""overlap_seconds"": 2.06}]","so if she can't actually individually select channels,"
+ES2002b,108,490.46,491.76,1.3,SPEAKER_01,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_01"", ""overlap_seconds"": 1.3}]",would anybody disagree with that?
+ES2002b,109,494.1,494.78,0.68,SPEAKER_01,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_01"", ""overlap_seconds"": 0.68}]",What else?
+ES2002b,110,496.98,498.44,1.46,SPEAKER_01,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_01"", ""overlap_seconds"": 1.46}]","So we don't need to worry about tele-text,"
+ES2002b,111,498.7,499.8,1.1,SPEAKER_01,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_01"", ""overlap_seconds"": 1.1}]",we don't need to worry about VCR.
+ES2002b,112,502.9,505.48,2.58,SPEAKER_01,matched_automatic_diarization,0.9717,"[{""speaker_id"": ""SPEAKER_01"", ""overlap_seconds"": 2.507}]","Any kind of display controls at all,"
+ES2002b,113,505.58,507.9,2.32,SPEAKER_01,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_01"", ""overlap_seconds"": 2.32}]",do you think we need to worry about brightness and contrast?
+ES2002b,114,508.36,510.76,2.4,SPEAKER_04,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_04"", ""overlap_seconds"": 2.4}]","Essentially what we're doing right now is we're categorizing,"
+ES2002b,115,510.92,513.02,2.1,SPEAKER_04,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_04"", ""overlap_seconds"": 2.1}]",we're saying we want this to be a product that offers
+ES2002b,116,513.02,516.02,3.0,SPEAKER_04,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_04"", ""overlap_seconds"": 3.0}]","all the more tricky features,"
+ES2002b,117,516.22,518.54,2.32,SPEAKER_04,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_04"", ""overlap_seconds"": 2.32}]",but we want them to be in another area.
+ES2002b,118,518.86,519.16,0.3,SPEAKER_04,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_04"", ""overlap_seconds"": 0.3}]",Is that right?
+ES2002b,119,522.26,525.76,3.5,SPEAKER_04,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_04"", ""overlap_seconds"": 3.5}]",Or are we actually eliminating things we just don't want the product to have?
+ES2002b,120,526.44,529.34,2.9,SPEAKER_01,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_01"", ""overlap_seconds"": 2.9}]","Are you maybe thinking what we absolutely have to have,"
+ES2002b,121,529.34,530.24,0.9,SPEAKER_01,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_01"", ""overlap_seconds"": 0.9}]",and what would be nice?
+ES2002b,122,530.5,531.96,1.46,SPEAKER_03,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_03"", ""overlap_seconds"": 1.46}]","To start with, try a bit of both,"
+ES2002b,123,532.38,534.38,2.0,SPEAKER_03,matched_automatic_diarization,0.9145,"[{""speaker_id"": ""SPEAKER_03"", ""overlap_seconds"": 1.829}, {""speaker_id"": ""SPEAKER_01"", ""overlap_seconds"": 0.171}]","we need to find out exactly what we have to have,"
+ES2002b,124,534.38,536.96,2.58,SPEAKER_03,matched_automatic_diarization,0.9419,"[{""speaker_id"": ""SPEAKER_03"", ""overlap_seconds"": 2.43}, {""speaker_id"": ""SPEAKER_01"", ""overlap_seconds"": 0.15}]",and after that we can add things if they're possible.
+ES2002b,125,537.7,538.7,1.0,SPEAKER_01,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_01"", ""overlap_seconds"": 1.0}]","Okay, right."
+ES2002b,126,539.58,541.6,2.02,SPEAKER_01,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_01"", ""overlap_seconds"": 2.02}]","Well, do you want to maybe just at this point"
+ES2002b,127,541.6,545.26,3.66,SPEAKER_01,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_01"", ""overlap_seconds"": 3.66}]",decide on what we absolutely must have as a function of this?
+ES2002b,128,546.4,550.06,3.66,SPEAKER_01,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_01"", ""overlap_seconds"": 3.66}]","So far, just to recap, we've got volume and channel control."
+ES2002b,129,550.3,552.88,2.58,SPEAKER_03,matched_automatic_diarization,0.9578,"[{""speaker_id"": ""SPEAKER_03"", ""overlap_seconds"": 2.471}, {""speaker_id"": ""SPEAKER_01"", ""overlap_seconds"": 0.109}]",Volume and channel and skip to certain channels with the numbers.
+ES2002b,130,553.18,553.94,0.76,SPEAKER_01,matched_automatic_diarization,0.9605,"[{""speaker_id"": ""SPEAKER_01"", ""overlap_seconds"": 0.73}]","Right, okay."
+ES2002b,131,559.7,563.44,3.74,SPEAKER_04,matched_automatic_diarization,0.9259,"[{""speaker_id"": ""SPEAKER_04"", ""overlap_seconds"": 3.463}]","Well, one way I would look at this would be"
+ES2002b,132,564.04,568.98,4.94,SPEAKER_04,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_04"", ""overlap_seconds"": 4.94}]",that we approach the different controls in terms of control types
+ES2002b,133,568.98,571.42,2.44,SPEAKER_04,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_04"", ""overlap_seconds"": 2.44}]","so that for the user it's very clear what they want to do,"
+ES2002b,134,571.44,574.52,3.08,SPEAKER_04,matched_automatic_diarization,0.9123,"[{""speaker_id"": ""SPEAKER_04"", ""overlap_seconds"": 2.81}, {""speaker_id"": ""SPEAKER_03"", ""overlap_seconds"": 0.27}]","where they go, and also think maybe a little bit about"
+ES2002b,135,575.24,577.44,2.2,SPEAKER_04,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_04"", ""overlap_seconds"": 2.2}]",what would just want to be easily accessible.
+ES2002b,136,578.08,579.78,1.7,SPEAKER_04,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_04"", ""overlap_seconds"": 1.7}]","For example, if we had audio controls,"
+ES2002b,137,580.12,581.98,1.86,SPEAKER_04,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_04"", ""overlap_seconds"": 1.86}]",those could be something people set up very rarely.
+ES2002b,138,582.38,586.42,4.04,SPEAKER_04,matched_automatic_diarization,0.8871,"[{""speaker_id"": ""SPEAKER_04"", ""overlap_seconds"": 3.584}, {""speaker_id"": ""SPEAKER_00"", ""overlap_seconds"": 0.456}]","Maybe they're in a little area, but covered up."
+ES2002b,139,587.88,593.7,5.82,SPEAKER_04,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_04"", ""overlap_seconds"": 5.82}]","Things like channel and volume are used all the time,"
+ES2002b,140,593.7,596.6,2.9,SPEAKER_04,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_04"", ""overlap_seconds"": 2.9}]","so we just have them right out on top,"
+ES2002b,141,598.06,600.26,2.2,SPEAKER_04,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_04"", ""overlap_seconds"": 2.2}]",just very self-explanatory.
+ES2002b,142,601.96,603.86,1.9,SPEAKER_04,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_04"", ""overlap_seconds"": 1.9}]",So maybe we need to think about having
+ES2002b,143,603.86,606.6,2.74,SPEAKER_04,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_04"", ""overlap_seconds"": 2.74}]","three or more groupings of controls,"
+ES2002b,144,606.98,609.24,2.26,SPEAKER_04,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_04"", ""overlap_seconds"": 2.26}]",one which are just the habitual ones
+ES2002b,145,609.24,611.12,1.88,SPEAKER_04,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_04"", ""overlap_seconds"": 1.88}]","that should be right within your natural grip,"
+ES2002b,146,611.74,614.54,2.8,SPEAKER_04,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_04"", ""overlap_seconds"": 2.8}]","and others that are also available,"
+ES2002b,147,614.54,617.22,2.68,SPEAKER_04,matched_automatic_diarization,0.7974,"[{""speaker_id"": ""SPEAKER_04"", ""overlap_seconds"": 2.137}, {""speaker_id"": ""SPEAKER_01"", ""overlap_seconds"": 0.543}]","and then others that are concealed, something like that."
+ES2002b,148,617.26,620.48,3.22,SPEAKER_01,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_01"", ""overlap_seconds"": 3.22}]","Okay, well just to wrap up quickly on this little section."
+ES2002b,149,623.12,628.26,5.14,SPEAKER_01,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_01"", ""overlap_seconds"": 5.14}]","Do you think maybe that's the only kind of essential requirement,"
+ES2002b,150,628.5,631.28,2.78,SPEAKER_01,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_01"", ""overlap_seconds"": 2.78}]",and then maybe just things that would be nice if it could do
+ES2002b,151,631.28,634.8,3.52,SPEAKER_01,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_01"", ""overlap_seconds"": 3.52}]",would be things like audio setup and display setup
+ES2002b,152,634.8,635.5,0.7,SPEAKER_01,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_01"", ""overlap_seconds"": 0.7}]",and things like that.
+ES2002b,153,635.6,638.12,2.52,SPEAKER_01,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_01"", ""overlap_seconds"": 2.52}]","Maybe like a mute button, that sort of thing."
+ES2002b,154,638.32,640.7,2.38,SPEAKER_01,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_01"", ""overlap_seconds"": 2.38}]",Any of you anything to add to that at all?
+ES2002b,155,643.22,645.28,2.06,SPEAKER_01,matched_automatic_diarization,0.8437,"[{""speaker_id"": ""SPEAKER_01"", ""overlap_seconds"": 1.738}]","Okay, right."
+ES2002b,156,646.34,649.48,3.14,SPEAKER_01,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_01"", ""overlap_seconds"": 3.14}]","Okay, if we can move on to the next presentation then please."
+ES2002b,157,652.34,655.56,3.22,SPEAKER_04,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_04"", ""overlap_seconds"": 3.22}]",Can this plug come across?
+ES2002b,158,655.82,657.06,1.24,SPEAKER_01,matched_automatic_diarization,0.7218,"[{""speaker_id"": ""SPEAKER_01"", ""overlap_seconds"": 0.895}, {""speaker_id"": ""SPEAKER_04"", ""overlap_seconds"": 0.345}]","Probably not, actually."
+ES2002b,159,658.56,660.82,2.26,SPEAKER_04,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_04"", ""overlap_seconds"": 2.26}]",So why don't I just pick up and...
+ES2002b,160,680.18,683.88,3.7,SPEAKER_04,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_04"", ""overlap_seconds"": 3.7}]",Can you go behind me?
+ES2002b,161,686.1,689.68,3.58,SPEAKER_01,matched_automatic_diarization,0.7684,"[{""speaker_id"": ""SPEAKER_01"", ""overlap_seconds"": 2.751}, {""speaker_id"": ""SPEAKER_04"", ""overlap_seconds"": 0.407}]","It'd be nice if everything was wireless, isn't it?"
+ES2002b,162,696.48,698.64,2.16,SPEAKER_04,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_04"", ""overlap_seconds"": 2.16}]","So I can say already,"
+ES2002b,163,699.0,700.7,1.7,SPEAKER_04,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_04"", ""overlap_seconds"": 1.7}]","I don't know whether this is for good or for bad,"
+ES2002b,164,700.7,705.38,4.68,SPEAKER_04,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_04"", ""overlap_seconds"": 4.68}]",but there'll be a lot of kind of redundancy in the issues.
+ES2002b,165,707.84,709.68,1.84,SPEAKER_01,matched_automatic_diarization,0.8826,"[{""speaker_id"": ""SPEAKER_01"", ""overlap_seconds"": 1.624}, {""speaker_id"": ""SPEAKER_04"", ""overlap_seconds"": 0.216}]","Oh, like overlap between what you said."
+ES2002b,166,709.88,711.72,1.84,SPEAKER_04,matched_automatic_diarization,0.9185,"[{""speaker_id"": ""SPEAKER_04"", ""overlap_seconds"": 1.69}, {""speaker_id"": ""SPEAKER_01"", ""overlap_seconds"": 0.15}]","Not necessarily a bad thing,"
+ES2002b,167,711.88,714.66,2.78,SPEAKER_04,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_04"", ""overlap_seconds"": 2.78}]",but what I've already started doing is I created a slide
+ES2002b,168,714.66,721.0,6.34,SPEAKER_04,matched_automatic_diarization,0.755,"[{""speaker_id"": ""SPEAKER_04"", ""overlap_seconds"": 4.787}]","in my presentation here so that we kind of think,"
+ES2002b,169,721.14,722.84,1.7,SPEAKER_04,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_04"", ""overlap_seconds"": 1.7}]",well what's the cumulative effect of what we've taken
+ES2002b,170,722.84,724.98,2.14,SPEAKER_04,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_04"", ""overlap_seconds"": 2.14}]","from your ideas and mine,"
+ES2002b,171,724.98,729.42,4.44,SPEAKER_04,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_04"", ""overlap_seconds"": 4.44}]",because certainly I have a hard time separating things completely.
+ES2002b,172,729.9,733.22,3.32,SPEAKER_04,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_04"", ""overlap_seconds"": 3.32}]",Obviously what you've just told me impacts a lot
+ES2002b,173,733.22,737.42,4.2,SPEAKER_04,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_04"", ""overlap_seconds"": 4.2}]",on what like market research that I've been...
+ES2002b,174,738.32,740.14,1.82,SPEAKER_04,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_04"", ""overlap_seconds"": 1.82}]",So how do I get this up?
+ES2002b,175,741.48,742.34,0.86,SPEAKER_01,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_01"", ""overlap_seconds"": 0.86}]","Function and effect, yeah."
+ES2002b,176,752.3,755.04,2.74,SPEAKER_02,matched_automatic_diarization,0.9131,"[{""speaker_id"": ""SPEAKER_02"", ""overlap_seconds"": 2.502}]","Function the blue button, thanks to the control on the left."
+ES2002b,177,755.26,756.3,1.04,SPEAKER_02,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_02"", ""overlap_seconds"": 1.04}]","Oh, and effect, okay."
+ES2002b,178,764.44,766.42,1.98,SPEAKER_04,matched_automatic_diarization,0.8919,"[{""speaker_id"": ""SPEAKER_04"", ""overlap_seconds"": 1.766}]","Okay, I think that's it now."
+ES2002b,179,773.06,773.46,0.4,SPEAKER_03,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_03"", ""overlap_seconds"": 0.4}]",Again?
+ES2002b,180,775.38,777.42,2.04,UNCERTAIN,low_or_mixed_speaker_overlap,0.298,"[{""speaker_id"": ""SPEAKER_00"", ""overlap_seconds"": 0.608}, {""speaker_id"": ""SPEAKER_04"", ""overlap_seconds"": 0.253}]","Yeah, you wanna..."
+ES2002b,181,778.38,779.44,1.06,SPEAKER_00,matched_automatic_diarization,0.783,"[{""speaker_id"": ""SPEAKER_00"", ""overlap_seconds"": 0.83}, {""speaker_id"": ""SPEAKER_04"", ""overlap_seconds"": 0.196}]","Oh, oh, here we go."
+ES2002b,182,779.68,780.06,0.38,SPEAKER_04,matched_automatic_diarization,0.7816,"[{""speaker_id"": ""SPEAKER_04"", ""overlap_seconds"": 0.297}, {""speaker_id"": ""SPEAKER_00"", ""overlap_seconds"": 0.083}]","Okay, great."
+ES2002b,183,780.06,780.48,0.42,SPEAKER_00,matched_automatic_diarization,0.9262,"[{""speaker_id"": ""SPEAKER_00"", ""overlap_seconds"": 0.389}]",There you go.
+ES2002b,184,782.26,784.6,2.34,SPEAKER_04,matched_automatic_diarization,0.9231,"[{""speaker_id"": ""SPEAKER_04"", ""overlap_seconds"": 2.16}]","Okay, just before I bring this up,"
+ES2002b,185,784.66,786.76,2.1,SPEAKER_04,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_04"", ""overlap_seconds"": 2.1}]",what I'll just say is what I've done
+ES2002b,186,786.76,788.14,1.38,SPEAKER_04,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_04"", ""overlap_seconds"": 1.38}]",is tried to collect some information
+ES2002b,187,788.14,790.86,2.72,SPEAKER_04,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_04"", ""overlap_seconds"": 2.72}]",so that I can then relay this to you guys
+ES2002b,188,790.86,792.84,1.98,SPEAKER_04,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_04"", ""overlap_seconds"": 1.98}]",so that it now becomes a collective thing
+ES2002b,189,792.84,795.06,2.22,SPEAKER_04,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_04"", ""overlap_seconds"": 2.22}]","and then kind of lead us in the direction of deciding,"
+ES2002b,190,795.28,796.6,1.32,SPEAKER_04,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_04"", ""overlap_seconds"": 1.32}]","okay, what are our options?"
+ES2002b,191,796.78,797.52,0.74,SPEAKER_04,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_04"", ""overlap_seconds"": 0.74}]",What should we decide?
+ES2002b,192,798.34,799.32,0.98,SPEAKER_04,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_04"", ""overlap_seconds"": 0.98}]",And do you know what I mean?
+ES2002b,193,801.12,801.56,0.44,UNCERTAIN,low_or_mixed_speaker_overlap,0.1932,"[{""speaker_id"": ""SPEAKER_00"", ""overlap_seconds"": 0.085}]",So...
+ES2002b,194,802.32,802.76,0.44,SPEAKER_04,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_04"", ""overlap_seconds"": 0.44}]",Um...
+ES2002b,195,803.24,803.68,0.44,SPEAKER_04,matched_automatic_diarization,0.9068,"[{""speaker_id"": ""SPEAKER_04"", ""overlap_seconds"": 0.399}]",Okay.
+ES2002b,196,805.36,805.8,0.44,SPEAKER_00,matched_automatic_diarization,0.8545,"[{""speaker_id"": ""SPEAKER_00"", ""overlap_seconds"": 0.376}]",Okay.
+ES2002b,197,807.6,808.04,0.44,SPEAKER_00,matched_automatic_diarization,0.5386,"[{""speaker_id"": ""SPEAKER_00"", ""overlap_seconds"": 0.237}]",Right.
+ES2002b,198,811.72,812.6,0.88,UNCERTAIN,no_speaker_overlap,0.0,[],Can you...
+ES2002b,199,813.82,814.78,0.96,SPEAKER_00,matched_automatic_diarization,0.7635,"[{""speaker_id"": ""SPEAKER_00"", ""overlap_seconds"": 0.733}, {""speaker_id"": ""SPEAKER_01"", ""overlap_seconds"": 0.05}]","Right, okay."
+ES2002b,200,814.94,815.2,0.26,SPEAKER_04,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_04"", ""overlap_seconds"": 0.26}]",Okay.
+ES2002b,201,815.78,816.58,0.8,SPEAKER_04,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_04"", ""overlap_seconds"": 0.8}]",All right.
+ES2002b,202,817.5,817.84,0.34,SPEAKER_04,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_04"", ""overlap_seconds"": 0.34}]",Okay.
+ES2002b,203,819.1,820.28,1.18,SPEAKER_04,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_04"", ""overlap_seconds"": 1.18}]",So that makes sense.
+ES2002b,204,820.44,822.84,2.4,SPEAKER_04,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_04"", ""overlap_seconds"": 2.4}]",So what I've basically got is I've just looked into some information
+ES2002b,205,822.84,826.32,3.48,SPEAKER_04,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_04"", ""overlap_seconds"": 3.48}]",and sort of tried to think about how we could review it
+ES2002b,206,826.32,829.02,2.7,SPEAKER_04,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_04"", ""overlap_seconds"": 2.7}]",and what kind of decisions we could take away from it.
+ES2002b,207,829.08,831.86,2.78,SPEAKER_04,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_04"", ""overlap_seconds"": 2.78}]","And then maybe by the end of just looking at some of these things,"
+ES2002b,208,831.86,833.56,1.7,SPEAKER_04,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_04"", ""overlap_seconds"": 1.7}]",we can think about what are our priorities
+ES2002b,209,834.2,836.68,2.48,SPEAKER_04,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_04"", ""overlap_seconds"": 2.48}]",because certainly there's lots of different information to go through.
+ES2002b,210,837.48,841.28,3.8,SPEAKER_04,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_04"", ""overlap_seconds"": 3.8}]",So I'm thinking here primarily about customer needs
+ES2002b,211,841.28,842.5,1.22,SPEAKER_04,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_04"", ""overlap_seconds"": 1.22}]",that we start with the customer
+ES2002b,212,842.5,847.82,5.32,SPEAKER_04,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_04"", ""overlap_seconds"": 5.32}]",and what they want and what are issues with existing products.
+ES2002b,213,848.46,850.88,2.42,SPEAKER_04,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_04"", ""overlap_seconds"": 2.42}]",To think about trends and also about trying to connect that
+ES2002b,214,850.88,852.34,1.46,SPEAKER_04,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_04"", ""overlap_seconds"": 1.46}]","as you see with the company Vision,"
+ES2002b,215,852.72,854.18,1.46,SPEAKER_04,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_04"", ""overlap_seconds"": 1.46}]",which is about fashion and electronics.
+ES2002b,216,856.12,857.08,0.96,SPEAKER_04,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_04"", ""overlap_seconds"": 0.96}]","And then, as I say,"
+ES2002b,217,857.62,862.86,5.24,SPEAKER_04,matched_automatic_diarization,0.7082,"[{""speaker_id"": ""SPEAKER_04"", ""overlap_seconds"": 3.711}]",we'd like to prioritize our design features from this and...
+ES2002b,218,864.1,864.58,0.48,SPEAKER_02,matched_automatic_diarization,0.7,"[{""speaker_id"": ""SPEAKER_02"", ""overlap_seconds"": 0.336}, {""speaker_id"": ""SPEAKER_04"", ""overlap_seconds"": 0.144}]",Okay.
+ES2002b,219,866.54,868.24,1.7,SPEAKER_04,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_04"", ""overlap_seconds"": 1.7}]",So this is what I've found here.
+ES2002b,220,869.2,870.36,1.16,SPEAKER_04,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_04"", ""overlap_seconds"": 1.16}]","A lot of this is new to me,"
+ES2002b,221,870.36,872.22,1.86,SPEAKER_04,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_04"", ""overlap_seconds"": 1.86}]",so we'll just read two together.
+ES2002b,222,874.76,877.16,2.4,SPEAKER_04,matched_automatic_diarization,0.9704,"[{""speaker_id"": ""SPEAKER_04"", ""overlap_seconds"": 2.329}]",Users dislike the look and feel of current remote controls.
+ES2002b,223,877.64,878.66,1.02,SPEAKER_04,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_04"", ""overlap_seconds"": 1.02}]",So they find them ugly.
+ES2002b,224,878.82,879.9,1.08,SPEAKER_04,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_04"", ""overlap_seconds"": 1.08}]",Most people find them ugly.
+ES2002b,225,881.76,885.5,3.74,SPEAKER_04,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_04"", ""overlap_seconds"": 3.74}]",The vast majority would spend more money for it to look fancy as well.
+ES2002b,226,885.6,886.14,0.54,SPEAKER_04,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_04"", ""overlap_seconds"": 0.54}]",We'll see later.
+ES2002b,227,886.58,888.06,1.48,SPEAKER_04,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_04"", ""overlap_seconds"": 1.48}]",The vast majority of people would spend more money
+ES2002b,228,888.06,892.48,4.42,SPEAKER_04,matched_automatic_diarization,0.9353,"[{""speaker_id"": ""SPEAKER_04"", ""overlap_seconds"": 4.134}, {""speaker_id"": ""SPEAKER_03"", ""overlap_seconds"": 0.286}]",for slightly more intuitive controls such as voice recognition.
+ES2002b,229,893.06,893.32,0.26,SPEAKER_04,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_04"", ""overlap_seconds"": 0.26}]",Okay.
+ES2002b,230,893.4,894.02,0.62,SPEAKER_04,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_04"", ""overlap_seconds"": 0.62}]",I'm going to...
+ES2002b,231,894.02,894.98,0.96,SPEAKER_04,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_04"", ""overlap_seconds"": 0.96}]",We'll look at that in a second.
+ES2002b,232,896.22,900.36,4.14,SPEAKER_04,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_04"", ""overlap_seconds"": 4.14}]",Most people use only a very slim portion of all the controls.
+ES2002b,233,901.12,903.98,2.86,SPEAKER_04,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_04"", ""overlap_seconds"": 2.86}]",So I guess what we're looking at here is people want this technology.
+ES2002b,234,904.96,906.94,1.98,SPEAKER_04,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_04"", ""overlap_seconds"": 1.98}]",They tend to use the most simple controls.
+ES2002b,235,907.46,910.86,3.4,SPEAKER_04,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_04"", ""overlap_seconds"": 3.4}]","And overall, they find remote controls to be something they don't..."
+ES2002b,236,910.86,912.04,1.18,SPEAKER_04,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_04"", ""overlap_seconds"": 1.18}]",Doesn't really appeal to them.
+ES2002b,237,912.66,914.62,1.96,SPEAKER_04,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_04"", ""overlap_seconds"": 1.96}]",So I think what we're doing is we're trying to take like...
+ES2002b,238,914.62,918.98,4.36,SPEAKER_04,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_04"", ""overlap_seconds"": 4.36}]","For me, this is sort of like three different inspirations."
+ES2002b,239,919.88,921.9,2.02,SPEAKER_04,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_04"", ""overlap_seconds"": 2.02}]","One is that we want something that's high-tech,"
+ES2002b,240,922.02,923.42,1.4,SPEAKER_04,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_04"", ""overlap_seconds"": 1.4}]",but we want it to seem easy.
+ES2002b,241,924.22,927.56,3.34,SPEAKER_04,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_04"", ""overlap_seconds"": 3.34}]","And in spite of the primitive side of it and the very high-tech side,"
+ES2002b,242,927.64,930.92,3.28,SPEAKER_04,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_04"", ""overlap_seconds"": 3.28}]",we want it to just be an appealing piece of equipment in people's hands.
+ES2002b,243,934.96,938.28,3.32,SPEAKER_04,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_04"", ""overlap_seconds"": 3.32}]","Frustrations, they get lost a lot as it came up in our last meeting."
+ES2002b,244,939.42,941.38,1.96,SPEAKER_04,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_04"", ""overlap_seconds"": 1.96}]",It takes time to learn how to use them.
+ES2002b,245,941.7,944.86,3.16,SPEAKER_04,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_04"", ""overlap_seconds"": 3.16}]",This is why I mentioned when Craig was showing us some ideas
+ES2002b,246,944.86,946.54,1.68,SPEAKER_04,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_04"", ""overlap_seconds"": 1.68}]",that we actually try and group control.
+ES2002b,247,946.68,948.32,1.64,SPEAKER_04,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_04"", ""overlap_seconds"": 1.64}]","So it doesn't just look like a big panel,"
+ES2002b,248,948.72,951.6,2.88,SPEAKER_04,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_04"", ""overlap_seconds"": 2.88}]",kind of like when you look at a new computer keyboard
+ES2002b,249,951.6,953.64,2.04,SPEAKER_04,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_04"", ""overlap_seconds"": 2.04}]",or something that is quite explanatory.
+ES2002b,250,953.9,957.34,3.44,SPEAKER_04,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_04"", ""overlap_seconds"": 3.44}]","If you want audio, if you want visual, then you have those."
+ES2002b,251,959.82,962.3,2.48,SPEAKER_04,matched_automatic_diarization,0.8597,"[{""speaker_id"": ""SPEAKER_04"", ""overlap_seconds"": 2.132}]","And I will admit, I don't know what RSI stands for."
+ES2002b,252,962.36,963.38,1.02,SPEAKER_01,matched_automatic_diarization,0.949,"[{""speaker_id"": ""SPEAKER_01"", ""overlap_seconds"": 0.968}, {""speaker_id"": ""SPEAKER_04"", ""overlap_seconds"": 0.052}]",You've had it as strain injury.
+ES2002b,253,964.72,967.22,2.5,SPEAKER_02,matched_automatic_diarization,0.9848,"[{""speaker_id"": ""SPEAKER_02"", ""overlap_seconds"": 2.462}]",Is installing remote controls on people?
+ES2002b,254,968.08,970.18,2.1,SPEAKER_04,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_04"", ""overlap_seconds"": 2.1}]","No, that did not come up at all."
+ES2002b,255,972.22,977.1,4.88,SPEAKER_04,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_04"", ""overlap_seconds"": 4.88}]",So here's another sort of a review here of the main things.
+ES2002b,256,977.24,979.6,2.36,SPEAKER_04,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_04"", ""overlap_seconds"": 2.36}]",I also found that most people would...
+ES2002b,257,979.7,982.38,2.68,SPEAKER_04,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_04"", ""overlap_seconds"": 2.68}]","adults, at least, would pay more for voice recognition."
+ES2002b,258,982.78,986.34,3.56,SPEAKER_04,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_04"", ""overlap_seconds"": 3.56}]","Now, apparently, we do have access to all the cutting-edge technology"
+ES2002b,259,986.34,987.14,0.8,SPEAKER_04,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_04"", ""overlap_seconds"": 0.8}]",and remote control.
+ES2002b,260,987.32,989.0,1.68,SPEAKER_04,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_04"", ""overlap_seconds"": 1.68}]",So I don't know if that's possible.
+ES2002b,261,989.3,991.42,2.12,SPEAKER_04,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_04"", ""overlap_seconds"": 2.12}]",We might consider getting into it.
+ES2002b,262,994.24,998.64,4.4,SPEAKER_04,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_04"", ""overlap_seconds"": 4.4}]","And again, here, as we sort of move..."
+ES2002b,263,998.64,1000.58,1.94,SPEAKER_04,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_04"", ""overlap_seconds"": 1.94}]",Start thinking about how we want to sell and market this.
+ES2002b,264,1000.88,1003.7,2.82,SPEAKER_04,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_04"", ""overlap_seconds"": 2.82}]",I think a recurring theme here is the company wants it to be...
+ES2002b,265,1004.26,1007.48,3.22,SPEAKER_04,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_04"", ""overlap_seconds"": 3.22}]",wants us to make something that's fashionable and sleek and trendy.
+ES2002b,266,1007.48,1012.84,5.36,SPEAKER_04,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_04"", ""overlap_seconds"": 5.36}]","People, additionally, aren't liking the appearance of their products."
+ES2002b,267,1013.08,1016.46,3.38,SPEAKER_04,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_04"", ""overlap_seconds"": 3.38}]","So we want to think about, as we take all the techy features,"
+ES2002b,268,1016.9,1021.22,4.32,SPEAKER_04,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_04"", ""overlap_seconds"": 4.32}]",how we can put that into a unit which people like.
+ES2002b,269,1021.66,1023.3,1.64,SPEAKER_04,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_04"", ""overlap_seconds"": 1.64}]",They like the aesthetics and the ergonomics.
+ES2002b,270,1023.6,1026.86,3.26,SPEAKER_01,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_01"", ""overlap_seconds"": 3.26}]",So want something that looks good and is easy to use.
+ES2002b,271,1027.36,1027.92,0.56,SPEAKER_01,matched_automatic_diarization,0.9625,"[{""speaker_id"": ""SPEAKER_01"", ""overlap_seconds"": 0.539}, {""speaker_id"": ""SPEAKER_04"", ""overlap_seconds"": 0.021}]",Big priorities.
+ES2002b,272,1028.76,1035.4,6.64,SPEAKER_04,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_04"", ""overlap_seconds"": 6.64}]",Just looking at what Craig's ideas are.
+ES2002b,273,1035.4,1037.24,1.84,SPEAKER_04,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_04"", ""overlap_seconds"": 1.84}]",He's sort of telling me that maybe what we want to do
+ES2002b,274,1037.24,1041.82,4.58,SPEAKER_04,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_04"", ""overlap_seconds"": 4.58}]",is try and separate the different things that we want to include in this.
+ES2002b,275,1041.98,1044.92,2.94,SPEAKER_04,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_04"", ""overlap_seconds"": 2.94}]","So if we do say, well, we want there to be all the technology,"
+ES2002b,276,1045.38,1048.2,2.82,SPEAKER_04,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_04"", ""overlap_seconds"": 2.82}]",but we try and make that almost be optional technology.
+ES2002b,277,1050.38,1053.3,2.92,SPEAKER_04,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_04"", ""overlap_seconds"": 2.92}]","I find a lot of TVs these days, something really nice about them,"
+ES2002b,278,1053.4,1055.54,2.14,SPEAKER_04,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_04"", ""overlap_seconds"": 2.14}]","is if you want to just turn them on and off, you can."
+ES2002b,279,1055.92,1057.42,1.5,SPEAKER_04,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_04"", ""overlap_seconds"": 1.5}]","But they have little panels where you click,"
+ES2002b,280,1057.48,1060.98,3.5,SPEAKER_04,matched_automatic_diarization,0.9514,"[{""speaker_id"": ""SPEAKER_04"", ""overlap_seconds"": 3.33}, {""speaker_id"": ""SPEAKER_01"", ""overlap_seconds"": 0.17}]",and there's just tons of features you go through.
+ES2002b,281,1060.98,1064.6,3.62,SPEAKER_01,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_01"", ""overlap_seconds"": 3.62}]",You group all the different kinds of types of functions together.
+ES2002b,282,1065.6,1066.62,1.02,SPEAKER_01,matched_automatic_diarization,0.6696,"[{""speaker_id"": ""SPEAKER_01"", ""overlap_seconds"": 0.683}, {""speaker_id"": ""SPEAKER_04"", ""overlap_seconds"": 0.337}]",That's a good idea.
+ES2002b,283,1067.92,1073.82,5.9,SPEAKER_04,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_04"", ""overlap_seconds"": 5.9}]",That's sort of what I hope here is that I'm putting out this information
+ES2002b,284,1073.82,1077.36,3.54,SPEAKER_04,matched_automatic_diarization,0.9048,"[{""speaker_id"": ""SPEAKER_04"", ""overlap_seconds"": 3.203}, {""speaker_id"": ""SPEAKER_03"", ""overlap_seconds"": 0.337}]","so that we can then say, OK, well, how do we collectively move on with it?"
+ES2002b,285,1077.7,1081.46,3.76,SPEAKER_04,matched_automatic_diarization,0.9146,"[{""speaker_id"": ""SPEAKER_04"", ""overlap_seconds"": 3.439}, {""speaker_id"": ""SPEAKER_03"", ""overlap_seconds"": 0.321}]","I haven't brought out one specific marketing idea,"
+ES2002b,286,1081.46,1083.8,2.34,SPEAKER_04,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_04"", ""overlap_seconds"": 2.34}]",although my sense is that what we should try and think about
+ES2002b,287,1083.8,1087.36,3.56,SPEAKER_04,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_04"", ""overlap_seconds"": 3.56}]",is what are the current trends in materials and shapes and styles
+ES2002b,288,1087.36,1092.5,5.14,SPEAKER_04,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_04"", ""overlap_seconds"": 5.14}]","and then use that, but not let that confine us technologically."
+ES2002b,289,1093.96,1094.92,0.96,SPEAKER_04,matched_automatic_diarization,0.5552,"[{""speaker_id"": ""SPEAKER_04"", ""overlap_seconds"": 0.533}, {""speaker_id"": ""SPEAKER_00"", ""overlap_seconds"": 0.309}]","OK, right."
+ES2002b,290,1095.46,1098.8,3.34,SPEAKER_04,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_04"", ""overlap_seconds"": 3.34}]","All right, any comments on all of that?"
+ES2002b,291,1100.14,1102.36,2.22,SPEAKER_01,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_01"", ""overlap_seconds"": 2.22}]","Well, one of the things that we have to decide on"
+ES2002b,292,1102.36,1104.32,1.96,SPEAKER_01,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_01"", ""overlap_seconds"": 1.96}]","by the end of the meeting is who we're going to be,"
+ES2002b,293,1105.5,1108.06,2.56,SPEAKER_01,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_01"", ""overlap_seconds"": 2.56}]","who's our target audience, our target market."
+ES2002b,294,1109.96,1114.78,4.82,SPEAKER_01,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_01"", ""overlap_seconds"": 4.82}]",So if we want something that looks good and is easy to use
+ES2002b,295,1114.78,1117.2,2.42,SPEAKER_01,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_01"", ""overlap_seconds"": 2.42}]","but is fairly powerful, product, whatever,"
+ES2002b,296,1117.56,1119.4,1.84,SPEAKER_01,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_01"", ""overlap_seconds"": 1.84}]",who do we really want to aim that at?
+ES2002b,297,1120.96,1121.68,0.72,SPEAKER_04,matched_automatic_diarization,0.7528,"[{""speaker_id"": ""SPEAKER_04"", ""overlap_seconds"": 0.542}]",Where's the money?
+ES2002b,298,1122.74,1124.54,1.8,SPEAKER_01,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_01"", ""overlap_seconds"": 1.8}]","Yeah, who would have the money to spend?"
+ES2002b,299,1125.78,1127.1,1.32,SPEAKER_01,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_01"", ""overlap_seconds"": 1.32}]",And who watches TV?
+ES2002b,300,1127.34,1130.74,3.4,SPEAKER_01,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_01"", ""overlap_seconds"": 3.4}]","25 euro is our selling price, and you can imagine."
+ES2002b,301,1130.96,1133.4,2.44,SPEAKER_01,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_01"", ""overlap_seconds"": 2.44}]","Well, I'm not really sure how much that will retail at,"
+ES2002b,302,1133.76,1136.08,2.32,SPEAKER_01,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_01"", ""overlap_seconds"": 2.32}]",but it's somebody who's not going to just use their remote
+ES2002b,303,1136.08,1137.46,1.38,SPEAKER_01,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_01"", ""overlap_seconds"": 1.38}]","that comes with their tele, I suppose."
+ES2002b,304,1137.64,1139.1,1.46,SPEAKER_01,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_01"", ""overlap_seconds"": 1.46}]",They're going to actually go out and buy one.
+ES2002b,305,1139.74,1141.46,1.72,SPEAKER_01,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_01"", ""overlap_seconds"": 1.72}]",So who do you think we're aiming this at?
+ES2002b,306,1143.38,1146.5,3.12,SPEAKER_02,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_02"", ""overlap_seconds"": 3.12}]",I think it will be the mid-range to the high-end market
+ES2002b,307,1146.5,1150.26,3.76,SPEAKER_02,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_02"", ""overlap_seconds"": 3.76}]","in terms of people, because 25 euros for a remote,"
+ES2002b,308,1150.36,1152.0,1.64,SPEAKER_02,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_02"", ""overlap_seconds"": 1.64}]",how much is that opening in pounds?
+ES2002b,309,1152.02,1153.8,1.78,SPEAKER_02,matched_automatic_diarization,0.5354,"[{""speaker_id"": ""SPEAKER_02"", ""overlap_seconds"": 0.953}, {""speaker_id"": ""SPEAKER_01"", ""overlap_seconds"": 0.827}]","It's about 16, 17 pounds, I think."
+ES2002b,310,1154.32,1156.16,1.84,SPEAKER_02,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_02"", ""overlap_seconds"": 1.84}]",Is that a lot of money to buy an extra remote?
+ES2002b,311,1158.36,1158.38,0.02,SPEAKER_02,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_02"", ""overlap_seconds"": 0.02}]",OK.
+ES2002b,312,1160.0,1164.24,4.24,SPEAKER_02,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_02"", ""overlap_seconds"": 4.24}]","So maybe not the high-end range, but maybe middle,"
+ES2002b,313,1164.4,1166.38,1.98,SPEAKER_02,matched_automatic_diarization,0.6591,"[{""speaker_id"": ""SPEAKER_02"", ""overlap_seconds"": 1.305}, {""speaker_id"": ""SPEAKER_01"", ""overlap_seconds"": 0.675}]",middle up-ish kind of.
+ES2002b,314,1167.46,1167.78,0.32,SPEAKER_02,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_02"", ""overlap_seconds"": 0.32}]",You know how much?
+ES2002b,315,1167.78,1168.32,0.54,SPEAKER_02,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_02"", ""overlap_seconds"": 0.54}]",I don't know.
+ES2002b,316,1168.46,1169.0,0.54,SPEAKER_02,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_02"", ""overlap_seconds"": 0.54}]",I guess you'd pay what?
+ES2002b,317,1171.94,1173.32,1.38,SPEAKER_02,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_02"", ""overlap_seconds"": 1.38}]",Like a simple replacement.
+ES2002b,318,1173.7,1174.88,1.18,SPEAKER_02,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_02"", ""overlap_seconds"": 1.18}]","I mean, if you've lost your remote,"
+ES2002b,319,1175.04,1176.46,1.42,UNCERTAIN,low_or_mixed_speaker_overlap,0.4655,"[{""speaker_id"": ""SPEAKER_02"", ""overlap_seconds"": 0.661}, {""speaker_id"": ""SPEAKER_00"", ""overlap_seconds"": 0.405}, {""speaker_id"": ""SPEAKER_04"", ""overlap_seconds"": 0.354}]",and the first thing you just want to go out and get.
+ES2002b,320,1177.0,1179.24,2.24,SPEAKER_04,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_04"", ""overlap_seconds"": 2.24}]","This kind of touches on your comments there, David."
+ES2002b,321,1179.46,1181.84,2.38,SPEAKER_04,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_04"", ""overlap_seconds"": 2.38}]","These are the age groups which we have information on,"
+ES2002b,322,1182.16,1185.02,2.86,SPEAKER_04,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_04"", ""overlap_seconds"": 2.86}]",and this is a table of what people would pay more
+ES2002b,323,1185.02,1185.92,0.9,SPEAKER_04,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_04"", ""overlap_seconds"": 0.9}]",for a certain feature.
+ES2002b,324,1186.32,1189.18,2.86,SPEAKER_04,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_04"", ""overlap_seconds"": 2.86}]",Just give us a rough idea of where the will
+ES2002b,325,1189.18,1191.1,1.92,SPEAKER_04,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_04"", ""overlap_seconds"": 1.92}]","to spend money on TV equipment is,"
+ES2002b,326,1191.76,1194.08,2.32,SPEAKER_04,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_04"", ""overlap_seconds"": 2.32}]",mostly focused around the 25 age group.
+ES2002b,327,1194.84,1196.14,1.3,SPEAKER_01,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_01"", ""overlap_seconds"": 1.3}]","Yeah, so do you think we're aiming"
+ES2002b,328,1196.14,1198.3,2.16,SPEAKER_01,matched_automatic_diarization,0.6597,"[{""speaker_id"": ""SPEAKER_01"", ""overlap_seconds"": 1.425}]",at a fairly young market then?
+ES2002b,329,1198.48,1199.86,1.38,SPEAKER_04,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_04"", ""overlap_seconds"": 1.38}]",Sort of young professional.
+ES2002b,330,1200.34,1201.46,1.12,SPEAKER_01,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_01"", ""overlap_seconds"": 1.12}]","Yeah, OK."
+ES2002b,331,1202.86,1206.54,3.68,SPEAKER_01,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_01"", ""overlap_seconds"": 3.68}]",Do you think then voice recognition is something
+ES2002b,332,1206.54,1208.16,1.62,SPEAKER_01,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_01"", ""overlap_seconds"": 1.62}]",we should really seriously consider?
+ES2002b,333,1210.6,1211.56,0.96,SPEAKER_01,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_01"", ""overlap_seconds"": 0.96}]","What do you think, Craig?"
+ES2002b,334,1211.98,1214.1,2.12,SPEAKER_03,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_03"", ""overlap_seconds"": 2.12}]","Well, do you not say it was the adults"
+ES2002b,335,1214.1,1216.5,2.4,SPEAKER_03,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_03"", ""overlap_seconds"": 2.4}]",that were going for the voice recognition job?
+ES2002b,336,1216.66,1221.48,4.82,UNCERTAIN,low_or_mixed_speaker_overlap,0.4496,"[{""speaker_id"": ""SPEAKER_03"", ""overlap_seconds"": 2.167}, {""speaker_id"": ""SPEAKER_04"", ""overlap_seconds"": 1.775}]","Yeah, it does fit with the market"
+ES2002b,337,1221.48,1222.72,1.24,SPEAKER_04,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_04"", ""overlap_seconds"": 1.24}]",that we're sort of identifying.
+ES2002b,338,1224.22,1226.22,2.0,SPEAKER_01,matched_automatic_diarization,0.8275,"[{""speaker_id"": ""SPEAKER_01"", ""overlap_seconds"": 1.655}]",I think we are going to have to narrow it down
+ES2002b,339,1226.22,1227.86,1.64,SPEAKER_01,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_01"", ""overlap_seconds"": 1.64}]","to say, let's target these people"
+ES2002b,340,1227.86,1228.94,1.08,SPEAKER_01,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_01"", ""overlap_seconds"": 1.08}]","and give them what they want,"
+ES2002b,341,1229.24,1233.96,4.72,SPEAKER_01,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_01"", ""overlap_seconds"": 4.72}]",because there needs to be some kind of selling point to it.
+ES2002b,342,1234.34,1239.12,4.78,SPEAKER_01,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_01"", ""overlap_seconds"": 4.78}]","So anything to add, just kind of young professionals,"
+ES2002b,343,1240.08,1242.42,2.34,SPEAKER_01,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_01"", ""overlap_seconds"": 2.34}]","like if we are going to include speech recognition,"
+ES2002b,344,1242.68,1244.56,1.88,SPEAKER_01,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_01"", ""overlap_seconds"": 1.88}]","it's kind of between 15 and 35,"
+ES2002b,345,1245.1,1246.94,1.84,SPEAKER_01,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_01"", ""overlap_seconds"": 1.84}]",seems to be like a really high response to that.
+ES2002b,346,1247.74,1250.04,2.3,SPEAKER_01,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_01"", ""overlap_seconds"": 2.3}]",So we could say that was our target.
+ES2002b,347,1250.04,1253.68,3.64,SPEAKER_02,matched_automatic_diarization,0.9797,"[{""speaker_id"": ""SPEAKER_02"", ""overlap_seconds"": 3.566}, {""speaker_id"": ""SPEAKER_01"", ""overlap_seconds"": 0.074}]","So 15 to 35 is fair to add that in the early work,"
+ES2002b,348,1254.0,1255.7,1.7,SPEAKER_02,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_02"", ""overlap_seconds"": 1.7}]",because that's more than half your group of people
+ES2002b,349,1255.7,1257.74,2.04,SPEAKER_02,matched_automatic_diarization,0.9426,"[{""speaker_id"": ""SPEAKER_02"", ""overlap_seconds"": 1.923}, {""speaker_id"": ""SPEAKER_01"", ""overlap_seconds"": 0.117}]",who are willing to at least try and use your technology.
+ES2002b,350,1258.52,1261.34,2.82,SPEAKER_01,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_01"", ""overlap_seconds"": 2.82}]","OK, so 15 to 35 looks fairly young."
+ES2002b,351,1261.96,1264.16,2.2,SPEAKER_01,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_01"", ""overlap_seconds"": 2.2}]",They have a bit of expandable income to spend
+ES2002b,352,1264.16,1265.02,0.86,SPEAKER_01,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_01"", ""overlap_seconds"": 0.86}]",on this sort of thing.
+ES2002b,353,1265.18,1267.0,1.82,SPEAKER_02,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_02"", ""overlap_seconds"": 1.82}]","I think perhaps that age group is significant as well,"
+ES2002b,354,1267.06,1268.86,1.8,SPEAKER_02,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_02"", ""overlap_seconds"": 1.8}]","because those are people who use the computer,"
+ES2002b,355,1269.84,1273.24,3.4,SPEAKER_02,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_02"", ""overlap_seconds"": 3.4}]",who are familiar with computers in their everyday work.
+ES2002b,356,1274.02,1275.96,1.94,SPEAKER_02,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_02"", ""overlap_seconds"": 1.94}]","I think people who are maybe about,"
+ES2002b,357,1276.5,1277.76,1.26,SPEAKER_02,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_02"", ""overlap_seconds"": 1.26}]","I wouldn't say 35,"
+ES2002b,358,1277.76,1279.94,2.18,SPEAKER_02,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_02"", ""overlap_seconds"": 2.18}]",but people who are 40ish and above now
+ES2002b,359,1279.94,1284.04,4.1,SPEAKER_02,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_02"", ""overlap_seconds"": 4.1}]",would not be so dependent and reliant on a computer
+ES2002b,360,1284.04,1286.12,2.08,SPEAKER_02,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_02"", ""overlap_seconds"": 2.08}]",or a mobile phone or something like that.
+ES2002b,361,1286.16,1287.72,1.56,SPEAKER_02,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_02"", ""overlap_seconds"": 1.56}]","These are people who are gadgety, right?"
+ES2002b,362,1288.08,1290.3,2.22,SPEAKER_02,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_02"", ""overlap_seconds"": 2.22}]",People who are growing up used to in schools
+ES2002b,363,1290.3,1293.02,2.72,SPEAKER_02,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_02"", ""overlap_seconds"": 2.72}]","and in universities, when they go into their working lives."
+ES2002b,364,1293.82,1296.26,2.44,SPEAKER_01,matched_automatic_diarization,0.9791,"[{""speaker_id"": ""SPEAKER_01"", ""overlap_seconds"": 2.389}, {""speaker_id"": ""SPEAKER_02"", ""overlap_seconds"": 0.051}]",So they're not shy away from something quite high-tech.
+ES2002b,365,1296.52,1297.72,1.2,SPEAKER_01,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_01"", ""overlap_seconds"": 1.2}]",That's a good point.
+ES2002b,366,1298.58,1304.44,5.86,SPEAKER_01,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_01"", ""overlap_seconds"": 5.86}]","OK, so shall we make the decision"
+ES2002b,367,1304.44,1306.08,1.64,SPEAKER_01,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_01"", ""overlap_seconds"": 1.64}]",to include speech recognition?
+ES2002b,368,1306.84,1307.7,0.86,SPEAKER_01,matched_automatic_diarization,0.7058,"[{""speaker_id"": ""SPEAKER_01"", ""overlap_seconds"": 0.607}, {""speaker_id"": ""SPEAKER_04"", ""overlap_seconds"": 0.253}]",If we can.
+ES2002b,369,1307.84,1308.2,0.36,SPEAKER_02,matched_automatic_diarization,0.6167,"[{""speaker_id"": ""SPEAKER_02"", ""overlap_seconds"": 0.222}, {""speaker_id"": ""SPEAKER_01"", ""overlap_seconds"": 0.138}]",If we can.
+ES2002b,370,1308.28,1310.14,1.86,SPEAKER_02,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_02"", ""overlap_seconds"": 1.86}]",I think one thing we should try not to avoid
+ES2002b,371,1310.14,1313.42,3.28,SPEAKER_02,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_02"", ""overlap_seconds"": 3.28}]",is not to say we have to use speech recognition right now.
+ES2002b,372,1313.46,1314.62,1.16,SPEAKER_02,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_02"", ""overlap_seconds"": 1.16}]","OK, why is that?"
+ES2002b,373,1315.86,1317.54,1.68,SPEAKER_02,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_02"", ""overlap_seconds"": 1.68}]","Based on what everybody is saying,"
+ES2002b,374,1317.94,1318.94,1.0,SPEAKER_02,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_02"", ""overlap_seconds"": 1.0}]",you want something simple.
+ES2002b,375,1319.28,1320.28,1.0,SPEAKER_02,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_02"", ""overlap_seconds"": 1.0}]","You want basic stuff,"
+ES2002b,376,1320.78,1322.32,1.54,SPEAKER_02,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_02"", ""overlap_seconds"": 1.54}]",and you want something that's easy to use.
+ES2002b,377,1322.46,1324.32,1.86,SPEAKER_02,matched_automatic_diarization,0.9694,"[{""speaker_id"": ""SPEAKER_02"", ""overlap_seconds"": 1.803}, {""speaker_id"": ""SPEAKER_04"", ""overlap_seconds"": 0.057}]",Speech recognition might not be the simplest thing.
+ES2002b,378,1324.34,1324.46,0.12,SPEAKER_04,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_04"", ""overlap_seconds"": 0.12}]",Right.
+ES2002b,379,1325.4,1327.22,1.82,SPEAKER_04,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_04"", ""overlap_seconds"": 1.82}]",Could it be an on-off thing?
+ES2002b,380,1328.0,1328.98,0.98,SPEAKER_04,matched_automatic_diarization,0.8867,"[{""speaker_id"": ""SPEAKER_04"", ""overlap_seconds"": 0.869}, {""speaker_id"": ""SPEAKER_02"", ""overlap_seconds"": 0.111}]","Like, if you want it?"
+ES2002b,381,1328.98,1330.42,1.44,SPEAKER_02,matched_automatic_diarization,0.6611,"[{""speaker_id"": ""SPEAKER_02"", ""overlap_seconds"": 0.952}, {""speaker_id"": ""SPEAKER_04"", ""overlap_seconds"": 0.488}]","Well, you can activate it and deactivate it."
+ES2002b,382,1330.6,1333.26,2.66,SPEAKER_02,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_02"", ""overlap_seconds"": 2.66}]","We're trying to lock ourselves into a particular kind of technology,"
+ES2002b,383,1333.26,1337.06,3.8,SPEAKER_02,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_02"", ""overlap_seconds"": 3.8}]",rather than focusing on exactly what are the features
+ES2002b,384,1337.06,1338.1,1.04,SPEAKER_02,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_02"", ""overlap_seconds"": 1.04}]",that we're going to say.
+ES2002b,385,1339.18,1341.18,2.0,SPEAKER_02,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_02"", ""overlap_seconds"": 2.0}]","Say speech recognition is good for this,"
+ES2002b,386,1341.32,1342.98,1.66,SPEAKER_02,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_02"", ""overlap_seconds"": 1.66}]",speech recognition is not good for this.
+ES2002b,387,1343.54,1345.88,2.34,SPEAKER_02,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_02"", ""overlap_seconds"": 2.34}]",I suggest that we think about speech recognition.
+ES2002b,388,1346.68,1349.06,2.38,SPEAKER_02,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_02"", ""overlap_seconds"": 2.38}]",It's something that can be used to fulfill a function.
+ES2002b,389,1349.64,1351.44,1.8,SPEAKER_02,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_02"", ""overlap_seconds"": 1.8}]","At the end of the day, we don't look at the technology,"
+ES2002b,390,1351.56,1352.94,1.38,SPEAKER_02,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_02"", ""overlap_seconds"": 1.38}]",but we'll get the function first.
+ES2002b,391,1353.5,1357.4,3.9,SPEAKER_01,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_01"", ""overlap_seconds"": 3.9}]","OK, well, do you want to give us your presentation,"
+ES2002b,392,1357.7,1358.26,0.56,SPEAKER_01,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_01"", ""overlap_seconds"": 0.56}]",and then we can...
+ES2002b,393,1358.96,1360.18,1.22,SPEAKER_01,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_01"", ""overlap_seconds"": 1.22}]",It might have been a good idea
+ES2002b,394,1360.18,1362.32,2.14,SPEAKER_01,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_01"", ""overlap_seconds"": 2.14}]","to all deliver our presentations and then discuss,"
+ES2002b,395,1362.32,1363.52,1.2,SPEAKER_01,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_01"", ""overlap_seconds"": 1.2}]",but this is hybrid.
+ES2002b,396,1363.96,1366.02,2.06,SPEAKER_04,matched_automatic_diarization,0.6767,"[{""speaker_id"": ""SPEAKER_04"", ""overlap_seconds"": 1.394}, {""speaker_id"": ""SPEAKER_01"", ""overlap_seconds"": 0.666}]",Good to get ideas out while they're fresh in mind.
+ES2002b,397,1366.32,1367.36,1.04,SPEAKER_01,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_01"", ""overlap_seconds"": 1.04}]","Yeah, exactly, yeah."
+ES2002b,398,1367.8,1369.38,1.58,SPEAKER_01,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_01"", ""overlap_seconds"": 1.58}]","It's something that's just occurred to me as well,"
+ES2002b,399,1369.5,1371.58,2.08,SPEAKER_01,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_01"", ""overlap_seconds"": 2.08}]","is if we make it speech recognition,"
+ES2002b,400,1371.76,1373.22,1.46,SPEAKER_01,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_01"", ""overlap_seconds"": 1.46}]","if we incorporate speech recognition,"
+ES2002b,401,1373.7,1378.7,5.0,SPEAKER_01,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_01"", ""overlap_seconds"": 5.0}]",that's appealing to people maybe with physical disability as well.
+ES2002b,402,1379.08,1380.94,1.86,SPEAKER_04,matched_automatic_diarization,0.6409,"[{""speaker_id"": ""SPEAKER_04"", ""overlap_seconds"": 1.192}, {""speaker_id"": ""SPEAKER_01"", ""overlap_seconds"": 0.668}]","Yeah, and not losing,"
+ES2002b,403,1381.26,1384.6,3.34,SPEAKER_04,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_04"", ""overlap_seconds"": 3.34}]","and also it helps in terms of people not losing this,"
+ES2002b,404,1384.88,1386.04,1.16,SPEAKER_04,matched_automatic_diarization,0.6362,"[{""speaker_id"": ""SPEAKER_04"", ""overlap_seconds"": 0.738}, {""speaker_id"": ""SPEAKER_01"", ""overlap_seconds"": 0.422}]","you know, they're saying,"
+ES2002b,405,1386.1,1388.06,1.96,SPEAKER_04,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_04"", ""overlap_seconds"": 1.96}]","oh, I lose it in the couch."
+ES2002b,406,1389.4,1390.6,1.2,SPEAKER_04,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_04"", ""overlap_seconds"": 1.2}]",It's like we're kind of...
+ES2002b,407,1390.6,1392.3,1.7,SPEAKER_04,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_04"", ""overlap_seconds"": 1.7}]",We're sort of getting into here
+ES2002b,408,1392.3,1395.72,3.42,SPEAKER_04,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_04"", ""overlap_seconds"": 3.42}]",is making different design features together.
+ES2002b,409,1396.64,1398.22,1.58,SPEAKER_03,matched_automatic_diarization,0.9468,"[{""speaker_id"": ""SPEAKER_03"", ""overlap_seconds"": 1.496}]","Again, one problem with speech recognition"
+ES2002b,410,1398.22,1399.82,1.6,SPEAKER_03,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_03"", ""overlap_seconds"": 1.6}]","is I've actually seen one of them used,"
+ES2002b,411,1400.46,1402.56,2.1,SPEAKER_03,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_03"", ""overlap_seconds"": 2.1}]",and the technology that was in that one
+ES2002b,412,1402.56,1403.42,0.86,SPEAKER_03,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_03"", ""overlap_seconds"": 0.86}]","wasn't particularly amusing,"
+ES2002b,413,1403.72,1405.22,1.5,SPEAKER_03,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_03"", ""overlap_seconds"": 1.5}]",so you end up yelling with control for hours.
+ES2002b,414,1405.92,1407.54,1.62,SPEAKER_03,matched_automatic_diarization,0.9377,"[{""speaker_id"": ""SPEAKER_03"", ""overlap_seconds"": 1.519}, {""speaker_id"": ""SPEAKER_01"", ""overlap_seconds"": 0.101}]",I've already seen one before.
+ES2002b,415,1407.6,1410.38,2.78,SPEAKER_01,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_01"", ""overlap_seconds"": 2.78}]",Do you think maybe we need further advances
+ES2002b,416,1410.38,1411.38,1.0,SPEAKER_01,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_01"", ""overlap_seconds"": 1.0}]",in that kind of area
+ES2002b,417,1411.38,1413.52,2.14,SPEAKER_01,matched_automatic_diarization,0.9659,"[{""speaker_id"": ""SPEAKER_01"", ""overlap_seconds"": 2.067}, {""speaker_id"": ""SPEAKER_03"", ""overlap_seconds"": 0.073}]",until it's worthwhile incorporating it?
+ES2002b,418,1413.66,1415.4,1.74,SPEAKER_03,matched_automatic_diarization,0.8184,"[{""speaker_id"": ""SPEAKER_03"", ""overlap_seconds"": 1.424}, {""speaker_id"": ""SPEAKER_00"", ""overlap_seconds"": 0.316}]",I think it would be quite expensive to...
+ES2002b,419,1415.4,1416.18,0.78,SPEAKER_00,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_00"", ""overlap_seconds"": 0.78}]",Of course not.
+ES2002b,420,1417.36,1418.14,0.78,SPEAKER_00,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_00"", ""overlap_seconds"": 0.78}]",There you go.
+ES2002b,421,1421.08,1421.46,0.38,UNCERTAIN,no_speaker_overlap,0.0,[],Nice.
+ES2002b,422,1422.02,1423.58,1.56,SPEAKER_02,matched_automatic_diarization,0.9026,"[{""speaker_id"": ""SPEAKER_02"", ""overlap_seconds"": 1.408}]","Well, this is just a working design."
+ES2002b,423,1425.56,1428.7,3.14,SPEAKER_02,matched_automatic_diarization,0.9452,"[{""speaker_id"": ""SPEAKER_02"", ""overlap_seconds"": 2.968}]","Well, this is just how I would go about it."
+ES2002b,424,1429.74,1432.14,2.4,SPEAKER_02,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_02"", ""overlap_seconds"": 2.4}]","I guess I try to define what we're doing now,"
+ES2002b,425,1432.36,1434.02,1.66,SPEAKER_02,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_02"", ""overlap_seconds"": 1.66}]",try to define what we're trying to get done.
+ES2002b,426,1434.56,1435.64,1.08,SPEAKER_02,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_02"", ""overlap_seconds"": 1.08}]","I think in a practical way,"
+ES2002b,427,1435.9,1437.04,1.14,SPEAKER_02,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_02"", ""overlap_seconds"": 1.14}]","we kind of know what it is,"
+ES2002b,428,1437.18,1438.66,1.48,SPEAKER_02,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_02"", ""overlap_seconds"": 1.48}]","we've used it, we're familiar with it,"
+ES2002b,429,1438.72,1441.46,2.74,SPEAKER_02,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_02"", ""overlap_seconds"": 2.74}]",but we haven't narrowed down
+ES2002b,430,1441.46,1443.42,1.96,SPEAKER_02,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_02"", ""overlap_seconds"": 1.96}]",exactly what other things we're trying to fulfill.
+ES2002b,431,1444.86,1445.7,0.84,SPEAKER_02,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_02"", ""overlap_seconds"": 0.84}]",Design is the basics.
+ES2002b,432,1445.98,1447.72,1.74,SPEAKER_02,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_02"", ""overlap_seconds"": 1.74}]","I think in the back of our minds,"
+ES2002b,433,1447.72,1448.82,1.1,SPEAKER_02,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_02"", ""overlap_seconds"": 1.1}]",we know what the basics are.
+ES2002b,434,1448.82,1450.74,1.92,SPEAKER_02,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_02"", ""overlap_seconds"": 1.92}]","Change channels, change volume,"
+ES2002b,435,1450.9,1452.56,1.66,SPEAKER_02,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_02"", ""overlap_seconds"": 1.66}]","but in specifics,"
+ES2002b,436,1453.08,1455.32,2.24,SPEAKER_02,matched_automatic_diarization,0.9973,"[{""speaker_id"": ""SPEAKER_02"", ""overlap_seconds"": 2.234}, {""speaker_id"": ""SPEAKER_01"", ""overlap_seconds"": 0.006}]",which one of the basics are you trying to cover there?
+ES2002b,437,1455.82,1457.06,1.24,SPEAKER_02,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_02"", ""overlap_seconds"": 1.24}]",Are there certain parts of the basics
+ES2002b,438,1457.06,1459.26,2.2,SPEAKER_02,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_02"", ""overlap_seconds"": 2.2}]",that are more important or less important than the basics?
+ES2002b,439,1460.46,1464.22,3.76,SPEAKER_02,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_02"", ""overlap_seconds"": 3.76}]",The idea is to get everybody to...
+ES2002b,440,1464.22,1468.36,4.14,SPEAKER_02,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_02"", ""overlap_seconds"": 4.14}]","I usually have a design that has a basic,"
+ES2002b,441,1469.18,1471.86,2.68,SPEAKER_02,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_02"", ""overlap_seconds"": 2.68}]","so things to start everything going,"
+ES2002b,442,1472.52,1474.16,1.64,SPEAKER_02,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_02"", ""overlap_seconds"": 1.64}]","but I guess everybody does have some idea,"
+ES2002b,443,1474.3,1476.08,1.78,SPEAKER_02,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_02"", ""overlap_seconds"": 1.78}]",so I don't think we can move to that.
+ES2002b,444,1478.62,1481.4,2.78,SPEAKER_02,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_02"", ""overlap_seconds"": 2.78}]","Okay, this finding thing is a little bit confusing,"
+ES2002b,445,1481.66,1483.08,1.42,SPEAKER_02,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_02"", ""overlap_seconds"": 1.42}]",so I'll go into the diagram first.
+ES2002b,446,1483.32,1485.52,2.2,SPEAKER_02,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_02"", ""overlap_seconds"": 2.2}]",It just explains how the process goes through
+ES2002b,447,1485.52,1487.98,2.46,SPEAKER_02,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_02"", ""overlap_seconds"": 2.46}]","from the basic technology point of view,"
+ES2002b,448,1488.02,1490.34,2.32,SPEAKER_02,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_02"", ""overlap_seconds"": 2.32}]",the basic steps that you need in the diagram.
+ES2002b,449,1491.14,1492.42,1.28,SPEAKER_02,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_02"", ""overlap_seconds"": 1.28}]",This slide probably works better.
+ES2002b,450,1493.32,1495.16,1.84,SPEAKER_02,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_02"", ""overlap_seconds"": 1.84}]","Okay, you need some power source,"
+ES2002b,451,1495.76,1497.46,1.7,SPEAKER_02,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_02"", ""overlap_seconds"": 1.7}]",your battery or something to keep it going.
+ES2002b,452,1498.48,1500.14,1.66,SPEAKER_02,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_02"", ""overlap_seconds"": 1.66}]",And that power source is important
+ES2002b,453,1500.14,1504.52,4.38,SPEAKER_02,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_02"", ""overlap_seconds"": 4.38}]",because it ties you down to how long the device will last.
+ES2002b,454,1504.52,1507.48,2.96,SPEAKER_02,matched_automatic_diarization,0.9828,"[{""speaker_id"": ""SPEAKER_02"", ""overlap_seconds"": 2.909}, {""speaker_id"": ""SPEAKER_01"", ""overlap_seconds"": 0.051}]",It ties you down perhaps a bit later on
+ES2002b,455,1507.48,1508.3,0.82,SPEAKER_02,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_02"", ""overlap_seconds"": 0.82}]","in terms of technologies,"
+ES2002b,456,1509.24,1511.34,2.1,SPEAKER_02,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_02"", ""overlap_seconds"": 2.1}]",how far you can transmit the signal
+ES2002b,457,1511.34,1514.18,2.84,SPEAKER_02,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_02"", ""overlap_seconds"": 2.84}]",or the complexity of the functions that you want.
+ES2002b,458,1514.68,1515.88,1.2,SPEAKER_02,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_02"", ""overlap_seconds"": 1.2}]","For example, voice recognition,"
+ES2002b,459,1516.46,1517.38,0.92,SPEAKER_02,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_02"", ""overlap_seconds"": 0.92}]",that might be constrained
+ES2002b,460,1517.38,1519.48,2.1,SPEAKER_02,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_02"", ""overlap_seconds"": 2.1}]","because you might need the power microphone,"
+ES2002b,461,1519.7,1520.58,0.88,SPEAKER_02,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_02"", ""overlap_seconds"": 0.88}]","you might need the power of the thing,"
+ES2002b,462,1521.18,1523.04,1.86,SPEAKER_02,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_02"", ""overlap_seconds"": 1.86}]",so that's one constraint there.
+ES2002b,463,1525.9,1528.36,2.46,SPEAKER_02,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_02"", ""overlap_seconds"": 2.46}]",The basic thing is there's a user interface
+ES2002b,464,1528.36,1530.16,1.8,SPEAKER_02,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_02"", ""overlap_seconds"": 1.8}]",where people punch a button
+ES2002b,465,1530.16,1532.74,2.58,SPEAKER_02,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_02"", ""overlap_seconds"": 2.58}]",or talk into it or smile to it
+ES2002b,466,1532.74,1534.48,1.74,SPEAKER_02,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_02"", ""overlap_seconds"": 1.74}]","or blink their eyes, whatever,"
+ES2002b,467,1535.12,1538.64,3.52,SPEAKER_02,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_02"", ""overlap_seconds"": 3.52}]",and that picks up an input from the user.
+ES2002b,468,1540.42,1542.62,2.2,SPEAKER_02,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_02"", ""overlap_seconds"": 2.2}]","A logic, a series of logic has to decide"
+ES2002b,469,1542.62,1544.76,2.14,SPEAKER_02,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_02"", ""overlap_seconds"": 2.14}]",what the user is telling the device
+ES2002b,470,1544.76,1545.98,1.22,SPEAKER_02,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_02"", ""overlap_seconds"": 1.22}]","and the device has to,"
+ES2002b,471,1546.52,1548.42,1.9,SPEAKER_02,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_02"", ""overlap_seconds"": 1.9}]","based on you push button A,"
+ES2002b,472,1548.62,1549.98,1.36,SPEAKER_02,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_02"", ""overlap_seconds"": 1.36}]","so I would do something with button A,"
+ES2002b,473,1550.14,1551.32,1.18,SPEAKER_02,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_02"", ""overlap_seconds"": 1.18}]",so maybe button A is a power button.
+ES2002b,474,1552.62,1554.6,1.98,SPEAKER_02,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_02"", ""overlap_seconds"": 1.98}]",And then you need to be able to send the signal
+ES2002b,475,1554.6,1557.3,2.7,SPEAKER_02,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_02"", ""overlap_seconds"": 2.7}]","to the device itself, which is the receiver here."
+ES2002b,476,1557.96,1560.7,2.74,SPEAKER_02,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_02"", ""overlap_seconds"": 2.74}]",And I think that's about it in terms of my design.
+ES2002b,477,1562.78,1563.9,1.12,SPEAKER_02,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_02"", ""overlap_seconds"": 1.12}]","It's fairly general,"
+ES2002b,478,1564.58,1567.56,2.98,SPEAKER_02,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_02"", ""overlap_seconds"": 2.98}]",and I guess the purpose of this is also not to restrict you
+ES2002b,479,1567.56,1568.96,1.4,SPEAKER_02,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_02"", ""overlap_seconds"": 1.4}]","in the way you're thinking,"
+ES2002b,480,1569.18,1571.16,1.98,SPEAKER_02,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_02"", ""overlap_seconds"": 1.98}]","like voice recognition, right?"
+ES2002b,481,1572.96,1574.76,1.8,SPEAKER_02,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_02"", ""overlap_seconds"": 1.8}]","If it's something which is important,"
+ES2002b,482,1575.0,1575.98,0.98,SPEAKER_02,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_02"", ""overlap_seconds"": 0.98}]","then we just add more power,"
+ES2002b,483,1576.32,1578.2,1.88,SPEAKER_02,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_02"", ""overlap_seconds"": 1.88}]","rather than having a thing that we don't have enough power,"
+ES2002b,484,1578.32,1579.76,1.44,SPEAKER_02,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_02"", ""overlap_seconds"": 1.44}]","so it's not really constrained in that sense,"
+ES2002b,485,1579.92,1582.96,3.04,SPEAKER_02,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_02"", ""overlap_seconds"": 3.04}]","but these are functionally, you know,"
+ES2002b,486,1583.26,1585.44,2.18,SPEAKER_02,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_02"", ""overlap_seconds"": 2.18}]",the basic work that you have to do.
+ES2002b,487,1586.96,1588.02,1.06,SPEAKER_02,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_02"", ""overlap_seconds"": 1.06}]","So I guess the rest of it,"
+ES2002b,488,1588.02,1590.32,2.3,SPEAKER_02,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_02"", ""overlap_seconds"": 2.3}]",I think we should maybe want to go back
+ES2002b,489,1590.32,1591.48,1.16,SPEAKER_02,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_02"", ""overlap_seconds"": 1.16}]",to what the functions are.
+ES2002b,490,1591.48,1594.24,2.76,SPEAKER_02,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_02"", ""overlap_seconds"": 2.76}]",I think that's more relevant to the discussion.
+ES2002b,491,1594.74,1597.66,2.92,SPEAKER_01,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_01"", ""overlap_seconds"": 2.92}]","Well, do you want to finish up your presentation?"
+ES2002b,492,1598.4,1599.04,0.64,SPEAKER_01,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_01"", ""overlap_seconds"": 0.64}]",Are you all done?
+ES2002b,493,1599.66,1599.76,0.1,SPEAKER_02,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_02"", ""overlap_seconds"": 0.1}]",Yeah.
+ES2002b,494,1600.7,1602.92,2.22,SPEAKER_02,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_02"", ""overlap_seconds"": 2.22}]","Oh, it's just putting the rest of it into words,"
+ES2002b,495,1603.08,1604.4,1.32,SPEAKER_02,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_02"", ""overlap_seconds"": 1.32}]",but it's essentially the same thing.
+ES2002b,496,1605.46,1609.44,3.98,SPEAKER_02,matched_automatic_diarization,0.9686,"[{""speaker_id"": ""SPEAKER_02"", ""overlap_seconds"": 3.855}]","You have a transmitter, and then you can slide it to, you know."
+ES2002b,497,1609.56,1609.8,0.24,SPEAKER_00,matched_automatic_diarization,0.6833,"[{""speaker_id"": ""SPEAKER_00"", ""overlap_seconds"": 0.164}]",Okay.
+ES2002b,498,1610.68,1611.68,1.0,SPEAKER_04,matched_automatic_diarization,0.913,"[{""speaker_id"": ""SPEAKER_04"", ""overlap_seconds"": 0.913}]","And like on the,"
+ES2002b,499,1612.86,1615.02,2.16,SPEAKER_04,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_04"", ""overlap_seconds"": 2.16}]","I mean, since we're on the topic of the technology,"
+ES2002b,500,1615.92,1617.98,2.06,SPEAKER_04,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_04"", ""overlap_seconds"": 2.06}]","are there any, like, what are our options?"
+ES2002b,501,1617.98,1624.06,6.08,SPEAKER_04,matched_automatic_diarization,0.989,"[{""speaker_id"": ""SPEAKER_04"", ""overlap_seconds"": 6.013}, {""speaker_id"": ""SPEAKER_02"", ""overlap_seconds"": 0.067}]","Is this the only way that we go about it, or are there other?"
+ES2002b,502,1624.64,1627.14,2.5,SPEAKER_02,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_02"", ""overlap_seconds"": 2.5}]",These aren't technology options in that sense.
+ES2002b,503,1627.36,1629.44,2.08,SPEAKER_02,matched_automatic_diarization,0.8538,"[{""speaker_id"": ""SPEAKER_02"", ""overlap_seconds"": 1.776}, {""speaker_id"": ""SPEAKER_04"", ""overlap_seconds"": 0.304}]",This is just the basic principles
+ES2002b,504,1630.18,1632.18,2.0,SPEAKER_02,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_02"", ""overlap_seconds"": 2.0}]",and basic components that are needed.
+ES2002b,505,1632.7,1638.2,5.5,SPEAKER_02,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_02"", ""overlap_seconds"": 5.5}]","For example, if you needed to add a voice recognition,"
+ES2002b,506,1638.56,1640.62,2.06,SPEAKER_02,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_02"", ""overlap_seconds"": 2.06}]","then the user interface would be split,"
+ES2002b,507,1640.8,1642.52,1.72,SPEAKER_02,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_02"", ""overlap_seconds"": 1.72}]","broken down into more components, right?"
+ES2002b,508,1643.08,1645.46,2.38,SPEAKER_02,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_02"", ""overlap_seconds"": 2.38}]","You have a microphone, a VR, stuff like that."
+ES2002b,509,1645.46,1648.06,2.6,SPEAKER_01,matched_automatic_diarization,0.9477,"[{""speaker_id"": ""SPEAKER_01"", ""overlap_seconds"": 2.464}, {""speaker_id"": ""SPEAKER_02"", ""overlap_seconds"": 0.136}]",So this just shows how we're kind of modularizing the whole thing.
+ES2002b,510,1648.82,1651.06,2.24,SPEAKER_02,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_02"", ""overlap_seconds"": 2.24}]","So each component represents one function,"
+ES2002b,511,1651.24,1653.24,2.0,SPEAKER_02,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_02"", ""overlap_seconds"": 2.0}]","but I think the basic functions of the logic,"
+ES2002b,512,1653.46,1655.6,2.14,SPEAKER_02,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_02"", ""overlap_seconds"": 2.14}]","the transmitter, and the receiver,"
+ES2002b,513,1656.58,1659.54,2.96,SPEAKER_02,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_02"", ""overlap_seconds"": 2.96}]",and the power are things that you won't have to care about.
+ES2002b,514,1660.36,1661.32,0.96,SPEAKER_02,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_02"", ""overlap_seconds"": 0.96}]","And those are things that,"
+ES2002b,515,1661.46,1663.44,1.98,SPEAKER_02,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_02"", ""overlap_seconds"": 1.98}]","based on what your user interface requires,"
+ES2002b,516,1663.6,1665.32,1.72,SPEAKER_02,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_02"", ""overlap_seconds"": 1.72}]",they will add more functionality to it.
+ES2002b,517,1666.08,1667.86,1.78,SPEAKER_02,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_02"", ""overlap_seconds"": 1.78}]","There might be one other consideration,"
+ES2002b,518,1668.08,1672.08,4.0,SPEAKER_02,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_02"", ""overlap_seconds"": 4.0}]",which would be the transmission between the remote control
+ES2002b,519,1672.08,1673.42,1.34,SPEAKER_02,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_02"", ""overlap_seconds"": 1.34}]","and the TV, for example."
+ES2002b,520,1674.88,1676.96,2.08,SPEAKER_02,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_02"", ""overlap_seconds"": 2.08}]",Are we going to restrict ourselves
+ES2002b,521,1676.96,1679.8,2.84,SPEAKER_02,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_02"", ""overlap_seconds"": 2.84}]","to using the traditional technologies, or are we going to do it?"
+ES2002b,522,1680.42,1681.9,1.48,SPEAKER_02,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_02"", ""overlap_seconds"": 1.48}]","Because that's something unique, actually,"
+ES2002b,523,1682.16,1684.32,2.16,SPEAKER_02,matched_automatic_diarization,0.8671,"[{""speaker_id"": ""SPEAKER_02"", ""overlap_seconds"": 1.873}, {""speaker_id"": ""SPEAKER_01"", ""overlap_seconds"": 0.287}]",because you can point to rights.
+ES2002b,524,1685.1,1687.88,2.78,SPEAKER_01,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_01"", ""overlap_seconds"": 2.78}]","Well, a worry that was expressed in the new requirements"
+ES2002b,525,1687.88,1689.52,1.64,SPEAKER_01,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_01"", ""overlap_seconds"": 1.64}]","was that if we made this too complex,"
+ES2002b,526,1689.62,1693.44,3.82,SPEAKER_01,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_01"", ""overlap_seconds"": 3.82}]",it would affect how long it took us to get this to market.
+ES2002b,527,1693.96,1696.58,2.62,SPEAKER_01,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_01"", ""overlap_seconds"": 2.62}]",So I suspect it might be a good idea
+ES2002b,528,1696.58,1699.58,3.0,SPEAKER_01,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_01"", ""overlap_seconds"": 3.0}]","to restrict our creative influence on this,"
+ES2002b,529,1699.58,1700.46,0.88,SPEAKER_01,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_01"", ""overlap_seconds"": 0.88}]","on the user interface,"
+ES2002b,530,1700.46,1703.76,3.3,SPEAKER_01,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_01"", ""overlap_seconds"": 3.3}]","and not worry so much about how we transmit it,"
+ES2002b,531,1704.28,1706.36,2.08,SPEAKER_01,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_01"", ""overlap_seconds"": 2.08}]",because it's tried and tested infrared.
+ES2002b,532,1707.22,1709.3,2.08,SPEAKER_02,matched_automatic_diarization,0.9433,"[{""speaker_id"": ""SPEAKER_02"", ""overlap_seconds"": 1.962}, {""speaker_id"": ""SPEAKER_01"", ""overlap_seconds"": 0.118}]","There might be one other problem with the transmission,"
+ES2002b,533,1710.24,1712.42,2.18,SPEAKER_02,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_02"", ""overlap_seconds"": 2.18}]","in particular right now, since we're talking about voice recognition."
+ES2002b,534,1713.3,1715.68,2.38,SPEAKER_02,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_02"", ""overlap_seconds"": 2.38}]","If somebody's going to talk to the device,"
+ES2002b,535,1715.86,1717.52,1.66,SPEAKER_02,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_02"", ""overlap_seconds"": 1.66}]",you ideally want them to hold it to them.
+ES2002b,536,1718.22,1719.62,1.4,SPEAKER_02,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_02"", ""overlap_seconds"": 1.4}]","You may not require that,"
+ES2002b,537,1720.08,1722.84,2.76,SPEAKER_02,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_02"", ""overlap_seconds"": 2.76}]","but it's something very natural, I guess,"
+ES2002b,538,1723.44,1725.54,2.1,SPEAKER_02,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_02"", ""overlap_seconds"": 2.1}]","to hold it, signal to the user,"
+ES2002b,539,1725.88,1728.24,2.36,SPEAKER_02,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_02"", ""overlap_seconds"": 2.36}]",and push a button maybe to start talking about it.
+ES2002b,540,1728.4,1729.68,1.28,SPEAKER_02,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_02"", ""overlap_seconds"": 1.28}]",Then you need to send the signal out.
+ES2002b,541,1729.68,1732.26,2.58,SPEAKER_02,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_02"", ""overlap_seconds"": 2.58}]","So if you're using infrared, the line of sight,"
+ES2002b,542,1732.74,1734.86,2.12,SPEAKER_02,matched_automatic_diarization,0.9844,"[{""speaker_id"": ""SPEAKER_02"", ""overlap_seconds"": 2.087}, {""speaker_id"": ""SPEAKER_01"", ""overlap_seconds"": 0.033}]","I'll say the TV's at that chair,"
+ES2002b,543,1735.06,1736.04,0.98,SPEAKER_02,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_02"", ""overlap_seconds"": 0.98}]","and I'm standing in front of here,"
+ES2002b,544,1736.14,1738.32,2.18,SPEAKER_02,matched_automatic_diarization,0.9844,"[{""speaker_id"": ""SPEAKER_02"", ""overlap_seconds"": 2.146}, {""speaker_id"": ""SPEAKER_01"", ""overlap_seconds"": 0.034}]",and the transmitter here blocks it.
+ES2002b,545,1738.36,1740.92,2.56,SPEAKER_02,matched_automatic_diarization,0.8484,"[{""speaker_id"": ""SPEAKER_02"", ""overlap_seconds"": 2.172}, {""speaker_id"": ""SPEAKER_01"", ""overlap_seconds"": 0.388}]","So in that sense, there's not really a restriction,"
+ES2002b,546,1741.3,1743.56,2.26,SPEAKER_02,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_02"", ""overlap_seconds"": 2.26}]",but it's something that you may have to think about later on
+ES2002b,547,1743.56,1743.98,0.42,SPEAKER_02,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_02"", ""overlap_seconds"": 0.42}]",in the process.
+ES2002b,548,1745.24,1748.28,3.04,SPEAKER_04,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_04"", ""overlap_seconds"": 3.04}]","And just a clarification before we finish this,"
+ES2002b,549,1748.96,1752.14,3.18,SPEAKER_04,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_04"", ""overlap_seconds"": 3.18}]",does our controller have the option of being
+ES2002b,550,1753.02,1758.0,4.98,SPEAKER_04,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_04"", ""overlap_seconds"": 4.98}]",on a standard frequency as all of the other equipment
+ES2002b,551,1758.0,1759.9,1.9,SPEAKER_04,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_04"", ""overlap_seconds"": 1.9}]",so that the one controller can control
+ES2002b,552,1760.4,1761.98,1.58,SPEAKER_02,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_02"", ""overlap_seconds"": 1.58}]",several pieces of equipment?
+ES2002b,553,1762.18,1762.68,0.5,SPEAKER_02,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_02"", ""overlap_seconds"": 0.5}]","There's not much specific information,"
+ES2002b,554,1763.1,1765.78,2.68,SPEAKER_02,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_02"", ""overlap_seconds"": 2.68}]",but I think that one indication of infrared
+ES2002b,555,1765.78,1768.28,2.5,SPEAKER_02,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_02"", ""overlap_seconds"": 2.5}]",means that you're just targeting traditional devices.
+ES2002b,556,1769.12,1770.52,1.4,SPEAKER_02,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_02"", ""overlap_seconds"": 1.4}]",Because infrared is something which everybody has.
+ES2002b,557,1770.64,1773.16,2.52,SPEAKER_01,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_01"", ""overlap_seconds"": 2.52}]","Well, in the new requirements spec,"
+ES2002b,558,1773.32,1774.86,1.54,SPEAKER_01,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_01"", ""overlap_seconds"": 1.54}]","they said just to focus on a TV,"
+ES2002b,559,1775.04,1776.58,1.54,SPEAKER_01,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_01"", ""overlap_seconds"": 1.54}]","so that's what we should do for now, I think."
+ES2002b,560,1776.92,1778.52,1.6,SPEAKER_01,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_01"", ""overlap_seconds"": 1.6}]",Something I was wondering about was the power.
+ES2002b,561,1779.24,1782.5,3.26,SPEAKER_01,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_01"", ""overlap_seconds"": 3.26}]",Is it worth considering having a charging unit
+ES2002b,562,1782.5,1784.34,1.84,SPEAKER_01,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_01"", ""overlap_seconds"": 1.84}]",as opposed to just regular batteries?
+ES2002b,563,1785.42,1787.46,2.04,SPEAKER_01,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_01"", ""overlap_seconds"": 2.04}]","Is that something you really want to go into, do you think?"
+ES2002b,564,1787.46,1790.22,2.76,SPEAKER_01,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_01"", ""overlap_seconds"": 2.76}]",Or should we just consider running on regular batteries?
+ES2002b,565,1790.38,1792.64,2.26,SPEAKER_02,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_02"", ""overlap_seconds"": 2.26}]","From a component point of view, there's added complexity,"
+ES2002b,566,1793.32,1796.84,3.52,SPEAKER_02,matched_automatic_diarization,0.8895,"[{""speaker_id"": ""SPEAKER_02"", ""overlap_seconds"": 3.131}, {""speaker_id"": ""SPEAKER_01"", ""overlap_seconds"": 0.389}]","you add cost to it, and then there's probably the fact"
+ES2002b,567,1796.84,1798.76,1.92,SPEAKER_02,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_02"", ""overlap_seconds"": 1.92}]","that you need another physical component,"
+ES2002b,568,1798.96,1800.36,1.4,SPEAKER_02,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_02"", ""overlap_seconds"": 1.4}]","you need a docking cradle, for example."
+ES2002b,569,1800.46,1800.7,0.24,SPEAKER_01,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_01"", ""overlap_seconds"": 0.24}]",Yeah.
+ES2002b,570,1801.04,1801.96,0.92,SPEAKER_02,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_02"", ""overlap_seconds"": 0.92}]",Put it into charge.
+ES2002b,571,1802.3,1802.64,0.34,SPEAKER_01,matched_automatic_diarization,0.9059,"[{""speaker_id"": ""SPEAKER_01"", ""overlap_seconds"": 0.308}, {""speaker_id"": ""SPEAKER_02"", ""overlap_seconds"": 0.032}]",Okay.
+ES2002b,572,1802.74,1804.3,1.56,SPEAKER_02,matched_automatic_diarization,0.959,"[{""speaker_id"": ""SPEAKER_02"", ""overlap_seconds"": 1.496}, {""speaker_id"": ""SPEAKER_01"", ""overlap_seconds"": 0.064}]",Or you need to get the user to plug it in.
+ES2002b,573,1804.8,1805.54,0.74,SPEAKER_01,matched_automatic_diarization,0.6865,"[{""speaker_id"": ""SPEAKER_01"", ""overlap_seconds"": 0.508}, {""speaker_id"": ""SPEAKER_02"", ""overlap_seconds"": 0.232}]","Okay, so."
+ES2002b,574,1805.68,1809.16,3.48,SPEAKER_02,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_02"", ""overlap_seconds"": 3.48}]",Most users are already used to buying batteries
+ES2002b,575,1809.16,1810.76,1.6,SPEAKER_02,matched_automatic_diarization,0.715,"[{""speaker_id"": ""SPEAKER_02"", ""overlap_seconds"": 1.144}, {""speaker_id"": ""SPEAKER_01"", ""overlap_seconds"": 0.456}]",and putting it into the robot.
+ES2002b,576,1811.38,1814.3,2.92,SPEAKER_02,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_02"", ""overlap_seconds"": 2.92}]","Unless the controller's going to consume a lot of batteries,"
+ES2002b,577,1814.3,1816.22,1.92,SPEAKER_02,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_02"", ""overlap_seconds"": 1.92}]","like, it's going to run through, like,"
+ES2002b,578,1816.28,1818.8,2.52,SPEAKER_02,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_02"", ""overlap_seconds"": 2.52}]","the batteries a month, then I don't think they're chargeable"
+ES2002b,579,1818.8,1819.08,0.28,SPEAKER_02,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_02"", ""overlap_seconds"": 0.28}]",or something.
+ES2002b,580,1819.8,1821.86,2.06,SPEAKER_01,matched_automatic_diarization,0.7311,"[{""speaker_id"": ""SPEAKER_01"", ""overlap_seconds"": 1.506}, {""speaker_id"": ""SPEAKER_02"", ""overlap_seconds"": 0.554}]","Okay, so just stick to regular."
+ES2002b,581,1823.1,1823.32,0.22,SPEAKER_01,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_01"", ""overlap_seconds"": 0.22}]",Okay.
+ES2002b,582,1826.84,1827.32,0.48,SPEAKER_01,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_01"", ""overlap_seconds"": 0.48}]",Right.
+ES2002b,583,1827.84,1832.9,5.06,SPEAKER_01,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_01"", ""overlap_seconds"": 5.06}]","So, basically, I'm just going to just recap"
+ES2002b,584,1832.9,1837.0,4.1,SPEAKER_01,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_01"", ""overlap_seconds"": 4.1}]","what I said at the start, was that the whole point"
+ES2002b,585,1837.0,1839.34,2.34,SPEAKER_01,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_01"", ""overlap_seconds"": 2.34}]",of this meeting was to absolutely finalize
+ES2002b,586,1839.34,1840.78,1.44,SPEAKER_01,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_01"", ""overlap_seconds"": 1.44}]",who we're going to aim this at
+ES2002b,587,1841.3,1843.02,1.72,SPEAKER_01,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_01"", ""overlap_seconds"": 1.72}]",and what exactly the product's going to do.
+ES2002b,588,1843.02,1847.66,4.64,SPEAKER_01,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_01"", ""overlap_seconds"": 4.64}]","So, just to recap, are we all happy about the idea"
+ES2002b,589,1847.66,1854.08,6.42,SPEAKER_01,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_01"", ""overlap_seconds"": 6.42}]",of aiming the product at the 15 to 35 bracket?
+ES2002b,590,1855.58,1855.62,0.04,SPEAKER_01,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_01"", ""overlap_seconds"": 0.04}]","Yeah, that's good."
+ES2002b,591,1855.62,1860.04,4.42,SPEAKER_01,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_01"", ""overlap_seconds"": 4.42}]","And also, the actual functions of what it's going to do."
+ES2002b,592,1860.3,1861.76,1.46,SPEAKER_01,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_01"", ""overlap_seconds"": 1.46}]","Do you want to recap on that, Craig?"
+ES2002b,593,1864.12,1865.8,1.68,SPEAKER_03,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_03"", ""overlap_seconds"": 1.68}]",I think we used to say it was going to be
+ES2002b,594,1865.8,1867.54,1.74,SPEAKER_03,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_03"", ""overlap_seconds"": 1.74}]",the most basic stuff possible.
+ES2002b,595,1868.7,1871.04,2.34,SPEAKER_03,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_03"", ""overlap_seconds"": 2.34}]","On, off, up and down channels, up and down volume."
+ES2002b,596,1871.04,1873.18,2.14,SPEAKER_03,matched_automatic_diarization,0.7995,"[{""speaker_id"": ""SPEAKER_03"", ""overlap_seconds"": 1.711}]",And skip to a channel.
+ES2002b,597,1874.26,1875.28,1.02,UNCERTAIN,low_or_mixed_speaker_overlap,0.2804,"[{""speaker_id"": ""SPEAKER_01"", ""overlap_seconds"": 0.286}, {""speaker_id"": ""SPEAKER_04"", ""overlap_seconds"": 0.183}, {""speaker_id"": ""SPEAKER_03"", ""overlap_seconds"": 0.119}]","Okay, right."
+ES2002b,598,1875.52,1879.32,3.8,SPEAKER_04,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_04"", ""overlap_seconds"": 3.8}]",And is it going to include any of the more advanced features
+ES2002b,599,1879.32,1880.74,1.42,SPEAKER_04,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_04"", ""overlap_seconds"": 1.42}]",or are we going to eliminate those?
+ES2002b,600,1881.72,1884.06,2.34,SPEAKER_03,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_03"", ""overlap_seconds"": 2.34}]","I think we include mute, but apart from that,"
+ES2002b,601,1885.26,1887.08,1.82,SPEAKER_03,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_03"", ""overlap_seconds"": 1.82}]",I think we just go for the simpleness.
+ES2002b,602,1887.84,1888.02,0.18,SPEAKER_04,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_04"", ""overlap_seconds"": 0.18}]",Okay.
+ES2002b,603,1888.78,1891.76,2.98,SPEAKER_04,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_04"", ""overlap_seconds"": 2.98}]",Is it not an option still that we include some things
+ES2002b,604,1891.76,1894.52,2.76,SPEAKER_04,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_04"", ""overlap_seconds"": 2.76}]","just as a sort of under, like, sort of under a door?"
+ES2002b,605,1894.86,1897.12,2.26,SPEAKER_01,matched_automatic_diarization,0.9336,"[{""speaker_id"": ""SPEAKER_01"", ""overlap_seconds"": 2.11}, {""speaker_id"": ""SPEAKER_04"", ""overlap_seconds"": 0.15}]","Yeah, as optional functions."
+ES2002b,606,1897.46,1899.5,2.04,SPEAKER_04,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_04"", ""overlap_seconds"": 2.04}]","What I'd be a bit worried about is if someone was,"
+ES2002b,607,1900.5,1902.52,2.02,SPEAKER_04,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_04"", ""overlap_seconds"": 2.02}]",had previously developed habits
+ES2002b,608,1902.52,1905.32,2.8,SPEAKER_04,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_04"", ""overlap_seconds"": 2.8}]",of expecting to control surround sound
+ES2002b,609,1905.32,1907.12,1.8,SPEAKER_04,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_04"", ""overlap_seconds"": 1.8}]",or this and that with their controller
+ES2002b,610,1907.12,1911.5,4.38,SPEAKER_04,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_04"", ""overlap_seconds"": 4.38}]","and then they, you know, they get ours"
+ES2002b,611,1911.5,1913.56,2.06,SPEAKER_04,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_04"", ""overlap_seconds"": 2.06}]",and it doesn't have that.
+ES2002b,612,1914.16,1915.22,1.06,SPEAKER_04,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_04"", ""overlap_seconds"": 1.06}]",I don't know if that'd be a problem.
+ES2002b,613,1916.7,1917.88,1.18,SPEAKER_02,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_02"", ""overlap_seconds"": 1.18}]",Another thing that you were saying about
+ES2002b,614,1918.5,1919.54,1.04,SPEAKER_02,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_02"", ""overlap_seconds"": 1.04}]","telegrising the control,"
+ES2002b,615,1920.8,1923.18,2.38,SPEAKER_02,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_02"", ""overlap_seconds"": 2.38}]",maybe I could suggest we break them down
+ES2002b,616,1923.18,1924.36,1.18,SPEAKER_02,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_02"", ""overlap_seconds"": 1.18}]",into three simple categories.
+ES2002b,617,1924.94,1928.1,3.16,SPEAKER_02,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_02"", ""overlap_seconds"": 3.16}]","One would be audio control, one would be video control."
+ES2002b,618,1928.1,1928.66,0.56,SPEAKER_02,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_02"", ""overlap_seconds"": 0.56}]",Okay.
+ES2002b,619,1928.66,1929.62,0.96,SPEAKER_02,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_02"", ""overlap_seconds"": 0.96}]",And the other would be a device.
+ES2002b,620,1930.4,1933.54,3.14,SPEAKER_02,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_02"", ""overlap_seconds"": 3.14}]",This may not map very well to advanced functionality
+ES2002b,621,1933.54,1937.68,4.14,SPEAKER_02,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_02"", ""overlap_seconds"": 4.14}]","especially, but I think that from a manufacturer point of view,"
+ES2002b,622,1937.7,1939.6,1.9,SPEAKER_02,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_02"", ""overlap_seconds"": 1.9}]","a certain person designing the device,"
+ES2002b,623,1939.8,1941.38,1.58,SPEAKER_02,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_02"", ""overlap_seconds"": 1.58}]",but I think from the point of view
+ES2002b,624,1941.38,1942.54,1.16,SPEAKER_02,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_02"", ""overlap_seconds"": 1.16}]","of a person using the device,"
+ES2002b,625,1943.3,1944.48,1.18,SPEAKER_02,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_02"", ""overlap_seconds"": 1.18}]","you know, a TV is something they see"
+ES2002b,626,1944.48,1945.28,0.8,SPEAKER_02,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_02"", ""overlap_seconds"": 0.8}]",and something they hear.
+ES2002b,627,1946.32,1948.16,1.84,SPEAKER_02,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_02"", ""overlap_seconds"": 1.84}]","And it's something they do other things to,"
+ES2002b,628,1948.32,1949.48,1.16,SPEAKER_02,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_02"", ""overlap_seconds"": 1.16}]",like turn it on and turn it off.
+ES2002b,629,1949.54,1949.8,0.26,SPEAKER_01,matched_automatic_diarization,0.9654,"[{""speaker_id"": ""SPEAKER_01"", ""overlap_seconds"": 0.251}, {""speaker_id"": ""SPEAKER_02"", ""overlap_seconds"": 0.009}]",Yeah.
+ES2002b,630,1950.78,1952.46,1.68,SPEAKER_02,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_02"", ""overlap_seconds"": 1.68}]","So what we could have is like two buckets, right?"
+ES2002b,631,1952.74,1953.8,1.06,SPEAKER_02,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_02"", ""overlap_seconds"": 1.06}]","And you could scroll things into,"
+ES2002b,632,1953.96,1954.74,0.78,SPEAKER_02,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_02"", ""overlap_seconds"": 0.78}]","like if you want this feature,"
+ES2002b,633,1954.74,1955.58,0.84,SPEAKER_02,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_02"", ""overlap_seconds"": 0.84}]",let's throw it into there.
+ES2002b,634,1955.88,1956.04,0.16,SPEAKER_02,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_02"", ""overlap_seconds"": 0.16}]",Yeah.
+ES2002b,635,1956.24,1956.8,0.56,SPEAKER_02,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_02"", ""overlap_seconds"": 0.56}]","And then from there,"
+ES2002b,636,1956.8,1957.82,1.02,SPEAKER_02,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_02"", ""overlap_seconds"": 1.02}]","you can see the excitement is basic,"
+ES2002b,637,1958.2,1959.02,0.82,SPEAKER_02,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_02"", ""overlap_seconds"": 0.82}]",but it's non-basic.
+ES2002b,638,1959.3,1959.52,0.22,SPEAKER_02,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_02"", ""overlap_seconds"": 0.22}]","Okay, okay."
+ES2002b,639,1959.58,1961.06,1.48,SPEAKER_02,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_02"", ""overlap_seconds"": 1.48}]",And it might help with the visualization.
+ES2002b,640,1961.86,1964.88,3.02,SPEAKER_02,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_02"", ""overlap_seconds"": 3.02}]",And it would actually help with the component build as well.
+ES2002b,641,1965.14,1965.44,0.3,SPEAKER_01,matched_automatic_diarization,0.94,"[{""speaker_id"": ""SPEAKER_01"", ""overlap_seconds"": 0.282}, {""speaker_id"": ""SPEAKER_02"", ""overlap_seconds"": 0.018}]",Okay.
+ES2002b,642,1965.78,1966.34,0.56,SPEAKER_01,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_01"", ""overlap_seconds"": 0.56}]","Okay, great."
+ES2002b,643,1966.54,1966.76,0.22,SPEAKER_01,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_01"", ""overlap_seconds"": 0.22}]",Right.
+ES2002b,644,1968.28,1971.54,3.26,SPEAKER_01,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_01"", ""overlap_seconds"": 3.26}]","Okay, well, I've got five minutes to wrap up now."
+ES2002b,645,1972.24,1973.6,1.36,SPEAKER_01,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_01"", ""overlap_seconds"": 1.36}]",Next thing we're doing is having lunch.
+ES2002b,646,1973.8,1974.04,0.24,SPEAKER_01,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_01"", ""overlap_seconds"": 0.24}]",Woo-hoo.
+ES2002b,647,1974.72,1976.48,1.76,SPEAKER_01,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_01"", ""overlap_seconds"": 1.76}]",And then we're going to have 30 minutes
+ES2002b,648,1976.48,1978.42,1.94,SPEAKER_01,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_01"", ""overlap_seconds"": 1.94}]",of working on the next stage.
+ES2002b,649,1979.64,1982.8,3.16,SPEAKER_01,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_01"", ""overlap_seconds"": 3.16}]",So I'll be putting the minutes of this meeting
+ES2002b,650,1983.46,1985.06,1.6,SPEAKER_01,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_01"", ""overlap_seconds"": 1.6}]",into the project documents folder.
+ES2002b,651,1986.88,1990.18,3.3,SPEAKER_01,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_01"", ""overlap_seconds"": 3.3}]",So I guess just to confirm that we know
+ES2002b,652,1990.18,1991.68,1.5,SPEAKER_01,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_01"", ""overlap_seconds"": 1.5}]","what we're doing in the next, well,"
+ES2002b,653,1991.76,1993.28,1.52,SPEAKER_01,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_01"", ""overlap_seconds"": 1.52}]",in the 30 minutes after lunch anyway.
+ES2002b,654,1996.04,1997.76,1.72,SPEAKER_01,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_01"", ""overlap_seconds"": 1.72}]","For our industrial designer,"
+ES2002b,655,1997.94,2000.16,2.22,SPEAKER_01,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_01"", ""overlap_seconds"": 2.22}]",you're going to be thinking about the components concept.
+ES2002b,656,2001.36,2002.94,1.58,SPEAKER_01,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_01"", ""overlap_seconds"": 1.58}]",User interface designer is going to be thinking
+ES2002b,657,2002.94,2004.84,1.9,SPEAKER_01,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_01"", ""overlap_seconds"": 1.9}]",about our user interface and marketing.
+ES2002b,658,2005.08,2006.54,1.46,SPEAKER_01,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_01"", ""overlap_seconds"": 1.46}]",You're going to be thinking about trend watching.
+ES2002b,659,2007.48,2009.78,2.3,SPEAKER_01,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_01"", ""overlap_seconds"": 2.3}]",And you'll all get specific instructions as well.
+ES2002b,660,2009.78,2016.14,6.36,SPEAKER_01,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_01"", ""overlap_seconds"": 6.36}]",So I know just to ask now if you've got anything else
+ES2002b,661,2016.14,2017.82,1.68,SPEAKER_01,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_01"", ""overlap_seconds"": 1.68}]",you've thought about while we've been talking.
+ES2002b,662,2018.66,2020.56,1.9,SPEAKER_01,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_01"", ""overlap_seconds"": 1.9}]",Do you want to start with David?
+ES2002b,663,2021.24,2022.3,1.06,SPEAKER_01,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_01"", ""overlap_seconds"": 1.06}]",Anything else to say at all?
+ES2002b,664,2023.54,2023.6,0.06,SPEAKER_01,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_01"", ""overlap_seconds"": 0.06}]",No?
+ES2002b,665,2023.82,2024.22,0.4,SPEAKER_01,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_01"", ""overlap_seconds"": 0.4}]",No? Okay.
+ES2002b,666,2024.92,2025.18,0.26,SPEAKER_04,matched_automatic_diarization,0.8346,"[{""speaker_id"": ""SPEAKER_04"", ""overlap_seconds"": 0.217}, {""speaker_id"": ""SPEAKER_01"", ""overlap_seconds"": 0.043}]",Andrew?
+ES2002b,667,2025.44,2028.1,2.66,SPEAKER_04,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_04"", ""overlap_seconds"": 2.66}]","Yeah, I just wanted to ask then before we wrap up,"
+ES2002b,668,2028.18,2031.22,3.04,SPEAKER_04,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_04"", ""overlap_seconds"": 3.04}]",shall we agree for sake of sort of clarity
+ES2002b,669,2031.22,2034.94,3.72,SPEAKER_04,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_04"", ""overlap_seconds"": 3.72}]","and when we resume that we'll use this idea,"
+ES2002b,670,2035.06,2037.28,2.22,SPEAKER_04,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_04"", ""overlap_seconds"": 2.22}]","David's proposal, we think of these three sort of buckets."
+ES2002b,671,2037.76,2039.66,1.9,SPEAKER_04,matched_automatic_diarization,0.8753,"[{""speaker_id"": ""SPEAKER_04"", ""overlap_seconds"": 1.663}, {""speaker_id"": ""SPEAKER_01"", ""overlap_seconds"": 0.237}]","Yeah, yeah, I think that's definitely a good idea."
+ES2002b,672,2039.66,2041.54,1.88,SPEAKER_04,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_04"", ""overlap_seconds"": 1.88}]","Sort of, okay, we're talking about this."
+ES2002b,673,2042.08,2042.7,0.62,SPEAKER_04,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_04"", ""overlap_seconds"": 0.62}]",Should we do that then?
+ES2002b,674,2043.46,2044.12,0.66,SPEAKER_04,matched_automatic_diarization,0.6621,"[{""speaker_id"": ""SPEAKER_04"", ""overlap_seconds"": 0.437}, {""speaker_id"": ""SPEAKER_03"", ""overlap_seconds"": 0.223}]","Okay, great."
+ES2002b,675,2044.84,2045.96,1.12,SPEAKER_03,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_03"", ""overlap_seconds"": 1.12}]","Just about the three buckets,"
+ES2002b,676,2046.32,2048.36,2.04,SPEAKER_03,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_03"", ""overlap_seconds"": 2.04}]",what would go in the device functions one?
+ES2002b,677,2049.02,2049.46,0.44,SPEAKER_02,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_02"", ""overlap_seconds"": 0.44}]",Things like On-Off.
+ES2002b,678,2050.72,2052.92,2.2,SPEAKER_02,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_02"", ""overlap_seconds"": 2.2}]",Because they don't have anything to do with what you see.
+ES2002b,679,2053.04,2053.34,0.3,SPEAKER_02,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_02"", ""overlap_seconds"": 0.3}]",Yeah.
+ES2002b,680,2053.62,2056.58,2.96,SPEAKER_02,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_02"", ""overlap_seconds"": 2.96}]",I mean in terms of picture and the entertainment value.
+ES2002b,681,2058.2,2058.54,0.34,SPEAKER_02,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_02"", ""overlap_seconds"": 0.34}]",Okay.
+ES2002b,682,2058.74,2058.9,0.16,SPEAKER_02,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_02"", ""overlap_seconds"": 0.16}]",So.
+ES2002b,683,2060.22,2060.74,0.52,SPEAKER_02,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_02"", ""overlap_seconds"": 0.52}]",And channel.
+ES2002b,684,2061.08,2061.54,0.46,SPEAKER_02,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_02"", ""overlap_seconds"": 0.46}]",And channel.
+ES2002b,685,2061.92,2062.02,0.1,SPEAKER_02,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_02"", ""overlap_seconds"": 0.1}]",Right.
+ES2002b,686,2062.16,2064.68,2.52,SPEAKER_02,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_02"", ""overlap_seconds"": 2.52}]","Because the On-Off also goes, you know,"
+ES2002b,687,2064.88,2066.68,1.8,SPEAKER_02,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_02"", ""overlap_seconds"": 1.8}]","like On-Off like power, not On-Off sound."
+ES2002b,688,2066.9,2067.06,0.16,SPEAKER_02,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_02"", ""overlap_seconds"": 0.16}]",Yeah.
+ES2002b,689,2067.06,2068.28,1.22,SPEAKER_02,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_02"", ""overlap_seconds"": 1.22}]",On-Off video.
+ES2002b,690,2068.78,2071.02,2.24,SPEAKER_02,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_02"", ""overlap_seconds"": 2.24}]",Although you don't turn off some video on your TV.
+ES2002b,691,2071.36,2073.04,1.68,SPEAKER_02,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_02"", ""overlap_seconds"": 1.68}]","But you might want to, you know,"
+ES2002b,692,2073.12,2074.6,1.48,SPEAKER_02,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_02"", ""overlap_seconds"": 1.48}]",turn off the sound so you want to pick up the phone
+ES2002b,693,2074.6,2075.48,0.88,SPEAKER_02,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_02"", ""overlap_seconds"": 0.88}]","and the mute button, right?"
+ES2002b,694,2075.54,2075.92,0.38,SPEAKER_02,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_02"", ""overlap_seconds"": 0.38}]",Okay.
+ES2002b,695,2076.22,2081.58,5.36,SPEAKER_02,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_02"", ""overlap_seconds"": 5.36}]",You have a choice of putting it onto others or device.
+ES2002b,696,2082.12,2084.48,2.36,SPEAKER_02,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_02"", ""overlap_seconds"": 2.36}]",Device is basically anything which we can't categorize.
+ES2002b,697,2084.72,2087.12,2.4,SPEAKER_01,matched_automatic_diarization,0.8954,"[{""speaker_id"": ""SPEAKER_01"", ""overlap_seconds"": 2.149}, {""speaker_id"": ""SPEAKER_02"", ""overlap_seconds"": 0.251}]","Okay, so you're going to have audio,"
+ES2002b,698,2087.42,2088.18,0.76,SPEAKER_01,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_01"", ""overlap_seconds"": 0.76}]","which is going to be like, you know,"
+ES2002b,699,2088.36,2090.8,2.44,SPEAKER_01,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_01"", ""overlap_seconds"": 2.44}]",your bass settings and actual volume.
+ES2002b,700,2090.8,2092.38,1.58,SPEAKER_02,matched_automatic_diarization,0.6304,"[{""speaker_id"": ""SPEAKER_02"", ""overlap_seconds"": 0.996}, {""speaker_id"": ""SPEAKER_01"", ""overlap_seconds"": 0.584}]","Anything to do with what you hear, right?"
+ES2002b,701,2092.38,2092.7,0.32,SPEAKER_01,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_01"", ""overlap_seconds"": 0.32}]",Okay.
+ES2002b,702,2092.96,2093.82,0.86,SPEAKER_02,matched_automatic_diarization,0.9105,"[{""speaker_id"": ""SPEAKER_02"", ""overlap_seconds"": 0.783}, {""speaker_id"": ""SPEAKER_01"", ""overlap_seconds"": 0.077}]",You can put that into audio.
+ES2002b,703,2093.92,2095.18,1.26,SPEAKER_01,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_01"", ""overlap_seconds"": 1.26}]","Okay, and then visual."
+ES2002b,704,2095.18,2097.36,2.18,SPEAKER_02,matched_automatic_diarization,0.7367,"[{""speaker_id"": ""SPEAKER_02"", ""overlap_seconds"": 1.606}, {""speaker_id"": ""SPEAKER_01"", ""overlap_seconds"": 0.574}]","Yeah, there's anything that you can see."
+ES2002b,705,2098.64,2100.62,1.98,SPEAKER_01,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_01"", ""overlap_seconds"": 1.98}]","So brightness, contrast, things like that."
+ES2002b,706,2100.98,2102.78,1.8,SPEAKER_01,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_01"", ""overlap_seconds"": 1.8}]",And then just actual device things like
+ES2002b,707,2102.78,2105.08,2.3,SPEAKER_01,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_01"", ""overlap_seconds"": 2.3}]","what channel you're watching, turning On-Off,"
+ES2002b,708,2105.72,2106.56,0.84,SPEAKER_01,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_01"", ""overlap_seconds"": 0.84}]",stuff like that.
+ES2002b,709,2107.08,2107.28,0.2,SPEAKER_01,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_01"", ""overlap_seconds"": 0.2}]",Okay.
+ES2002b,710,2108.36,2108.44,0.08,SPEAKER_01,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_01"", ""overlap_seconds"": 0.08}]",And.
+ES2002b,711,2108.92,2110.4,1.48,SPEAKER_04,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_04"", ""overlap_seconds"": 1.48}]",I suppose quite likely what would happen is
+ES2002b,712,2110.4,2112.44,2.04,SPEAKER_04,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_04"", ""overlap_seconds"": 2.04}]",in the device category there might be some
+ES2002b,713,2112.44,2114.52,2.08,SPEAKER_04,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_04"", ""overlap_seconds"": 2.08}]",which are just like the habitual standard
+ES2002b,714,2114.52,2116.28,1.76,SPEAKER_04,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_04"", ""overlap_seconds"": 1.76}]",and then others which are maybe a bit more.
+ES2002b,715,2116.34,2118.7,2.36,SPEAKER_02,matched_automatic_diarization,0.7347,"[{""speaker_id"": ""SPEAKER_02"", ""overlap_seconds"": 1.734}, {""speaker_id"": ""SPEAKER_04"", ""overlap_seconds"": 0.626}]",Like random which we have no other place to put.
+ES2002b,716,2118.8,2118.88,0.08,SPEAKER_02,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_02"", ""overlap_seconds"": 0.08}]",Sure.
+ES2002b,717,2119.56,2120.08,0.52,SPEAKER_02,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_02"", ""overlap_seconds"": 0.52}]",Somewhere there.
+ES2002b,718,2120.26,2120.64,0.38,SPEAKER_02,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_02"", ""overlap_seconds"": 0.38}]",Okay.
+ES2002b,719,2120.88,2122.92,2.04,SPEAKER_02,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_02"", ""overlap_seconds"": 2.04}]",Even if it doesn't matter very clearly what happens
+ES2002b,720,2122.92,2125.44,2.52,SPEAKER_02,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_02"", ""overlap_seconds"": 2.52}]",is that people at least have some in their mind.
+ES2002b,721,2125.72,2126.44,0.72,SPEAKER_02,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_02"", ""overlap_seconds"": 0.72}]",It's easy to use.
+ES2002b,722,2126.68,2128.0,1.32,SPEAKER_02,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_02"", ""overlap_seconds"": 1.32}]","I think that's one thing that,"
+ES2002b,723,2129.28,2131.82,2.54,SPEAKER_02,matched_automatic_diarization,0.9201,"[{""speaker_id"": ""SPEAKER_02"", ""overlap_seconds"": 2.337}, {""speaker_id"": ""SPEAKER_01"", ""overlap_seconds"": 0.203}]",and I guess from the component point of view as well
+ES2002b,724,2131.82,2133.28,1.46,SPEAKER_02,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_02"", ""overlap_seconds"": 1.46}]",because it's also fixed.
+ES2002b,725,2133.9,2134.3,0.4,SPEAKER_02,matched_automatic_diarization,0.78,"[{""speaker_id"": ""SPEAKER_02"", ""overlap_seconds"": 0.312}, {""speaker_id"": ""SPEAKER_01"", ""overlap_seconds"": 0.088}]",Okay.
+ES2002b,726,2135.38,2137.24,1.86,SPEAKER_01,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_01"", ""overlap_seconds"": 1.86}]","So yeah, I guess just things to think about are,"
+ES2002b,727,2137.4,2139.38,1.98,SPEAKER_01,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_01"", ""overlap_seconds"": 1.98}]","you know, like the fact it's got to look good"
+ES2002b,728,2139.38,2142.6,3.22,SPEAKER_01,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_01"", ""overlap_seconds"": 3.22}]","because of who we're, you know, targeting this at."
+ES2002b,729,2143.56,2145.36,1.8,SPEAKER_01,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_01"", ""overlap_seconds"": 1.8}]","Something maybe kind of quirky in design,"
+ES2002b,730,2145.54,2148.68,3.14,SPEAKER_01,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_01"", ""overlap_seconds"": 3.14}]","maybe make it kind of ergonomic kind of to hold,"
+ES2002b,731,2148.76,2149.84,1.08,SPEAKER_01,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_01"", ""overlap_seconds"": 1.08}]","you know, things like that."
+ES2002b,732,2151.62,2154.06,2.44,SPEAKER_01,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_01"", ""overlap_seconds"": 2.44}]","So I guess, I guess that's it."
+ES2002b,733,2154.6,2155.2,0.6,SPEAKER_01,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_01"", ""overlap_seconds"": 0.6}]",For the meeting over.
+ES2002b,734,2155.92,2156.12,0.2,SPEAKER_01,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_01"", ""overlap_seconds"": 0.2}]",Woohoo.
+ES2002b,735,2162.1,2165.16,3.06,SPEAKER_04,matched_automatic_diarization,0.8379,"[{""speaker_id"": ""SPEAKER_04"", ""overlap_seconds"": 2.564}]",Now we get to go find out what was picked up for lunch for us.
+ES2002b,736,2165.2,2165.36,0.16,SPEAKER_04,matched_automatic_diarization,1.0,"[{""speaker_id"": ""SPEAKER_04"", ""overlap_seconds"": 0.16}]",Yeah.
+ES2002b,737,2204.62,2206.02,1.4,UNCERTAIN,no_speaker_overlap,0.0,[],Okay.
+ES2002b,738,2237.6,2239.0,1.4,UNCERTAIN,no_speaker_overlap,0.0,[],Thank you.
+ES2002b,739,2267.1,2269.0,1.9,UNCERTAIN,no_speaker_overlap,0.0,[],Thank you.
+ES2002b,740,2278.32,2279.72,1.4,UNCERTAIN,no_speaker_overlap,0.0,[],Thank you.

@@ -1,0 +1,799 @@
+[0.00 - 2.56] that should hopefully do the trick
+[17.22 - 18.86] sorry about the small delay
+[20.06 - 21.74] probably a little bit behind schedule
+[33.94 - 34.40] ok
+[34.90 - 39.68] so just to try and roughly go over what we agreed in the last one
+[42.98 - 44.12] we're going to go for something
+[45.92 - 48.52] how was it? the new black I believe
+[49.88 - 53.28] something that looks good because that seems to be in preference to actual
+[53.28 - 57.78] functionality in the end but we should never avoid functionality of course
+[58.34 - 60.80] many of our components are going to be standard off the shelf
+[60.80 - 63.80] but it seemed like we were going to require at least an advanced chip
+[64.38 - 68.22] and we were still very much for the idea of using an LCD display
+[70.56 - 75.28] other things where we were hoping to use rubber, most likely going to be double curved etc
+[77.76 - 78.20] ok
+[79.30 - 79.74] so
+[80.56 - 84.70] due to your hard work we might as well let the two designers go first and
+[85.36 - 86.84] show us the prototype
+[86.84 - 91.84] why the best way to do this is I'm not sure but
+[91.84 - 97.74] I think we will step up and outline our ideas
+[101.90 - 103.34] doing the prototype
+[104.22 - 106.96] gave us a bit more insight into the ergonomics of the design
+[107.62 - 109.02] for one thing
+[110.02 - 110.92] it turned out
+[110.92 - 114.14] that the only point at which it needs to be
+[114.14 - 116.82] articulated for handedness
+[116.82 - 120.10] is down here
+[120.10 - 122.04] for the LED
+[122.04 - 123.32] as it turned out
+[124.30 - 125.60] the whole thing transfers
+[126.38 - 127.56] from the right to the left hand
+[128.18 - 130.20] fairly well from the point of view of
+[130.20 - 132.60] operating the function buttons and joystick
+[133.38 - 140.28] so it might be an idea to be able to adjust the position as sort of the base of the joystick just a little bit
+[140.28 - 140.96] for a
+[140.96 - 143.92] or actually just a thought
+[144.56 - 145.68] you could simply have a slightly
+[146.30 - 148.12] ovoid shaped joystick
+[148.12 - 149.20] it could then just be
+[149.20 - 150.88] turned and twisted round
+[151.72 - 152.24] so that the
+[153.12 - 156.06] sticky edge, so that the bit that sticks out a bit more is on
+[156.06 - 157.46] one side or the other
+[158.52 - 160.70] but as you see with the
+[161.48 - 162.88] holding it in the left hand
+[162.88 - 166.42] the LCD is nowhere useful
+[166.42 - 168.76] so that would need to be articulated
+[169.72 - 173.60] if we're going to retain our ergonomic design
+[173.60 - 177.76] I got your note about
+[178.74 - 180.28] keeping the cost down
+[181.78 - 182.80] we'll go into that a bit more
+[184.78 - 188.28] this design could be done with
+[191.86 - 192.10] with
+[193.06 - 194.00] plastic casing
+[194.00 - 197.76] though I would recommend around the grip part here in the middle
+[198.28 - 200.22] having maybe just a rubber grip over that
+[200.76 - 205.10] which would allow for a slightly more sort of biomarker form and a bit more ergonomic as well
+[205.70 - 207.06] as for the
+[207.06 - 210.54] as for the single curve
+[213.46 - 214.40] this edge
+[215.08 - 215.84] and this edge
+[215.84 - 219.42] like I said it would be nice to have some curvature to it but it's not absolutely necessary
+[219.42 - 221.08] really the curve that's most needed
+[221.08 - 222.50] is the underside
+[222.50 - 226.14] so that the joystick rests over
+[226.14 - 229.44] the edge of the hand like this
+[229.44 - 234.64] I have the transmitter here
+[234.64 - 236.02] no need to speak here
+[237.68 - 238.48] for the
+[238.48 - 241.90] finder, for the remote control finder
+[245.54 - 249.28] obviously it's going to be bulkier than how it looks because
+[250.00 - 251.30] it's going to be flat on one side
+[251.84 - 254.82] so they'll still be really sticking down like this one
+[255.82 - 257.62] because we kind of get it curved
+[258.40 - 259.84] yeah I mean that is of course
+[260.40 - 261.98] and it's plastic as well so
+[261.98 - 264.36] it won't be as comfortable on the hand
+[264.90 - 266.82] I mean with the rubber design it could
+[268.02 - 269.62] you know it could pretty much mould
+[270.14 - 271.96] very much to the user's hand
+[271.96 - 274.76] one nice feature if we could still do the rubber
+[275.40 - 276.92] I thought it was to have
+[276.92 - 283.56] the rubber extend beyond the end of the
+[283.56 - 284.86] rigid substructure
+[284.86 - 286.10] so it has a wee sort of tail
+[286.10 - 288.92] you just drape over your wrist so it stays in position nicely
+[297.92 - 298.92] okay yeah great
+[300.92 - 304.08] yeah I've got a few load up my evaluation
+[304.08 - 304.72] yeah okay
+[310.78 - 311.98] excellent work
+[322.02 - 322.62] evaluation
+[329.58 - 330.56] basic point
+[330.56 - 334.30] have a list of criteria that we need to rate their prototype by
+[335.74 - 337.90] and then we will
+[337.90 - 343.60] it's a seven step evaluation process
+[343.60 - 347.38] so not seven step, seven scale
+[347.38 - 351.00] so after we finished doing all the ratings for each criteria
+[351.00 - 353.34] we averaged that and that would give us
+[353.34 - 357.24] some type of confidence in our prototype
+[357.24 - 361.62] and the criteria are all based on
+[361.62 - 365.76] rural reactions, goals and policies
+[365.76 - 367.30] marketing strategies
+[367.30 - 372.80] and also those are put together from the user requirements phase
+[378.54 - 381.34] so those are the criteria
+[383.90 - 385.66] perhaps I could have put them a bit better
+[385.66 - 388.64] but you notice a few things that we've totally abandoned
+[388.64 - 393.94] which means that the product was scored very badly
+[393.94 - 394.92] on some of those points
+[397.16 - 398.50] so we have
+[400.26 - 400.82] true
+[402.34 - 402.90] one
+[408.46 - 409.02] seven
+[409.66 - 410.22] eight
+[414.54 - 417.00] okay so we have to go through each point
+[417.00 - 419.18] if we imagine it's actually straight
+[419.18 - 421.08] and just give it a score
+[422.00 - 425.86] so how well would you say the prototype is
+[427.14 - 429.92] how well we realise the dream of being able to
+[429.92 - 431.64] stop remotes from being lost
+[431.64 - 433.60] or to be able to find them once they're lost
+[433.60 - 436.28] I mean is the homing thing still
+[436.28 - 437.90] the locator is that still
+[437.90 - 439.26] yeah that's still part of the design
+[440.00 - 441.50] and Adam we can keep that in
+[441.50 - 442.92] yeah I believe so
+[442.92 - 446.60] I don't think anybody could actually stop a remote being lost
+[446.60 - 448.84] because that would mean doing something about a human
+[450.28 - 452.74] but I'd like to think that we've done something about
+[453.34 - 455.10] finding down thing once we have
+[455.10 - 457.26] and making it a bright colour helps
+[457.26 - 459.28] but personally I would have gone for purple now
+[460.20 - 462.60] bright colour, so we still have that noise being done
+[463.66 - 465.18] on a scale of one to seven
+[465.18 - 467.58] how would you guys rate it for finding
+[467.58 - 469.60] the minute finding it once it's lost
+[471.52 - 472.90] I'd say number one
+[472.90 - 474.60] number one?
+[474.60 - 478.02] number one for the first criteria
+[478.02 - 481.72] I think if it was just the sounder
+[481.72 - 484.52] then there's something I found with
+[486.24 - 489.36] trying to find a cardless phone
+[489.36 - 491.98] on a mobile you can hear it
+[491.98 - 495.00] you can't quite pin down where it is
+[495.00 - 497.56] yeah you can tell what the mobile is
+[497.56 - 502.88] what if the volume on the TV is turned up massively
+[504.38 - 506.10] and you just want to turn down the volume
+[506.10 - 507.44] you can't find the remote
+[508.54 - 509.92] I suppose you have to go to TV
+[509.92 - 511.34] and manually
+[513.20 - 515.14] like you wouldn't hear it speaking
+[516.20 - 518.26] just before we go through all of the steps
+[518.26 - 519.28] you want to say something?
+[519.72 - 521.82] yeah, well what we'll do is
+[524.36 - 526.70] if we can look at the criteria you're going to evaluate
+[526.70 - 528.66] and then we'll come back to the product evaluation
+[528.66 - 529.50] if that's alright
+[532.06 - 532.78] that's fine
+[533.58 - 536.62] so is there anything here
+[537.52 - 543.22] that you wanted to cover
+[543.22 - 544.78] as in the criteria that you've covered
+[544.78 - 546.88] and then we'll come back pretty much properly to this
+[546.88 - 549.68] is there any of these criteria
+[549.68 - 550.74] that need any explaining
+[550.74 - 552.46] or is there anything that you thought
+[552.46 - 554.86] that really would stand out compared to the others?
+[555.82 - 556.04] a few
+[558.60 - 560.86] something I neglected from my initial research
+[560.86 - 564.96] is that Rural Reactions has a goal, a strategy
+[564.96 - 566.34] that all of their products
+[566.86 - 570.74] being inspired by interior fashion and clothing fashion
+[570.74 - 575.58] that is why food and veg being popular in their home
+[575.58 - 576.78] and in clothing was important
+[577.44 - 580.48] and they want all their products to be somehow inspired
+[581.12 - 582.94] by current trends in fashion
+[582.94 - 586.06] so they say we put the fashion electronics where they really mean it
+[586.06 - 587.62] they're very big on fashion
+[587.62 - 591.62] so that's this bit right here
+[594.46 - 595.62] and this bit
+[596.42 - 599.34] is this one easy to use for visitors or for anybody
+[599.34 - 602.58] I guess it's just the same as saying easy to use interface
+[602.58 - 604.42] so we're kind of condensed into one
+[604.88 - 606.34] and we can come back to it, use it
+[606.34 - 609.68] no and which we will do very very shortly
+[616.80 - 617.28] okay
+[617.28 - 618.16] okay
+[619.64 - 624.98] slight problem we had was that we have an amazing 4 Euros over budget
+[625.62 - 627.84] for what we were hoping to do
+[629.44 - 632.14] most of it stems from the use of VLCD
+[632.14 - 636.36] which I think in the end accounted for about half of our expenditure
+[636.36 - 638.50] because of course we require the chip as well
+[640.06 - 644.40] the only way to get this down was either to ditch the LCD
+[644.40 - 648.52] at which point we've removed a large part of how we were going to interface
+[648.52 - 649.90] we require more buttons etc
+[652.18 - 657.36] or what we did was that we, as an eye as of quickly going over it
+[657.36 - 659.68] was altering the actual structure
+[660.66 - 664.54] changing the plastic and the solid unit with a single curved design
+[664.54 - 668.96] would allow us to come back into the proposed costs
+[668.96 - 673.02] and we're just scraping it in, we've got .2 of a Euro left over there
+[673.58 - 675.68] so we're just managing it really
+[676.20 - 680.94] even then as well, there was no criteria technically defined for a joystick
+[680.94 - 682.44] so I've used what I think is appropriate
+[683.10 - 687.16] with any luck that won't mean that we've incurred more cost than we can actually afford to
+[689.42 - 693.76] it blows a lot of our really good ideas kind of slightly to one side
+[693.76 - 698.70] for example, the possibility of having a USB connection is definitely not all valuable now
+[700.30 - 701.10] different languages?
+[702.46 - 705.56] that should still be viable, we've got an advanced chip, we've got the use of the LCD
+[705.56 - 710.68] so being able to communicate in multiple languages is still very much a possibility
+[713.10 - 716.18] but what's something we need to decide on is how we're going to go from here
+[717.24 - 722.00] we do need to try and come up with an idea which could be continued with other people if need be
+[724.70 - 728.64] we can bring the XL sheet up and show you if you wish
+[729.72 - 733.72] I really think as much as it pains me is that we might have to go with plastic
+[734.22 - 740.90] and some kind of solid design possibly meaning that the LCD wouldn't be in this perfect place
+[740.90 - 746.62] it might be slightly between what would be good for left handed and what would be good for a right handed person
+[746.62 - 757.00] I suppose one thing that could be done is have it circular and have it so that it goes a bit over the pinky finger
+[757.00 - 763.74] ok, it very much is about making concessions unfortunately
+[764.86 - 772.20] do you have any data on how much different prints cost? I mean can you get the entire thing printed with the design?
+[774.48 - 776.32] but as you mean on the plastic
+[776.32 - 781.24] you now have as much information as I do
+[783.10 - 790.70] so as you can see here for example the battery really not very little choice in that one
+[790.70 - 792.40] we've gone for one of the cheaper options as well
+[792.96 - 796.24] unfortunately we require the advanced chip if we're going to do what we're needing to
+[797.44 - 802.32] I've said single curved, we really do need it to be that way for the ergonomics of it
+[803.38 - 806.84] plastic for some reason incurs no cost which I've had to very much make advantage of
+[806.84 - 810.02] despite the fact that rubber's only got a value of 2 Euros per unit
+[811.22 - 813.44] problem comes here as you can see in the interface
+[816.62 - 822.44] if I've read this incorrectly then we can save 0.5 Euros here and it's not per push button
+[822.44 - 828.48] that might make sense because an enumerate keypad would come in at 4.5 Euros
+[828.48 - 831.24] which is an awful lot so that could well be wrong
+[831.24 - 838.14] even if we save 0.5 there it would just mean that we're most likely placing it and actually just gaining a colour for the unit
+[838.14 - 839.62] which is set to be put to one side
+[839.62 - 845.30] as you can see the use of an LC display, advanced chip
+[846.30 - 851.80] and what would determine the scroll wheel here as well because it's an integrated scroll wheel push button
+[851.80 - 854.68] it wasn't quite what I think they had in mind with the joystick
+[855.22 - 859.86] why would that be more expensive than an individual push button and a scroll wheel together?
+[861.30 - 863.14] that's quite significantly expensive
+[865.64 - 867.52] that's something you have to take up with the bean counters
+[870.74 - 874.04] as you can see that's taken up well over half of the price
+[876.04 - 880.36] so I'm very much open to suggestions of where we go but because we need to shed
+[880.36 - 888.84] into what was 4 Euros off of the price of what we really desired
+[889.94 - 896.72] this one comes in on the price as you can see but this was the one that sacrificed the material for the case
+[897.62 - 899.40] and for the actual case design
+[899.40 - 902.70] we don't even have speakers here, do we?
+[903.18 - 905.88] what about speakers and transmitters and stuff like that?
+[905.88 - 907.08] have we affected that in?
+[908.70 - 910.70] I know we haven't
+[910.70 - 913.30] transmitter, receiver, speakers
+[914.12 - 918.50] plus the extra device itself that's going to be on the TV, is that going to be a button?
+[919.42 - 921.56] it literally would just be a button
+[922.28 - 923.52] we might have to
+[923.52 - 927.38] it looks like almost nothing
+[930.04 - 932.24] no, good call, I missed that
+[932.24 - 934.26] I mean it's not on here but
+[934.94 - 936.94] it's a very valid point
+[937.92 - 941.80] do we have to use an advanced chip for the LCD?
+[943.26 - 944.90] ok, what's next?
+[945.86 - 948.92] so if we're going to go with the LCD display then that's
+[948.92 - 952.82] what's the hand dynamo? you have to wind it up?
+[953.06 - 954.10] I believe so, yeah
+[955.86 - 962.68] that would probably not be in keeping with the fashion statement and such, yeah
+[963.60 - 966.42] it's basically the only new thing is the LCD
+[967.42 - 969.76] being manipulated by the joystick, yeah
+[969.76 - 970.36] oh and joystick
+[971.66 - 974.36] which I'm defining a scroll wheel
+[977.80 - 982.52] and we couldn't replace the joystick quite because we would need four extra buttons to replace it
+[982.52 - 985.46] up, down, left and right and that would be more expensive than it
+[985.46 - 987.96] but is the scroll wheel not just back and forward?
+[989.38 - 993.14] yeah, it's just because there was no actual definition for what a joystick might be that
+[994.24 - 997.76] that's what I've labelled it for, purposes of this evaluation
+[997.76 - 1000.96] the LCD basically is the big setting point of
+[1000.96 - 1004.64] if we remove the LCD display we could save ourselves
+[1006.62 - 1008.08] a fair amount
+[1009.26 - 1011.54] which you can't... that's what makes it original though
+[1011.54 - 1012.12] yeah
+[1012.12 - 1017.38] I think if we remove the LCD display then there was absolutely no point to any of these meetings
+[1017.38 - 1021.70] we would just put our branding on any other remote control
+[1023.78 - 1024.66] yeah, yeah
+[1026.98 - 1029.38] it's a shame we should possibly...
+[1030.94 - 1033.42] if we could have increased the price we could have manufactured us that
+[1033.42 - 1037.38] and then we could have got something far closer to what we were hoping to
+[1037.38 - 1039.38] does this bear in mind that...
+[1040.04 - 1042.52] I mean it's a bit ridiculous that they're going to charge us
+[1043.36 - 1046.42] was it like this much money for three million
+[1046.42 - 1049.70] if we're going to buy three million components
+[1050.38 - 1053.44] again, you'll have to argue with the accountants on that one
+[1054.70 - 1058.08] but for the purposes of this meeting we're going to have to stick with these figures
+[1062.30 - 1065.24] I would say that it would seem like the general opinion is
+[1065.24 - 1068.68] we're going to keep the LCD display because it's about what really separates us
+[1068.68 - 1070.82] despite the cost it's going to incur
+[1073.60 - 1078.82] are people maybe not happy with but are willing to go ahead with this
+[1079.44 - 1083.02] and going for a plastic solid case to keep the LCD
+[1086.16 - 1094.34] and one thing, how much extra would it be to keep the articulation?
+[1095.42 - 1096.30] it's hard to tell
+[1096.82 - 1098.50] I would say that
+[1099.52 - 1102.00] you're at least going to take double curve
+[1102.00 - 1105.52] and even then I'm not quite sure if that's incorporating the idea of articulation
+[1105.52 - 1111.16] well I think that it needn't require it to be double curve
+[1111.16 - 1112.66] it can still be similar curve
+[1113.32 - 1118.82] it's just that the case would be made in two parts
+[1118.82 - 1120.88] and then drawn together with an articulation
+[1121.50 - 1126.58] could we not get rid of the curvaceousness
+[1126.58 - 1129.82] and focus on the menu being the best interface
+[1130.58 - 1133.48] because we have restrictions on software
+[1133.48 - 1134.56] that's what you need for the joystick
+[1134.56 - 1137.04] oh but it has to be
+[1137.04 - 1142.76] I mean if you look closer at the prototype here
+[1142.76 - 1147.58] the lines here along grip are actually quite straight
+[1148.76 - 1151.94] but the curve is all over the hand is it?
+[1151.94 - 1155.26] yeah on the LCD I mean although we've done it with a curve
+[1155.26 - 1158.96] it could just as easily be done without curves
+[1158.96 - 1161.70] the curve that's really needed is up here
+[1162.60 - 1166.08] to keep the joystick in a good ergonomic position
+[1166.08 - 1169.18] in fact to have it rest on the top of the hand
+[1169.18 - 1170.44] ok, sure
+[1171.16 - 1172.20] ok, my bet
+[1173.82 - 1176.50] we wouldn't actually save a lot by reducing it anyway
+[1176.50 - 1179.10] so I mean for the purposes of this meeting
+[1179.10 - 1183.06] maybe we can state that single curve still allows articulation
+[1185.64 - 1187.20] unless we hear otherwise
+[1187.20 - 1188.94] we could go ahead with that proposal
+[1190.24 - 1194.30] I think the product is not going to perform so well
+[1194.30 - 1195.78] for my criteria
+[1196.62 - 1198.58] which is what we can get onto now
+[1198.58 - 1200.36] so we're going to say
+[1201.62 - 1203.74] we'll have to keep an eye on the time as well
+[1203.74 - 1204.64] but we're going to say
+[1205.78 - 1206.64] oh wait a minute
+[1208.10 - 1209.06] sample speaker
+[1209.96 - 1211.44] what is a sample speaker?
+[1211.80 - 1213.66] is that somewhat similar to what we want?
+[1214.30 - 1215.18] it could well be there
+[1215.18 - 1218.62] that's that voice response thing that we got the email about
+[1219.26 - 1221.08] I thought it was just completely pointless
+[1221.58 - 1223.34] you got an email about voice response?
+[1224.14 - 1224.30] yeah
+[1224.30 - 1225.30] I did not
+[1226.26 - 1229.76] basically it was saying that our labs had come up with a chip
+[1229.76 - 1232.76] that you could say hello to
+[1232.76 - 1235.12] and it would say hello back in a friendly female voice
+[1236.52 - 1238.46] okay we'll definitely go with that one
+[1239.12 - 1240.02] we won't go with that one
+[1241.20 - 1242.50] that's voice recognition
+[1243.04 - 1243.56] okay
+[1248.70 - 1250.52] so battery definitely
+[1250.52 - 1254.78] so it looks like we're going to get rid of the whole locator thing
+[1254.78 - 1259.70] it looks like unless we can manage to put it in under 0.2 euros
+[1259.70 - 1260.64] okay
+[1263.56 - 1264.12] okay
+[1264.12 - 1267.80] maybe even, well no you have pretty much 0.2 euros I'd say
+[1268.48 - 1270.44] so we'll leave that one for now
+[1270.44 - 1272.76] are we going for a special corridor?
+[1273.94 - 1275.16] it's a case of
+[1276.78 - 1278.34] I'm slightly unsure
+[1279.28 - 1282.80] 1.5 euros for one push button doesn't sound quite right
+[1282.80 - 1287.00] so maybe it's a case of a push button is maybe one or more
+[1289.22 - 1289.64] well
+[1289.64 - 1291.50] at which point for a case
+[1293.26 - 1295.14] or do you already incorporate that?
+[1295.94 - 1296.98] oh special corridor for the case
+[1297.72 - 1299.20] well you got 0.5 there
+[1299.20 - 1301.90] it's literally a case of whether or not this is correct
+[1301.90 - 1306.90] I'm not quite sure if they're, I don't think they mean 0.5 euros per button
+[1306.90 - 1310.86] okay well let's say that and then we can have our special corridor case
+[1310.86 - 1314.12] and then we at least have, make it a little harder to lose
+[1314.12 - 1315.04] there we go
+[1315.04 - 1320.96] because most remotes are a fairly dingy colour that gets camouflaged under any pile of crap
+[1320.96 - 1323.10] what's the default colour, white or black?
+[1324.72 - 1326.40] black's probably the normal colour you'd say yeah
+[1326.40 - 1326.68] grey
+[1327.64 - 1329.84] I quite like that colour you're effecting now
+[1329.84 - 1334.26] it's definitely, make it glow in the dark even better
+[1336.06 - 1336.54] so
+[1338.24 - 1340.38] will we go with that then?
+[1341.36 - 1341.74] okay
+[1341.74 - 1343.72] it's not, and we can see
+[1344.30 - 1346.92] we'll come back to your evaluation
+[1346.92 - 1348.90] in which you're probably now going to pan us
+[1348.90 - 1350.04] but there we go
+[1350.50 - 1350.90] okay
+[1351.78 - 1352.18] so
+[1353.50 - 1354.72] just to give you an idea
+[1355.76 - 1357.78] you'll want to go maybe a bit quickly as well
+[1357.78 - 1358.62] I'm not sure how much time
+[1358.62 - 1361.24] we've not hit the five minute warning yet but
+[1361.72 - 1362.12] okay
+[1364.34 - 1367.98] ability to start remotes from being lost or to find them once they are lost
+[1370.18 - 1370.58] okay
+[1371.54 - 1372.22] special colour
+[1372.22 - 1372.84] special colour
+[1373.72 - 1373.86] uh
+[1374.82 - 1375.26] four
+[1375.78 - 1376.22] four
+[1376.22 - 1377.02] three
+[1377.52 - 1378.76] three if we're being generous
+[1378.76 - 1380.32] I think we can do three
+[1380.32 - 1382.22] if we're being generous here we're free
+[1382.22 - 1384.32] special colour doesn't make a difference
+[1384.32 - 1385.60] it makes it stand out from
+[1385.60 - 1387.66] you know it's lost in a big pile of crap
+[1387.66 - 1389.60] it stands out from the rest of the crap
+[1391.02 - 1391.46] okay
+[1391.46 - 1393.56] we've used a number of unused buttons
+[1393.56 - 1395.42] we're down to two buttons is it?
+[1395.76 - 1396.70] two buttons and a joystick
+[1396.70 - 1398.24] okay so that's a one you know
+[1398.24 - 1398.96] that's
+[1399.50 - 1400.92] let's see we're doing well then
+[1400.92 - 1401.86] okay that was good
+[1402.42 - 1404.04] easy to use interface
+[1404.86 - 1405.50] buttons menu
+[1405.50 - 1406.22] menus called
+[1406.86 - 1407.14] that's good
+[1408.60 - 1409.50] okay that's
+[1409.50 - 1410.70] we're not doing so badly
+[1411.64 - 1413.06] easy to use
+[1413.06 - 1415.14] oh okay let's forget that one
+[1415.14 - 1416.50] fancy looking
+[1418.54 - 1420.20] it doesn't get much
+[1420.20 - 1420.90] sure
+[1420.90 - 1423.22] we could do whatever we like with the LCD
+[1423.94 - 1426.76] yeah let's just assume it's a good LCD display
+[1426.76 - 1428.66] maybe I was panicking for no reason
+[1428.66 - 1429.36] I've got one in fancy
+[1430.36 - 1431.86] I'd say we've got two because
+[1432.36 - 1435.18] like the fanciest would be a double curve
+[1435.18 - 1437.60] yeah maybe a bit
+[1437.60 - 1439.04] yeah with the articulators
+[1439.04 - 1439.82] there we go
+[1441.74 - 1443.26] that's better
+[1444.26 - 1446.24] to more accurate numbers
+[1446.24 - 1448.82] technologically innovative
+[1449.36 - 1452.24] well we're getting rid of the locator thing
+[1452.24 - 1453.28] which is a shame
+[1453.28 - 1454.50] which yeah
+[1455.36 - 1457.10] I don't need three for this
+[1457.10 - 1458.02] for that
+[1458.02 - 1458.92] three
+[1458.92 - 1459.32] yeah
+[1460.02 - 1461.76] I mean the menus thing
+[1461.76 - 1464.36] is something you don't normally see on
+[1466.30 - 1467.44] on a remote
+[1469.36 - 1471.50] you see it in a lot of other places
+[1472.02 - 1472.52] yeah
+[1472.52 - 1473.78] mobile phones
+[1473.78 - 1475.88] and what you're doing is moving the menu
+[1475.88 - 1476.60] from the television
+[1476.60 - 1477.60] to the
+[1477.60 - 1478.94] remote controller
+[1478.94 - 1479.82] so it's
+[1479.82 - 1481.08] you say three
+[1481.08 - 1483.14] I might go as far as two on that
+[1483.14 - 1483.64] three
+[1484.32 - 1486.14] I'm getting three
+[1486.14 - 1486.74] three
+[1486.74 - 1486.92] yeah
+[1488.16 - 1488.64] okay
+[1489.64 - 1491.74] I'll get a hand on the next one anyway
+[1491.74 - 1493.80] you see some people find it pleasing
+[1494.78 - 1496.84] sponginess is what they really would have wanted
+[1496.84 - 1497.30] apparently
+[1497.30 - 1498.10] it is, yeah
+[1498.10 - 1499.10] don't blame them
+[1500.78 - 1503.58] because of the way that we've minimalized
+[1503.58 - 1505.42] the number of buttons and such
+[1507.14 - 1508.42] plastic, it sucks
+[1508.42 - 1511.98] but it's no worse than any of the other remote controls they have
+[1511.98 - 1512.70] that's true
+[1512.70 - 1514.16] it's not a step backwards
+[1514.74 - 1515.32] so yeah
+[1515.32 - 1516.30] five
+[1516.30 - 1517.12] five
+[1517.12 - 1518.40] I'd give it a six
+[1518.40 - 1518.80] six
+[1519.98 - 1521.94] yeah okay let's give it a six
+[1523.96 - 1526.82] okay that's totally throwing everything off balance
+[1527.48 - 1530.18] inspired by the latest interior and clothing fashion
+[1530.18 - 1533.08] we could, what color were we going to make it?
+[1533.32 - 1534.26] leopard print on it
+[1534.26 - 1538.46] I would say give us a selection of colors
+[1539.36 - 1539.94] yellow
+[1539.94 - 1542.44] yellow for the prototype because we had yellow
+[1542.44 - 1544.76] so if I were buying one I'd go for purple
+[1545.40 - 1546.78] leopard print would be cool
+[1546.78 - 1549.78] well by this I think it's more okay so
+[1550.44 - 1551.32] food and veg
+[1552.40 - 1554.66] I'd say the color of the border there
+[1554.66 - 1556.00] you'd find that
+[1556.00 - 1558.36] like that's down there
+[1558.36 - 1559.20] that yellow, yeah
+[1559.20 - 1561.30] it would also help keep the product
+[1562.32 - 1562.88] placement
+[1562.88 - 1563.20] logo
+[1563.94 - 1564.50] brand
+[1565.48 - 1568.16] it's inspired by interior clothing fashion
+[1568.16 - 1570.70] they're referring to the food and veg thing
+[1573.28 - 1575.78] is this like a banana type color?
+[1576.16 - 1576.70] could we stretch?
+[1577.58 - 1578.90] no it still has no shape like a banana
+[1579.54 - 1581.02] it's kind of dark
+[1581.02 - 1583.14] it won't be when it's been
+[1583.86 - 1585.24] oh like because it's flat
+[1585.24 - 1586.10] budgeted
+[1586.10 - 1587.24] what is this fruit?
+[1587.50 - 1588.60] it's just flat
+[1589.36 - 1594.62] I think this is not particularly fruiting the veg
+[1594.62 - 1595.24] yeah
+[1595.86 - 1598.70] we might have to suffer badly for this one as well
+[1602.34 - 1606.80] well I mean it's probably more fruit and veg than most other things out there
+[1606.80 - 1608.16] bar fruit and veg so
+[1608.70 - 1609.56] not four
+[1609.56 - 1610.40] four?
+[1611.28 - 1611.70] all right that's
+[1612.50 - 1613.16] very ambitious
+[1613.70 - 1618.00] I don't think fruit and veg is the sole criteria
+[1619.42 - 1621.32] sole criteria for being
+[1622.48 - 1623.52] inspired by the list
+[1623.52 - 1626.22] fashionable or inspired by current fashions
+[1627.92 - 1628.94] I can't wait
+[1628.94 - 1634.12] this is their motto
+[1634.12 - 1634.92] yeah
+[1634.92 - 1636.42] I mean we're not doing my own
+[1636.42 - 1637.64] this is their strategy
+[1638.70 - 1641.44] imagine we actually had some money invested in this
+[1641.44 - 1645.02] and the amount that we invested is going to be proportional to the marks
+[1645.02 - 1651.18] we might want to be a bit more skeptical about this one
+[1653.12 - 1654.48] what would you think yourself?
+[1655.00 - 1655.36] I would say
+[1656.36 - 1658.12] I mean it's not at all
+[1658.12 - 1658.58] right
+[1659.26 - 1661.94] in any way shape or form
+[1661.94 - 1665.76] well it's kind of curved and we can make it yellow
+[1665.76 - 1667.72] and that's pretty much banana-like
+[1667.72 - 1670.32] okay the yellow banana-like thing is
+[1670.32 - 1671.68] I think it's okay
+[1671.68 - 1673.44] it's got a curve to it
+[1673.44 - 1676.16] five is that so unreasonable?
+[1677.70 - 1680.32] might be stretching the use of a banana
+[1680.32 - 1681.56] yeah
+[1686.38 - 1687.76] okay so we have
+[1687.76 - 1690.26] one, two, three, four, five, six, seven
+[1693.68 - 1697.94] so five, seven, ten, sixteen, twenty-one
+[1699.32 - 1701.60] let's give this an average of three
+[1703.86 - 1704.94] it's well
+[1706.22 - 1707.58] this would be in the middle
+[1707.58 - 1710.42] so it's not bad
+[1710.42 - 1711.98] it's on the good section
+[1712.56 - 1714.78] it's not bad and considering the
+[1716.18 - 1717.42] don't break the pen
+[1717.98 - 1718.60] oops, sorry
+[1722.34 - 1722.86] I'm sorry
+[1723.80 - 1724.84] not badly
+[1726.66 - 1728.54] it's a bad design though
+[1730.24 - 1732.48] considering the price we had to get this in
+[1732.48 - 1733.62] we'd have a positive
+[1734.52 - 1737.70] you know, even based on the four of us being heavily biased
+[1739.20 - 1739.80] yeah
+[1740.76 - 1745.36] it was going to be quite hard to get anything standing out
+[1745.36 - 1746.46] I'd say possibly
+[1749.14 - 1750.34] based on
+[1750.34 - 1752.32] the cost features
+[1754.40 - 1757.12] even if we were to increase this entire thing by
+[1757.70 - 1758.40] by seven
+[1758.40 - 1761.78] we were to go down a grade to four
+[1761.78 - 1762.98] we'd have to do
+[1763.72 - 1765.98] I mean we didn't, we weren't that
+[1766.52 - 1769.24] kind of optimistic, too overly optimistic
+[1769.24 - 1771.44] you know, like we didn't add
+[1771.44 - 1773.84] we didn't subtract our whole seven points from these things
+[1773.84 - 1776.38] so I think we're definitely on the good bit
+[1776.38 - 1778.86] even if we gave this one seven and this one seven
+[1779.48 - 1782.48] that's still only three extra points over seven
+[1782.98 - 1784.02] you know, it's
+[1784.56 - 1787.08] yeah, we did, it was okay, it was good
+[1787.08 - 1788.00] personally
+[1789.08 - 1789.80] I think
+[1792.06 - 1793.84] given the product
+[1794.72 - 1795.36] um
+[1798.34 - 1801.08] only replaces a single remote control
+[1801.08 - 1803.24] that you've already got
+[1804.60 - 1809.48] are people really going to shell out 25 Euros for something that's only marginally good?
+[1812.58 - 1814.10] well, it depends here
+[1814.92 - 1817.94] what the target people are, like you'd say
+[1820.04 - 1822.16] maybe the fashion conscious
+[1823.94 - 1825.54] maybe women target people
+[1825.54 - 1827.64] oh, look at that, it's cool, it looks like a
+[1829.18 - 1829.66] it's
+[1829.66 - 1833.16] yellow, looks like a banana, it's cool, it's got a look good in the sitting room
+[1834.72 - 1835.96] rather than LCD
+[1835.96 - 1836.80] whereas
+[1838.14 - 1840.26] more technical, like more
+[1841.76 - 1843.54] people in with the latest technology
+[1843.54 - 1845.80] they're like, it's good, it's got an LCD screen
+[1846.58 - 1848.26] only got two buttons and a joystick
+[1849.98 - 1850.46] so
+[1852.16 - 1856.16] which kind of people would be more likely to buy it?
+[1857.98 - 1859.14] probably the people technologically
+[1859.14 - 1861.06] they're usually the ones that buy Pointless stuff
+[1861.06 - 1861.68] I think so
+[1862.18 - 1864.28] I mean, my mom still
+[1864.28 - 1867.04] has not learnt how to use text messaging on her phone
+[1867.04 - 1868.66] and she's had it for a long time, you know
+[1868.66 - 1871.32] she uses it to make phone calls and that's it
+[1871.32 - 1872.38] that's a good move
+[1872.38 - 1876.60] yeah, so I think if my mom's having remote control like this
+[1877.16 - 1878.76] with only two buttons and a joystick
+[1878.76 - 1881.14] I mean, that would probably be the first one
+[1881.14 - 1882.94] she decides not to buy, you know
+[1882.94 - 1884.92] she'd be like, is this a remote control?
+[1885.16 - 1887.54] how do you use it and stuff like that
+[1887.54 - 1890.48] even if it is really user friendly to us
+[1890.48 - 1893.64] but we're used to using menus all the time
+[1894.86 - 1897.84] I suppose one thing is that because it's
+[1897.84 - 1899.08] technically innovative
+[1900.62 - 1902.14] for someone who's
+[1902.14 - 1906.04] sort of technophobic fact that simply looks unfamiliar
+[1906.04 - 1907.46] will be daunting
+[1908.46 - 1910.64] yeah, I think it's totally radical
+[1910.64 - 1911.80] to have remote control
+[1911.80 - 1914.46] no numbered buttons, yeah
+[1915.78 - 1917.46] but like radical, good, maybe
+[1918.68 - 1921.86] okay, I don't know how much longer we've got
+[1921.86 - 1923.14] at least five minutes, I think
+[1924.06 - 1926.40] quickly we'll pop on to project evaluation
+[1930.42 - 1930.94] so
+[1934.34 - 1936.42] we've got these four criteria here
+[1936.42 - 1937.80] for satisfaction
+[1939.58 - 1941.04] does anybody want to
+[1944.42 - 1945.92] do you have any opinions on any of them?
+[1946.66 - 1947.12] for example
+[1948.00 - 1949.64] we'll work backwards I suppose
+[1950.42 - 1951.52] the ability to
+[1952.42 - 1954.04] work on this project using the technology
+[1954.04 - 1955.60] we've been presented with
+[1958.42 - 1960.18] if people made good use of the
+[1961.48 - 1962.52] pen and paper
+[1964.02 - 1965.02] I would say
+[1965.02 - 1966.64] no doodles
+[1966.64 - 1969.52] wrote merely a page but not
+[1970.62 - 1972.60] I'm not quite sure what the advantage
+[1972.60 - 1976.00] for us using the digital pen might be
+[1976.00 - 1976.90] I think it's tracking
+[1976.90 - 1978.36] I think the digital pen is mostly for the pen
+[1978.36 - 1980.32] and the
+[1980.32 - 1981.62] the receptionist
+[1981.62 - 1983.94] goes into their corpus
+[1984.56 - 1987.08] it would have been nice to be able to transfer
+[1989.84 - 1991.24] transfer paper notes
+[1991.24 - 1993.72] onto the computer
+[1994.24 - 1996.10] yeah, that would have been pretty good
+[1996.10 - 1997.80] it does seem like paper is still a heavy
+[1997.80 - 2000.16] consideration for taking notes
+[2001.52 - 2003.82] so maybe this is literally just the way around it
+[2006.90 - 2009.28] how are people satisfied that the teamwork
+[2009.28 - 2011.16] would manage to display today?
+[2013.34 - 2014.24] I like it, yeah
+[2018.70 - 2019.22] leadership
+[2019.22 - 2021.80] as much as can be
+[2021.80 - 2024.06] a leader in this thing
+[2027.04 - 2028.54] last one we've got is
+[2028.54 - 2029.66] room for creativity
+[2030.56 - 2031.14] well
+[2032.90 - 2035.22] until accounts came along
+[2039.22 - 2041.40] we're not lacking in ideas
+[2043.22 - 2044.18] that was not the problem
+[2045.08 - 2046.04] yeah, I think
+[2046.04 - 2048.34] in the end
+[2048.34 - 2049.80] ideas that can be used
+[2049.80 - 2050.40] and sadly
+[2050.40 - 2053.30] not so much that we weren't full of ideas
+[2053.30 - 2055.28] but of ones that are going to allow us to actually
+[2055.28 - 2056.48] build the thing
+[2056.48 - 2057.82] it's a bit of a pity
+[2059.08 - 2060.18] I would have to agree
+[2060.18 - 2062.82] I think we needed a larger budget
+[2063.48 - 2065.58] if you're going to aim your
+[2066.16 - 2067.78] product maybe at the technological
+[2067.78 - 2069.08] kind of sector then
+[2069.08 - 2071.70] you can afford to maybe jack the price up slightly
+[2071.70 - 2072.46] from what it is
+[2072.46 - 2074.48] because they will pay out, they just cash
+[2074.48 - 2075.02] the people
+[2076.46 - 2077.48] I mean I think
+[2078.70 - 2079.32] retaining
+[2079.98 - 2081.92] the more of a biomarker
+[2081.92 - 2083.58] for the articulation
+[2084.46 - 2086.44] would gain more
+[2086.44 - 2088.68] would gain more
+[2088.68 - 2090.52] profit in sales than it would lose
+[2090.52 - 2093.88] in added expense
+[2095.96 - 2097.32] and the price was like
+[2097.32 - 2100.46] it was twice the
+[2100.46 - 2101.40] assembly cost
+[2102.40 - 2102.92] and
+[2103.88 - 2105.60] it would have to be twice that
+[2105.60 - 2108.42] it could have had the assembly cost
+[2108.42 - 2109.34] to like maybe
+[2110.06 - 2110.58] 15
+[2111.54 - 2113.36] it could still set up for 25
+[2114.96 - 2115.66] it's true
+[2117.14 - 2118.80] I suppose these are all
+[2118.80 - 2119.90] that will have to be taken up with
+[2119.90 - 2122.54] a different group I guess
+[2123.48 - 2124.34] as to
+[2124.34 - 2126.62] who are the costs involved
+[2127.82 - 2128.46] but
+[2128.46 - 2129.32] I mean
+[2130.14 - 2132.20] we've got a prototype
+[2134.82 - 2135.46] so
+[2136.72 - 2138.36] I think it's gone
+[2138.36 - 2140.24] okay today considering the information
+[2140.24 - 2142.32] that we've had
+[2142.32 - 2142.74] I suppose
+[2142.74 - 2146.42] it would have been better if we had a list
+[2146.42 - 2147.96] from a
+[2148.62 - 2149.88] to begin with
+[2151.72 - 2152.82] probably would have
+[2152.82 - 2154.82] come up with a lot more solid
+[2155.50 - 2157.02] design in the end I would have to agree
+[2157.02 - 2158.62] it is very much a pity
+[2158.62 - 2160.96] to get
+[2160.96 - 2162.40] so far into the stage and then
+[2163.36 - 2164.86] find out that maybe some of your ideas
+[2164.86 - 2166.08] are just a bit too expensive
+[2167.44 - 2168.88] always hard to tell until you know
+[2168.88 - 2169.64] the costs
+[2175.70 - 2176.06] okay
+[2177.90 - 2178.86] are the costs within
+[2178.86 - 2179.94] budget? well
+[2180.52 - 2182.44] they are now that we have our
+[2182.44 - 2184.32] slightly less than capable product
+[2185.30 - 2186.68] we've evaluated it
+[2186.68 - 2188.78] and we can say we came out with a value of
+[2189.56 - 2190.08] three
+[2190.08 - 2192.46] actually I want
+[2192.46 - 2194.42] the one thing I would say
+[2194.42 - 2196.80] I mean something that could perhaps be
+[2196.80 - 2197.90] part of the product
+[2197.90 - 2200.76] the product testing
+[2200.76 - 2202.82] and market research process would be to
+[2202.82 - 2204.62] produce mock-ups of both
+[2204.62 - 2206.44] versions and see
+[2206.44 - 2207.66] just how much of a difference
+[2209.52 - 2210.56] going over
+[2210.56 - 2210.96] budget
+[2212.58 - 2213.96] would make to sales
+[2214.72 - 2216.38] which, yeah, and like
+[2216.38 - 2217.58] response from consumers
+[2218.36 - 2220.34] we could even, you know,
+[2220.34 - 2222.18] market two versions
+[2225.30 - 2226.28] we'd keep these versions
+[2226.28 - 2228.04] to be nice, buy more,
+[2228.36 - 2232.62] and then the final one
+[2232.62 - 2233.82] where you get to call it how
+[2234.52 - 2235.90] but we'll go into that later
+[2237.34 - 2238.54] right, um
+[2239.34 - 2240.34] is there anything else
+[2240.34 - 2242.02] anybody would like to
+[2242.76 - 2243.20] add?
+[2245.60 - 2246.62] anything that's not
+[2246.62 - 2248.54] been covered before I
+[2250.60 - 2251.56] quickly write up
+[2251.56 - 2252.54] a final report
+[2254.66 - 2255.10] um
+[2255.66 - 2256.58] I don't know, I mean
+[2256.58 - 2257.40] we've got a product
+[2257.40 - 2260.22] we maybe aren't as happy with it as we'd like to be
+[2260.22 - 2260.46] but
+[2262.72 - 2264.28] we've got something we think we can maybe
+[2264.28 - 2266.04] stick on to the market and sell
+[2268.16 - 2268.90] and of course
+[2268.90 - 2270.80] something we have been avoiding talking about
+[2270.80 - 2272.12] because we've no information
+[2272.12 - 2274.60] is selling them directly to the manufacturers
+[2275.32 - 2276.34] there's a huge market
+[2276.34 - 2278.20] I mean we briefly touched on it but with no more
+[2278.20 - 2280.24] knowledge and there's little we can say in that
+[2281.36 - 2281.80] yeah
+[2286.60 - 2287.04] yeah
+[2289.66 - 2290.10] so
+[2290.10 - 2292.40] unless anybody's got
+[2292.40 - 2294.04] anything they'd like to add
+[2294.04 - 2296.30] we can maybe round this
+[2296.30 - 2298.18] up slightly earlier than we
+[2298.18 - 2299.90] need to and then we can
+[2299.90 - 2301.94] finish up the writing and such
+[2303.68 - 2304.16] yeah
+[2306.34 - 2306.82] okay
+[2309.04 - 2309.94] thank you for your
+[2309.94 - 2310.60] participation
+[2318.02 - 2319.90] I was actually kind of upset
+[2319.90 - 2321.38] you know at the budget
+[2321.38 - 2323.76] and that we had to cut a lot of stuff
+[2323.76 - 2325.16] but man
+[2325.16 - 2327.04] we can't have the locator
+[2327.04 - 2327.76] thing
+[2329.72 - 2331.06] that's just bad
+[2332.70 - 2335.28] do you think maybe the prices
+[2335.28 - 2335.68] were
+[2336.56 - 2337.56] were made
+[2341.38 - 2342.52] that's a question you've been asking
+[2343.50 - 2344.16] okay
